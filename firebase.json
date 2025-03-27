@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "./",
+    "ignore": [
+      "*.json",
+      "**/node_modules/**",
+      "*.txt"
+    ]
+  }
+}
