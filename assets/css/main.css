@@ -450,12 +450,12 @@ h6 {
     justify-content: center;
     border-radius: 50%;
     transition: 0.3s;
-    background-color: color-mix(in srgb, var(--accent-color), transparent 90%);
+    background-color: color-mix(in srgb, var(---main-background-color), transparent 90%);
   }
 
   .navmenu a i:hover,
   .navmenu a:focus i:hover {
-    background-color: var(--accent-color);
+    background-color: var(---main-background-color);
     color: var(--contrast-color);
   }
 
@@ -467,7 +467,7 @@ h6 {
 
   .navmenu .active i,
   .navmenu .active:focus i {
-    background-color: var(--accent-color);
+    background-color: var(---main-background-color);
     color: var(--contrast-color);
     transform: rotate(180deg);
   }
@@ -937,7 +937,7 @@ section,
 
 .hero .btn-get-started {
   color: var(--contrast-color);
-  background: var(--accent-color);
+  background: var(--main-background-color);
   font-family: var(--heading-font);
   font-weight: 500;
   font-size: 15px;
@@ -964,7 +964,7 @@ section,
 }
 
 .hero .btn-watch-video i {
-  color: var(--accent-color);
+  color: var(--main-background-color);
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
@@ -1224,11 +1224,11 @@ section,
 }
 
 .features .nav-link:hover {
-  background: color-mix(in srgb, var(--accent-color), transparent 96%);
+  background: color-mix(in srgb, var(---main-background-color), transparent 96%);
 }
 
 .features .nav-link.active {
-  background: color-mix(in srgb, var(--accent-color), transparent 96%);
+  background: color-mix(in srgb, var(--main-background-color), transparent 96%);
   color: var(--default-color);
 }
 
