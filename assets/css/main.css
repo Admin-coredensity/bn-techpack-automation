@@ -12,29 +12,41 @@
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
-  --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --heading-font: "Nunito",  sans-serif;
-  --nav-font: "Inter",  sans-serif;
+  --default-font: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "Nunito", sans-serif;
+  --nav-font: "Inter", sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
-:root { 
-  --background-color: #ffffff; /* Background color for the entire website, including individual sections */
-  --default-color: #3d4348; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #3e5055; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #FFAD60; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
-  --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+:root {
+  --background-color: #ffffff;
+  /* Background color for the entire website, including individual sections */
+  --default-color: #3d4348;
+  /* Default color used for the majority of the text content across the entire website */
+  --heading-color: #3e5055;
+  /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #FFAD60;
+  /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --surface-color: #ffffff;
+  /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --contrast-color: #ffffff;
+  /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
-  --nav-color: #313336;  /* The default color of the main navmenu links */
-  --nav-hover-color: #FFAD60; /* Applied to main navmenu links when they are hovered over or active */
-  --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
-  --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
-  --nav-dropdown-color: #313336; /* Used for navigation links of the dropdown items in the navigation menu. */
-  --nav-dropdown-hover-color:#FFAD60; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+  --nav-color: #313336;
+  /* The default color of the main navmenu links */
+  --nav-hover-color: #FFAD60;
+  /* Applied to main navmenu links when they are hovered over or active */
+  --nav-mobile-background-color: #ffffff;
+  /* Used as the background color for mobile navigation menu */
+  --nav-dropdown-background-color: #ffffff;
+  /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
+  --nav-dropdown-color: #313336;
+  /* Used for navigation links of the dropdown items in the navigation menu. */
+  --nav-dropdown-hover-color: #FFAD60;
+  /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
 
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
@@ -817,7 +829,7 @@ section,
 --------------------------------------------------------------*/
 .section-title {
   text-align: center;
-  padding-bottom: 60px;
+  /* padding-bottom: 60px; */
   position: relative;
 }
 
@@ -1096,9 +1108,9 @@ section,
 
 .about .about-images img {
   border-radius: 10px;
-  
 
-  
+
+
 }
 
 /*--------------------------------------------------------------
@@ -1942,6 +1954,202 @@ section,
   font-size: 20px;
   margin-right: 8px;
   color: var(--accent-color);
+}
+
+.feature-container {
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.card {
+  width: 300px;
+  height: 500px;
+}
+
+.card img {
+  width: 100%;
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+.card-content {
+  height: 250px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+.card-content h5 {
+  font-weight: 700;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.card-content p {
+  margin: 5px;
+  font-size: 14px;
+}
+
+.card-content button {
+  width: 100%;
+  padding: 8px 0;
+  border: none;
+  border-radius: 10px;
+  background-color: #FFB978;
+  color: #ffffff;
+  font-weight: 800;
+
+}
+
+.review-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: white;
+  padding: 20px 80px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.rating-box {
+  text-align: center;
+}
+
+.stars {
+  color: gold;
+  font-size: 40px;
+}
+
+.rating-details {
+  width: 40%;
+}
+
+.rating-bar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.bar {
+  height: 20px;
+  background: #E9ECEF;
+  flex: 1;
+  margin-left: 10px;
+  position: relative;
+}
+
+.bar-fill {
+  height: 100%;
+  background: var(--accent-color);
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.satisfaction-container {
+  background: white;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  gap: 20px;
+}
+
+.satisfaction-item {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: conic-gradient(var(--accent-color) calc(var(--percent) * 1%), #E9ECEF 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  position: relative;
+}
+
+.circle::after {
+  content: "";
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  background: white;
+  border-radius: 50%;
+}
+
+.circle span {
+  position: relative;
+  z-index: 1;
+}
+
+.margin-top-30 {
+  margin-top: 30px;
+}
+
+.horizontal-line {
+  width: 1px;
+  height: 80px;
+  background-color: #060606;
+}
+
+.customer-reviews-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 20px;
+}
+
+.customer-review-card {
+  /* width: 380px; */
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+}
+
+.customer-review-card p {
+  margin: 0;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  background-color: #eee;
+  border-radius: 50%;
+  font-weight: bold;
+  margin: 0 auto 10px;
+}
+
+.customer-stars {
+  color: gold;
+  font-size: 22px;
+}
+
+.product-name {
+  margin-top: 10px !important;
+}
+
+.customer-card-content {
+  margin-left: 12px;
 }
 
 /*--------------------------------------------------------------
