@@ -31,6 +31,8 @@
   /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff;
   /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+
+  --main-background-color:  #FFA500;
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
@@ -523,7 +525,7 @@ h6 {
 --------------------------------------------------------------*/
 .footer {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background-color: var(--accent-color);
   font-size: 14px;
   padding-bottom: 50px;
   position: relative;
@@ -553,6 +555,7 @@ h6 {
 
 .footer .footer-about p {
   font-size: 14px;
+  font-weight: 600;
   font-family: var(--heading-font);
 }
 
@@ -565,18 +568,19 @@ h6 {
   border-radius: 50%;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 50%);
   font-size: 16px;
+  font-weight: 600;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   margin-right: 10px;
   transition: 0.3s;
 }
 
 .footer .social-links a:hover {
-  color: var(--accent-color);
-  border-color: var(--accent-color);
+  color: black;
+  border-color: black;
 }
 
 .footer h4 {
-  font-size: 16px;
+  font-size: 21px;
   font-weight: bold;
   position: relative;
   padding-bottom: 12px;
@@ -590,6 +594,7 @@ h6 {
   list-style: none;
   padding: 0;
   margin: 0;
+  font-weight: 600;
 }
 
 .footer .footer-links ul i {
@@ -615,7 +620,7 @@ h6 {
 }
 
 .footer .footer-links ul a:hover {
-  color: var(--accent-color);
+  color: black;
 }
 
 .footer .footer-contact p {
@@ -733,9 +738,8 @@ h6 {
   visibility: hidden;
   opacity: 0;
   right: 15px;
-  bottom: -15px;
   z-index: 99999;
-  background-color: var(--accent-color);
+  background-color: var(--main-background-color);
   width: 44px;
   height: 44px;
   border-radius: 50px;
@@ -985,6 +989,8 @@ section,
 --------------------------------------------------------------*/
 .featured-services {
   padding: 40px 0;
+  background-color: var(--accent-color);
+  font-weight: 600;
 }
 
 .featured-services .service-item {
@@ -1149,6 +1155,10 @@ section,
 /*--------------------------------------------------------------
 # Features Section
 --------------------------------------------------------------*/
+
+.features{
+  background-color: var(--accent-color);
+}
 .features .nav-tabs {
   border: 0;
 }
