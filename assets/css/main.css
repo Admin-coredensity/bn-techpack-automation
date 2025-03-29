@@ -2206,25 +2206,22 @@ section,
 }
 
 .client-card-container {
-  display: flex;
-  gap: 20px;
-  overflow-x: auto;
   padding: 10px;
-}
-
-.client-card-container::-webkit-scrollbar {
-  /* WebKit */
-  width: 0;
-  height: 0;
 }
 
 .client-card {
   padding: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-  width: 250px;
+  width: 19%;
   text-align: center;
 }
 
+.client-card-main{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
 
 .dropdown-image {
   width: 80px;
