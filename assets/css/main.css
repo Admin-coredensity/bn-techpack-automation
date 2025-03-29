@@ -32,7 +32,7 @@
   --contrast-color: #ffffff;
   /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 
-  --main-background-color:  #FFA500;
+  --main-background-color: #FFA500;
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
@@ -193,7 +193,7 @@ h6 {
 .header .btn-getstarted,
 .header .btn-getstarted:focus {
   color: var(--contrast-color);
-  background: var(--accent-color);
+  background: var(--main-background-color);
   font-size: 14px;
   padding: 8px 25px;
   margin: 0 0 0 30px;
@@ -858,6 +858,19 @@ section,
   margin: auto;
 }
 
+.features .color-white h2:after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: white !important;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
 .section-title p {
   margin-bottom: 0;
 }
@@ -1156,9 +1169,10 @@ section,
 # Features Section
 --------------------------------------------------------------*/
 
-.features{
+.features {
   background-color: var(--accent-color);
 }
+
 .features .nav-tabs {
   border: 0;
 }
@@ -1971,10 +1985,15 @@ section,
   margin: 0 auto;
 }
 
+.feature-container h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
 .card-container {
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 20px;
 }
 
 .card {
@@ -2017,7 +2036,7 @@ section,
   padding: 8px 0;
   border: none;
   border-radius: 10px;
-  background-color: #FFB978;
+  background-color: black;
   color: #ffffff;
   font-weight: 800;
 
@@ -2113,6 +2132,10 @@ section,
   margin-top: 30px;
 }
 
+.margin-bottom-30 {
+  margin-bottom: 30px;
+}
+
 .horizontal-line {
   width: 1px;
   height: 80px;
@@ -2162,7 +2185,7 @@ section,
   margin-left: 12px;
 }
 
-.product-category-container{
+.product-category-container {
   text-align: center;
   display: flex;
   justify-content: space-between;
@@ -2174,25 +2197,26 @@ section,
   text-align: center;
 }
 
-.product-category-image{
- height: 80px;
- width: 80px;
- border-radius: 50%;
+.product-category-image {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
 }
 
-.client-card-container{
+.client-card-container {
   display: flex;
   gap: 20px;
   overflow-x: auto;
   padding: 10px;
 }
 
-.client-card-container::-webkit-scrollbar { /* WebKit */
+.client-card-container::-webkit-scrollbar {
+  /* WebKit */
   width: 0;
   height: 0;
 }
 
-.client-card{
+.client-card {
   padding: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   width: 250px;
@@ -2200,10 +2224,11 @@ section,
 }
 
 
-.dropdown-image{
+.dropdown-image {
   width: 80px;
   height: 80px;
 }
+
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
