@@ -159,34 +159,31 @@ h6 {
 .header {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 20px 0;
+  padding: 10px 0;
   transition: all 0.5s;
   z-index: 997;
 }
 
-.header .logo {
-  line-height: 1;
-}
-
 .header .logo img {
-  max-height: 36px;
-  margin-right: 8px;
+  width: 100%;
+  height: 65px;
 }
 
 .header .logo h1 {
-  font-size: 30px;
-  margin: 0;
+  font-size: 14px;
+  margin-top: 8px;
   font-weight: 700;
   color: var(--heading-color);
 }
 
 @media (max-width: 480px) {
   .header .logo img {
-    max-height: 24px;
+    width: 100%;
+    max-height: 32px;
   }
 
   .header .logo h1 {
-    font-size: 24px;
+    font-size: 10px;
   }
 }
 
@@ -835,7 +832,6 @@ section,
 --------------------------------------------------------------*/
 .section-title {
   text-align: center;
-  /* padding-bottom: 60px; */
   position: relative;
 }
 
