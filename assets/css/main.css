@@ -165,7 +165,7 @@ h6 {
 }
 
 .header .logo img {
-  width: 100%;
+  width: 90%;
   height: 65px;
 }
 
@@ -179,7 +179,7 @@ h6 {
 @media (max-width: 480px) {
   .header .logo img {
     width: 100%;
-    max-height: 32px;
+    max-height: 40px;
   }
 
   .header .logo h1 {
