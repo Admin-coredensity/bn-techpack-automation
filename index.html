@@ -52,11 +52,30 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.html#hero" class="active">Home</a></li>
-          <li><a href="products.html">Products</a></li>
-          <!-- <li class="dropdown dropbtn"><a href="#"><span>Products</span> <i
-                class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown dropbtn">
+            <a href="#"><span>Products</span>
+              <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+
             <div class="dropdown">
               <div class="dropdown-content">
+                <nav>
+                  <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                    <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" 
+                    data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" 
+                    aria-selected="true">
+                    <i class="bi bi-square-fill"></i>
+                    Primary Package</button>
+                    <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
+                     data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile"
+                      aria-selected="false">Secondary Package</button>
+                    <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab"
+                     data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact"
+                      aria-selected="false">Contact</button>
+                  </div>
+                </nav>
+                <div class="tab-content" id="nav-tabContent">
+                  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" 
+                  aria-labelledby="nav-home-tab" tabindex="0">
                 <div class="a">
                   <a href="#">
                     <div class="dropdown-item-container">
@@ -83,7 +102,8 @@
                     </div>
                   </a>
                 </div>
-                <div class="b">
+
+                 <div class="b">
                   <a href="#">
                     <div>
                       <img class="dropdown-image" src="assets/img/Multi Weigher.PNG">
@@ -110,63 +130,15 @@
                     </div>
                   </a>
                 </div>
+                </div>
+                  <div class="tab-pane fade" id="nav-profile" role="tabpanel" 
+                  aria-labelledby="nav-profile-tab" tabindex="0">b</div>
+                  <div class="tab-pane fade" id="nav-contact" role="tabpanel" 
+                  aria-labelledby="nav-contact-tab" tabindex="0">c</div>
+                </div>
               </div>
             </div>
-            <ul class="test">
-              <div class="dropdown-items-container">
-
-                 <li><a href="#">
-                  <div class="dropdown-item-container">
-                    <img class="dropdown-image" src="assets/img/Semi Auto Liquid Filing.PNG">
-                    <p class="dropdown-item-text">Semi Auto Liquid Filing Machine pneumatic operated</p>
-                  </div>
-                </a></li>
-              <li><a href="#">
-                  <div>
-                    <img class="dropdown-image" src="assets/img/Semi Auto Paste Filling.PNG">
-                    <p class="dropdown-item-text">Semi Auto Paste Filling Machine Pneumatic Operated</p>
-                  </div>
-                </a></li>
-              <li><a href="#">
-                  <div>
-                    <img class="dropdown-image" src="assets/img/Fully Automatic Liquid.PNG">
-                    <p class="dropdown-item-text">Fully Automatic Liquid Filing Machine Line</p>
-                  </div>
-                </a></li> -->
-          <!-- <li><a href="#">
-                  <div>
-                    <img class="dropdown-image" src="assets/img/Fully Automatic Paste.PNG">
-                    <p class="dropdown-item-text">Fully Automatic Paste Filling Machine Line</p>
-                  </div>
-                </a></li> -->
-          <!-- <li><a href="#">
-                  <div>
-                    <img class="dropdown-image" src="assets/img/Multi Weigher.PNG">
-                    <p class="dropdown-item-text">Multi Weigher</p>
-                  </div>
-                </a></li> -->
-          <!-- <li><a href="#">
-                  <div>
-                    <img class="dropdown-image"
-                      src="https://5.imimg.com/data5/ANDROID/Default/2021/10/DO/BB/KT/7776070/product-jpeg-500x500.jpg">
-                    <p class="dropdown-item-text">Semi-Automatic Powder Filling Machine</p>
-                  </div>
-                </a></li> -->
-          <!-- <li><a href="#">
-                <div>
-                  <img class="dropdown-image" src="assets/img/Automatic Form Fill Seal Machine.PNG">
-                  <p class="dropdown-item-text">Automatic Form Fill Seal Machine</p>
-                </div>
-              </a></li> -->
-          <!-- <li><a href="#">
-                <div>
-                  <img class="dropdown-image" src="assets/img/Flow Wrap Machine.PNG">
-                  <p class="dropdown-item-text">Flow Wrap Machine</p>
-                </div>
-              </a></li> 
-              </div>
-            </ul>
-          </li> -->
+          </li>
           <li><a href="index.html#about">About</a></li>
           <li><a href="index.html#clients">Clients</a></li>
           <li><a href="index.html#services">Services</a></li>
@@ -203,7 +175,7 @@
           <!-- Slide 1 -->
           <div class="carousel-item active">
             <div class="container">
-              <div class="row align-items-center">
+              <div class="row">
                 <div class="col-md-6 text-section">
                   <h2 class="sub-text">Superior Quality</h2>
                   <h1 class="main-text">Primary Packaging Solutions</h1>
@@ -219,7 +191,7 @@
           <!-- Slide 2 -->
           <div class="carousel-item">
             <div class="container">
-              <div class="row align-items-center">
+              <div class="row">
                 <div class="col-md-6 text-section">
                   <h2 class="sub-text">Reliable</h2>
                   <h1 class="main-text">Secondary Packaging Solutions</h1>
@@ -235,15 +207,15 @@
           <!-- Slide 3 -->
           <div class="carousel-item">
             <div class="container">
-              <div class="row align-items-center">
+              <div class="row">
                 <div class="col-md-6 text-section">
                   <h2 class="sub-text">World Class</h2>
                   <h1 class="main-text">Industrial Automation Solutions</h1>
                   <h2 class="sub-text-2">for Future-Ready Operations.</h2>
                 </div>
                 <div class="col-md-6 image-section d-flex justify-content-center align-items-center flex-wrap">
-                  <img class="carousel-img" src="assets/img/carousel/carousel3-img1.png" alt="">
-                  <img class="carousel-img" src="assets/img/carousel/carousel3-img2.png" alt="">
+                  <img id="carousel3-img1" src="assets/img/carousel/carousel3-img1.png" alt="">
+                  <img id="carousel3-img2" src="assets/img/carousel/carousel3-img2.png" alt="">
                 </div>
               </div>
             </div>
@@ -252,7 +224,7 @@
           <!-- Slide 4 -->
           <div class="carousel-item">
             <div class="container">
-              <div class="row align-items-center">
+              <div class="row">
                 <div class="col-md-6 text-section">
                   <h2 class="sub-text">Advanced</h2>
                   <h1 class="main-text">Conveyor Packing Solutions</h1>
