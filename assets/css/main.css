@@ -12,9 +12,9 @@
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
-  --default-font: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --heading-font: "Nunito", sans-serif;
-  --nav-font: "Inter", sans-serif;
+  --default-font: "Open-sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "open-sans", sans-serif;
+  --nav-font: "open-sans", sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
@@ -33,6 +33,9 @@
   /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 
   --main-background-color: #FFA500;
+
+  --light-accent-color: #f9b372
+  /* --light-accent-color: #FFAD60 */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
@@ -553,11 +556,89 @@ section,
   margin-bottom: 0;
 }
 
+/* ------------------------------------------------------
+# Carousel section
+-------------------------------------------------------- */
+.carousel-section {
+  margin-top: 120px;
+  background-color: var(--light-accent-color);
+}
+
+.carousel-inner {
+  width: 100%;
+}
+
+.carousel-section .carousel {
+  height: 310px;
+}
+
+.carousel-item {
+  padding: 20px 0;
+  min-height: 310px;
+}
+
+.text-section .main-text {
+  font-size: 2rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.text-section .sub-text {
+  font-size: 2rem;
+  margin-top: 10px;
+  max-width: 600px;
+  font-weight: 400;
+  color: var(--default-color);
+  text-transform: capitalize;
+}
+
+.text-section .sub-text-2{
+  margin-left: 76px;
+}
+
+.image-section .carousel-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--contrast-color);
+  padding: 1px;
+}
+
+#conveyor-img{
+  width: 280px;
+  height: 280px;
+  border: 3px solid var(--contrast-color);
+  border-radius: 50%;
+  padding: 1px;
+}
+
+.image-section #carousel1-img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  padding: 5px;
+  margin-top: -30px;
+}
+
+.image-section #carousel2-img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  padding: 5px;
+  margin-top: -30px;
+}
+
+.carousel-section .carousel-indicators {
+  bottom: -40px;
+}
+
+
 /*--------------------------------------------------------------
 # Featured Services Section
 --------------------------------------------------------------*/
-.featured-services{
-  background-color: var(--accent-color);
+.featured-services {
+  margin: 50px 0;
 }
 
 .featured-services .features-container {
@@ -596,7 +677,8 @@ section,
 .about .content .who-we-are {
   text-transform: uppercase;
   margin-bottom: 15px;
-  color: color-mix(in srgb, var(--default-color), transparent 40%);
+  color: color-mix(in srgb, var(--default-color));
+  font-size: 18px;
 }
 
 .about .content h3 {
@@ -1482,7 +1564,6 @@ section,
 }
 
 .feature-container {
-  max-width: 1320px;
   margin: 0 auto;
 }
 
@@ -1494,17 +1575,19 @@ section,
 .card-container {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  align-items: center;
+  gap: 10px;
 }
 
 .card {
-  width: 300px;
+  width: 320px;
   height: 400px;
 }
 
 .card img {
   width: 100%;
   height: 200px;
+  padding: 5px;
 }
 
 .card-content {
@@ -1786,6 +1869,30 @@ section,
 
   .header .logo h1 {
     font-size: 10px;
+  }
+
+  /*carousel section*/
+  .carousel-item .row {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .text-section,
+  .image-section {
+    margin-top: 20px;
+  }
+
+  .image-section img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .text-section h2 {
+    font-size: 1.5rem;
+  }
+
+  .text-section .sub-text {
+    font-size: 1.1rem;
   }
 
   /* feature product section */
