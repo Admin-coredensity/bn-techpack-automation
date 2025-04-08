@@ -596,6 +596,10 @@ section,
   margin-left: 76px;
 }
 
+.text-section .sub-text-3{
+  margin-left: 125px;
+}
+
 .image-section .carousel-img {
   width: 180px;
   height: 180px;
@@ -1870,7 +1874,8 @@ section,
 }
 
 .dropdown-content a:hover {
-  background-color: #f1f1f1;
+  color: var(--accent-color);
+  font-weight: 600;
 }
 
 .a,
