@@ -156,3 +156,12 @@
 .product-card-container .section-2{
     width: 65%;
 }
+
+.product-machine-description-text{
+    font-size: 14px;
+}
+
+.product-machine-description-question{
+    font-size: 16px;
+    font-weight: 600;
+}
