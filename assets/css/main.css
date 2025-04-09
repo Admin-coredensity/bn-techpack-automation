@@ -512,13 +512,14 @@ section,
 .section-title {
   text-align: center;
   position: relative;
+  text-transform: capitalize;
 }
 
 .section-title h2 {
   font-size: 32px;
   font-weight: 700;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   position: relative;
 }
 
@@ -527,7 +528,7 @@ section,
   position: absolute;
   display: block;
   width: 50px;
-  height: 3px;
+  height: 2px;
   background: var(--accent-color);
   left: 0;
   right: 0;
@@ -1630,6 +1631,7 @@ section,
   line-clamp: 2;
   -webkit-line-clamp: 2;
   overflow: hidden;
+  text-transform: capitalize;
 }
 
 .card-content p {
