@@ -35,7 +35,7 @@
   --main-background-color: #FFA500;
 
   --light-accent-color: #f9b372
-  /* --light-accent-color: #FFAD60 */
+    /* --light-accent-color: #FFAD60 */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
@@ -167,7 +167,7 @@ h6 {
   z-index: 997;
 }
 
-.header .logo{
+.header .logo {
   width: 250px;
 }
 
@@ -573,7 +573,7 @@ section,
   min-height: 310px;
 }
 
-.text-section{
+.text-section {
   margin-top: 40px;
 }
 
@@ -581,7 +581,7 @@ section,
   font-size: 2rem;
   font-weight: 700;
   text-transform: capitalize;
-    line-height: 2;
+  line-height: 2;
 }
 
 .text-section .sub-text {
@@ -593,11 +593,11 @@ section,
   text-transform: capitalize;
 }
 
-.text-section .sub-text-2{
+.text-section .sub-text-2 {
   margin-left: 76px;
 }
 
-.text-section .sub-text-3{
+.text-section .sub-text-3 {
   margin-left: 125px;
 }
 
@@ -610,7 +610,7 @@ section,
   padding: 1px;
 }
 
-.image-section #carousel1-img{
+.image-section #carousel1-img {
   width: 100%;
   height: 100%;
   object-fit: contain;
@@ -618,7 +618,7 @@ section,
   margin-top: -30px;
 }
 
-.image-section #carousel2-img{
+.image-section #carousel2-img {
   width: 350px;
   height: 350px;
   object-fit: contain;
@@ -626,7 +626,7 @@ section,
   margin-top: -30px;
 }
 
-.image-section #carousel3-img{
+.image-section #carousel3-img {
   width: 350px;
   height: 350px;
   object-fit: contain;
@@ -634,7 +634,7 @@ section,
   margin-top: -30px;
 }
 
-#conveyor-img{
+#conveyor-img {
   width: 320px;
   height: 320px;
   border: 3px solid var(--contrast-color);
@@ -648,7 +648,7 @@ section,
   bottom: -40px;
 }
 
-.carousel-section .carousel-indicators button{
+.carousel-section .carousel-indicators button {
   background-color: var(--default-color);
   border-radius: 50%;
   width: 10px;
@@ -1856,7 +1856,7 @@ section,
   transition: opacity 0.3s ease-in-out;
 }
 
-.dropdown-content .bi-square-fill{
+.dropdown-content .bi-square-fill {
   color: var(--accent-color);
   font-size: 12px;
   text-align: center;
@@ -1883,7 +1883,7 @@ section,
   font-weight: 600;
 }
 
-.dropdown-container{
+.dropdown-container {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -1892,10 +1892,9 @@ section,
 
 .dropdown-content .nav-tabs button {
   color: var(--default-color);
-  width: 50%;
 }
 
-.dropdown-content .nav-tabs button:active {
+.dropdown-content .nav-tabs .active {
   color: var(--default-color);
 }
 
@@ -1922,21 +1921,21 @@ section,
     max-width: 100%;
     font-size: 13px;
   }
-  
+
   .dropdown-content {
     width: 100%;
   }
 
-  .dropdown-content .bi-square-fill{
+  .dropdown-content .bi-square-fill {
     font-size: 8px;
     text-align: center;
   }
-    
-  .dropdown-content .dropdown-container a{
+
+  .dropdown-content .dropdown-container a {
     width: 50%;
   }
 
-  .dropdown-container{
+  .dropdown-container {
     width: 100%;
   }
 
@@ -1961,18 +1960,18 @@ section,
     height: 120px;
   }
 
-  .image-section #carousel3-img1{
+  .image-section #carousel3-img1 {
     width: 100%;
     height: 100%;
   }
-  
-  .image-section #carousel3-img2{
+
+  .image-section #carousel3-img2 {
     width: 100%;
     height: 100%;
     margin-top: -10px;
   }
 
-  #conveyor-img{
+  #conveyor-img {
     width: 50%;
     height: 50%;
   }
@@ -2202,9 +2201,10 @@ section,
   .dropdown-container a {
     width: 33%;
   }
+
   .dropdown-content {
     width: 90%;
-   }
+  }
 }
 
 /*--------------------------------------------------------------
@@ -2489,9 +2489,9 @@ section,
   }
 
   /* dropdown section */
- .dropdown-content {
-  width: 90%;
- }
+  .dropdown-content {
+    width: 90%;
+  }
 }
 
 @media (max-width: 767px) {
