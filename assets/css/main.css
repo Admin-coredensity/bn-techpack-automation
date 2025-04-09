@@ -377,6 +377,16 @@ h6 {
   color: var(--default-color);
 }
 
+.footer-links-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+#footer-link-2{
+  margin-top: 43px;
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -788,6 +798,10 @@ section,
 .clients .client-logo img:hover {
   filter: none;
   opacity: 1;
+}
+
+.client-card {
+  margin-bottom: 20px;
 }
 
 /*--------------------------------------------------------------
@@ -1808,6 +1822,7 @@ section,
   align-items: center;
   justify-content: space-between;
   margin-bottom: 20px;
+  flex-wrap: wrap;
 }
 
 /* -----------------------------------------------
@@ -2006,6 +2021,10 @@ section,
     font-size: 12px;
   }
 
+  .featured-services .features-container {
+    padding: 0 15px;
+  }
+
   /* testimonials section */
   .testimonials h4 {
     font-size: 20px;
@@ -2095,12 +2114,6 @@ section,
   }
 
   /* clients section */
-  .client-card-main {
-    flex-direction: column;
-    align-items: center;
-    padding: 10px;
-  }
-
   .client-card {
     width: 100%;
     margin: 10px 0;
@@ -2149,16 +2162,12 @@ section,
   }
 
   /* footer */
-  .footer-content-container .footer-about .logo span {
-    font-size: 18px;
+  .footer .footer-about .logo .sitename {
+    font-size: 32px;
   }
 
   .footer-content-container {
     flex-direction: column;
-  }
-
-  .footer-about .footer-contact p {
-    font-size: 12px;
   }
 
   .footer-content-container .social-links {
@@ -2167,14 +2176,78 @@ section,
     gap: 15px;
   }
 
-  .footer-links h4 {
-    font-size: 16px;
+  .footer-links-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
   }
 
-  .footer-content-container li,
-  .copyright,
-  .credits {
-    font-size: 12px;
+  .footer-links-container #footer-link-2 {
+    margin-top: 25px;
+  }
+}
+
+@media (max-width: 992px) {
+  .pricing .box {
+    max-width: 60%;
+    margin: 0 auto 30px auto;
+  }
+
+  /* dropdown section */
+  .dropdown-content {
+    width: 90%;
+  }
+
+  /* ---- about section ------*/
+  .about .about-images img {
+    width: 100%;
+  }
+
+  /* ---------clients section ------- */
+  .client-card {
+    width: 48%;
+    margin-bottom: 20px;
+  }
+
+  .client-card-main {
+    justify-content: space-between;
+  }
+
+  /* -------- testimonials section */
+  .testimonials .review-container {
+    flex-direction: column;
+  }
+
+  .testimonials .horizontal-line {
+    display: none;
+  }
+
+  .testimonials .rating-details {
+    width: 100%;
+  }
+
+  .testimonials .satisfaction-container {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .testimonials .user-satisfaction-text {
+    margin-top: 30px;
+    text-align: center;
+  }
+
+  /* footer section */
+  .footer .footer-about .logo .sitename {
+    font-size: 19px;
+  }
+
+  .footer .footer-links {
+    margin-top: -10px;
+    margin-right: 5px;
+  }
+
+  .footer .footer-contact {
+    width: 90%;
   }
 }
 
@@ -2184,7 +2257,7 @@ section,
   }
 }
 
-@media (max-width: 1200px) {
+@media (min-width: 993px) and (max-width: 1200px) {
   .header .logo {
     order: 1;
   }
@@ -2206,6 +2279,68 @@ section,
 
   .dropdown-content {
     width: 90%;
+  }
+
+  /* ---------clients section ------- */
+  .client-card {
+    width: 48%;
+    margin-bottom: 20px;
+  }
+
+  .client-card-main {
+    justify-content: space-between;
+  }
+
+  /* ---- about section ------*/
+  .about .about-images img {
+    width: 48vw;
+    height: 70vh;
+    margin-top: 30px;
+  }
+
+  /* -------- testimonials section */
+  .testimonials .review-container {
+    gap: 30px;
+  }
+
+  .testimonials .horizontal-line {
+    /* display: none; */
+  }
+
+  .testimonials .rating-box .stars {
+    font-size: 25px;
+  }
+
+  .testimonials .rating-details {
+    width: 100%;
+  }
+
+  .testimonials .rating-details .bar {
+    height: 14px;
+  }
+
+  .testimonials .rating-bar span {
+    font-size: 14px;
+  }
+
+  .testimonials .satisfaction-container {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .testimonials .user-satisfaction-text {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 21px;
+  }
+
+  .testimonials .satisfaction-container .circle {
+    width: 58px;
+    height: 58px;
+  }
+
+  .testimonials .satisfaction-container .satisfaction-item span {
+    font-size: 14px;
   }
 }
 
@@ -2481,18 +2616,6 @@ section,
 
   .mobile-nav-active .navmenu>ul {
     display: block;
-  }
-}
-
-@media (max-width: 992px) {
-  .pricing .box {
-    max-width: 60%;
-    margin: 0 auto 30px auto;
-  }
-
-  /* dropdown section */
-  .dropdown-content {
-    width: 90%;
   }
 }
 
