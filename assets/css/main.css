@@ -1808,8 +1808,9 @@ section,
   margin-bottom: 20px;
 }
 
-/* ----------------------------------------------
-----------Product dropdown section -------------- */
+/* -----------------------------------------------
+-----------Product dropdown section--------------- 
+-------------------------------------------------- */
 
 .dropdown-image {
   width: 80px;
@@ -1828,6 +1829,7 @@ section,
   font-weight: 500;
   margin-top: 10px;
   font-size: 14px;
+  text-transform: capitalize;
 }
 
 .dropbtn {
@@ -1942,10 +1944,11 @@ section,
   .carousel-item .row {
     flex-direction: column;
     text-align: center;
+    gap: 40px;
   }
 
   .carousel-section .carousel {
-    height: auto;
+    height: 70vh;
   }
 
   .text-section,
@@ -1958,23 +1961,20 @@ section,
     height: 120px;
   }
 
-  .text-section h2 {
-    font-size: 1.5rem;
-  }
-
-  .text-section .sub-text {
-    font-size: 1.1rem;
-  }
-
   .image-section #carousel3-img1{
     width: 100%;
-    height: auto;
+    height: 100%;
   }
   
   .image-section #carousel3-img2{
     width: 100%;
-    height: auto;
+    height: 100%;
     margin-top: -10px;
+  }
+
+  #conveyor-img{
+    width: 50%;
+    height: 50%;
   }
 
   /* feature product section */
@@ -2058,7 +2058,7 @@ section,
 
   .customer-reviews-container {
     flex-direction: column;
-    gap: 8px;
+    align-items: start;
   }
 
   .customer-review-card {
@@ -2407,9 +2407,9 @@ section,
     margin-left: 5px;
     width: 30px;
     height: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
     border-radius: 50%;
     transition: 0.3s;
     background-color: color-mix(in srgb, var(---main-background-color), transparent 90%);
