@@ -223,6 +223,10 @@ h6 {
   padding-top: 50px;
 }
 
+.footer .footer-about {
+  margin-top: 3px;
+}
+
 .footer .footer-about .logo {
   line-height: 0;
   margin-bottom: 25px;
@@ -383,8 +387,11 @@ h6 {
   gap: 30px;
 }
 
-#footer-link-2{
-  margin-top: 43px;
+.footer .footer-links-wrapper{
+  display: flex;
+  width: 100%;
+  justify-content:space-between;
+  gap: 30px;
 }
 
 /*--------------------------------------------------------------
@@ -2180,10 +2187,6 @@ section,
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
-  }
-
-  .footer-links-container #footer-link-2 {
-    margin-top: 25px;
   }
 }
 
