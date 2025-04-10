@@ -34,127 +34,9 @@
     font-size: 21px;
 }
 
+/* product description section */
 .description-section {
     width: 68%;
-}
-
-.product-name-container {
-    width: 100%;
-    padding: 10px 20px;
-    background-color: var(--accent-color);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    letter-spacing: 2px;
-}
-
-.product-name-container h1 {
-    font-size: 25px;
-    font-weight: 600;
-    text-transform: capitalize;
-
-}
-
-.product-model-name {
-    font-size: 18px;
-    font-weight: 500;
-    padding: 10px;
-    text-align: center;
-    text-transform: capitalize;
-}
-
-.product-container {
-    margin: 0 auto;
-}
-
-.product-container h4 {
-    font-weight: 700;
-    margin-bottom: 15px;
-    display: flex;
-    align-items: center;
-}
-
-.product-container .bi-square-fill{
-    font-size: 14px;
-    color: var(--accent-color);
-    margin-right: 15px;
-}
-
-.product-card-container {
-    display: flex;
-    justify-content: space-evenly;
-    gap: 20px;
-}
-
-.section-1 img {
-    width: 100%;
-    height: 350px;
-    background-color: white;
-    object-fit: contain;
-}
-
-.section-2 h4 {
-    background-color: var(--accent-color);
-    padding: 15px 8px 15px 15px;
-    font-size: 18px;
-}
-
-.section-2 .text-bold {
-    font-weight: 700;
-}
-
-.section-2 .technical-specification-text {
-    font-size: 18px;
-    font-weight: 600;
-    line-height: 1.15;
-    margin-bottom: 1.1em;
-}
-
-.product-card-content .product-model-description {
-    text-align: center;
-    font-weight: 600;
-    font-size: 20px;
-    background-color: var(--accent-color);
-    height: 50px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-}
-
-.section-2 .technical-specification-container {
-    display: flex;
-
-}
-
-.section-2 .technical-specification-container .key {
-    width: 55%;
-}
-
-.section-2 .technical-specification-container .key p{
-    font-size: 14px;
-}
-
-.section-2 .technical-specification-container .value {
-    width: 45%;
-}
-
-.section-2 .technical-specification-container .value p{
-    font-size: 14px;
-}
-
-.product-machine-description .section-title{
-    margin-top: 65px;
-}
-
-.liquid-filling-machine-section{
-    padding-top: 0;
-}
-
-.product-card-container .section-1 {
-    width: 35%;
-}
-
-.product-card-container .section-2{
-    width: 65%;
 }
 
 .product-machine-description-text{
@@ -163,5 +45,47 @@
 
 .product-machine-description-question{
     font-size: 16px;
+    font-weight: 600;
+}
+
+.product-machine-description .section-title{
+    margin-top: 65px;
+}
+
+/* product models section */
+.product-models-section .product-models-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.product-models-container .product-model-card {
+    border: 1px solid silver;
+    width: 230px;
+    height: 240px;
+}
+
+.product-models-container .product-model-card .product-model-image{
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+.product-models-container .product-model-card .product-model-content{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 90px;
+    text-align: center;
+}
+
+.product-models-container .product-model-card .product-model-content .product-model-name{
+    margin: 0;
+    font-size: 12px;
+    width: 100%;
+    background-color: var(--accent-color);
+    padding: 10px 0;
+    text-align: center;
+    color: white;
     font-weight: 600;
 }
