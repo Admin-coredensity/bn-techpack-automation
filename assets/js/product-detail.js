@@ -1,21 +1,19 @@
-// product-detail.js
-
-// 1. Get the product ID from the URL
+// 1. Get the product ID from the url
 const urlParams = new URLSearchParams(window.location.search);
 const productId = urlParams.get('id');
 
-// 2. Fake data source (you can replace with real one or fetch from server later)
+// product data
 const productData = {
   "BNELF-10-100-ML-1HP": {
     name: "BNELF-10-100-ML-1HP",
     image: "assets/img/products/fully-auto-liquid-filling-machine.png",
     description: "A high-performance semi-auto liquid filling machine with 1HP power for 10-100ml filling range.",
-    power: "20W -50W 230v AC 50Hz",
-    airPressure: "0.4-0.6MPa",
+    power: "20W - 50W 230v AC 50Hz",
+    airPressure: "0.4 - 0.6MPa",
     fillingSpeed: "5-25 -10 -50 bottles/min",
     fillingAccuracy: "≤±1%" ,
-    machineDimensionLxWxH: "950X320X340mm" ,
-    weight: "20KG/ 40 kg"  
+    machineDimensionLxWxH: "950 X320 X 340mm" ,
+    weight: "20KG / 40 kg"  
   },
   "BNELF-10-100-ML-2HP": {
     name: "BNELF-10-100-ML-2HP",
@@ -25,8 +23,8 @@ const productData = {
     airPressure: "0.4-0.6MPa",
     fillingSpeed: "5-25 -10 -50 bottles/min",
     fillingAccuracy: "≤±1%" ,
-    machineDimensionLxWxH: "950X320X340mm" ,
-    weight: "20KG/ 40 kg"  
+    machineDimensionLxWxH: "950 X 320 X 340mm" ,
+    weight: "20KG / 40kg"  
   },
   // Add other products similarly
 };
@@ -48,6 +46,12 @@ if (productId && productData[productId]) {
   nameElement.textContent = product.name;
   imageElement.src = product.image;
   descElement.textContent = product.description;
+  powerElement.textContent = product.power;
+  airPressureElement.textContent = product.airPressure;
+  fillingSpeedElement.textContent = product.fillingSpeed;
+  fillingAccuracyElement.textContent = product.fillingAccuracy;
+  machineDimensionLxWxHElement.textContent = product.machineDimensionLxWxH;
+  weightElement.textContent = product.weight;
 } else {
   nameElement.textContent = "Product Not Found";
   descElement.textContent = "The product you are looking for doesn't exist.";

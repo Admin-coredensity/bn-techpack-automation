@@ -6,3 +6,38 @@
     display: flex;
     justify-content: space-between;
 }
+
+#product-model-name{
+    background-color: var(--accent-color);
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 550;
+    border-radius: 6px;
+}
+
+.technical-specification-text{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.product-model-section-1{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+#product-model-image{
+    padding: 10px;
+    width: 70%;
+    object-fit: contain;
+}
+
+#product-model-image:hover{
+    border: 1px solid silver;
+}
+
+.table .th-heading{
+    color: var(--default-color);
+    text-transform: capitalize;
+    font-weight: 600;
+}
