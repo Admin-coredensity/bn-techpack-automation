@@ -1,0 +1,8 @@
+.product-model-detail-section{
+    margin-top: 100px;
+}
+
+.product-model-detail-section .product-model-detail-container{
+    display: flex;
+    justify-content: space-between;
+}
