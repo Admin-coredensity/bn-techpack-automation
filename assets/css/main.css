@@ -879,7 +879,6 @@ section,
 }
 
 .features .tab-pane img {
-  border-radius: 15px;
 }
 
 /*--------------------------------------------------------------
@@ -1898,7 +1897,6 @@ section,
   text-decoration: none;
   display: block;
   width: 24%;
-  margin: 0 auto;
   text-align: center;
 }
 
@@ -1911,6 +1909,7 @@ section,
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  justify-content: flex-start;
   width: 100%;
 }
 
@@ -1920,6 +1919,13 @@ section,
 
 .dropdown-content .nav-tabs .active {
   color: var(--default-color);
+  font-weight: 600;
+}
+
+.nav-tabs button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .footer-content-container {
