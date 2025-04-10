@@ -185,6 +185,7 @@ h6 {
   margin: 0 0 0 30px;
   border-radius: 50px;
   transition: 0.3s;
+  font-weight: 500;
 }
 
 .header .btn-getstarted:hover,
@@ -453,9 +454,7 @@ h6 {
   height: 44px;
   border-radius: 50px;
   transition: all 0.4s;
-  box-shadow:
-    0.2em 0.2em 1em rgba(0, 0, 0, 0.5);
-  ;
+  box-shadow: 0.2em 0.2em 1em rgba(0, 0, 0, 0.5);
 }
 
 .scroll-top i {
@@ -1466,6 +1465,7 @@ section,
   padding: 10px 30px;
   transition: 0.4s;
   border-radius: 50px;
+  font-weight: 500;
 }
 
 .contact .php-email-form button[type=submit]:hover {
@@ -1682,6 +1682,10 @@ section,
 
 .rating-box {
   text-align: center;
+}
+
+.rating-box .user-rating{
+  font-size: 20px;
 }
 
 .stars {
