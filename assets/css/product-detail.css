@@ -1,24 +1,24 @@
-.product-model-detail-section{
+.product-model-detail-section {
     margin-top: 50px;
 }
 
-.product-model-detail-section .section-header{
+.product-model-detail-section .section-header {
     background-color: var(--accent-color);
     padding: 30px 0 30px 150px;
     margin-bottom: 40px;
 }
 
-.product-model-detail-section .section-header h3{
+.product-model-detail-section .section-header h3 {
     font-weight: 500;
     color: var(--default-color);
 }
 
-.product-model-detail-section .product-model-detail-container{
+.product-model-detail-section .product-model-detail-container {
     display: flex;
     justify-content: space-between;
 }
 
-#product-model-name{
+#product-model-name {
     background-color: var(--accent-color);
     padding: 10px 20px;
     font-size: 20px;
@@ -26,12 +26,12 @@
     border-radius: 6px;
 }
 
-.technical-specification-text{
+.technical-specification-text {
     font-size: 18px;
     font-weight: 600;
 }
 
-.product-model-section-1{
+.product-model-section-1 {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -39,25 +39,26 @@
     gap: 20px;
 }
 
-.product-model-section-1 button{
+.product-model-section-1 button {
     margin: 0 auto;
     background-color: var(--accent-color);
     color: var(--default-color);
     font-weight: 500;
+    padding: 6px 15px;
 }
 
-#product-model-image{
+#product-model-image {
     padding: 10px;
     width: 60%;
     object-fit: contain;
     margin: 0 auto;
 }
 
-#product-model-image:hover{
+#product-model-image:hover {
     border: 1px solid silver;
 }
 
-.table .th-heading{
+.table .th-heading {
     color: var(--default-color);
     text-transform: capitalize;
     font-weight: 600;
@@ -65,3 +66,18 @@
 
 /* ---------------------------------
 -------------------video section ---------------*/
+
+.product-video-section {
+    margin-bottom: 80px;
+}
+
+.product-video-section {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0,0.1);
+}
+
+.video-wrapper {
+    background-color: white;
+    display: inline-block;
+}
