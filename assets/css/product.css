@@ -73,6 +73,15 @@
     padding: 10px;
 }
 
+.product-models-section .product-model-section-main-heading{
+    text-transform: capitalize;
+}
+
+.product-model-category-heading{
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
 .product-models-container .product-model-card {
     border: 1px solid silver;
     width: 230px;
@@ -129,8 +138,8 @@
     background-color: var(--accent-color);
     padding: 10px 0;
     text-align: center;
-    color: white;
-    font-weight: 600;
+    color: var(--default-color);
+    font-weight: 700;
     margin-bottom: 1px;
     border-bottom: 1px solid silver;
 }
