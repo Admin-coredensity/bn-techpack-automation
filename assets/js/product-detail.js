@@ -2,77 +2,7 @@
 const urlParams = new URLSearchParams(window.location.search);
 const productId = urlParams.get('id');
 
-// fetch('./data/productuctData.json').then(response => productData = response);
-
-// product data
-const productData = {
-   // viscosity for water to honey level
-  "BNTPALF-10-100ML-GM-1HP/2HP": {
-    name: "BNTPALF: 10-100 ML -GM 1HP/2HP",
-    image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-    power: "20W-50W 230 AC 50Hz",
-    airPressure: "4 to 6 Bar",
-    fillingSpeed: "5-10 - 10-20 bottles/min",
-    fillingAccuracy: "≤±1-2% ML-GM" ,
-    machineDimensionLxWxH: "950X320X340mm - 1230x470X350mm" ,
-    weight: "20KG / 40 kg"  
-  },
-  "BNTPALF-50-500-ML–GM-1HP/2HP": {
-    name: "BNTPALF: 50-500 ML –GM 1HP/2HP",
-    image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-    power: "20W-50W 230 AC 50Hz",
-    airPressure: "4 TO 6 Bar",
-    fillingSpeed: "5-10 -10-20 bottles/min",
-    fillingAccuracy: "≤±1-2% ML-GM" ,
-    machineDimensionLxWxH: "920 X 285 X275 mm - 920 X 485 X275 mm" ,
-    weight: "20KG / 40kg"  
-  },
-  "BNTPALF-100-1000-ML–GM-1HP/2HP": {
-    name: "BNTPALF: 100-1000 ML –GM 1HP/2HP",
-    image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-    power: "20W -50W 230 AC 50Hz",
-    airPressure: "4 TO 6 Bar",
-    fillingSpeed: "5-10 -10 -20 bottles/min",
-    fillingAccuracy: "≤±1-2% ML-GM" ,
-    machineDimensionLxWxH: "1320 X 285 X275 mm - 1320 x 485 X 275 mm" ,
-    weight: "20KG / 40kg"  
-  },
-  "BNTPALF-500-5000-ML–GM-1HP/2HP": {
-    name: "BNTPALF: 500-5000 ML –GM 1HP/2HP",
-    image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-    power: "20W -50W 230 AC 50Hz",
-    airPressure: "4 TO 6 Bar",
-    fillingSpeed: "5-10 -10 -20 bottles/min",
-    fillingAccuracy: "≤±1-2% ML-GM" ,
-    machineDimensionLxWxH: "950 X 320 X 340mm - 1230 x 470 X 350mm" ,
-    weight: "20KG / 40kg"  
-  },
-
-  // viscosity for water to edible oil level
-  "BNE4000-MLT-1HE": {
-    name: "BNE4000-MLT-1HE",
-    image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
-    power: "-",
-    airPressure: "4 TO 6 Bar",
-    fillingSpeed: "5-10 bottles/min",
-    fillingAccuracy: "≤±1-2% ML" ,
-    machineDimensionLxWxH: "-" ,
-    weight: "5 kg"  
-  },
-  "BNE4000-MLT-2HE": {
-    name: "BNE4000-MLT-2HE",
-    image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
-    power: "-",
-    airPressure: "4 TO 6 Bar",
-    fillingSpeed: "5-10 bottles/min",
-    fillingAccuracy: "≤±1-2% ML" ,
-    machineDimensionLxWxH: "-" ,
-    weight: "12 kg"  
-  },
-
-};
-
-// 3. Get DOM elements
+// Get DOM elements
 const nameElement = document.getElementById("product-model-name");
 const imageElement = document.getElementById("product-model-image");
 const powerElement = document.getElementById("product-model-power");
@@ -81,40 +11,52 @@ const fillingSpeedElement = document.getElementById("product-model-filling-speed
 const fillingAccuracyElement = document.getElementById("product-model-filling-accuracy");
 const machineDimensionLxWxHElement = document.getElementById("product-model-machine-dimensions");
 const weightElement = document.getElementById("product-model-weight");
-
-const descElement = document.getElementById("product-model-description"); // in your else block
+const descElement = document.getElementById("product-model-description");
 
 // Helper function to check and show/hide elements
 function setField(element, value) {
   if (value && value.trim() !== "-") {
     element.textContent = value;
-    element.parentElement.style.display = ""; // show parent field
+    element.parentElement.style.display = "";
   } else {
-    element.parentElement.style.display = "none"; // hide entire field if no value or "-"
+    element.parentElement.style.display = "none";
   }
 }
 
-// 4. Set the content
-if (productId && productData[productId]) {
-  const product = productData[productId];
+// Set the content
+fetch("assets/data/productDetail.json")
+.then((res) => res.json())
+.then((data) => {
+  const productData = data.liquidFillingMachines;
+  if (productId && productData[productId]) {
+    const product = productData[productId];
 
-  nameElement.textContent = product.name || "Unnamed Product";
-  imageElement.src = product.image || "placeholder.jpg";
+    nameElement.textContent = product.name || "Unnamed Product";
+    imageElement.src = product.image || "assets/img/placeholder-image.jpg";
 
-  setField(powerElement, product.power);
-  setField(airPressureElement, product.airPressure);
-  setField(fillingSpeedElement, product.fillingSpeed);
-  setField(fillingAccuracyElement, product.fillingAccuracy);
-  setField(machineDimensionLxWxHElement, product.machineDimensionLxWxH);
-  setField(weightElement, product.weight);
-
-} else {
-  nameElement.textContent = "Product Not Found";
-  descElement.textContent = "The product you are looking for doesn't exist.";
-}
+    setField(powerElement, product.power);
+    setField(airPressureElement, product.airPressure);
+    setField(fillingSpeedElement, product.fillingSpeed);
+    setField(fillingAccuracyElement, product.fillingAccuracy);
+    setField(machineDimensionLxWxHElement, product.machineDimensionLxWxH);
+    setField(weightElement, product.weight);
+  } else {
+    nameElement.textContent = "Product Not Found";
+    descElement.textContent = "The product you are looking for doesn't exist.";
+  }
+})
+.catch((error) => {
+  console.error("Failed to load product data:", error);
+  nameElement.textContent = "Error Loading Product";
+  descElement.textContent = "There was a problem loading the product details.";
+});
 
 
 // go back function 
 function goBack() {
-  window.history.back();
+  if (window.history.length > 1) {
+    window.history.back();
+  } else {
+    window.location.href = '/index.html';
+  }
 }
