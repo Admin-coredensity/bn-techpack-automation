@@ -7,7 +7,7 @@ const productId = urlParams.get('id');
 // product data
 const productData = {
    // viscosity for water to honey level
-  "BNTPALF: 10-100 ML -GM 1HP/ 2HP": {
+  "BNTPALF-10-100ML-GM-1HP/2HP": {
     name: "BNTPALF: 10-100 ML -GM 1HP/2HP",
     image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
     power: "20W-50W 230 AC 50Hz",
@@ -17,7 +17,7 @@ const productData = {
     machineDimensionLxWxH: "950X320X340mm - 1230x470X350mm" ,
     weight: "20KG / 40 kg"  
   },
-  "BNTPALF:50-500 ML –GM 1HP/2HP": {
+  "BNTPALF-50-500-ML–GM-1HP/2HP": {
     name: "BNTPALF: 50-500 ML –GM 1HP/2HP",
     image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
     power: "20W-50W 230 AC 50Hz",
@@ -27,7 +27,7 @@ const productData = {
     machineDimensionLxWxH: "920 X 285 X275 mm - 920 X 485 X275 mm" ,
     weight: "20KG / 40kg"  
   },
-  "BNTPALF:100-1000 ML –GM 1HP/ 2HP": {
+  "BNTPALF-100-1000-ML–GM-1HP/2HP": {
     name: "BNTPALF: 100-1000 ML –GM 1HP/2HP",
     image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
     power: "20W -50W 230 AC 50Hz",
@@ -37,7 +37,7 @@ const productData = {
     machineDimensionLxWxH: "1320 X 285 X275 mm - 1320 x 485 X 275 mm" ,
     weight: "20KG / 40kg"  
   },
-  "BNTPALF:500-5000 ML –GM 1HP/2HP": {
+  "BNTPALF-500-5000-ML–GM-1HP/2HP": {
     name: "BNTPALF: 500-5000 ML –GM 1HP/2HP",
     image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
     power: "20W -50W 230 AC 50Hz",
@@ -59,7 +59,7 @@ const productData = {
     machineDimensionLxWxH: "-" ,
     weight: "5 kg"  
   },
-  "BNE4000-MLT-2HEP": {
+  "BNE4000-MLT-2HE": {
     name: "BNE4000-MLT-2HE",
     image: "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
     power: "-",
