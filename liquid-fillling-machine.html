@@ -292,15 +292,26 @@
     <main class="main">
 
         <div class="product-detail-container container">
+            <!-- category section accordion -->
             <div class="category-section">
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            <!-- <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                <span class="d-flex justify-content-between align-items-center w-100">Semi auto liquid
-                                    filling machine
+                                <span class="d-flex justify-content-between align-items-center w-100">
+                                    <i id="toggleIcon" class="bi bi-plus-circle-fill me-2"></i>
+                                    Semi auto liquid filling machine
                                     <i class="bi bi-arrow-right-circle-fill"></i>
+                                </span>
+                            </button> -->
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"
+                                id="accordionToggleBtn">
+                                <span class="d-flex justify-content-between align-items-center w-100">
+                                    <i id="toggleIcon" class="bi bi-plus-circle-fill me-2"></i>
+                                    <span class="flex-grow-1">Semi auto liquid filling machine</span>
+                                    <i class="bi bi-arrow-right-circle-fill ms-2"></i>
                                 </span>
                             </button>
                         </h2>
@@ -543,14 +554,14 @@
                         <!-- card-1 -->
                         <div class="product-model-card" id="BNELF-10-100-ML-1HP">
                             <a href="liquid-filling-detail.html?id=BNELF-10-100-ML-1HP">
-                            <div class="product-model-image-container">
-                                <img class="product-model-image"
-                                    src="assets/img/products/fully-auto-liquid-filling-machine.png">
-                            </div>
-                            <div class="product-model-content">
-                                <p class="product-model-name">BNELF-10-100-ML-1HP</p>
-                            </div>
-                        </a>
+                                <div class="product-model-image-container">
+                                    <img class="product-model-image"
+                                        src="assets/img/products/fully-auto-liquid-filling-machine.png">
+                                </div>
+                                <div class="product-model-content">
+                                    <p class="product-model-name">BNELF-10-100-ML-1HP</p>
+                                </div>
+                            </a>
                         </div>
                         <!-- card-2 -->
                         <div class="product-model-card" id="BNELF-10-100-ML-2HP">
@@ -732,6 +743,21 @@
 
     <!-- Main JS File -->
     <script src="assets/js/main.js"></script>
+
+    <!-- accordion js file -->
+    <script>
+        const btn = document.getElementById('accordionToggleBtn');
+        const icon = document.getElementById('toggleIcon');
+
+        btn.addEventListener('click', function () {
+            setTimeout(() => {
+                const isExpanded = btn.getAttribute('aria-expanded') === 'true';
+                icon.classList.toggle('bi-plus-circle-fill', !isExpanded);
+                icon.classList.toggle('bi-dash-circle-fill', isExpanded);
+            }, 150);
+        });
+    </script>
+
 
 </body>
 
