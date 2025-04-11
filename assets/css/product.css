@@ -79,11 +79,13 @@
 
 .product-models-section .product-model-section-main-heading{
     text-transform: capitalize;
+    margin-top: 24px;
 }
 
 .product-model-category-heading{
     text-transform: capitalize;
     font-weight: 500;
+    margin-top: 15px;
 }
 
 .product-models-container .product-model-card {
