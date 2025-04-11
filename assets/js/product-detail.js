@@ -82,18 +82,39 @@ const fillingAccuracyElement = document.getElementById("product-model-filling-ac
 const machineDimensionLxWxHElement = document.getElementById("product-model-machine-dimensions");
 const weightElement = document.getElementById("product-model-weight");
 
+const descElement = document.getElementById("product-model-description"); // in your else block
+
+// Helper function to check and show/hide elements
+function setField(element, value) {
+  if (value && value.trim() !== "-") {
+    element.textContent = value;
+    element.parentElement.style.display = ""; // show parent field
+  } else {
+    element.parentElement.style.display = "none"; // hide entire field if no value or "-"
+  }
+}
+
 // 4. Set the content
 if (productId && productData[productId]) {
   const product = productData[productId];
-  nameElement.textContent = product.name;
-  imageElement.src = product.image;
-  powerElement.textContent = product.power;
-  airPressureElement.textContent = product.airPressure;
-  fillingSpeedElement.textContent = product.fillingSpeed;
-  fillingAccuracyElement.textContent = product.fillingAccuracy;
-  machineDimensionLxWxHElement.textContent = product.machineDimensionLxWxH;
-  weightElement.textContent = product.weight;
+
+  nameElement.textContent = product.name || "Unnamed Product";
+  imageElement.src = product.image || "placeholder.jpg";
+
+  setField(powerElement, product.power);
+  setField(airPressureElement, product.airPressure);
+  setField(fillingSpeedElement, product.fillingSpeed);
+  setField(fillingAccuracyElement, product.fillingAccuracy);
+  setField(machineDimensionLxWxHElement, product.machineDimensionLxWxH);
+  setField(weightElement, product.weight);
+
 } else {
   nameElement.textContent = "Product Not Found";
   descElement.textContent = "The product you are looking for doesn't exist.";
+}
+
+
+// go back function 
+function goBack() {
+  window.history.back();
 }
