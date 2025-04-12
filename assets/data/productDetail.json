@@ -1,7 +1,7 @@
 {
     "liquidFillingMachines": {
         "BNTPALF-10-100ML-GM-1HP/2HP": {
-            "name": "BNTPALF: 10-100 ML -GM 1HP/2HP",
+            "name": "BNTPALF: 10-100 ML-GM 1HP/2HP",
             "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
             "power": "20W-50W 230 AC 50Hz",
             "airPressure": "4 to 6 Bar",
@@ -11,7 +11,7 @@
             "weight": "20KG / 40 kg"
         },
         "BNTPALF-50-500-ML-GM-1HP/2HP": {
-            "name": "BNTPALF: 50-500 ML -GM 1HP/2HP",
+            "name": "BNTPALF: 50-500 ML-GM 1HP/2HP",
             "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
             "power": "20W-50W 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
@@ -21,7 +21,7 @@
             "weight": "20KG / 40kg"
         },
         "BNTPALF-100-1000-ML-GM-1HP/2HP": {
-            "name": "BNTPALF: 100-1000 ML -GM 1HP/2HP",
+            "name": "BNTPALF: 100-1000 ML-GM 1HP/2HP",
             "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
             "power": "20W -50W 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
@@ -31,7 +31,7 @@
             "weight": "20KG / 40kg"
         },
         "BNTPALF-500-5000-ML-GM-1HP/2HP": {
-            "name": "BNTPALF: 500-5000 ML -GM 1HP/2HP",
+            "name": "BNTPALF: 500-5000 ML-GM 1HP/2HP",
             "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
             "power": "20W -50W 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
@@ -60,9 +60,9 @@
             "machineDimensionLxWxH": "-",
             "weight": "12 kg"
         },
-        "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H": {
+        "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "name": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "1.2 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "10-15, 25-30, 35-40, 45-50, 55-60, 70-80 BPM",
@@ -70,9 +70,9 @@
             "machineDimensionLxWxH": "950X320X340mm / 1230x470X350mm",
             "weight": "100-150 LTR/kg"
         },
-        "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H": {
+        "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "name": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "1.2 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "10-15, 25-30, 35-40, 45-50, 55-60, 70-80 BPM",
@@ -80,9 +80,9 @@
             "machineDimensionLxWxH": "920X285X275 mm / 920X485X275 mm",
             "weight": "100-150 LTR/kg"
         },
-        "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H": {
+        "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "name": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "1.2 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "10-15, 25-30, 35-40, 45-50, 55-60, 70-80 BPM",
@@ -90,9 +90,9 @@
             "machineDimensionLxWxH": "1320X285X275 mm / 1320x485X275 mm",
             "weight": "100-150 LTR/kg"
         },
-        "BNTPALF-500-5000-ML-GM 2H-4H-6H-8H-10H-12H": {
+        "BNTPALF-500-5000-ML-GM 2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "name": "BNTPALF-500-5000-ML-GM 2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "1.2 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "10-15, 25-30, 35-40, 45-50, 55-60, 70-80 BPM",
@@ -102,7 +102,7 @@
         },
         "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
             "name": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "2.5 KW 230 AC 50Hz / 3 KW 230 AC 50Hz / 3.5 KW 230 AC 50Hz / 4 KW 230 AC 50Hz / 4.5 KW 230 AC 50Hz / 5 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "20-25, 35-40, 45-50, 55-60, 75-80, 85-90 BPM",
@@ -112,7 +112,7 @@
         },
         "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
             "name": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "2.5 KW 230 AC 50Hz / 3 KW 230 AC 50Hz / 3.5 KW 230 AC 50Hz / 4 KW 230 AC 50Hz / 4.5 KW 230 AC 50Hz / 5 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "20-25, 35-40, 45-50, 55-60, 75-80, 85-90 BPM",
@@ -121,8 +121,8 @@
             "weight": "100-150 LTR/kg"
         },
         "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
-            "name": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "name": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "2.5 KW 230 AC 50Hz / 3 KW 230 AC 50Hz / 3.5 KW 230 AC 50Hz / 4 KW 230 AC 50Hz / 4.5 KW 230 AC 50Hz / 5 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "20-25, 35-40, 45-50, 55-60, 75-80, 85-90 BPM",
@@ -131,8 +131,8 @@
             "weight": "100-150 LTR/kg"
         },
         "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
-            "name": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H",
-            "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+            "name": "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H",
+            "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
             "power": "2.5 KW 230 AC 50Hz / 3 KW 230 AC 50Hz / 3.5 KW 230 AC 50Hz / 4 KW 230 AC 50Hz / 4.5 KW 230 AC 50Hz / 5 KW 230 AC 50Hz",
             "airPressure": "4 TO 6 Bar",
             "fillingSpeed": "20-25, 35-40, 45-50, 55-60, 75-80, 85-90 BPM",
