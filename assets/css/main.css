@@ -2131,7 +2131,11 @@ section,
   }
 
   /* clients section */
-  .client-card {
+  .client-card-main{
+    flex-direction: column;
+  }
+
+  .client-card-main .client-card {
     width: 100%;
     margin: 10px 0;
   }

@@ -3,11 +3,14 @@
     justify-content: space-between;
 }
 
-/* category section */
+/* category section accordion */
 .category-section {
     width: 30%;
     margin-top: 100px;
     padding: 20px;
+}
+.category-section .accordion-body .accordion-category-link{
+    display: flex;
 }
 
 .category-section .accordion .accordion-body .ul {
@@ -15,18 +18,19 @@
     font-size: 14px;
 }
 
-.category-section .accordion .accordion-body li{
+.category-section .accordion .accordion-body li {
     border-bottom: 1px solid silver;
     padding-bottom: 10px;
     margin-bottom: 8px;
 }
 
-.category-section .accordion .accordion-body li a{
-    color: var(--default-color) !important;
+.category-section .accordion .accordion-body li a {
+    color: var(--default-color);
 }
 
-.category-section .accordion .accordion-body li:hover {
-    font-weight: 600;
+.category-section .accordion .accordion-body li:hover a{
+    /* font-weight: 600; */
+    color: var(--accent-color);
 }
 
 .category-section .accordion .accordion-body .ul .bi-chevron-right {
@@ -52,6 +56,10 @@
 }
 
 /* product description section */
+.product-machine-description {
+    padding-bottom: 0;
+}
+
 .description-section {
     width: 68%;
 }
@@ -70,6 +78,10 @@
 }
 
 /* product models section */
+#product-models-section {
+    padding-top: 0;
+}
+
 .product-models-section .product-models-container {
     display: flex;
     flex-wrap: wrap;
@@ -77,7 +89,7 @@
     padding: 10px;
 }
 
-.product-models-section .product-model-section-main-heading{
+.product-models-section .product-model-section-main-heading {
     text-transform: capitalize;
     margin-top: 32px;
     background-color: aliceblue;
@@ -85,13 +97,13 @@
     font-weight: 600;
 }
 
-.product-model-category-heading{
+.product-model-category-heading {
     text-transform: capitalize;
     font-weight: 700;
     margin-top: 15px;
 }
 
-.product-model-category-text{
+.product-model-category-text {
     text-transform: capitalize;
     font-weight: 500;
     text-decoration: underline;
@@ -159,4 +171,48 @@
     font-weight: 700;
     margin-bottom: 1px;
     border-bottom: 1px solid silver;
+}
+
+
+/* ----------------------------------------
+----------------MEDIA QUERIES--------------
+------------------------------------------- */
+
+@media (max-width: 768px) {
+    .product-detail-container {
+        flex-direction: column;
+    }
+
+    /* category section accordion */
+    .category-section {
+        width: 100%;
+    }
+
+    /* product description section */
+    .description-section {
+        width: 100%;
+    }
+
+    .description-section .product-machine-description .section-title {
+        margin-top: 0;
+    }
+
+    /* product models section */
+    .product-models-container {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .product-models-container .product-model-card {
+        width: 70%;
+        height: auto;
+    }
+
+    .product-models-section .product-model-section-main-heading {
+        text-align: center;
+    }
+
+    .product-model-category-heading {
+        text-align: center;
+    }
 }
