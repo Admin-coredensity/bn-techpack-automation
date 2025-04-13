@@ -178,7 +178,18 @@
 ----------------MEDIA QUERIES--------------
 ------------------------------------------- */
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
+        /* category section accordion */
+        .category-section {
+            width: 40%;
+        }
+    
+        /* product description section */
+        .description-section {
+            width: 60%;
+        }
+}
+@media (max-width: 992px) {
     .product-detail-container {
         flex-direction: column;
     }
@@ -204,7 +215,7 @@
     }
 
     .product-models-container .product-model-card {
-        width: 70%;
+        width: 45%;
         height: auto;
     }
 
@@ -215,4 +226,18 @@
     .product-model-category-heading {
         text-align: center;
     }
+}
+
+@media (max-width: 768px) {
+    /* product models section */
+    .product-models-container {
+     align-items: center;
+     justify-content: center;
+ }
+
+ .product-models-container .product-model-card {
+     width: 70%;
+     height: auto;
+ }
+
 }
