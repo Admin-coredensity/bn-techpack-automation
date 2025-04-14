@@ -1,107 +1,106 @@
 {
-    "sections": [
-      {
-        "title": "Semi auto paste filling machine pneumatic operated",
-        "categories": [
-          {
-            "subtitle": "use for viscosity for water to paste level",
-            "models": [
-              {
-                "id": "BNTPAPF:10-100-GM-ML-1H/ML2H",
-                "name": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF:10-100-GM-ML-1H/ML2H"
-              },
-              {
-                "id": "BNTPAPF:50-500-GM-ML-1H/ML2H",
-                "name": "BNTPAPF: 50-500 GM-ML 1H/ML2H",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF:50-500-GM-ML-1H/ML2H"
-              },
-              {
-                "id": "BNTPAPF:100-1000-GM-ML-1H/ML2H",
-                "name": "BNTPAPF: 100-1000 GM-ML 1H/ML2H",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF:100-1000-GM-ML-1H/ML2H"
-              },
-              {
-                "id": "BNTPAPF:500-5000-GM-ML-1H/2H",
-                "name": "BNTPAPF: 500-5000 GM-ML 1H/2H",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF:500-5000-GM-ML-1H/2H"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Fully automatic pneumatics operated paste filling Machine",
-        "categories": [
-          {
-            "subtitle": "use for viscosity for water to paste level",
-            "models": [
-              {
-                "id": "BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-                "name": "BNTPAFPF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-              },
-              {
-                "id": "BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-                "name": "BNTPAFPF: 50-500 ML-GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-              },
-              {
-                "id": "BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-                "name": "BNTPAFPF: 100-1000 ML-GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-              },
-              {
-                "id": "BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-                "name": "BNTPAFPF: 500-5000-ML-GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operatedd"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Fully automatic servo base operated paste filling Machine",
-        "categories": [
-          {
-            "subtitle": "use for viscosity for water to paste level",
-            "models": [
-              {
-                "id": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-                "name": "BNTPALF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
-              },
-              {
-                "id": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-                "name": "BNTPALF: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
-              },
-              {
-                "id": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-                "name": "BNTPALF: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
-              },
-              {
-                "id": "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-                "name": "BNTPALF: 500-5000 ML -GM 2H-4H-6H-8H-10H-12H",
-                "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-                "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "sections": [
+    {
+      "title": "Semi auto paste filling machine pneumatic operated",
+      "categories": [
+        {
+          "subtitle": "use for viscosity for water to paste level",
+          "models": [
+            {
+              "id": "BNTPAPF-10-100-GM-ML-1H/ML2H",
+              "name": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
+              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF-10-100-GM-ML-1H/ML2H"
+            },
+            {
+              "id": "BNTPAPF-50-500-GM-ML-1H/ML2H",
+              "name": "BNTPAPF: 50-500 GM-ML 1H/ML2H",
+              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF-50-500-GM-ML-1H/ML2H"
+            },
+            {
+              "id": "BNTPAPF-100-1000-GM-ML-1H/ML2H",
+              "name": "BNTPAPF: 100-1000 GM-ML 1H/ML2H",
+              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF-100-1000-GM-ML-1H/ML2H"
+            },
+            {
+              "id": "BNTPAPF-500-5000-GM-ML-1H/2H",
+              "name": "BNTPAPF: 500-5000 GM-ML 1H/2H",
+              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAPF-500-5000-GM-ML-1H/2H"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fully automatic pneumatics operated paste filling Machine",
+      "categories": [
+        {
+          "subtitle": "use for viscosity for water to paste level",
+          "models": [
+            {
+              "id": "BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPAFPF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+            },
+            {
+              "id": "BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPAFPF: 50-500 ML-GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+            },
+            {
+              "id": "BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPAFPF: 100-1000 ML-GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+            },
+            {
+              "id": "BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPAFPF: 500-5000-ML-GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fully automatic servo base operated paste filling Machine",
+      "categories": [
+        {
+          "subtitle": "use for viscosity for water to paste level",
+          "models": [
+            {
+              "id": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPALF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+            },
+            {
+              "id": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPALF: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+            },
+            {
+              "id": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPALF: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+            },
+            {
+              "id": "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPALF: 500-5000 ML -GM 2H-4H-6H-8H-10H-12H",
+              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
+              "link": "liquid-filling-detail.html?type=pasteFillingMachines&id=BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

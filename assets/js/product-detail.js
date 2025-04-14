@@ -1,5 +1,5 @@
 const urlParams = new URLSearchParams(window.location.search);
-const productType = urlParams.get("type"); // e.g., 'liquidFillingMachines' or 'pasteFillingMachines'
+const productType = urlParams.get("type");
 const productId = urlParams.get("id");
 
 const container = document.getElementById("variant-sections-container");
