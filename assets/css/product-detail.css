@@ -30,6 +30,12 @@
     justify-content: space-between;
 }
 
+.product-model-detail-section .product-model-detail-container #variant-sections-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
 #product-model-name {
     background-color: var(--accent-color);
     padding: 10px 20px;

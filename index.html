@@ -800,28 +800,45 @@
             <div class="row gy-4">
 
               <div class="col-md-6">
-                <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                <!-- <label for="name-field" class="pb-2">Your Name</label> -->
+                <input type="text" value="Client" name="name" id="name-field" class="form-control" required="">
               </div>
 
               <div class="col-md-6 ">
-                <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                <!-- <label for="email-field" class="pb-2">Your Email</label> -->
+                <input type="email" value="info@gmail.com" name="email" id="email-field" 
+                class="form-control" required="">
+                <!-- <input type="email" class="form-control" name="email" placeholder="Your Email" required=""> -->
               </div>
 
               <div class="col-md-12">
-                <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+                <!-- <label for="subject-field" class="pb-2">Subject</label> -->
+                <input type="text" value="IT consulation Inquery" class="form-control" name="subject" 
+                id="subject-field" required="">
               </div>
 
               <div class="col-md-12">
-                <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                <!-- <label for="message-field" class="pb-2">Message</label> -->
+                <textarea class="form-control" name="message" rows="5" id="message-field" required="">
+                  hi, can you build us web apps ?
+                </textarea>
               </div>
 
               <div class="col-md-12 text-center">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
-
+          
                 <button type="submit">Send Message</button>
               </div>
+
+              <!-- <div class="col-md-12 text-center">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                <button type="submit">Send Message</button>
+              </div> -->
 
             </div>
           </form>
