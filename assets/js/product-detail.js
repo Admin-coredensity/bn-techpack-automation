@@ -46,8 +46,15 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Capping Dimeter", variantData.cappingDimeter, "product-model-capping-dimeter")}
             ${generateRow("Operating", variantData.operating, "product-model-operating")}
             ${generateRow("Print no of line", variantData.printNoOfLine, "product-model-print-no-of-line")}
+            ${generateRow("Label Roll Diameter", variantData.labelRollDiameter, "product-model-label-roll-diameter")}
+            ${generateRow("Label Accuracy", variantData.labelAccuracy, "product-model-label-accuracy")}
+            ${generateRow("Core Inner Diameter", variantData.coreInnerDiameter, "product-model-core-inner-diameter")}
+            ${generateRow("Gap Between Two Labels", variantData.gapBetweenTwoLabels, "product-model-gap-between-two-labels")}
+            ${generateRow("Applicator For Types", variantData.applicatorForTypes, "product-model-applicator-for-types")}
+            ${generateRow("Machine Operated", variantData.machineOperated, "product-model-machine-operated")}
+            ${generateRow("Applicator Label Size Length Any size", variantData.applicatorLabelSizeLengthAnySize, "product-model-applicator-label-size-length-any-size")}
+            ${generateRow("Material Of Construction", variantData.materialOfConstruction, "product-model-material-of-construction")}
             ${generateRow("Machine Dimension L x W x H", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
-            ${generateRow("Weight", variantData.weight, "product-model-weight")}
           </tbody>
           </table>
         </div>
