@@ -1,7 +1,7 @@
 {
   "cappingMachines": {
       "BNTPA-2040D-1H": {
-        "name": "ROPPCappingmachine",
+        "name": "ROPP Capping machine",
         "category": "--",
         "model": "BNTPA-2040D-1H",
         "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
@@ -12,11 +12,11 @@
         "MOC": "MS/SS304",
         "productionSpeedBPM": "30-40 bpm",
         "cappingDimeter": "Up to 100 mm",
-        "machineDimension": "560x420x430",
+        "machineDimensionLxWxH": "560x420x430",
         "weight": "22KG"
       },
     "BNTPA-2040D-4H": {
-      "name": "ROPPCappingmachine",
+      "name": "ROPP Capping machine",
       "category": "--",
       "model": "BNTPA-2040D-4H",
       "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
@@ -27,14 +27,14 @@
       "MOC": "MS/SS304",
       "productionSpeedBPM": " 50-60 bom",
       "cappingDimeter": "Up to 100 mm",
-      "machineDimension": "-",
+      "machineDimensionLxWxH": "-",
       "weight": "-"
     }
   },
-  "BNTPA-2040D-6H": {
-    "name": "ROPPCappingmachine",
+  "BNTPA-2040-6H": {
+    "name": "ROPP Capping machine",
     "category": "--",
-    "model": "BNTPA-2040D-6H",
+    "model": "BNTPA-2040-6H",
     "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
     "power Supply ": "3 KW 230 V AC 50Hz",
     "airPressure": "---",
@@ -43,11 +43,11 @@
     "MOC": "MS/SS304",
     "productionSpeedBPM": " 70-80 bom ",
     "cappingDimeter": "Up to 100 mm",
-    "machineDimension": "-",
+    "machineDimensionLxWxH": "-",
     "weight": "-"
   },
   "BNTPA-2050DM": {
-    "name": "ROPPCappingmachine",
+    "name": "ROPP Capping machine",
     "category": "--",
     "model": "BNTPA-2050DM",
     "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
@@ -58,11 +58,11 @@
     "MOC": "TOLL ",
     "productionSpeedBPM": " 10 TO 12 BPM ",
     "cappingDimeter": "20 TO 50 MM",
-    "machineDimension": "-",
+    "machineDimensionLxWxH": "-",
     "weight": "-"
   },
   "BNTPA-2050DSM": {
-    "name": "ROPPCappingmachine",
+    "name": "ROPP Capping machine",
     "category": "--",
     "model": "BNTPA-2050DSM",
     "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
@@ -73,7 +73,7 @@
     "MOC": "Aluminum/MS/ss ",
     "productionSpeedBPM": "10 TO 12 BPM",
     "cappingDimeter": "20 to 50 mm ",
-    "machineDimension": "-",
+    "machineDimensionLxWxH": "-",
     "weight": "-"
   }
 }
