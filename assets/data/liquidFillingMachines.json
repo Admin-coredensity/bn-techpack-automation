@@ -557,7 +557,7 @@
         "fillingSpeed": "75-80 BPM",
         "fillingAccuracy": "≤±1-2% ML-GM",
         "machineDimensionLxWxH": "1920 X 485 X 275 mm",
-        "weight": "100-150 LTR/KG" 
+        "weight": "100-150 LTR/KG"
       },
       "12H": {
         "name": "Fully automatic servo base operated liquid Machine",

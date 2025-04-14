@@ -1,4 +1,5 @@
 const urlParams = new URLSearchParams(window.location.search);
+const productType = urlParams.get("type"); // e.g., 'liquidFillingMachines' or 'pasteFillingMachines'
 const productId = urlParams.get("id");
 
 const container = document.getElementById("variant-sections-container");
@@ -52,12 +53,11 @@ function renderVariant(variantKey, variantData) {
   `;
 }
 
-fetch("assets/data/productDetail.json")
+fetch(`assets/data/${productType}.json`)
   .then((res) => res.json())
   .then((data) => {
-    const productData = data.liquidFillingMachines[productId];
-
-    if (productData && typeof productData === "object") {
+    if (productType && data[productType] && data[productType][productId]) {
+      const productData = data[productType][productId];
       const rendered = Object.entries(productData)
         .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
         .join("");
@@ -71,7 +71,7 @@ fetch("assets/data/productDetail.json")
     container.innerHTML = `<p>Error loading product details.</p>`;
   });
 
-  // go back function 
+// Go back function 
 function goBack() {
   if (window.history.length > 1) {
     window.history.back();

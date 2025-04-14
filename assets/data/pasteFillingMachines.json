@@ -1,0 +1,30 @@
+{
+    "liquidFillingMachines": {
+        "BNTPAPF-10-100-GM-ML-1H/ML2H": {
+            "1H": {
+                "name": "Semi auto paste filling machine pneumatic operated",
+                "category": "use for viscosity for water to paste level",
+                "model": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
+                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
+                "power": "20W-50W 230 V AC 50Hz",
+                "airPressure": "4 to 6 Bar",
+                "fillingSpeed": "5-10 bottles/min",
+                "fillingAccuracy": "≤±1-2% ML-GM",
+                "machineDimensionLxWxH": "950 X 320 X 340 mm",
+                "weight": "20KG/40KG"
+            },
+            "2H": {
+                "name": "Semi auto paste filling machine pneumatic operated",
+                "category": "use for viscosity for water to paste level",
+                "model": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
+                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
+                "power": "20W-50W 230 V AC 50Hz",
+                "airPressure": "4 to 6 Bar",
+                "fillingSpeed": "5-10 bottles/min",
+                "fillingAccuracy": "≤±1-2% ML-GM",
+                "machineDimensionLxWxH": "950 X 320 X 340 mm",
+                "weight": "20KG/40KG"
+            }
+        }
+    }
+}
