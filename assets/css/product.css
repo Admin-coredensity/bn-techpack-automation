@@ -147,7 +147,7 @@
 
 .product-models-container .product-model-card .product-model-image {
     width: 100%;
-    height: 150px;
+    height: 190px;
     object-fit: contain;
 }
 
@@ -155,7 +155,7 @@
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    height: 90px;
+    height: 50px;
     text-align: center;
 }
 
