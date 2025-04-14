@@ -27,13 +27,13 @@ Depending on the product and application method, there are several types of labe
 
 Semi-Automatic Labeling Machine – Perfect for small batch operations
 
-✅Automatic Labeling Machine – Ideal for high-speed and large-scale labeling
+- Automatic Labeling Machine – Ideal for high-speed and large-scale labeling
 
-✅Top/Bottom Labeling Machine – Applies labels on top or bottom surfaces
+- Top/Bottom Labeling Machine – Applies labels on top or bottom surfaces
 
-✅Wrap Around Labeling Machine – Used for bottles, jars, or cylindrical containers
+- Wrap Around Labeling Machine – Used for bottles, jars, or cylindrical containers
 
-✅Front & Back Labeling Machine – Labels both sides of flat or round containers
+- Front & Back Labeling Machine – Labels both sides of flat or round containers
 
-✅Global Packaging Automation – Your Labeling Machine Partner
+- Global Packaging Automation – Your Labeling Machine Partner
 

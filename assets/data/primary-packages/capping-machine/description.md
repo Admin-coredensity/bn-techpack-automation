@@ -47,16 +47,16 @@ They can be integrated with filling lines or used as standalone units for maximu
 
 #### Features & Advantages of Semi-Automatic Capping Machines
 
-✅Our semi-automatic capping machines feature intuitive control systems and rugged build quality, making them ideal for small to medium-scale operations.
+- Our semi-automatic capping machines feature intuitive control systems and rugged build quality, making them ideal for small to medium-scale operations.
 
-✅asy to use with manual or foot-pedal operation
+- Easy to use with manual or foot-pedal operation
 
-✅Compatible with a wide range of cap and bottle sizes
+- Compatible with a wide range of cap and bottle sizes
 
-✅Accurate and repeatable torque application Compact, space-saving design
+- Accurate and repeatable torque application Compact, space-saving design
 
-✅Power-efficient and cost-effective for small batch runs
+- Power-efficient and cost-effective for small batch runs
 
-✅Tool-free adjustments for quick setup and switching between product lines
+- Tool-free adjustments for quick setup and switching between product lines
 
-✅Ideal for startups or businesses scaling up production
+- Ideal for startups or businesses scaling up production

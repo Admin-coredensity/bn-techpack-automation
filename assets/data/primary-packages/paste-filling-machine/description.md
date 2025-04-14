@@ -30,17 +30,17 @@ Global Packaging Automation is a leading Paste Filling Machine supplier and manu
  #### What Are the Benefits of Paste Filling?
 Key Features & Advantages:
 
-✅ High-Speed Filling – Takes only 1.3 seconds per container (varies by model)
+-  High-Speed Filling – Takes only 1.3 seconds per container (varies by model)
 
-✅ Accurate Volume Dispensing – Reduces waste and ensures consistency
+- Accurate Volume Dispensing – Reduces waste and ensures consistency
 
-✅ Low Voltage Consumption – Energy-efficient and cost-saving
+- Low Voltage Consumption – Energy-efficient and cost-saving
 
-✅ Auto Nozzle Shut-Off & Anti-Drip System
+- Auto Nozzle Shut-Off & Anti-Drip System
 
-✅ Maintenance-Free Mechanism – Easy to clean and service
+- Maintenance-Free Mechanism – Easy to clean and service
 
-✅ Can Handle Multiple Viscosity Levels
+- Can Handle Multiple Viscosity Levels
 
-✅ PLC Control for High Accuracy & Automation
+- PLC Control for High Accuracy & Automation
 
