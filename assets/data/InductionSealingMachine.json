@@ -1,0 +1,48 @@
+{
+    "Induction sealing": {
+        " BNTPA-200f/BNTPA-600/BNTPA-20100D/BNTPA-60130D":{
+            "name": "Induction sealing",
+            "Power Supply": "500W 230 V AC 50Hz",
+           "Operating": "Semi  auto",
+           "Cap sealing dimeter": " 20-100 mm ",
+           "Production speed": "20-40 bpm" ,
+           "External Dimensions (L×W×H) (mm)": "340 × 290 × 150 (mm) ",
+           "Weight": "8KG"
+   
+        },
+        "BNTPA-600":
+        {  
+        "name": "Induction sealing",
+        "Power Supply": "600 W 230 V AC 50Hz ",
+       "Operating": "Semi  auto",
+       "Cap sealing dimeter": " 60-130 mm   ",
+       "Production speed": "20-40 bpm" ,
+       "External Dimensions (L×W×H) (mm)": "340 × 290 × 150 (mm) ",
+       "Weight": "8KG"
+
+    },
+
+    "BNTPA-20100D":
+        {  
+        "name": "Induction sealing",
+        "Power Supply": " 1KW 230 V AC 50Hz  ",
+       "Operating": "Automatic ",
+       "Cap sealing dimeter": "  20-100 mm   ",
+       "Production speed": "20-80 bpm " ,
+        "Weight": "80KG"
+},
+      "BNTPA-60130D":
+        {  
+        "name": "Induction sealing",
+        "Power Supply": "1KW 230 V AC 50Hz ",
+       "Operating": "Automatic ",
+       "Cap sealing dimeter": "20-130mm  ",
+       "Production speed": "20-80 bpm " ,
+        "Weight": "110KG"
+}
+    }
+}
+
+        
+
+        
