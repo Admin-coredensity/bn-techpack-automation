@@ -24,10 +24,10 @@
     margin: 0;
 }
 
-
 .product-model-detail-section .product-model-detail-container {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 65px;
 }
 
 .product-model-detail-section .product-model-detail-container #variant-sections-container{
@@ -50,13 +50,8 @@
     padding: 10px;
 }
 
-#product-model-number {
-    font-size: 18px;
-    font-weight: 600;
-}
-
-#product-model-category {
-    font-weight: 550;
+#product-model-number, #product-model-category {
+    font-weight: 500;
     text-transform: capitalize;
 }
 
