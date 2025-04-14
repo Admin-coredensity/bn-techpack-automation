@@ -15,7 +15,6 @@ function renderVariant(variantKey, variantData) {
         <div id="product-model-category-container">
           <p id="product-model-number"><strong>Model No.:</strong> ${variantData.model}</p>
           <p id="product-model-category"><strong>Category:</strong> ${variantData.category}</p>
-          <p><strong>Variant:</strong> ${variantKey}</p>
         </div>
         <div>
           <h4 class="technical-specification-text">Technical Specification</h4>
@@ -71,3 +70,12 @@ fetch("assets/data/productDetail.json")
     console.error("Error loading product detail:", err);
     container.innerHTML = `<p>Error loading product details.</p>`;
   });
+
+  // go back function 
+function goBack() {
+  if (window.history.length > 1) {
+    window.history.back();
+  } else {
+    window.location.href = '/index.html';
+  }
+}
