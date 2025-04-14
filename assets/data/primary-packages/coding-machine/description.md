@@ -32,7 +32,8 @@ Most machines are operator-friendly and suitable for integration into automated 
 ### What Are the Benefits of Coding?
 Features & Advantages of Automatic Coding Machines
 
-We offer fully-automatic coding machines equipped with smart control systems, suitable for high-speed production lines or standalone use.
+- We offer fully-automatic coding machines equipped with smart control systems, suitable for high-speed production lines or standalone use.
+
 Rapid, high-resolution printing for batch, expiry, and barcode data
 Smart sensor-based automatic detection and coding
 Low power consumption for efficient energy use
