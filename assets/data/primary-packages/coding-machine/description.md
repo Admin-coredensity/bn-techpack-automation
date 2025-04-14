@@ -1,60 +1,47 @@
-# Paste Filling Machine
+Coding Machine
+The coding machine is an essential device used to print important information—such as batch numbers, manufacturing dates, expiry dates, barcodes, and logos—on product packaging.
+It is widely used in industries like food and beverage, pharmaceuticals, cosmetics, and chemicals to ensure traceability, compliance, and product identification.
 
-The paste filling machine efficiently fills containers with various paste products, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-It is well-suited for filling bottles, jars, pouches, or other containers with precise volume, ensuring consistency and productivity in commercial packaging operations.
+Coding machines work efficiently across various packaging types, including bottles, jars, cartons, pouches, and labels, delivering precise and permanent prints during the packaging process.
 
----
+What is a Coding Machine?
+Coding machines are designed to print or mark variable data onto packaging materials.
+They are vital in industries where information like lot codes, expiry dates, MRP, and barcodes must be printed for compliance, tracking, or branding purposes.
 
-### What is a Paste Filling Machine?
+A coding machine ensures clear, consistent, and smudge-proof marking, helping maintain product integrity and meet legal labeling requirements.
 
-Paste filling machines are used to accurately fill containers with paste products.  
-These machines are essential in industries where pastes need to be packaged and transported, such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-During packaging and shipping, it's important that containers are properly filled and sealed to prevent leakage or spillage.  
-
-The paste filling machine ensures consistent and precise filling, helping maintain product quality and reduce waste during handling and transport.
-
----
-
-### How to Use a Paste Filling Machine?
-
-The Paste filling machine is very easy to operate and delivers excellent output with minimal resources.  
+How to Use a Coding Machine?
+The coding machine is simple to operate and delivers high-performance marking with minimal manual intervention.
 
 To use the machine:
-- Place the empty container (such as a bottle or pouch) under the filling nozzle.
-- Start the machine either manually or automatically, depending on the model.
-- The machine accurately dispenses the required amount of paste into the container.
-- Once filled, the container can be sealed manually or by a separate sealing machine.
 
-This cycle repeats for each container, ensuring speed and consistency.  
-The machine is simple, efficient, and can be operated by a single person, making it ideal for high-volume production in a short time.
+Position the product or packaging material under or alongside the coding head.
+Configure print settings (date, batch code, etc.) via the control panel or software interface.
+Start the machine manually or allow it to activate automatically via sensors (based on model).
+The machine prints the required data on each product as it passes through.
+This process is fast, reliable, and repeatable, ensuring every unit is clearly marked.
+Most machines are operator-friendly and suitable for integration into automated production lines.
 
----
+What Are the Benefits of Coding?
+Features & Advantages of Automatic Coding Machines
 
-### What are the Benefits of Paste Filling?
+We offer fully-automatic coding machines equipped with smart control systems, suitable for high-speed production lines or standalone use.
+Rapid, high-resolution printing for batch, expiry, and barcode data
+Smart sensor-based automatic detection and coding
+Low power consumption for efficient energy use
+Supports a wide range of packaging materials: plastic, glass, paper, metal, etc.
+Maintenance-free design with auto-cleaning functionality
+Ideal for large-volume coding in industries with fast-moving goods
+PLC-based control for precise, customizable output
 
-#### Features & Advantages of Automatic Paste Filling Machines
+Features & Advantages of Semi-Automatic Coding Machines
 
-We offer fully-automatic Paste filling machines equipped with smart sensors and PLC controls.  
-They can be integrated into automated production lines or operated as standalone units.
+Our semi-automatic coding machines use reliable PCB-based control systems,
+making them ideal for small to medium-scale production environments.
+Easy setup with manual or foot-pedal operation
+Cost-effective solution for batch printing needs
+Adjustable print area and font size
+Suitable for flat and curved surfaces (labels, jars, cartons, pouches)
+Minimal maintenance and low energy usage
+Compatible with various ink types (dry ink, thermal ink, solvent-based)
 
-- Saves significant time and increases efficiency compared to manual filling methods
-- Fast filling cycle—capable of filling multiple containers in seconds, depending on Paste type and volume
-- Auto-fill and nozzle shut-off system ensures precision and reduces spillage
-- Low power consumption for energy-efficient operations
-- Automatic start/stop function and maintenance-free design reduce downtime
-- Ideal for packaging high-volume paste products like juices, oils, syrups, and chemicals
-- PLC-based control enhances accuracy and consistency in every fill
-
----
-
-#### Features & Advantages of Semi-Automatic Paste Filling Machines
-
-Our semi-automatic Paste filling machines are built with advanced PCB control systems,  
-making them reliable and cost-effective solutions for small to medium-scale operations.
-
-- User-friendly operation with easy adjustment settings
-- Power-saving design that reduces energy consumption
-- Filling accuracy and volume control with minimal wastage
-- Supports viscous and non-viscous pastes
-- Adjustable fill speed and nozzle sizes to match container types
-- Compatible with a wide range of container materials and sizes
