@@ -7,9 +7,6 @@
         "model": "BNTPA-2040D-1H",
         "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
         "power": "1.5KW 230 V AC 50Hz ",
-        "airPressure": "4 to 6 Bar",
-        "fillingSpeed": "",
-        "fillingAccuracy": "",
         "MOC": "MS/SS304",
         "productionSpeedBPM": "30-40 bpm",
         "cappingDimeter": "Up to 100 mm",
@@ -24,14 +21,11 @@
         "model": "BNTPA-2040D-4H",
         "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
         "power supply ": "2.5W 230 V AC 50Hz",
-        "airPressure": "4 to 6 Bar",
-        "fillingSpeed": "",
-        "fillingAccuracy": "",
         "MOC": "MS/SS304",
         "productionSpeedBPM": "50-60 bom",
         "cappingDimeter": "Up to 100 mm",
-        "machineDimensionLxWxH": "-",
-        "weight": "-"
+        "machineDimensionLxWxH": "",
+        "weight": ""
       }
     },
     "BNTPA-2040-6H": {
@@ -41,14 +35,11 @@
         "model": "BNTPA-2040-6H",
         "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
         "power Supply ": "3 KW 230 V AC 50Hz",
-        "airPressure": "",
-        "fillingSpeed": "",
-        "fillingAccuracy": "",
         "MOC": "MS/SS304",
         "productionSpeedBPM": "70-80 bom",
         "cappingDimeter": "Up to 100 mm",
         "machineDimensionLxWxH": "-",
-        "weight": "-"
+        "weight": ""
       }
     },
     "BNTPA-2050DM": {
@@ -58,14 +49,11 @@
         "model": "BNTPA-2050DM",
         "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
         "power Supply ": "50W 230 V AC 50Hz",
-        "airPressure": "",
-        "fillingSpeed": "",
-        "fillingAccuracy": "",
         "MOC": "TOLL",
         "productionSpeedBPM": "10 TO 12 BPM",
         "cappingDimeter": "20 TO 50 MM",
-        "machineDimensionLxWxH": "-",
-        "weight": "-"
+        "machineDimensionLxWxH": "",
+        "weight": ""
       }
     },
     "BNTPA-2050DSM": {
@@ -75,9 +63,6 @@
         "model": "BNTPA-2050DSM",
         "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
         "power Supply ": "180W 230 V AC 50Hz ",
-        "airPressure": "",
-        "fillingSpeed": "",
-        "fillingAccuracy": "",
         "MOC": "Aluminum/MS/ss",
         "productionSpeedBPM": "10 TO 12 BPM",
         "cappingDimeter": "20 to 50 mm",

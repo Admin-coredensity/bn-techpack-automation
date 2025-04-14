@@ -105,28 +105,32 @@
       }
     },
     "BNE4000-MLT-1HE": {
-      "name": "Semi auto liquid filling machine pneumatic operated",
-      "category": "use for viscosity for water to edible oil level",
-      "model": "BNE4000-MLT-1HE",
-      "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
-      "power": "-",
-      "airPressure": "4 TO 6 Bar",
-      "fillingSpeed": "5-10 bottles/min",
-      "fillingAccuracy": "≤±1-2% ML",
-      "machineDimensionLxWxH": "-",
-      "weight": "5KG/12KG"
+      "BNE4000-MLT-1HE": {
+        "name": "Semi auto liquid filling machine pneumatic operated",
+        "category": "use for viscosity for water to edible oil level",
+        "model": "BNE4000-MLT-1HE",
+        "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+        "power": "100W-230 V Ac Hz50",
+        "airPressure": "4 TO 6 Bar",
+        "fillingSpeed": "5-10 bottles/min",
+        "fillingAccuracy": "≤±1-2% ML",
+        "machineDimensionLxWxH": "",
+        "weight": "5KG"
+      }
     },
     "BNE4000-MLT-2HE": {
-      "name": "Semi auto liquid filling machine pneumatic operated",
-      "category": "use for viscosity for water to edible oil level",
-      "model": "BNE4000-MLT-2HE",
-      "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
-      "power": "-",
-      "airPressure": "4 TO 6 Bar",
-      "fillingSpeed": "5-10 bottles/min",
-      "fillingAccuracy": "≤±1-2% ML",
-      "machineDimensionLxWxH": "-",
-      "weight": "5KG/12KG"
+      "BNE4000-MLT-2HE": {
+        "name": "Semi auto liquid filling machine pneumatic operated",
+        "category": "use for viscosity for water to edible oil level",
+        "model": "BNE4000-MLT-2HE",
+        "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
+        "power": "200w-230 V Ac Hz50",
+        "airPressure": "4 TO 6 Bar",
+        "fillingSpeed": "5-10 bottles/min",
+        "fillingAccuracy": "≤±1-2% ML",
+        "machineDimensionLxWxH": "",
+        "weight": "5KG/12KG"
+      }
     },
     "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
