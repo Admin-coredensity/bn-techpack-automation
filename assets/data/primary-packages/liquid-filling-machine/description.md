@@ -37,12 +37,18 @@ The machine is simple, efficient, and can be operated by a single person, making
 We offer fully-automatic liquid filling machines equipped with smart sensors and PLC controls.  
 They can be integrated into automated production lines or operated as standalone units.
 
-- Saves significant time and increases efficiency compared to manual filling methods
+- Saves significant time and increases efficiency compared to manual filling 
+
 - Fast filling cycle—capable of filling multiple containers in seconds, depending on liquid type and volume
+
 - Auto-fill and nozzle shut-off system ensures precision and reduces spillage
+
 - Low power consumption for energy-efficient operations
+
 - Automatic start/stop function and maintenance-free design reduce downtime
+
 - Ideal for packaging high-volume liquid products like juices, oils, syrups, and chemicals
+
 - PLC-based control enhances accuracy and consistency in every fill
 
 ---
