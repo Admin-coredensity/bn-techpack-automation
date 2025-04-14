@@ -33,4 +33,3 @@ Semi-Automatic Labeling Machine – Perfect for small batch operations
 
 ✅Global Packaging Automation – Your Labeling Machine Partner
 
-Global Packaging Automation is a leading labeling machine manufacturer and supplier in India, serving clients across PAN India. We offer a variety of solutions for different labeling needs, all built to ensure efficiency, precision, and durability.
