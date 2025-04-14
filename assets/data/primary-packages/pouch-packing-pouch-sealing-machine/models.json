@@ -1,119 +1,34 @@
 {
   "sections": [
     {
-      "title": "Semi auto liquid filling machine pneumatic operated",
+      "title": "Fully auto pouch packaging machine",
       "categories": [
         {
-          "subtitle": "use for viscosity for water to honey level",
+          "subtitle": "use for viscosity for powders to granules dray products",
           "models": [
             {
-              "id": "BNTPALF-10-100ML-GM-1HP/2HP",
-              "name": "BNTPALF: 10-100 ML -GM 1HP/2HP",
+              "id": "BNTPAFPF-1to100gm",
+              "name": "BNTPAFPF-1 to 100gm",
               "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-10-100ML-GM-1HP/2HP"
+              "link": "liquid-filling-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAFPF-1to100gm"
             },
             {
-              "id": "BNTPALF-50-500-ML-GM-1HP/2HP",
-              "name": "BNTPALF: 50-500 ML -GM 1HP/2HP",
+              "id": "BNTPAFPF-2to200gm",
+              "name": "BNTPAFPF-2 to 200gm",
               "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-50-500-ML-GM-1HP/2HP"
+              "link": "liquid-filling-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAFPF-2to200gm"
             },
             {
-              "id": "BNTPALF-100-1000-ML-GM-1HP/2HP",
-              "name": "BNTPALF: 100-1000 ML -GM 1HP/2HP",
+              "id": "BNTPAFPF-10to1000gm",
+              "name": "BNTPAFPF-10 to 1000gm",
               "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-100-1000-ML-GM-1HP/2HP"
+              "link": "liquid-filling-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAFPF-10to1000gm"
             },
             {
-              "id": "BNTPALF-500-5000-ML-GM-1HP/2HP",
-              "name": "BNTPALF: 500-5000 ML -GM 1HP/2HP",
+              "id": "BNTPAFPF-10to3000gm",
+              "name": "BNTPAFPF-10 to 3000gm",
               "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-              "link": "liquid-filling-detail.html??type=liquidFillingMachines&id=BNTPALF-500-5000-ML-GM-1HP/2HP"
-            }
-          ]
-        },
-        {
-          "subtitle": "use for viscosity for water to edible oil level",
-          "models": [
-            {
-              "id": "BNE4000-MLT-1HE",
-              "name": "BNE4000-MLT-1HE",
-              "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNE4000-MLT-1HE"
-            },
-            {
-              "id": "BNE4000-MLT-2HE",
-              "name": "BNE4000-MLT-2HE",
-              "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNE4000-MLT-2HE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Fully automatic pneumatics operated liquid Machine",
-      "categories": [
-        {
-          "subtitle": "use for viscosity for water to honey level",
-          "models": [
-            {
-              "id": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPALF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-            },
-            {
-              "id": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPALF: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-            },
-            {
-              "id": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPALF: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-            },
-            {
-              "id": "BNTPALF-500-5000-ML-GM 2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPALF: 500-5000-ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-500-5000-ML-GM 2H-4H-6H-8H-10H-12H-pneumatics-operated"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Fully automatic servo base operated liquid Machine",
-      "categories": [
-        {
-          "subtitle": "use for viscosity for water to honey level",
-          "models": [
-            {
-              "id": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-              "name": "BNTPALF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
-            },
-            {
-              "id": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-              "name": "BNTPALF: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
-            },
-            {
-              "id": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-              "name": "BNTPALF: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
-            },
-            {
-              "id": "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-              "name": "BNTPALF: 500-5000 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png",
-              "link": "liquid-filling-detail.html?type=liquidFillingMachines&id=BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
+              "link": "liquid-filling-detail.html??type=pouchPackingPouchSealingMachines&id=BNTPAFPF-10to3000gm"
             }
           ]
         }
