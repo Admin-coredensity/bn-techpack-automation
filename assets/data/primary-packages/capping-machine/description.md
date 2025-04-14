@@ -1,60 +1,63 @@
-# Paste Filling Machine
+# Capping Machine
 
-The paste filling machine efficiently fills containers with various paste products, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-It is well-suited for filling bottles, jars, pouches, or other containers with precise volume, ensuring consistency and productivity in commercial packaging operations.
+The capping machine efficiently seals containers with caps or lids, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.
+It is well-suited for sealing bottles, jars, tubes, or other containers, ensuring airtight closure, leak prevention, and consistency in commercial packaging operations.
 
----
+### What is a Capping Machine?
 
-### What is a Paste Filling Machine?
+capping machines are used to accurately seal containers with various types of caps (screw caps, snap-on lids, press-on caps, pump heads, etc.)
+These machines are essential in industries where products need secure packaging for distribution and long-term shelf life.
+During packaging and shipping, it’s critical that containers are properly sealed to prevent leakage, contamination, or tampering.
 
-Paste filling machines are used to accurately fill containers with paste products.  
-These machines are essential in industries where pastes need to be packaged and transported, such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-During packaging and shipping, it's important that containers are properly filled and sealed to prevent leakage or spillage.  
+The capping machine ensures tight and consistent closures, helping maintain product integrity and operational efficiency throughout the supply chain.
 
-The paste filling machine ensures consistent and precise filling, helping maintain product quality and reduce waste during handling and transport.
-
----
-
-### How to Use a Paste Filling Machine?
-
-The Paste filling machine is very easy to operate and delivers excellent output with minimal resources.  
+### How to Use a Capping Machine?
+The capping machine is easy to operate and delivers excellent results with minimal effort.
 
 To use the machine:
-- Place the empty container (such as a bottle or pouch) under the filling nozzle.
-- Start the machine either manually or automatically, depending on the model.
-- The machine accurately dispenses the required amount of paste into the container.
-- Once filled, the container can be sealed manually or by a separate sealing machine.
+Place the filled container (e.g., a bottle or jar) on the conveyor or capping station.
+Position the cap manually or via an automated cap feeder.
+The machine tightens or applies the cap using mechanical, pneumatic, or servo-based torque.
+Once capped, the container proceeds to the next stage of packaging.
 
-This cycle repeats for each container, ensuring speed and consistency.  
-The machine is simple, efficient, and can be operated by a single person, making it ideal for high-volume production in a short time.
+This process is repeatable, fast, and ideal for high-throughput environments.
+The machine is reliable, operator-friendly, and suited for single-person operation, enabling fast and efficient production.
 
----
+### What are the Benefits of Capping?
+Features & Advantages of Automatic Capping Machines
+We offer fully-automatic capping machines with intelligent controls and automation capabilities.
+They can be integrated with filling lines or used as standalone units for maximum flexibility.
 
-### What are the Benefits of Paste Filling?
+High-speed capping with consistent torque application
 
-#### Features & Advantages of Automatic Paste Filling Machines
+Reduces labor costs and increases throughput
 
-We offer fully-automatic Paste filling machines equipped with smart sensors and PLC controls.  
-They can be integrated into automated production lines or operated as standalone units.
+Automatic cap feeding and placement system
 
-- Saves significant time and increases efficiency compared to manual filling methods
-- Fast filling cycle—capable of filling multiple containers in seconds, depending on Paste type and volume
-- Auto-fill and nozzle shut-off system ensures precision and reduces spillage
-- Low power consumption for energy-efficient operations
-- Automatic start/stop function and maintenance-free design reduce downtime
-- Ideal for packaging high-volume paste products like juices, oils, syrups, and chemicals
-- PLC-based control enhances accuracy and consistency in every fill
+Adjustable for various container heights and cap types
 
----
+Energy-efficient with low power consumption
 
-#### Features & Advantages of Semi-Automatic Paste Filling Machines
+PLC-based control system for precision and repeatability
 
-Our semi-automatic Paste filling machines are built with advanced PCB control systems,  
-making them reliable and cost-effective solutions for small to medium-scale operations.
+Minimal maintenance requirements and quick changeover features
 
-- User-friendly operation with easy adjustment settings
-- Power-saving design that reduces energy consumption
-- Filling accuracy and volume control with minimal wastage
-- Supports viscous and non-viscous pastes
-- Adjustable fill speed and nozzle sizes to match container types
-- Compatible with a wide range of container materials and sizes
+Ideal for high-volume production in regulated industries
+
+#### Features & Advantages of Semi-Automatic Capping Machines
+
+Our semi-automatic capping machines feature intuitive control systems and rugged build quality, making them ideal for small to medium-scale operations.
+
+asy to use with manual or foot-pedal operation
+
+Compatible with a wide range of cap and bottle sizes
+
+Accurate and repeatable torque application
+
+Compact, space-saving design
+
+Power-efficient and cost-effective for small batch runs
+
+Tool-free adjustments for quick setup and switching between product lines
+
+Ideal for startups or businesses scaling up production
