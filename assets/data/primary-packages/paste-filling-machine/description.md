@@ -16,13 +16,13 @@ This is typically a single-operator machine, allowing for fast and continuous fi
 ### Types of Paste Filling Machines
 Paste Filling Machines come in various types depending on your production needs:
 
-🔹 Semi-Automatic Paste Filling Machine – Best for small to medium scale 
+-  Semi-Automatic Paste Filling Machine – Best for small to medium scale 
 
-🔹 Automatic Paste Filling Machine – Suitable for high-speed production lines
+-  Automatic Paste Filling Machine – Suitable for high-speed production lines
 
-🔹 Pneumatic Paste Filling Machine – Offers precision with air pressure operation
+-  Pneumatic Paste Filling Machine – Offers precision with air pressure operation
 
-🔹 Servo-Based Paste Filler – Highly accurate and programmable
+-  Servo-Based Paste Filler – Highly accurate and programmable
 
 ### Global Packaging Automation – Trusted Across India
 Global Packaging Automation is a leading Paste Filling Machine supplier and manufacturer in India. We cater to clients across PAN India, offering a wide range of paste fillers to suit different industries and production needs.

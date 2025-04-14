@@ -11,26 +11,26 @@ Labeling Machines are used to apply printed labels onto products or packaging su
 
 Labeling Machines are simple to operate and deliver high output with minimal manual effort. Here’s how to use one:
 
-Place the container (bottle, jar, box, etc.) on the conveyor or designated platform.
-Feed the label roll into the machine and set parameters such as label size and position.
-The machine automatically applies the label as the container moves through or is held in place.
-Once labeled, the container is ready for the next stage of packaging or shipping.
-These machines are typically designed for single-operator use and support continuous labeling for fast-paced production lines.
+- Place the container (bottle, jar, box, etc.) on the conveyor or designated platform.
+- Feed the label roll into the machine and set parameters such as label size and position.
+- The machine automatically applies the label as the container moves through or is held in place.
+- Once labeled, the container is ready for the next stage of packaging or shipping.
+- These machines are typically designed for single-operator use and support continuous labeling for fast-paced production lines.
 
 ### Types of Labeling Machines
 
 Depending on the product and application method, there are several types of labeling machines available:
 
-🔹 Semi-Automatic Labeling Machine – Perfect for small batch operations
+Semi-Automatic Labeling Machine – Perfect for small batch operations
 
-🔹 Automatic Labeling Machine – Ideal for high-speed and large-scale labeling
+✅Automatic Labeling Machine – Ideal for high-speed and large-scale labeling
 
-🔹 Top/Bottom Labeling Machine – Applies labels on top or bottom surfaces
+✅Top/Bottom Labeling Machine – Applies labels on top or bottom surfaces
 
-🔹 Wrap Around Labeling Machine – Used for bottles, jars, or cylindrical containers
+✅Wrap Around Labeling Machine – Used for bottles, jars, or cylindrical containers
 
-🔹 Front & Back Labeling Machine – Labels both sides of flat or round containers
+✅Front & Back Labeling Machine – Labels both sides of flat or round containers
 
-Global Packaging Automation – Your Labeling Machine Partner
+✅Global Packaging Automation – Your Labeling Machine Partner
 
 Global Packaging Automation is a leading labeling machine manufacturer and supplier in India, serving clients across PAN India. We offer a variety of solutions for different labeling needs, all built to ensure efficiency, precision, and durability.
