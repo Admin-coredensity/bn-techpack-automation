@@ -1,0 +1,92 @@
+{
+    "Fully auto  pouch packaging machine ":{
+        "(Use for Viscosity for Powders  to granules Dray products )":{
+            "Models  : BNTPAFPF-1 to 100gm/BNTPAFPF-2 to 200gm/BNTPAFPF-10 to 1000gm/BNTPAFPF-10 to 3000gm":
+            {
+                "Model" : "BNTPAFPF-1 to 100gm",
+                "name": "Fully auto  pouch packaging machine",  
+                "Power Supply" : "1kW 230 V AC 50Hz ",
+                "Weighing Range" : "1-100Gm",
+                "Accuracy" : "within 2g",
+                "Pouch Selling types": "Center sell /side sell/4 side sell ",
+                "No Head " : "1H/2H/4/",
+                "Speed Par Minuet of pouch" : "10-15/-15-25/30-40",
+                 "Hopper Capacity" : "1 to 2 kg ",
+                 "Machine Dimension" : "700x420x1260mm",
+                 "weight" : "8KG"
+                },
+                {
+                    "Fully auto  pouch packaging machine ":
+                    {
+                    "Model" : "BNTPAFPF-2 to 200gm" {
+                    "name": "Fully auto  pouch packaging machine",  
+                    "Power Supply" : " 1.2 W 230 V AC 50Hz ",
+                    "Weighing Range" : "2-200",
+                    "Accuracy" : "within 2g",
+                    "Pouch Selling types": "Center sell /side sell/4 side sell ",
+                    "No Head " : "1H/2H/4/",
+                    "Speed Par Minuet of pouch" : "10-15/-15-25/30-40",
+                     "Hopper Capacity" : "1 to 2 kg ",
+                     "Machine Dimension" : "700x420x1260mm",
+                     "weight" : "8KG"
+                     },
+            {
+                "Fully auto  pouch packaging machine ":{
+                "Models" : "BNTPAFPF-2 to 200gm" {
+                "name": "Fully auto  pouch packaging machine",  
+                "Power Supply" : " 1.2 W 230 V AC 50Hz ",
+                "Weighing Range" : "2-200",
+                "Accuracy" : "within 2g",
+                "Pouch Selling types": "Center sell /side sell/4 side sell ",
+                "No Head " : "1H/2H/4/",
+                "Speed Par Minuet of pouch" : "10-15/-15-25/30-40",
+                 "Hopper Capacity" : "1 to 2 kg ",
+                 "Machine Dimension" : "700x420x1260mm",
+                 "weight" : "8KG"
+                },
+                 {
+                    "Fully auto  pouch packaging machine ":{
+                        "Models" : "BNTPAFPF-10 to 1000gm"{
+                            "name": "Fully auto  pouch packaging machine",  
+                            "Power Supply" : " 1.5 W 230 V AC 50Hz ",
+                            "Weighing Range" : "10-1000Gm",
+                            "Accuracy" : "within 2g",
+                            "Pouch Selling types": "Center sell /side sell/4 side sell ",
+                            "No Head " : "1H/2H/4/",
+                            "Speed Par Minuet of pouch" : "10-15/-15-25/30-40",
+                             "Hopper Capacity" : "1 to 5 kg  ",
+                             "Machine Dimension" : "420x320x550mm",
+                             "weight" : "60KG"
+                             },
+                        
+                    {
+                      "Fully auto  pouch packaging machine":  {
+                        "models" : "BNTPAFPF-10 to 3000gm"{
+                            "name": "Fully auto  pouch packaging machine",  
+                            "Power Supply" : " 2kw 230 V AC 50Hz ",
+                            "Weighing Range" : "50-5000Gm",
+                            "Accuracy" : "within 2g",
+                            "Pouch Selling types": "Center sell /side sell/4 side sell ",
+                            "No Head " : "1H/2H/4/",
+                            "Speed Par Minuet of pouch" : "10-15/-15-25/30-40",
+                             "Hopper Capacity" : "1 to 6 kg   ",
+                             "Machine Dimension" : "420x320x550mm",
+                             "weight" : "80KG"
+                      }
+                    
+
+                     }
+                      
+                    }
+                 
+                      }
+                    }
+                }
+
+            }
+        }
+    }}
+
+    }
+
+}
