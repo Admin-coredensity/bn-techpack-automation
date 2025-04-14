@@ -1,0 +1,42 @@
+{
+    "Semi/automatic Cup/glass sealing machine":
+    {
+        " BNTPA-140/ BNTPA-SC4-75D/ BNTPA-015SP/BNTPA-3040SP":{
+            "name": "Semi/automatic Cup/glass sealing machine",
+            "Power Supply": " 500W 230 V AC 50Hz ",
+           "Operating": "Manual",
+           "No of cup row & indexer": "1x1",
+           "Cap sealing dimeter": " up-140 mm" ,
+           " Production speed ": " 5 -8 cpm"
+           },
+
+     "BNTPA-SC4-75D" :   {
+        "name": "Semi/automatic Cup/glass sealing machine",
+        "Power Supply": "800 W 230 V AC 50Hz",
+        "Operating": "Semi auto ",
+        "No of cup row & indexer": "4x4 ",
+        "Cap sealing dimeter": " up-140 mm" ,
+        "Production speed ": "8-10CPM"
+    },
+    "BNTPA-015SP" :{
+        "name": "Semi/automatic Cup/glass sealing machine",
+        "Power Supply": "1KW 230 V AC 50Hz",
+        "Operating": "Automatic indexing",
+        "No of cup row & indexer": "2-4x 5",
+        "Cap sealing dimeter": "up-140 mm" ,
+        "Production speed ": "10-15  Cpm/30-40CPM"
+    },
+    " BNTPA-3040SP":{
+        "name": "Semi/automatic Cup/glass sealing machine",
+        "Power Supply": "1.5 KW50W 230 V AC 50Hz",
+        "Operating": "Automatic for online ",
+        "No of cup row & indexer": "4 x 60",
+        "Cap sealing dimeter": "up-140 mm" ,
+        "Production speed ": " 30-40CPM"
+    }
+}
+}
+
+    
+            
+    
