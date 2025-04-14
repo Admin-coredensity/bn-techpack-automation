@@ -1,34 +1,55 @@
-fetch('assets/data/productData.json')
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-      return response.json();
-    })
-    .then(data => {
-      const container = document.getElementById("product-description");
+// Read "type" from URL parameter
+const urlParams = new URLSearchParams(window.location.search);
+const type = urlParams.get('type') || 'liquid-filling-machine'; // fallback default
 
-      const title = `<h2>${data.product_description.title}</h2>`;
-      const overview = `<p>${data.product_description.overview}</p>`;
+// Paths to content
+const basePath = `assets/data/primary-packages/${type}`;
+const mdPath = `${basePath}/description.md`;
+const jsonPath = `${basePath}/models.json`;
 
-      const faqs = data.product_description.faqs.map(faq => `
-        <h5>${faq.question}</h5>
-        <p>${faq.answer}</p>
-      `).join("");
+// Load and render Markdown
+fetch(mdPath)
+  .then(res => res.text())
+  .then(md => {
+    const htmlContent = marked.parse(md);
+    document.querySelector('.product-machine-description').innerHTML = htmlContent;
+  })
+  .catch(err => {
+    console.error('Markdown load error:', err);
+    document.querySelector('.product-machine-description').innerHTML = `<p>Details not available.</p>`;
+  });
 
-      const featuresAuto = data.product_description.features.automatic.map(item => `<li>${item}</li>`).join("");
-      const featuresSemi = data.product_description.features.semi_automatic.map(item => `<li>${item}</li>`).join("");
+// Load and render JSON models
+fetch(jsonPath)
+  .then(res => res.json())
+  .then(data => {
+    const container = document.getElementById('product-models-section');
+    container.innerHTML = '';
 
-      container.innerHTML = `
-        ${title}
-        ${overview}
-        ${faqs}
-        <h6>Features & Advantages of Automatic Liquid Filling Machine:</h6>
-        <ul>${featuresAuto}</ul>
-        <h6>Features & Advantages of Semi-Automatic Liquid Filling Machine:</h6>
-        <ul>${featuresSemi}</ul>
-      `;
-    })
-    .catch(error => {
-      console.error('Error loading the product description:', error);
+    data.sections.forEach(section => {
+      const sectionTitle = `<h4 class="product-model-section-main-heading">${section.title}</h4>`;
+      container.insertAdjacentHTML('beforeend', sectionTitle);
+
+      section.categories.forEach(category => {
+        const catHeading = `<p class="product-model-category-heading">${category.subtitle}</p>`;
+        const modelsHTML = category.models.map(model => `
+          <div class="product-model-card" id="${model.id}">
+            <a href="${model.link}">
+              <div class="product-model-image-container">
+                <img class="product-model-image" src="${model.image}" alt="${model.name}">
+              </div>
+              <div class="product-model-content">
+                <p class="product-model-name">${model.name}</p>
+              </div>
+            </a>
+          </div>
+        `).join('');
+
+        container.insertAdjacentHTML('beforeend', catHeading + `<div class="product-models-container">${modelsHTML}</div>`);
+      });
     });
+  })
+  .catch(err => {
+    console.error('JSON load error:', err);
+    document.getElementById('product-models-section').innerHTML = `<p>Model data not available.</p>`;
+  });
