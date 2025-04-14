@@ -32,30 +32,37 @@ Most machines are operator-friendly and suitable for integration into automated 
 ### What Are the Benefits of Coding?
 Features & Advantages of Automatic Coding Machines
 
-We offer fully-automatic coding machines equipped with smart control systems, suitable for high-speed production lines or standalone use.
-Rapid, high-resolution printing for batch, expiry, and barcode data
-Smart sensor-based automatic detection and coding
-Low power consumption for efficient energy use
-Supports a wide range of packaging materials: plastic, glass, paper, metal, etc.
-Maintenance-free design with auto-cleaning functionality
-Ideal for large-volume coding in industries with fast-moving goods
-PLC-based control for precise, customizable output
+- We offer fully-automatic coding machines equipped with smart control systems, suitable for high-speed production lines or standalone use.
+
+- Rapid, high-resolution printing for batch, expiry, and barcode data
+
+- Smart sensor-based automatic detection and coding
+
+- Low power consumption for efficient energy use
+
+- Supports a wide range of packaging materials: plastic, glass, paper, metal, etc.
+
+- Maintenance-free design with auto-cleaning functionality
+
+- Ideal for large-volume coding in industries with fast-moving goods
+
+- PLC-based control for precise, customizable output
 
 #### Features & Advantages of Semi-Automatic Coding Machines
 
-Our semi-automatic coding machines use reliable PCB-based control systems,
+- Our semi-automatic coding machines use reliable PCB-based control systems,
 
-making them ideal for small to medium-scale production environments.
+- making them ideal for small to medium-scale production environments.
 
-Easy setup with manual or foot-pedal operation
+- Easy setup with manual or foot-pedal operation
 
-Cost-effective solution for batch printing needs
+- Cost-effective solution for batch printing needs
 
-Adjustable print area and font size
+- Adjustable print area and font size
 
-Suitable for flat and curved surfaces (labels, jars, cartons, pouches)
+- Suitable for flat and curved surfaces (labels, jars, cartons, pouches)
 
-Minimal maintenance and low energy usage
+- Minimal maintenance and low energy usage
 
-Compatible with various ink types (dry ink, thermal ink, solvent-based)
+- Compatible with various ink types (dry ink, thermal ink, solvent-based)
 

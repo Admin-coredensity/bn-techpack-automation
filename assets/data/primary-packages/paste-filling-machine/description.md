@@ -16,13 +16,13 @@ This is typically a single-operator machine, allowing for fast and continuous fi
 ### Types of Paste Filling Machines
 Paste Filling Machines come in various types depending on your production needs:
 
-🔹 Semi-Automatic Paste Filling Machine – Best for small to medium scale 
+-  Semi-Automatic Paste Filling Machine – Best for small to medium scale 
 
-🔹 Automatic Paste Filling Machine – Suitable for high-speed production lines
+-  Automatic Paste Filling Machine – Suitable for high-speed production lines
 
-🔹 Pneumatic Paste Filling Machine – Offers precision with air pressure operation
+-  Pneumatic Paste Filling Machine – Offers precision with air pressure operation
 
-🔹 Servo-Based Paste Filler – Highly accurate and programmable
+-  Servo-Based Paste Filler – Highly accurate and programmable
 
 ### Global Packaging Automation – Trusted Across India
 Global Packaging Automation is a leading Paste Filling Machine supplier and manufacturer in India. We cater to clients across PAN India, offering a wide range of paste fillers to suit different industries and production needs.
@@ -30,17 +30,17 @@ Global Packaging Automation is a leading Paste Filling Machine supplier and manu
  #### What Are the Benefits of Paste Filling?
 Key Features & Advantages:
 
-✅ High-Speed Filling – Takes only 1.3 seconds per container (varies by model)
+-  High-Speed Filling – Takes only 1.3 seconds per container (varies by model)
 
-✅ Accurate Volume Dispensing – Reduces waste and ensures consistency
+- Accurate Volume Dispensing – Reduces waste and ensures consistency
 
-✅ Low Voltage Consumption – Energy-efficient and cost-saving
+- Low Voltage Consumption – Energy-efficient and cost-saving
 
-✅ Auto Nozzle Shut-Off & Anti-Drip System
+- Auto Nozzle Shut-Off & Anti-Drip System
 
-✅ Maintenance-Free Mechanism – Easy to clean and service
+- Maintenance-Free Mechanism – Easy to clean and service
 
-✅ Can Handle Multiple Viscosity Levels
+- Can Handle Multiple Viscosity Levels
 
-✅ PLC Control for High Accuracy & Automation
+- PLC Control for High Accuracy & Automation
 

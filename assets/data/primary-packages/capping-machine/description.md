@@ -25,39 +25,38 @@ The machine is reliable, operator-friendly, and suited for single-person operati
 
 ### What are the Benefits of Capping?
 Features & Advantages of Automatic Capping Machines
-We offer fully-automatic capping machines with intelligent controls and automation capabilities.
+
+- We offer fully-automatic capping machines with intelligent controls and automation capabilities.
 They can be integrated with filling lines or used as standalone units for maximum flexibility.
 
-High-speed capping with consistent torque application
+- High-speed capping with consistent torque application
 
-Reduces labor costs and increases throughput
+- Reduces labor costs and increases throughput
 
-Automatic cap feeding and placement system
+- Automatic cap feeding and placement system
 
-Adjustable for various container heights and cap types
+- Adjustable for various container heights and cap types
 
-Energy-efficient with low power consumption
+- Energy-efficient with low power consumption
 
-PLC-based control system for precision and repeatability
+- PLC-based control system for precision and repeatability
 
-Minimal maintenance requirements and quick changeover features
+- Minimal maintenance requirements and quick changeover features
 
-Ideal for high-volume production in regulated industries
+- Ideal for high-volume production in regulated industries
 
 #### Features & Advantages of Semi-Automatic Capping Machines
 
-Our semi-automatic capping machines feature intuitive control systems and rugged build quality, making them ideal for small to medium-scale operations.
+- Our semi-automatic capping machines feature intuitive control systems and rugged build quality, making them ideal for small to medium-scale operations.
 
-asy to use with manual or foot-pedal operation
+- Easy to use with manual or foot-pedal operation
 
-Compatible with a wide range of cap and bottle sizes
+- Compatible with a wide range of cap and bottle sizes
 
-Accurate and repeatable torque application
+- Accurate and repeatable torque application Compact, space-saving design
 
-Compact, space-saving design
+- Power-efficient and cost-effective for small batch runs
 
-Power-efficient and cost-effective for small batch runs
+- Tool-free adjustments for quick setup and switching between product lines
 
-Tool-free adjustments for quick setup and switching between product lines
-
-Ideal for startups or businesses scaling up production
+- Ideal for startups or businesses scaling up production
