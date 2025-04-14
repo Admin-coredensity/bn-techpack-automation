@@ -4,6 +4,22 @@ const productId = urlParams.get("id");
 
 const container = document.getElementById("variant-sections-container");
 
+// Helper to generate a table row only if the value exists
+function generateRow(label, value, id) {
+  if (!value || value.trim() === "") return "";
+  return `
+    <tr>
+      <th class="th-heading" scope="row">${label}</th>
+      <td id="${id}">${value}</td>
+    </tr>`;
+}
+
+// Helper to generate a <p> line only if the value exists
+function generateParagraph(label, value, id) {
+  if (!value || value.trim() === "") return "";
+  return `<p id="${id}"><strong>${label}:</strong> ${value}</p>`;
+}
+
 function renderVariant(variantKey, variantData) {
   return `
     <div class="product-model-detail-container">
@@ -12,40 +28,27 @@ function renderVariant(variantKey, variantData) {
         <a class="btn-getEnquireNow">Enquire Now</a>
       </div>
       <div class="product-model-section-2">
-        <h4 id="product-model-name">${variantData.name}</h4>
+        <h4 id="product-model-name">${variantData.name || "-"}</h4>
         <div id="product-model-category-container">
-          <p id="product-model-number"><strong>Model No.:</strong> ${variantData.model}</p>
-          <p id="product-model-category"><strong>Category:</strong> ${variantData.category}</p>
+          ${generateParagraph("Model No.", variantData.model, "product-model-number")}
+          ${generateParagraph("Category", variantData.category, "product-model-category")}
         </div>
         <div>
           <h4 class="technical-specification-text">Technical Specification</h4>
           <table class="table table-striped">
-            <tbody>
-              <tr>
-                <th class="th-heading" scope="row">Power</th>
-                <td id="product-model-power">${variantData.power}</td>
-              </tr>
-              <tr>
-                <th class="th-heading" scope="row">Air Pressure</th>
-                <td id="product-model-air-pressure">${variantData.airPressure}</td>
-              </tr>
-              <tr>
-                <th class="th-heading" scope="row">Filling Speed</th>
-                <td id="product-model-filling-speed">${variantData.fillingSpeed}</td>
-              </tr>
-              <tr>
-                <th class="th-heading" scope="row">Filling Accuracy</th>
-                <td id="product-model-filling-accuracy">${variantData.fillingAccuracy}</td>
-              </tr>
-              <tr>
-                <th class="th-heading" scope="row">Machine Dimension L x W x H</th>
-                <td id="product-model-machine-dimensions">${variantData.machineDimensionLxWxH}</td>
-              </tr>
-              <tr>
-                <th class="th-heading" scope="row">Weight</th>
-                <td id="product-model-weight">${variantData.weight}</td>
-              </tr>
-            </tbody>
+        <tbody>
+            ${generateRow("Power", variantData.power, "product-model-power")}
+            ${generateRow("Air Pressure", variantData.airPressure, "product-model-air-pressure")}
+            ${generateRow("Filling Speed", variantData.fillingSpeed, "product-model-filling-speed")}
+            ${generateRow("Filling Accuracy", variantData.fillingAccuracy, "product-model-filling-accuracy")}
+            ${generateRow("MOC", variantData.MOC, "product-model-moc")}
+            ${generateRow("Production Speed BPM", variantData.productionSpeedBPM, "product-model-production-speed-bpm")}
+            ${generateRow("Capping Dimeter", variantData.cappingDimeter, "product-model-capping-dimeter")}
+            ${generateRow("Operating", variantData.operating, "product-model-operating")}
+            ${generateRow("Print no of line", variantData.printNoOfLine, "product-model-print-no-of-line")}
+            ${generateRow("Machine Dimension L x W x H", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
+            ${generateRow("Weight", variantData.weight, "product-model-weight")}
+          </tbody>
           </table>
         </div>
       </div>
@@ -79,3 +82,6 @@ function goBack() {
     window.location.href = '/index.html';
   }
 }
+
+
+
