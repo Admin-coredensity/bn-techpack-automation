@@ -1,0 +1,56 @@
+{
+  "powderFillingMachines": {
+    "BNTPASPF-1to100gm": {
+      "BNTPASPF-1 to 100gm": {
+        "name": "BNTPASPF-1 to 100gm",
+        "category": "Use for Viscosity for Powders to granules Dray products",
+        "power": "200W 230 V AC 50Hz ",
+        "weighingRange": "1-100Gm",
+        "accuracy": "Within 1-+2GM",
+        "speed": "10-15 times/min",
+        "hopperCapacity": "1 to 2 kg",
+        "machineDimensionLxWxH": "700x420x1260mm",
+        "weight": "8KG"
+      }
+    },
+    "BNTPASPF-2to200gm": {
+      "BNTPASPF-2 to 200gm": {
+        "name": "BNTPASPF-2 to 200gm",
+        "category": "Use for Viscosity for Powders  to granules Dray products",
+        "power": " 200W 230 V AC 50Hz  ",
+        "weighingRange": "2-200gm",
+        "accuracy": "Within 1-+2GM",
+        "speed": "10-15 times/min",
+        "hopperCapacity": "1 to 2 kg",
+        "machineDimensionLxWxH": "700x420x1260mm",
+        "weight": "8KG"
+      }
+    },
+    "BNTPASPF-10to1000gm": {
+      "BNTPASPF-10 to 1000gm": {
+        "name": "BNTPASPF-10 to 1000gm",
+        "category": "Use for Viscosity for Powders to granules Dray products",
+        "power": "80W 230 V AC 50Hz",
+        "weighingRange": "10-1000Gm",
+        "accuracy": "Within 1-+2GM",
+        "speed": "10-15 times/min",
+        "hopperCapacity": "1 to 5 kg ",
+        "machineDimensionLxWxH": "420x320x550mm",
+        "weight": "60KG"
+      }
+    },
+    "BNTPASPF-10to3000gm": {
+      "BNTPASPF-10 to 3000gm": {
+        "name": "BNTPASPF-10 to 3000gm",
+        "category": "Use for Viscosity for Powders to granules Dray products",
+        "power": "80W 230 V AC 50Hz",
+        "weighingRange": "50-5000Gm",
+        "accuracy": "Within 1-+2GM",
+        "speed": "10-15 times/min",
+        "hopperCapacity": "1 to 5 kg",
+        "machineDimensionLxWxH": "420x320x550mm",
+        "weight": "80KG"
+      }
+    }
+  }
+}
