@@ -43,18 +43,25 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Filling Accuracy", variantData.fillingAccuracy, "product-model-filling-accuracy")}
             ${generateRow("MOC", variantData.MOC, "product-model-moc")}
             ${generateRow("Production Speed BPM", variantData.productionSpeedBPM, "product-model-production-speed-bpm")}
+            ${generateRow("Speed", variantData.speed, "product-model-speed")}
             ${generateRow("Capping Dimeter", variantData.cappingDimeter, "product-model-capping-dimeter")}
             ${generateRow("Operating", variantData.operating, "product-model-operating")}
             ${generateRow("Print no of line", variantData.printNoOfLine, "product-model-print-no-of-line")}
             ${generateRow("Label Roll Diameter", variantData.labelRollDiameter, "product-model-label-roll-diameter")}
             ${generateRow("Label Accuracy", variantData.labelAccuracy, "product-model-label-accuracy")}
+            ${generateRow("Accuracy", variantData.accuracy, "product-model-accuracy")}
+            ${generateRow("Weight", variantData.weight, "product-model-weight")}
             ${generateRow("Core Inner Diameter", variantData.coreInnerDiameter, "product-model-core-inner-diameter")}
             ${generateRow("Gap Between Two Labels", variantData.gapBetweenTwoLabels, "product-model-gap-between-two-labels")}
             ${generateRow("Applicator For Types", variantData.applicatorForTypes, "product-model-applicator-for-types")}
             ${generateRow("Machine Operated", variantData.machineOperated, "product-model-machine-operated")}
             ${generateRow("Applicator Label Size Length Any size", variantData.applicatorLabelSizeLengthAnySize, "product-model-applicator-label-size-length-any-size")}
             ${generateRow("Material Of Construction", variantData.materialOfConstruction, "product-model-material-of-construction")}
-            ${generateRow("Machine Dimension L x W x H", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
+            ${generateRow("No Of Cup Row & Indexer", variantData.noOfCupRowAndIndexer, "product-model-no-of-cup-row-and-indexer")}
+            ${generateRow("Cap Sealing Diameter", variantData.capSealingDiameter, "product-model-cap-sealing-diameter")}
+            ${generateRow("Weighing Range", variantData.weighingRange, "product-model-weighing-range")}
+            ${generateRow("Hopper Capacity", variantData.hopperCapacity, "product-model-hopper-capacity")}
+            ${generateRow("Machine Dimension LxWxH", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
           </tbody>
           </table>
         </div>

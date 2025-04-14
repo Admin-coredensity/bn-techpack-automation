@@ -2,7 +2,9 @@
   "powderFillingMachines": {
     "BNTPASPF-1to100gm": {
       "BNTPASPF-1 to 100gm": {
-        "name": "BNTPASPF-1 to 100gm",
+        "name": "Semi auto powder filling",
+        "model": "BNTPASPF-1 to 100gm",
+        "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders to granules Dray products",
         "power": "200W 230 V AC 50Hz ",
         "weighingRange": "1-100Gm",
@@ -15,7 +17,9 @@
     },
     "BNTPASPF-2to200gm": {
       "BNTPASPF-2 to 200gm": {
-        "name": "BNTPASPF-2 to 200gm",
+        "name": "Semi auto powder filling",
+        "model": "BNTPASPF-2 to 200gm",
+        "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders  to granules Dray products",
         "power": " 200W 230 V AC 50Hz  ",
         "weighingRange": "2-200gm",
@@ -28,7 +32,9 @@
     },
     "BNTPASPF-10to1000gm": {
       "BNTPASPF-10 to 1000gm": {
-        "name": "BNTPASPF-10 to 1000gm",
+        "name": "Semi auto powder filling",
+        "model": "BNTPASPF-10 to 1000gm",
+        "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders to granules Dray products",
         "power": "80W 230 V AC 50Hz",
         "weighingRange": "10-1000Gm",
@@ -41,7 +47,9 @@
     },
     "BNTPASPF-10to3000gm": {
       "BNTPASPF-10 to 3000gm": {
-        "name": "BNTPASPF-10 to 3000gm",
+        "name": "Semi auto powder filling",
+        "model": "BNTPASPF-10 to 3000gm",
+        "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders to granules Dray products",
         "power": "80W 230 V AC 50Hz",
         "weighingRange": "50-5000Gm",
