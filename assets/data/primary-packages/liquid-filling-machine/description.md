@@ -53,8 +53,13 @@ Our semi-automatic liquid filling machines are built with advanced PCB control s
 making them reliable and cost-effective solutions for small to medium-scale operations.
 
 ✅ User-friendly operation with easy adjustment settings
+
 ✅Power-saving design that reduces energy consumption
+
 ✅Filling accuracy and volume control with minimal wastage
+
 ✅Supports viscous and non-viscous liquids
+
 ✅Adjustable fill speed and nozzle sizes to match container types
+
 ✅Compatible with a wide range of container materials and sizes
