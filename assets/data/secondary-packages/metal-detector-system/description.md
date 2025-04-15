@@ -1,39 +1,34 @@
-# The Labeling Machine
+# The Metal Detector System
+The Metal Detector System is designed to accurately detect and reject any unwanted metal contaminants from products moving through a production line. It is an ideal choice for industries like food and beverage, pharmaceuticals, cosmetics, chemicals, textiles, and packaging, where safety, compliance, and quality control are critical.
 
-The Labeling Machine is designed to accurately apply labels to containers such as bottles, jars, tubes, or cartons. It is an ideal choice for industries like food and beverage, pharmaceuticals, cosmetics, chemicals, and packaging, where products require consistent, precise, and professional labeling.
+### What is a Metal Detector System?
+Metal Detector Systems are used to identify metallic contaminants (ferrous, non-ferrous, and stainless steel) in products during production or packaging.
+Whether it's raw materials, finished goods, or bulk-packaged items, these systems ensure that your products meet industry safety standards.
+They are essential for facilities that require consistent inspection, regulatory compliance, and consumer protection.
 
+### How to Use a Metal Detector System?
+- Metal Detector Systems are easy to operate and require minimal manual intervention. Here’s how they work:
 
-### What is a Labeling Machine?
+- Place or convey the product through the detection tunnel or platform.
 
-Labeling Machines are used to apply printed labels onto products or packaging surfaces quickly and efficiently. Whether it's a barcode, branding, ingredient list, or compliance label, these machines ensure accurate placement every time. They are essential for production lines that demand speed, consistency, and quality control.
+- The machine scans for metallic contaminants using advanced electromagnetic technology.
 
-### How to Use a Labeling Machine?
+- If metal is detected, the system activates a reject mechanism (e.g., pusher, air blast, or diverter) to remove the affected product from the production line.
 
-Labeling Machines are simple to operate and deliver high output with minimal manual effort. Here’s how to use one:
+- The product continues to the next stage if no contaminants are found.
 
-- Place the container (bottle, jar, box, etc.) on the conveyor or designated platform.
+These systems are built for continuous operation and can be managed by a single operator or integrated into fully automated lines.
 
-- Feed the label roll into the machine and set parameters such as label size and position.
+### Types of Metal Detector Systems
+- Depending on the application and type of products being inspected, different types of metal detectors are available:
 
-- The machine automatically applies the label as the container moves through or is held in place.
+- Conveyor-Type Metal Detector – Ideal for packaged and unpackaged products moving on a conveyor belt
 
-- Once labeled, the container is ready for the next stage of packaging or shipping.
+- Gravity-Fed Metal Detector – Designed for powders, granules, and free-flowing bulk materials
 
-- These machines are typically designed for single-operator use and support continuous labeling for fast-paced production lines.
+- Pipeline Metal Detector – Best for liquids, sauces, or paste products in pipeline production
 
-### Types of Labeling Machines
+- Tablet Metal Detector – Tailored for pharmaceutical tablets or capsules
 
-Depending on the product and application method, there are several types of labeling machines available:
-
-Semi-Automatic Labeling Machine – Perfect for small batch operations
-
-- Automatic Labeling Machine – Ideal for high-speed and large-scale labeling
-
-- Top/Bottom Labeling Machine – Applies labels on top or bottom surfaces
-
-- Wrap Around Labeling Machine – Used for bottles, jars, or cylindrical containers
-
-- Front & Back Labeling Machine – Labels both sides of flat or round containers
-
-- Global Packaging Automation – Your Labeling Machine Partner
+- Combination Systems – Integrates metal detection with checkweighers or X-ray inspection for added quality assurance
 
