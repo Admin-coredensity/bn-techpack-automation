@@ -1,0 +1,52 @@
+{
+    "cupGlassSealingMachines": {
+        "BNTPA-140": {
+            "BNTPA-140": {
+                "name": "Semi/automatic Cup/glass sealing machine",
+                "model": "BNTPA-140",
+                "image": "assets/img/products/cup-glass-sealing-machine.png",
+                "power": " 500W 230 V AC 50Hz ",
+                "operating": "Manual",
+                "noOfCupRowAndIndexer": "1x1",
+                "capSealingDiameter": " up-140 mm",
+                "speed": " 5 -8 cpm"
+            }
+        },
+        "BNTPA-SC4-75D": {
+            "BNTPA-SC4-75D": {
+                "name": "Semi/automatic Cup/glass sealing machine",
+                "model": "BNTPA-SC4-75D",
+                "image": "assets/img/products/cup-glass-sealing-machine.png",
+                "power": "800 W 230 V AC 50Hz",
+                "operating": "Semi auto ",
+                "noOfCupRowAndIndexer": "4x4 ",
+                "capSealingDiameter": " up-140 mm",
+                "speed": "8-10CPM"
+            }
+        },
+        "BNTPA-015SP": {
+            "BNTPA-015SP": {
+                "name": "Semi/automatic Cup/glass sealing machine",
+                "model": "BNTPA-015SP",
+                "image": "assets/img/products/cup-glass-sealing-machine.png",
+                "power": "1KW 230 V AC 50Hz",
+                "operating": "Automatic indexing",
+                "noOfCupRowAndIndexer": "2-4x 5",
+                "capSealingDiameter": "up-140 mm",
+                "speed": "10-15  Cpm/30-40CPM"
+            }
+        },
+        "BNTPA-3040SP": {
+            "BNTPA-3040SP": {
+                "name": "Semi/automatic Cup/glass sealing machine",
+                "model": "BNTPA-3040SP",
+                "image": "assets/img/products/cup-glass-sealing-machine.png",
+                "power": "1.5 KW50W 230 V AC 50Hz",
+                "operating": "Automatic for online ",
+                "noOfCupRowAndIndexer": "4 x 60",
+                "capSealingDiameter": "up-140 mm",
+                "speed": " 30-40CPM"
+            }
+        }
+    }
+}

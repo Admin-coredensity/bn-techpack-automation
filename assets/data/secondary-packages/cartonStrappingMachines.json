@@ -1,0 +1,74 @@
+{
+  "cappingMachines": {
+    "BNTPA-2040D-1H": {
+      "BNTPA-2040D-1H": {
+        "name": "ROPP Capping machine",
+        "category": "",
+        "model": "BNTPA-2040D-1H",
+        "image": "assets/img/products/capping-machine.png",
+        "power": "1.5KW 230 V AC 50Hz ",
+        "MOC": "MS/SS304",
+        "productionSpeedBPM": "30-40 bpm",
+        "cappingDimeter": "Up to 100 mm",
+        "machineDimensionLxWxH": "560x420x430",
+        "weight": "22KG"
+      }
+    },
+    "BNTPA-2040D-4H": {
+      "BNTPA-2040D-4H": {
+        "name": "ROPP Capping machine",
+        "category": "",
+        "model": "BNTPA-2040D-4H",
+        "image": "assets/img/products/capping-machine.png",
+        "power supply ": "2.5W 230 V AC 50Hz",
+        "MOC": "MS/SS304",
+        "productionSpeedBPM": "50-60 bom",
+        "cappingDimeter": "Up to 100 mm",
+        "machineDimensionLxWxH": "",
+        "weight": ""
+      }
+    },
+    "BNTPA-2040-6H": {
+      "BNTPA-2040-6H": {
+        "name": "ROPP Capping machine",
+        "category": "",
+        "model": "BNTPA-2040-6H",
+        "image": "assets/img/products/capping-machine.png",
+        "power Supply ": "3 KW 230 V AC 50Hz",
+        "MOC": "MS/SS304",
+        "productionSpeedBPM": "70-80 bom",
+        "cappingDimeter": "Up to 100 mm",
+        "machineDimensionLxWxH": "-",
+        "weight": ""
+      }
+    },
+    "BNTPA-2050DM": {
+      "BNTPA-2050DM": {
+        "name": "ROPP Capping machine",
+        "category": "",
+        "model": "BNTPA-2050DM",
+        "image": "assets/img/products/capping-machine.png",
+        "power Supply ": "50W 230 V AC 50Hz",
+        "MOC": "TOLL",
+        "productionSpeedBPM": "10 TO 12 BPM",
+        "cappingDimeter": "20 TO 50 MM",
+        "machineDimensionLxWxH": "",
+        "weight": ""
+      }
+    },
+    "BNTPA-2050DSM": {
+      "BNTPA-2050DSM": {
+        "name": "ROPP Capping machine",
+        "category": "",
+        "model": "BNTPA-2050DSM",
+        "image": "assets/img/products/capping-machine.png",
+        "power Supply ": "180W 230 V AC 50Hz ",
+        "MOC": "Aluminum/MS/ss",
+        "productionSpeedBPM": "10 TO 12 BPM",
+        "cappingDimeter": "20 to 50 mm",
+        "machineDimensionLxWxH": "",
+        "weight": ""
+      }
+    }
+  }
+}

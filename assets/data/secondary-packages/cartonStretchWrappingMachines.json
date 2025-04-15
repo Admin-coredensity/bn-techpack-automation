@@ -1,0 +1,52 @@
+{
+  "codingMachines": {
+    "BNTPA-DY8/BNTPA-HP241-B/BNTPA-380FSS/BNTPA-380FMS": {
+      "BNTPA-DY8": {
+        "name": "Coding Machine",
+        "model": "BNTPA-DY8",
+        "image": "assets/img/products/coding-machine.png",
+        "power": "230 V AC 50Hz",
+        "airPressure": "4 to 6 Bar",
+        "operating": "Handy Manual",
+        "printNoOfLine": "3-4",
+        "weight": "22KG"
+      }
+    },
+    "BNTPA-HP241-B": {
+      "BNTPA-HP241-B": {
+        "name": "Coding Machine",
+        "model": "BNTPA-HP241-B",
+        "image": "assets/img/products/coding-machine.png",
+        "power": "230 V AC 50Hz",
+        "airPressure": "4 to 6 Bar",
+        "operating": "Semi auto",
+        "printNoOfLine": "3-4",
+        "weight": "22KG"
+      }
+    },
+    " BNTPA-380FSS": {
+      " BNTPA-380FSS": {
+        "name": "Coding Machine",
+        "model": "BNTPA-380FSS",
+        "image": "assets/img/products/coding-machine.png",
+        "power": "230 V AC 50Hz",
+        "airPressure": "4 to 6 Bar",
+        "operating": " Automatic",
+        "printNoOfLine": "3-4",
+        "weight": "22KG"
+      }
+    },
+    "BNTPA-380FMS": {
+      "BNTPA-380FMS": {
+        "name": "Coding Machine",
+        "model": "BNTPA-380FMS",
+        "image": "assets/img/products/coding-machine.png",
+        "power": "50W 230 V AC 50Hz",
+        "airPressure": "4 to 6 Bar",
+        "operating": " Automatic",
+        "printNoOfLine": "3-4",
+        "weight": "22KG"
+      }
+    }
+  }
+}
