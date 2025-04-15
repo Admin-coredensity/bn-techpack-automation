@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "title": "Induction sealing",
+      "title": "Industrial Conveyor System",
       "categories": [
         {
           "subtitle": "",
@@ -9,26 +9,26 @@
             {
               "id": "BNTPA-200f",
               "name": "BNTPA-200f",
-              "image": "assets/img/products/induction-sealing-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=inductionSealingMachines&id=BNTPA-200f"
+              "image": "assets/img/products/industrial-conveyor.jpg",
+              "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-200f"
             },
             {
               "id": "BNTPA-600c",
               "name": "BNTPA-600c",
-              "image": "assets/img/products/induction-sealing-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=inductionSealingMachines&id=BNTPA-600c"
+              "image": "assets/img/products/industrial-conveyor.jpg",
+              "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-600c"
             },
             {
               "id": "BNTPA-20100D",
               "name": "BNTPA-20100D",
-              "image": "assets/img/products/induction-sealing-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=inductionSealingMachines&id=BNTPA-20100D"
+              "image": "assets/img/products/industrial-conveyor.jpg",
+              "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-20100D"
             },
             {
               "id": "BNTPA-60130D",
               "name": "BNTPA-60130D",
-              "image": "assets/img/products/induction-sealing-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=inductionSealingMachines&id=BNTPA-60130D"
+              "image": "assets/img/products/industrial-conveyor.jpg",
+              "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-60130D"
             }
           ]
         }
