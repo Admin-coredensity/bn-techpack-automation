@@ -4,7 +4,7 @@
       "BNTPA-4525R/B": {
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4525R/B",
-        "image": "assets/img/products/carton-strapping-machine.png",
+        "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
         "speed": "Up to 60",
         "hitZoneSizeLXWXH": "1000X450X250 / 1250X450X250",
         "heaterLoadCapacity": "7 -9 kw",
@@ -19,6 +19,7 @@
       "BNTPA-4535R/B": {
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4535R/B",
+        "image": "assets/img/products/chamber-type-shrink-tunnel-type-wrapping-machine.png",
         "speed": "Up to 60",
         "hitZoneSizeLXWXH": "1250X450X250 / 1250X450X350",
         "heaterLoadCapacity": "9-12 kw",
@@ -33,6 +34,7 @@
       "BNTPA-6045R/B": {
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-6045R/B",
+        "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
         "speed": "Up to 60",
         "hitZoneSizeLXWXH": "1000X450X350",
         "heaterLoadCapacity": "15-19 kw",
@@ -47,6 +49,7 @@
       "BNTPA-4525MR/B": {
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4525MR/B",
+        "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
         "speed": "Up to 20",
         "hitZoneSizeLXWXH": "1250X450X350",
         "heaterLoadCapacity": "5-7 kw",
@@ -61,6 +64,7 @@
       "BNTPA-4525ER/B": {
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4525ER/B",
+        "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
         "speed": "Up to 40",
         "hitZoneSizeLXWXH": "1500X600X450",
         "heaterLoadCapacity": "6-8 kw",
@@ -75,6 +79,7 @@
       "BNTPA-SS612/P": {
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-SS612/P",
+        "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
         "speed": "UP-40",
         "hitZoneSizeLXWXH": "500X450X250, 1000X450X250, 1500X150X300",
         "heaterLoadCapacity": "12-16 kw",
@@ -89,6 +94,7 @@
       "BNTPA-2015-P": {
         "name": "Chamber type shrink wrapping machine",
         "model": "BNTPA-2015-P",
+        "image": "assets/img/products/chamber-type-shrink-wrapping-machine.png",
         "speed": "5-8",
         "slingSizeLxW": "Upto 500 / Up to 350",
         "sellingPower": "900 va",
@@ -102,6 +108,7 @@
       "BNTPA-2015-M": {
         "name": "Chamber type shrink wrapping machine",
         "model": "BNTPA-2015-M",
+        "image": "assets/img/products/chamber-type-shrink-wrapping-machine.png",
         "speed": "6-10",
         "slingSizeLxW": "Up to 500 / Up to 350",
         "sellingPower": "900 va",

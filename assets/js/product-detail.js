@@ -64,10 +64,15 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Pouch Selling Types", variantData.pouchSellingTypes, "product-model-pouch-selling-types")}
             ${generateRow("No Head", variantData.noHead, "product-model-no-head")}
             ${generateRow("Box Size", variantData.boxSize, "product-model-box-size")}
+            ${generateRow("Model Type", variantData.modelType, "product-model-model-type")}
+            ${generateRow("Applicable Film", variantData.applicableFilm, "product-model-model-applicable-film")}
             ${generateRow("Air Supply", variantData.airSupply, "product-model-air-supply")}
             ${generateRow("Width BOPP/Strap", variantData.widthBOPPStrap, "product-model-width-BOPP-Strap")}
             ${generateRow("Strap Width", variantData.strapWidth, "product-model-strap-width")}
+            ${generateRow("Conveyor Drive Types", variantData.conveyorDriveTypes, "product-model-conveyor-drive-types")}
+            ${generateRow("Heater Load Capacity", variantData.heaterLoadCapacity, "product-model-heater-load-capacity")}
             ${generateRow("Weight", variantData.weight, "product-model-weight")}
+            ${generateRow("Hit Zone Size LXWXH", variantData.hitZoneSizeLXWXH, "product-model-hit-zone-size-LXWXH")}
             ${generateRow("Machine Dimension LxWxH", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
           </tbody>
           </table>
@@ -79,27 +84,27 @@ function renderVariant(variantKey, variantData) {
 
 // Fetch product data
 fetch(`assets/data/${category}/${productType}.json`)
-    .then((res) => {
-        if (!res.ok) throw new Error(`Failed to load ${category}/${productType}.json`);
-        return res.json();
-    })
-    .then((data) => {
-        const productData = data?.[productType]?.[productId];
+  .then((res) => {
+    if (!res.ok) throw new Error(`Failed to load ${category}/${productType}.json`);
+    return res.json();
+  })
+  .then((data) => {
+    const productData = data?.[productType]?.[productId];
 
-        if (productData) {
-            const rendered = Object.entries(productData)
-                .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
-                .join("");
-            container.innerHTML = rendered;
-        } else {
-            console.warn("Matching product type or ID not found in data.");
-            container.innerHTML = `<p>Product not found or has no variants.</p>`;
-        }
-    })
-    .catch((err) => {
-        console.error("Error loading product detail:", err);
-        container.innerHTML = `<p>Error loading product details.</p>`;
-    });
+    if (productData) {
+      const rendered = Object.entries(productData)
+        .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
+        .join("");
+      container.innerHTML = rendered;
+    } else {
+      console.warn("Matching product type or ID not found in data.");
+      container.innerHTML = `<p>Product not found or has no variants.</p>`;
+    }
+  })
+  .catch((err) => {
+    console.error("Error loading product detail:", err);
+    container.innerHTML = `<p>Error loading product details.</p>`;
+  });
 
 // Go back function 
 function goBack() {

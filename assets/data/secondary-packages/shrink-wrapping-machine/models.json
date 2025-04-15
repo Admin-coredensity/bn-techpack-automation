@@ -1,102 +1,56 @@
 {
   "sections": [
     {
-      "title": "Semi auto paste filling machine pneumatic operated",
+      "title": "Tunnel Type Shrink Wrapping Machine",
       "categories": [
         {
-          "subtitle": "use for viscosity for water to paste level",
+          "subtitle": "",
           "models": [
             {
-              "id": "BNTPAPF-10-100-GM-ML-1H/ML2H",
-              "name": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
-              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAPF-10-100-GM-ML-1H/ML2H"
+              "id": "BNTPA-4525R/B",
+              "name": "BNTPA-4525R/B",
+              "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-4525R/B"
             },
             {
-              "id": "BNTPAPF-50-500-GM-ML-1H/ML2H",
-              "name": "BNTPAPF: 50-500 GM-ML 1H/ML2H",
-              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAPF-50-500-GM-ML-1H/ML2H"
+              "id": "BNTPA-4535R/B",
+              "name": "BNTPA-4535R/B",
+              "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-4535R/B"
             },
             {
-              "id": "BNTPAPF-100-1000-GM-ML-1H/ML2H",
-              "name": "BNTPAPF: 100-1000 GM-ML 1H/ML2H",
-              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAPF-100-1000-GM-ML-1H/ML2H"
+              "id": "BNTPA-6045R/B",
+              "name": "BNTPA-6045R/B",
+              "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-6045R/B"
             },
             {
-              "id": "BNTPAPF-500-5000-GM-ML-1H/2H",
-              "name": "BNTPAPF: 500-5000 GM-ML 1H/2H",
-              "image": "assets/img/products/semi-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAPF-500-5000-GM-ML-1H/2H"
+              "id": "BNTPA-4525MR/B",
+              "name": "BNTPA-4525MR/B",
+              "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-4525MR/B"
             }
           ]
         }
       ]
     },
     {
-      "title": "Fully automatic pneumatics operated paste filling Machine",
+      "title": "Chamber type shrink wrapping machine",
       "categories": [
         {
-          "subtitle": "use for viscosity for water to paste level",
+          "subtitle": "",
           "models": [
             {
-              "id": "BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+              "id": "BNTPA-2015-P",
+              "name": "BNTPA-2015-P",
+              "image": "assets/img/products/chamber-type-shrink-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-2015-P"
             },
             {
-              "id": "BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 50-500 ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-            },
-            {
-              "id": "BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 100-1000 ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-            },
-            {
-              "id": "BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 500-5000-ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Fully automatic servo base operated paste filling Machine",
-      "categories": [
-        {
-          "subtitle": "use for viscosity for water to paste level",
-          "models": [
-            {
-              "id": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
-            },
-            {
-              "id": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
-            },
-            {
-              "id": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
-            },
-            {
-              "id": "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 500-5000 ML -GM 2H-4H-6H-8H-10H-12H",
-              "image": "assets/img/products/fully-auto-paste-filling-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=pasteFillingMachines&id=BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+              "id": "BNTPA-2015-M",
+              "name": "BNTPA-2015-M",
+              "image": "assets/img/products/chamber-type-shrink-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-2015-M"
             }
           ]
         }
