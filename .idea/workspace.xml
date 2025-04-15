@@ -4,11 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="placeholder image added for default case">
+    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="css changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/product.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/PouchSealingPouchPackingMachine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/accordionData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/productData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/productDetail copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/carton-box-taping-machine/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/carton-box-taping-machine/description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/codingmachine3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/codingmachine3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/bopp-tape.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/bopp-tape.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/bubble-rolls.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/bubble-rolls.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/codding machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/codding machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pet-straproll.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pet-straproll.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pof-shrink-film-pouch.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pof-shrink-film-pouch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pof-shrink-film.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pof-shrink-film.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pp-straproll.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pp-straproll.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pvc-shrink-film-pouch.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pvc-shrink-film-pouch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pvc-shrink-film.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pvc-shrink-film.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/stretch-film.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/stretch-film.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/ROPP Capping machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/ROPP Capping machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/capping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/capping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/coding-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/coding-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/cup-glass-sealing-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/cup-glass-sealing-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/induction-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/induction-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/carton-trapping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/carton-trapping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/metal-detector.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/metal-detector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/shrink-wrapping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/shrink-wrapping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/strapping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/strapping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/Label applicator machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/Label applicator machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/capping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/capping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/carton-box-taping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/carton-box-taping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/carton-strapping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/carton-strapping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/coding-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/coding-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/codingmachine3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/codingmachine3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/cup-glass-sealing-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/cup-glass-sealing-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/induction-sealing-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/induction-sealing-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/inductionSealingMachine2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/inductionSealingMachine2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/labeling-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/labeling-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/metal-detector.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/metal-detector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/powder-filling-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/powder-filling-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/semi-carton-straping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/semi-carton-straping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/shri.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/shri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/shrink-tunnel-type-wrapping-machine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/shrink-tunnel-type-wrapping-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +131,7 @@
       <updated>1744691797917</updated>
       <workItem from="1744691798983" duration="1215000" />
       <workItem from="1744726400614" duration="1531000" />
-      <workItem from="1744727957502" duration="2123000" />
+      <workItem from="1744727957502" duration="3798000" />
     </task>
     <task id="LOCAL-00001" summary="placeholder image added for default case">
       <option name="closed" value="true" />
@@ -101,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744728125457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="css changes">
+      <option name="closed" value="true" />
+      <created>1744737435880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744737435880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="placeholder image added for default case" />
-    <option name="LAST_COMMIT_MESSAGE" value="placeholder image added for default case" />
+    <MESSAGE value="css changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="css changes" />
   </component>
 </project>
