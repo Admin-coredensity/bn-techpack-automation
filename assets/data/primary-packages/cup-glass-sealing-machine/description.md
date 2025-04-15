@@ -4,14 +4,14 @@ It is widely used in industries such as beverages, dairy, foodservice, and cater
 The machine ensures spill-proof, tamper-evident, and hygienic sealing—ideal for on-the-go and takeaway packaging.
 
 
-### What is a Cup/Glass Sealing Machine?
+#### What is a Cup/Glass Sealing Machine?
 Cup/glass sealing machines are designed to seal plastic, PET, or paper cups using heat and pressure to apply a sealing film or foil.
 These machines are essential in ensuring leak-proof and hygienic packaging for beverages or semi-liquid products.
 They are commonly seen in juice shops, dairy outlets, and food courts where consistent and clean packaging is essential.
 
 The sealing not only prevents spillage but also extends the product’s shelf life by keeping it contamination-free.
 
-### How to Use a Cup/Glass Sealing Machine?
+#### How to Use a Cup/Glass Sealing Machine?
 Operating a cup/glass sealing machine is easy and quick, requiring minimal training:
 
 - Place the filled cup or glass into the sealing mold.
@@ -26,7 +26,7 @@ Operating a cup/glass sealing machine is easy and quick, requiring minimal train
 
 This process is fast and ensures every cup is tightly and neatly sealed for safe handling and transport.
 
-### What are the Benefits of Cup/Glass Sealing?
+#### What are the Benefits of Cup/Glass Sealing?
 #### Features & Advantages of Automatic Cup/Glass Sealing Machines
 We offer fully-automatic cup/glass sealing machines designed with intelligent sensors and PLC systems for maximum efficiency in high-demand environments.
 
