@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+###  Industrial Conveyor System
+=======
 ## Industrial Conveyor System
+>>>>>>> b78e4391ef70612ca0e5374390b32bd4e51a5c87
 The industrial conveyor system efficiently transports materials across various stages of production, making it a vital asset for industries such as manufacturing, packaging, logistics, food processing, and pharmaceuticals.
 It is well-suited for moving products like boxes, bottles, pouches, raw materials, or finished goods with consistent speed and precision, ensuring enhanced workflow and productivity in commercial operations.
 
@@ -9,6 +13,9 @@ They minimize manual labor, reduce downtime, and optimize production flow, allow
 
 The conveyor system ensures safe, consistent movement of items, helping to improve operational efficiency and reduce product damage.
 
+<<<<<<< HEAD
+### What are the Benefits of an Industrial Conveyor System?
+=======
 #### How to Use an Industrial Conveyor System?
 Industrial conveyor systems are simple to operate and provide excellent performance with minimal intervention.
 
@@ -23,6 +30,7 @@ Items can be unloaded manually or through an automated sorting or robotic system
 This cycle continues without interruption, allowing for high-speed material handling and reliable throughput.
 
 #### What are the Benefits of an Industrial Conveyor System?
+>>>>>>> b78e4391ef70612ca0e5374390b32bd4e51a5c87
 ##### Features & Advantages of Automated Conveyor Systems
 We offer fully-automated conveyor systems with smart sensors, speed controllers, and integration capabilities with other machinery.
 - They can be used as part of a larger production line or operate as independent material handling units.
