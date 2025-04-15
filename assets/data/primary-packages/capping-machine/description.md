@@ -1,4 +1,4 @@
-# Capping Machine
+### Capping Machine
 
 The capping machine efficiently seals containers with caps or lids, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.
 It is well-suited for sealing bottles, jars, tubes, or other containers, ensuring airtight closure, leak prevention, and consistency in commercial packaging operations.
