@@ -10,25 +10,25 @@
               "id": "BNTPAPFF-1to100gm",
               "name": "BNTPAFPF-1 to 100gm",
               "image": "assets/img/products/pouch-packing-machine.jpg",
-              "link": "liquid-filling-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAPFF-1to100gm"
+              "link": "product-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAPFF-1to100gm"
             },
             {
               "id": "BNTPAFPF-2to200gm",
               "name": "BNTPAFPF-2 to 200gm",
               "image": "assets/img/products/pouch-packing-machine.jpg",
-              "link": "liquid-filling-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAFPF-2to200gm"
+              "link": "product-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAFPF-2to200gm"
             },
             {
               "id": "BNTPAPFF-10to1000gm",
               "name": "BNTPAFPF-10 to 1000gm",
               "image": "assets/img/products/pouch-packing-machine.jpg",
-              "link": "liquid-filling-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAPFF-10to1000gm"
+              "link": "product-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAPFF-10to1000gm"
             },
             {
               "id": "BNTPAPFF-10to3000gm",
               "name": "BNTPAFPF-10 to 3000gm",
               "image": "assets/img/products/pouch-packing-machine.jpg",
-              "link": "liquid-filling-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAPFF-10to3000gm"
+              "link": "product-detail.html?type=pouchPackingPouchSealingMachines&id=BNTPAPFF-10to3000gm"
             }
           ]
         }
