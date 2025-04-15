@@ -111,6 +111,27 @@
     width: 55%;
 }
 
+/*-------------------- ----------
+---------Back button -------------
+---------------------------------- */
+.product-model-detail-section .section-header .back-btn,
+.product-model-detail-section .section-header .back-btn:focus {
+  color: var(--contrast-color);
+  background: var(--default-color);
+  font-size: 12px;
+  padding: 5px 15px;
+  margin: 0 0 0 30px;
+  border-radius: 50px;
+  border: none;
+  transition: 0.3s;
+}
+
+.product-model-detail-section .section-header .back-btn:hover,
+.product-model-detail-section .section-header .back-btn:focus:hover {
+  color: var(--contrast-color);
+  background: color-mix(in srgb, var(--default-color), transparent 15%);
+}
+
 /* ---------------------------------
 -------------------video section ---------------*/
 
