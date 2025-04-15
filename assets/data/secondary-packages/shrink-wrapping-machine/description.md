@@ -1,4 +1,4 @@
-# The Shrink Wrapping Machine
+## The Shrink Wrapping Machine
 The Shrink Wrapping Machine is designed to wrap products in shrink film and apply heat to form a tight, secure seal. It is an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, electronics, and general retail, where product protection, presentation, and tamper evidence are crucial.
 
 #### What is a Shrink Wrapping Machine?
@@ -6,7 +6,7 @@ Shrink Wrapping Machines are used to encase products in plastic shrink film, whi
 These machines enhance the visual appeal of products, protect against dust and moisture, and help in bundling multiple items together for easy handling and display.
 They are essential in high-speed packaging lines where durability and appearance are key.
 
-### How to Use a Shrink Wrapping Machine?
+#### How to Use a Shrink Wrapping Machine?
 The Shrink Wrapping Machine is user-friendly and delivers efficient wrapping with minimal input. Here's how to operate it:
 
 - Place the product in the shrink film manually or via a conveyor.
