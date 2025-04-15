@@ -1,40 +1,40 @@
 {
   "sections": [
     {
-      "title": "ROPP Capping machine",
+      "title": "Carton Box taping machine",
       "categories": [
         {
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPA-2040D-1H",
-              "name": "BNTPA-2040D-1H",
-              "image": "assets/img/products/capping-machine.png",
-              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2040D-1H"
+              "id": "BNTPA-4030",
+              "name": "BNTPA-4030",
+              "image": "assets/img/products/carton-box-taping-machine.png",
+              "link": "product-detail.html?type=cartonBoxTapingMachines&id=BNTPA-4030"
             },
             {
-              "id": "BNTPA-2040D-4H",
-              "name": "BNTPA-2040D-4H",
-              "image": "assets/img/products/capping-machine.png",
-              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2040D-4H"
+              "id": "BNTPA-6050",
+              "name": "BNTPA-6050",
+              "image": "assets/img/products/carton-box-taping-machine.png",
+              "link": "product-detail.html?type=cartonBoxTapingMachines&id=BNTPA-6050"
             },
             {
-              "id": "BNTPA-2040-6H",
-              "name": "BNTPA-2040-6H",
-              "image": "assets/img/products/capping-machine.png",
-              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2040-6H"
+              "id": "BNTPA-6050R",
+              "name": "BNTPA-6050R",
+              "image": "assets/img/products/carton-box-taping-machine.png",
+              "link": "product-detail.html?type=cartonBoxTapingMachines&id=BNTPA-6050R"
             },
             {
-              "id": "BNTPA-2050DM",
-              "name": "BNTPA-2050DM",
-              "image": "assets/img/products/capping-machine.png",
-              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2050DM"
+              "id": "BNTPA-5050AF",
+              "name": "BNTPA-5050AF",
+              "image": "assets/img/products/carton-box-taping-machine.png",
+              "link": "product-detail.html?type=cartonBoxTapingMachines&id=BNTPA-5050AF"
             },
             {
-              "id": "BNTPA-2050DSM",
-              "name": "BNTPA-2050DSM",
-              "image": "assets/img/products/capping-machine.png",
-              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2050DSM"
+              "id": "BNTPA-6050+8060C",
+              "name": "BNTPA-6050+8060C",
+              "image": "assets/img/products/carton-box-taping-machine.png",
+              "link": "product-detail.html?type=cartonBoxTapingMachines&id=BNTPA-6050+8060C"
             }
           ]
         }
