@@ -3,7 +3,7 @@
 The capping machine efficiently seals containers with caps or lids, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.
 It is well-suited for sealing bottles, jars, tubes, or other containers, ensuring airtight closure, leak prevention, and consistency in commercial packaging operations.
 
-### What is a Capping Machine?
+#### What is a Capping Machine?
 
 capping machines are used to accurately seal containers with various types of caps (screw caps, snap-on lids, press-on caps, pump heads, etc.)
 These machines are essential in industries where products need secure packaging for distribution and long-term shelf life.
@@ -11,7 +11,7 @@ During packaging and shipping, it’s critical that containers are properly seal
 
 The capping machine ensures tight and consistent closures, helping maintain product integrity and operational efficiency throughout the supply chain.
 
-### How to Use a Capping Machine?
+#### How to Use a Capping Machine?
 The capping machine is easy to operate and delivers excellent results with minimal effort.
 
 To use the machine:
@@ -23,8 +23,8 @@ Once capped, the container proceeds to the next stage of packaging.
 This process is repeatable, fast, and ideal for high-throughput environments.
 The machine is reliable, operator-friendly, and suited for single-person operation, enabling fast and efficient production.
 
-### What are the Benefits of Capping?
-Features & Advantages of Automatic Capping Machines
+#### What are the Benefits of Capping?
+##### Features & Advantages of Automatic Capping Machines
 
 - We offer fully-automatic capping machines with intelligent controls and automation capabilities.
 They can be integrated with filling lines or used as standalone units for maximum flexibility.
@@ -45,7 +45,7 @@ They can be integrated with filling lines or used as standalone units for maximu
 
 - Ideal for high-volume production in regulated industries
 
-#### Features & Advantages of Semi-Automatic Capping Machines
+##### Features & Advantages of Semi-Automatic Capping Machines
 
 - Our semi-automatic capping machines feature intuitive control systems and rugged build quality, making them ideal for small to medium-scale operations.
 

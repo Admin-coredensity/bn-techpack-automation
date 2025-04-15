@@ -5,14 +5,14 @@ It is widely used in industries like food and beverage, pharmaceuticals, cosmeti
 
 Coding machines work efficiently across various packaging types, including bottles, jars, cartons, pouches, and labels, delivering precise and permanent prints during the packaging process.
 
-### What is a Coding Machine?
+#### What is a Coding Machine?
  
 Coding machines are designed to print or mark variable data onto packaging materials.
 They are vital in industries where information like lot codes, expiry dates, MRP, and barcodes must be printed for compliance, tracking, or branding purposes.
 
 A coding machine ensures clear, consistent, and smudge-proof marking, helping maintain product integrity and meet legal labeling requirements.
 
-### How to Use a Coding Machine?
+#### How to Use a Coding Machine?
 The coding machine is simple to operate and delivers high-performance marking with minimal manual intervention.
 
 To use the machine:
@@ -29,8 +29,8 @@ This process is fast, reliable, and repeatable, ensuring every unit is clearly m
 
 Most machines are operator-friendly and suitable for integration into automated production lines.
 
-### What Are the Benefits of Coding?
-Features & Advantages of Automatic Coding Machines
+#### What Are the Benefits of Coding?
+##### Features & Advantages of Automatic Coding Machines
 
 - We offer fully-automatic coding machines equipped with smart control systems, suitable for high-speed production lines or standalone use.
 
@@ -48,7 +48,7 @@ Features & Advantages of Automatic Coding Machines
 
 - PLC-based control for precise, customizable output
 
-#### Features & Advantages of Semi-Automatic Coding Machines
+##### Features & Advantages of Semi-Automatic Coding Machines
 
 - Our semi-automatic coding machines use reliable PCB-based control systems,
 
