@@ -70,7 +70,7 @@ function renderVariant(variantKey, variantData) {
   `;
 }
 
-fetch(`assets/data/${productType}.json`)
+fetch(`assets/data/primary-packages/${productType}.json`)
   .then((res) => res.json())
   .then((data) => {
     if (productType && data[productType] && data[productType][productId]) {
