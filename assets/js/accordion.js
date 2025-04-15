@@ -54,9 +54,11 @@
                 const icon = button.querySelector('.icon-state');
                 const isExpanded = button.getAttribute('aria-expanded') === 'true';
                 icon.className = isExpanded
-                    ? 'icon-state bi bi-dash-circle-fill me-2'
-                    : 'icon-state bi bi-plus-circle-fill me-2';
+                    ? 'icon-state bi bi-dash-circle-fill'
+                    : 'icon-state bi bi-plus-circle-fill';
                 icon.style.fontSize = '22px';
+
+                button.classList.toggle('bg-open', isExpanded);
             }
 
             buttons.forEach(button => {

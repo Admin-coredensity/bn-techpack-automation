@@ -9,7 +9,8 @@
     margin-top: 100px;
     padding: 20px;
 }
-.category-section .accordion-body .accordion-category-link{
+
+.category-section .accordion-body .accordion-category-link {
     display: flex;
 }
 
@@ -28,7 +29,7 @@
     color: var(--default-color);
 }
 
-.category-section .accordion .accordion-body li:hover a{
+.category-section .accordion .accordion-body li:hover a {
     /* font-weight: 600; */
     color: var(--accent-color);
 }
@@ -40,19 +41,25 @@
     margin-right: 10px;
 }
 
+.accordion-button.bg-open {
+    background-color: white !important;
+}
+
 .accordion-button::after {
     display: none !important;
     background-color: #dbeafe;
     color: #0a2d5c;
     font-weight: 500;
-    display: flex;
+    /*display: flex;*/
     justify-content: space-between;
     align-items: center;
 }
 
 .accordion-button .bi-arrow-right-circle-fill,
-.bi-dash-circle-fill {
+.bi-dash-circle-fill, .bi-plus-circle-fill {
     font-size: 22px;
+    color: var(--accent-color);
+    padding-right: 15px;
 }
 
 /* product description section */
@@ -181,16 +188,17 @@
 ------------------------------------------- */
 
 @media (max-width: 1200px) {
-        /* category section accordion */
-        .category-section {
-            width: 40%;
-        }
-    
-        /* product description section */
-        .description-section {
-            width: 60%;
-        }
+    /* category section accordion */
+    .category-section {
+        width: 40%;
+    }
+
+    /* product description section */
+    .description-section {
+        width: 60%;
+    }
 }
+
 @media (max-width: 992px) {
     .product-detail-container {
         flex-direction: column;
@@ -233,13 +241,13 @@
 @media (max-width: 768px) {
     /* product models section */
     .product-models-container {
-     align-items: center;
-     justify-content: center;
- }
+        align-items: center;
+        justify-content: center;
+    }
 
- .product-models-container .product-model-card {
-     width: 70%;
-     height: auto;
- }
+    .product-models-container .product-model-card {
+        width: 70%;
+        height: auto;
+    }
 
 }
