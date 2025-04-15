@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.querySelector(".php-email-form");
 
+  if (!form) return; // 🔒 Exit if the form is not found
+
   form.addEventListener("submit", function (e) {
     e.preventDefault();
 
@@ -13,12 +15,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const errorMessage = form.querySelector(".error-message");
     const sentMessage = form.querySelector(".sent-message");
 
-    // Show loading
     loading.style.display = "block";
     errorMessage.style.display = "none";
     sentMessage.style.display = "none";
 
-    // Simple validation
     if (!name || !email || !subject || !message) {
       errorMessage.innerText = "Please fill in all fields.";
       errorMessage.style.display = "block";
@@ -26,7 +26,6 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
-    // Send form via AJAX
     fetch("../../../forms/contact.php", {
       method: "POST",
       headers: {
@@ -39,21 +38,21 @@ document.addEventListener("DOMContentLoaded", function () {
         message
       })
     })
-    .then(res => res.text())
-    .then(data => {
-      loading.style.display = "none";
-      if (data.trim() === "OK") {
-        sentMessage.style.display = "block";
-        form.reset();
-      } else {
-        errorMessage.innerText = data;
-        errorMessage.style.display = "block";
-      }
-    })
-    .catch(err => {
-      loading.style.display = "none";
-      errorMessage.innerText = "There was an error sending the message.";
-      errorMessage.style.display = "block";
-    });
+        .then(res => res.text())
+        .then(data => {
+          loading.style.display = "none";
+          if (data.trim() === "OK") {
+            sentMessage.style.display = "block";
+            form.reset();
+          } else {
+            errorMessage.innerText = data;
+            errorMessage.style.display = "block";
+          }
+        })
+        .catch(err => {
+          loading.style.display = "none";
+          errorMessage.innerText = "There was an error sending the message.";
+          errorMessage.style.display = "block";
+        });
   });
 });

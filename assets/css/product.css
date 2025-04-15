@@ -41,8 +41,18 @@
     margin-right: 10px;
 }
 
+/*accordion open*/
 .accordion-button.bg-open {
-    background-color: white !important;
+    background-color: var(--accent-color) !important;
+    color: var(--default-color);
+}
+
+.accordion-button.bg-open .bi-arrow-right-circle-fill {
+    color: var(--contrast-color);
+}
+
+.accordion-button.bg-open .bi-dash-circle-fill {
+    color: var(--contrast-color);
 }
 
 .accordion-button::after {
