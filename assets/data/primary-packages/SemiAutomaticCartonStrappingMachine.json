@@ -1,0 +1,51 @@
+{
+    "Semi automatic Carton Strapping machine":
+{
+  "codingMachines": {
+    "BNTPA-xt8020/BNTPA-316h/BNTPA-PW8060C/BNTPA-8060R-B": {
+      "BNTPA-xt8020": {
+        "Name": "Strapping Machine",
+        "Model": "BNTPA-xt8020",
+        "Production Speed": "UP-25 cpm",
+        "Box Size": "UP – NO LIMIT",
+        "Power Supply": "0.18 KW 230 V AC 50Hz",
+        "Air Supply": "AC 50Hz",
+        "Strap Width": "6-19 mm",
+        "Operating": "Semiauto"
+       },
+      "BNTPA-316h": {
+        "Name": "Strapping Machine",
+        "Model": "BNTPA-316h",
+        "Production Speed": "UP-25 cpm",
+        "Box Size": "UP – NO LIMIT",
+        "Power Supply": "0.18 KW 230 V AC 50Hz",
+        "Air Supply": "AC 50Hz",
+        "Strap Width": "6-19 mm",
+        "Operating": "Semiauto"
+      },
+      "BNTPA-PW8060C": {
+        "Name": "Strapping Machine",
+        "Model": "BNTPA-PW8060C",
+        "Production Speed": "UP-25 cpm",
+        "Box Size": "UP – NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
+        "Power Supply": "1.5 KW 230 V",
+        "Air Supply": " AC 50Hz 4-6 BAR",
+        "Strap Width": "9-12 mm",
+        "Operating": "Automatic"
+        
+      },
+      "BNTPA-8060R/B": {
+        "Name": "Strapping Machine",
+        "Model": "BNTPA-8060R/B",
+        "Production Speed": "UP-25 cpm",
+        "Box Size": "UP – NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
+        "Power Supply": "1.5 KW 230 V ",
+        "Air Supply": "AC 50Hz 4-6 BAR",
+        "Strap Width": "9-12 mm",
+        "Operating": "Automatic"
+        
+      }
+    }
+  }
+}
+}
