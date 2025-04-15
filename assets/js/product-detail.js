@@ -1,6 +1,7 @@
 const urlParams = new URLSearchParams(window.location.search);
 const productType = urlParams.get("type");
 const productId = urlParams.get("id");
+const category = urlParams.get("category") || "primary-packages";
 
 const container = document.getElementById("variant-sections-container");
 
@@ -70,23 +71,25 @@ function renderVariant(variantKey, variantData) {
   `;
 }
 
-fetch(`assets/data/primary-packages/${productType}.json`)
-  .then((res) => res.json())
-  .then((data) => {
-    if (productType && data[productType] && data[productType][productId]) {
-      const productData = data[productType][productId];
-      const rendered = Object.entries(productData)
-        .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
-        .join("");
-      container.innerHTML = rendered;
-    } else {
-      container.innerHTML = `<p>Product not found or has no variants.</p>`;
-    }
-  })
-  .catch((err) => {
-    console.error("Error loading product detail:", err);
-    container.innerHTML = `<p>Error loading product details.</p>`;
-  });
+// Fetch product data
+fetch(`assets/data/${category}/${productType}.json`)
+    .then((res) => res.json())
+    .then((data) => {
+        const productData = data?.[productType]?.[productId];
+
+        if (productData) {
+            const rendered = Object.entries(productData)
+                .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
+                .join("");
+            container.innerHTML = rendered;
+        } else {
+            container.innerHTML = `<p>Product not found or has no variants.</p>`;
+        }
+    })
+    .catch((err) => {
+        console.error("Error loading product detail:", err);
+        container.innerHTML = `<p>Error loading product details.</p>`;
+    });
 
 // Go back function 
 function goBack() {
