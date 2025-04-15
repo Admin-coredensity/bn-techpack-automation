@@ -2,6 +2,7 @@
   "cappingMachines": {
     "BNTPA-2040D-1H": {
       "BNTPA-2040D-1H": {
+        "heading": "ROPP Capping machine",
         "name": "ROPP Capping machine",
         "category": "",
         "model": "BNTPA-2040D-1H",
@@ -16,6 +17,7 @@
     },
     "BNTPA-2040D-4H": {
       "BNTPA-2040D-4H": {
+        "heading": "ROPP Capping machine",
         "name": "ROPP Capping machine",
         "category": "",
         "model": "BNTPA-2040D-4H",
@@ -30,6 +32,7 @@
     },
     "BNTPA-2040-6H": {
       "BNTPA-2040-6H": {
+        "heading": "ROPP Capping machine",
         "name": "ROPP Capping machine",
         "category": "",
         "model": "BNTPA-2040-6H",
@@ -44,6 +47,7 @@
     },
     "BNTPA-2050DM": {
       "BNTPA-2050DM": {
+        "heading": "ROPP Capping machine",
         "name": "ROPP Capping machine",
         "category": "",
         "model": "BNTPA-2050DM",
@@ -58,6 +62,7 @@
     },
     "BNTPA-2050DSM": {
       "BNTPA-2050DSM": {
+        "heading": "ROPP Capping machine",
         "name": "ROPP Capping machine",
         "category": "",
         "model": "BNTPA-2050DSM",

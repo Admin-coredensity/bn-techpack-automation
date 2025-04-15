@@ -2,6 +2,7 @@
     "labelingMachines": {
         "BNTPAR-30100150-250-stepper/servo": {
             "BNTPAR-30100150-250-stepper": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "model": "BNTPAR-30100150-250 stepper",
                 "productionSpeedBPM": "30-40",
@@ -18,6 +19,7 @@
                 "materialOfConstruction": "MS 304"
             },
             "BNTPAR-30100150-250-servo": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "model": "BNTPAR-30100150-250 servo",
                 "productionSpeedBPM": "30-40/50-80",
@@ -36,6 +38,7 @@
         },
         "BNTPAFB-30150-250-stepper/servo": {
             "BNTPAFB-30150-250-stepper": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "30-40",
                 "model": "BNTPAFB-30150-250 stepper",
@@ -52,6 +55,7 @@
                 "materialOfConstruction": "MS 304"
             },
             "BNTPAFB-30150-250-servo": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "30-40/50-80",
                 "model": "BNTPAFB-30150-250 servo",
@@ -70,6 +74,7 @@
         },
         "BNTPAFBR-30150-250-stepper/servo": {
             "BNTPAFBR-30150-250-stepper": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "30-40/50-80",
                 "model": "BNTPAFBR-30150-250 stepper",
@@ -86,6 +91,7 @@
                 "materialOfConstruction": "MS 304"
             },
             "BNTPAFBR-30150-250-servo": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "30-40/50-80",
                 "model": "BNTPAFBR-30150-250 servo",
@@ -104,6 +110,7 @@
         },
         "BNTPAFS-30150-250-stepper/servo": {
             "BNTPAFS-30150-250-stepper": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "30-40",
                 "model": " BNTPAFS-30150-250 stepper ",
@@ -120,6 +127,7 @@
                 "materialOfConstruction": "MS 304"
             },
             "BNTPAFS-30150-250-servo": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "50-80",
                 "model": " BNTPAFS-30150-250 servo ",
@@ -138,6 +146,7 @@
         },
         "BNTPAT-30150-250-stepper/servo": {
             "BNTPAT-30150-250-stepper": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "30-40",
                 "model": "BNTPAT-30150-250 stepper",
@@ -154,6 +163,7 @@
                 "materialOfConstruction": "MS 304"
             },
             "BNTPAT-30150-250-servo": {
+                "heading": "Labeling machine",
                 "name": "Label applicator machine",
                 "productionSpeedBPM": "50-80",
                 "model": "BNTPAT-30150-250 servo",

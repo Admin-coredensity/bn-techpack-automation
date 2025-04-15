@@ -2,6 +2,7 @@
     "cupGlassSealingMachines": {
         "BNTPA-140": {
             "BNTPA-140": {
+                "heading": "Cup/Glass Sealing machine",
                 "name": "Semi/automatic Cup/glass sealing machine",
                 "model": "BNTPA-140",
                 "image": "assets/img/products/cup-glass-sealing-machine.png",
@@ -14,6 +15,7 @@
         },
         "BNTPA-SC4-75D": {
             "BNTPA-SC4-75D": {
+                "heading": "Cup/Glass Sealing machine",
                 "name": "Semi/automatic Cup/glass sealing machine",
                 "model": "BNTPA-SC4-75D",
                 "image": "assets/img/products/cup-glass-sealing-machine.png",
@@ -26,6 +28,7 @@
         },
         "BNTPA-015SP": {
             "BNTPA-015SP": {
+                "heading": "Cup/Glass Sealing machine",
                 "name": "Semi/automatic Cup/glass sealing machine",
                 "model": "BNTPA-015SP",
                 "image": "assets/img/products/cup-glass-sealing-machine.png",
@@ -38,6 +41,7 @@
         },
         "BNTPA-3040SP": {
             "BNTPA-3040SP": {
+                "heading": "Cup/Glass Sealing machine",
                 "name": "Semi/automatic Cup/glass sealing machine",
                 "model": "BNTPA-3040SP",
                 "image": "assets/img/products/cup-glass-sealing-machine.png",

@@ -2,7 +2,8 @@
   "powderFillingMachines": {
     "BNTPASPF-1to100gm": {
       "BNTPASPF-1 to 100gm": {
-        "name": "Semi auto powder filling",
+        "heading": "Powder filling machine",
+        "name": "Semi auto powder filling machine",
         "model": "BNTPASPF-1 to 100gm",
         "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders to granules Dray products",
@@ -17,7 +18,8 @@
     },
     "BNTPASPF-2to200gm": {
       "BNTPASPF-2 to 200gm": {
-        "name": "Semi auto powder filling",
+        "heading": "Powder filling machine",
+        "name": "Semi auto powder filling machine",
         "model": "BNTPASPF-2 to 200gm",
         "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders  to granules Dray products",
@@ -32,7 +34,8 @@
     },
     "BNTPASPF-10to1000gm": {
       "BNTPASPF-10 to 1000gm": {
-        "name": "Semi auto powder filling",
+        "heading": "Powder filling machine",
+        "name": "Semi auto powder filling machine",
         "model": "BNTPASPF-10 to 1000gm",
         "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders to granules Dray products",
@@ -47,7 +50,8 @@
     },
     "BNTPASPF-10to3000gm": {
       "BNTPASPF-10 to 3000gm": {
-        "name": "Semi auto powder filling",
+        "heading": "Powder filling machine",
+        "name": "Semi auto powder filling machine",
         "model": "BNTPASPF-10 to 3000gm",
         "image": "assets/img/products/powder-filling-machine.png",
         "category": "Use for Viscosity for Powders to granules Dray products",

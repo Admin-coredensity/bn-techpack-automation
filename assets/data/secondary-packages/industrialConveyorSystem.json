@@ -2,7 +2,8 @@
     "industrialConveyorSystem": {
         "BNTPA-200f": {
             "BNTPA-200f": {
-                "name": "Induction sealing",
+                "heading": "Industrial conveyor system",
+                "name": "Industrial conveyor system",
                 "model": "BNTPA-200f",
                 "image":"assets/img/products/induction-sealing-machine.png",
                 "power": "500W 230 V AC 50Hz",
@@ -15,7 +16,8 @@
         },
         "BNTPA-600c": {
             "BNTPA-600c": {
-                "name": "Induction sealing",
+                "heading": "Industrial conveyor system",
+                "name": "Industrial conveyor system",
                 "model": "BNTPA-600c",
                 "image":"assets/img/products/induction-sealing-machine.png",
                 "power": "600 W 230 V AC 50Hz",
@@ -28,7 +30,8 @@
         },
         "BNTPA-20100D": {
             "BNTPA-20100D": {
-                "name": "Induction sealing",
+                "heading": "Industrial conveyor system",
+                "name": "Industrial conveyor system",
                 "model": "BNTPA-20100D",
                 "image":"assets/img/products/induction-sealing-machine.png",
                 "power": " 1KW 230 V AC 50Hz  ",
@@ -40,7 +43,8 @@
         },
         "BNTPA-60130D":{
             "BNTPA-60130D":{
-                "name": "Induction sealing",
+                "heading": "Industrial conveyor system",
+                "name": "Industrial conveyor system",
                 "model": "BNTPA-60130D",
                 "image":"assets/img/products/induction-sealing-machine.png",
                 "power": " 1.5KW50W 230 V AC 50Hz  ",

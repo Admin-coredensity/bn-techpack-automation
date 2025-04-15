@@ -2,6 +2,7 @@
   "codingMachines": {
     "BNTPA-DY8/BNTPA-HP241-B/BNTPA-380FSS/BNTPA-380FMS": {
       "BNTPA-DY8": {
+        "heading": "Coding Machine",
         "name": "Coding Machine",
         "model": "BNTPA-DY8",
         "image": "assets/img/products/coding-machine.png",
@@ -14,6 +15,7 @@
     },
     "BNTPA-HP241-B": {
       "BNTPA-HP241-B": {
+        "heading": "Coding Machine",
         "name": "Coding Machine",
         "model": "BNTPA-HP241-B",
         "image": "assets/img/products/coding-machine.png",
@@ -26,6 +28,7 @@
     },
     " BNTPA-380FSS": {
       " BNTPA-380FSS": {
+        "heading": "Coding Machine",
         "name": "Coding Machine",
         "model": "BNTPA-380FSS",
         "image": "assets/img/products/coding-machine.png",
@@ -38,6 +41,7 @@
     },
     "BNTPA-380FMS": {
       "BNTPA-380FMS": {
+        "heading": "Coding Machine",
         "name": "Coding Machine",
         "model": "BNTPA-380FMS",
         "image": "assets/img/products/coding-machine.png",

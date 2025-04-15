@@ -2,6 +2,7 @@
     "inductionSealingMachines": {
         "BNTPA-200f": {
             "BNTPA-200f": {
+                "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-200f",
                 "image":"assets/img/products/induction-sealing-machine.png",
@@ -15,6 +16,7 @@
         },
         "BNTPA-600c": {
             "BNTPA-600c": {
+                "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-600c",
                 "image":"assets/img/products/induction-sealing-machine.png",
@@ -28,6 +30,7 @@
         },
         "BNTPA-20100D": {
             "BNTPA-20100D": {
+                "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-20100D",
                 "image":"assets/img/products/induction-sealing-machine.png",
@@ -40,6 +43,7 @@
         },
         "BNTPA-60130D":{
             "BNTPA-60130D":{
+                "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-60130D",
                 "image":"assets/img/products/induction-sealing-machine.png",

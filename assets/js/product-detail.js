@@ -4,6 +4,7 @@ const productId = urlParams.get("id");
 const category = urlParams.get("category") || "primary-packages";
 
 const container = document.getElementById("variant-sections-container");
+const headerTitle = document.getElementById("section-header-title");
 
 // Helper to generate a table row only if the value exists
 function generateRow(label, value, id) {
@@ -92,6 +93,13 @@ fetch(`assets/data/${category}/${productType}.json`)
     const productData = data?.[productType]?.[productId];
 
     if (productData) {
+
+      // display heading e.g Liquid Filling Machine
+      const firstVariant = Object.values(productData)[0];
+      if (headerTitle && firstVariant?.heading) {
+        headerTitle.textContent = firstVariant.heading;
+      }
+
       const rendered = Object.entries(productData)
         .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
         .join("");

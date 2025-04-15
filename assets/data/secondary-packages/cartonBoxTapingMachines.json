@@ -2,6 +2,7 @@
     "cartonBoxTapingMachines": {
       "BNTPA-4030": {
         "BNTPA-4030": {
+          "heading": "Carton Box Taping Machine",
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-4030",
           "image":"assets/img/products/carton-box-taping-machine.png",
@@ -16,6 +17,7 @@
       },
       "BNTPA-6050": {
         "BNTPA-6050": {
+          "heading": "Carton Box Taping Machine",
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-6050",
           "image":"assets/img/products/carton-box-taping-machine.png",
@@ -30,6 +32,7 @@
       },
       "BNTPA-6050R": {
         "BNTPA-6050R": {
+          "heading": "Carton Box Taping Machine",
           "name": " Carton Box Taping Machine",
           "model": "BNTPA-6050R",
           "image":"assets/img/products/carton-box-taping-machine.png",
@@ -43,6 +46,7 @@
       },
       "BNTPA-5050AF": {
         "BNTPA-5050AF": {
+          "heading": "Carton Box Taping Machine",
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-5050AF",
           "image":"assets/img/products/carton-box-taping-machine.png",
@@ -54,8 +58,9 @@
           "operating": "Automatic"
         }
       },
-      "BNTPA-6050+8060C": {
-        "BNTPA-6050+8060C": {
+      "BNTPA-6050-8060C": {
+        "BNTPA-6050-8060C": {
+          "heading": "Carton Box Taping Machine",
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-6050+8060C",
           "image":"assets/img/products/carton-box-taping-machine.png",

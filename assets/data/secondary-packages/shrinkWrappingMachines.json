@@ -2,6 +2,7 @@
   "shrinkWrappingMachines": {
     "BNTPA-4525R/B": {
       "BNTPA-4525R/B": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4525R/B",
         "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
@@ -17,6 +18,7 @@
     },
     "BNTPA-4535R/B": {
       "BNTPA-4535R/B": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4535R/B",
         "image": "assets/img/products/chamber-type-shrink-tunnel-type-wrapping-machine.png",
@@ -32,6 +34,7 @@
     },
     "BNTPA-6045R/B": {
       "BNTPA-6045R/B": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-6045R/B",
         "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
@@ -47,6 +50,7 @@
     },
     "BNTPA-4525MR/B": {
       "BNTPA-4525MR/B": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4525MR/B",
         "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
@@ -62,6 +66,7 @@
     },
     "BNTPA-4525ER/B": {
       "BNTPA-4525ER/B": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-4525ER/B",
         "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
@@ -77,6 +82,7 @@
     },
     "BNTPA-SS612/P": {
       "BNTPA-SS612/P": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Tunnel type Shrink Wrapping Machine",
         "model": "BNTPA-SS612/P",
         "image": "assets/img/products/shrink-tunnel-type-wrapping-machine.png",
@@ -92,6 +98,7 @@
     },
     "BNTPA-2015-P": {
       "BNTPA-2015-P": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Chamber type shrink wrapping machine",
         "model": "BNTPA-2015-P",
         "image": "assets/img/products/chamber-type-shrink-wrapping-machine.png",
@@ -106,6 +113,7 @@
     },
     "BNTPA-2015-M": {
       "BNTPA-2015-M": {
+        "heading": "Shrink Wrapping Machine",
         "name": "Chamber type shrink wrapping machine",
         "model": "BNTPA-2015-M",
         "image": "assets/img/products/chamber-type-shrink-wrapping-machine.png",

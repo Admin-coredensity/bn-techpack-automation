@@ -2,6 +2,7 @@
   "liquidFillingMachines": {
     "BNTPALF-10-100ML-GM-1HP/2HP": {
       "1HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 1HP",
@@ -14,6 +15,7 @@
         "weight": "20KG/40KG"
       },
       "2HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 2HP",
@@ -28,6 +30,7 @@
     },
     "BNTPALF-50-500-ML-GM-1HP/2HP": {
       "1HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 1HP",
@@ -40,6 +43,7 @@
         "weight": "20KG/40KG"
       },
       "2HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 2HP",
@@ -54,6 +58,7 @@
     },
     "BNTPALF-100-1000-ML-GM-1HP/2HP": {
       "1HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 1HP",
@@ -66,6 +71,7 @@
         "weight": "20KG/40KG"
       },
       "2HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 2HP",
@@ -80,6 +86,7 @@
     },
     "BNTPALF-500-5000-ML-GM-1HP/2HP": {
       "1HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 1HP",
@@ -92,6 +99,7 @@
         "weight": "20KG/40KG"
       },
       "2HP": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 2HP",
@@ -106,6 +114,7 @@
     },
     "BNE4000-MLT-1HE": {
       "BNE4000-MLT-1HE": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to edible oil level",
         "model": "BNE4000-MLT-1HE",
@@ -120,6 +129,7 @@
     },
     "BNE4000-MLT-2HE": {
       "BNE4000-MLT-2HE": {
+        "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
         "category": "use for viscosity for water to edible oil level",
         "model": "BNE4000-MLT-2HE",
@@ -134,6 +144,7 @@
     },
     "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 2H",
@@ -146,6 +157,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 4H",
@@ -158,6 +170,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 6H",
@@ -170,6 +183,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 8H",
@@ -182,6 +196,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 10H",
@@ -194,6 +209,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 12H",
@@ -208,6 +224,7 @@
     },
     "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 2H",
@@ -220,6 +237,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 4H",
@@ -232,6 +250,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 6H",
@@ -244,6 +263,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 8H",
@@ -256,6 +276,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 10H",
@@ -268,6 +289,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 12H",
@@ -282,6 +304,7 @@
     },
     "BNTPALF-100-1000-ML-GM-H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 2H",
@@ -294,6 +317,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 4H",
@@ -306,6 +330,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 6H",
@@ -318,6 +343,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 8H",
@@ -330,6 +356,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 10H",
@@ -342,6 +369,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 12H",
@@ -356,6 +384,7 @@
     },
     "BNTPALF-500-5000-ML-GM 2H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 2H",
@@ -368,6 +397,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 4H",
@@ -380,6 +410,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 6H",
@@ -392,6 +423,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 8H",
@@ -404,6 +436,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 10H",
@@ -416,6 +449,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 12H",
@@ -430,6 +464,7 @@
     },
     "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 2H",
@@ -442,6 +477,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 4H",
@@ -454,6 +490,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 6H",
@@ -466,6 +503,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 8H",
@@ -478,6 +516,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 10H",
@@ -490,6 +529,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 10-100 ML-GM 12H",
@@ -504,6 +544,7 @@
     },
     "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 2H",
@@ -516,6 +557,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 4H",
@@ -528,6 +570,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 6H",
@@ -540,6 +583,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 8H",
@@ -552,6 +596,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 10H",
@@ -564,6 +609,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 50-500 ML-GM 12H",
@@ -578,6 +624,7 @@
     },
     "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 2H",
@@ -590,6 +637,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 4H",
@@ -602,6 +650,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 6H",
@@ -614,6 +663,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 8H",
@@ -626,6 +676,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 10H",
@@ -638,6 +689,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 100-1000 ML-GM 12H",
@@ -652,6 +704,7 @@
     },
     "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 2H",
@@ -664,6 +717,7 @@
         "weight": "100-150 LTR/KG"
       },
       "4H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 4H",
@@ -676,6 +730,7 @@
         "weight": "100-150 LTR/KG"
       },
       "6H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 6H",
@@ -688,6 +743,7 @@
         "weight": "100-150 LTR/KG"
       },
       "8H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 8H",
@@ -700,6 +756,7 @@
         "weight": "100-150 LTR/KG"
       },
       "10H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 10H",
@@ -712,6 +769,7 @@
         "weight": "100-150 LTR/KG"
       },
       "12H": {
+        "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid Machine",
         "category": "use for viscosity for water to honey level",
         "model": "BNTPALF: 500-5000 ML-GM 12H",

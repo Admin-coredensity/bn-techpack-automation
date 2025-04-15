@@ -2,6 +2,7 @@
     "pasteFillingMachines": {
         "BNTPAPF-10-100-GM-ML-1H/ML2H": {
             "1H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
@@ -14,6 +15,7 @@
                 "weight": "15-20 L/KG"
             },
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
@@ -28,6 +30,7 @@
         },
         "BNTPAPF-50-500-GM-ML-1H/ML2H": {
             "1H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 50-500 GM-ML 1H",
@@ -40,6 +43,7 @@
                 "weight": "15-20 L/KG"
             },
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 50-500 GM-ML ML2H",
@@ -54,6 +58,7 @@
         },
         "BNTPAPF-100-1000-GM-ML-1H/ML2H": {
             "1H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 100-1000 GM-ML 1H",
@@ -66,6 +71,7 @@
                 "weight": "15-20 L/KG"
             },
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 100-1000 GM-ML ML2H",
@@ -80,6 +86,7 @@
         },
         "BNTPAPF-500-5000-GM-ML-1H/2H": {
             "1H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 500-5000 GM-ML 1H",
@@ -92,6 +99,7 @@
                 "weight": "15-20 L/KG"
             },
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Semi auto paste filling machine pneumatic operated",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAPF: 500-5000 GM-ML 2H",
@@ -106,6 +114,7 @@
         },
         "BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 10-100 GM-ML 2H",
@@ -118,6 +127,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 10-100 GM-ML 4H",
@@ -130,6 +140,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 10-100 GM-ML 6H",
@@ -142,6 +153,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 10-100 GM-ML 8H",
@@ -154,6 +166,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 10-100 GM-ML 10H",
@@ -166,6 +179,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 10-100 GM-ML 12H",
@@ -180,6 +194,7 @@
         },
         "BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 50-500 GM-ML 2H",
@@ -192,6 +207,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 50-500 GM-ML 4H",
@@ -204,6 +220,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 50-500 GM-ML 6H",
@@ -216,6 +233,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 50-500 GM-ML 8H",
@@ -228,6 +246,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 50-500 GM-ML 10H",
@@ -240,6 +259,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 50-500 GM-ML 12H",
@@ -254,6 +274,7 @@
         },
         "BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 100-1000 GM-ML 2H",
@@ -266,6 +287,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 100-1000 GM-ML 4H",
@@ -278,6 +300,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 100-1000 GM-ML 6H",
@@ -290,6 +313,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 100-1000 GM-ML 8H",
@@ -302,6 +326,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 100-1000 GM-ML 10H",
@@ -314,6 +339,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 100-1000 GM-ML 12H",
@@ -328,6 +354,7 @@
         },
         "BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 500-5000 GM-ML 2H",
@@ -340,6 +367,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 500-5000 GM-ML 4H",
@@ -352,6 +380,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 500-5000 GM-ML 6H",
@@ -364,6 +393,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 500-5000 GM-ML 8H",
@@ -376,6 +406,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 500-5000 GM-ML 10H",
@@ -388,6 +419,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic pneumatics operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPAFPF: 500-5000 GM-ML 12H",
@@ -402,6 +434,7 @@
         },
         "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-100 GM-ML 2H",
@@ -414,6 +447,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-100 GM-ML 4H",
@@ -426,6 +460,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-100 GM-ML 6H",
@@ -438,6 +473,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-100 GM-ML 8H",
@@ -450,6 +486,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-100 GM-ML 10H",
@@ -462,6 +499,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-100 GM-ML 12H",
@@ -476,6 +514,7 @@
         },
         "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 50-500 GM-ML 2H",
@@ -488,6 +527,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 50-500 GM-ML 4H",
@@ -500,6 +540,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 50-500 GM-ML 6H",
@@ -512,6 +553,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 50-500 GM-ML 8H",
@@ -524,6 +566,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 50-500 GM-ML 10H",
@@ -536,6 +579,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 50-500 GM-ML 12H",
@@ -550,6 +594,7 @@
         },
         "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-1000 GM-ML 2H",
@@ -562,6 +607,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-1000 GM-ML 4H",
@@ -574,6 +620,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-1000 GM-ML 6H",
@@ -586,6 +633,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-1000 GM-ML 8H",
@@ -598,6 +646,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-1000 GM-ML 10H",
@@ -610,6 +659,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 100-1000 GM-ML 12H",
@@ -624,6 +674,7 @@
         },
         "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated": {
             "2H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 500-5000 GM-ML 2H",
@@ -636,6 +687,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "4H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 500-5000 GM-ML 4H",
@@ -648,6 +700,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "6H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 500-5000 GM-ML 6H",
@@ -660,6 +713,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "8H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 500-5000 GM-ML 8H",
@@ -672,6 +726,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "10H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 500-5000 GM-ML 10H",
@@ -684,6 +739,7 @@
                 "weight": "100-150 LTR/ kg"
             },
             "12H": {
+                "heading": "Paste filling machine",
                 "name": "Fully automatic servo base operated paste Filing Machine",
                 "category": "use for viscosity for water to paste level",
                 "model": "BNTPALF: 500-5000 GM-ML 12H",

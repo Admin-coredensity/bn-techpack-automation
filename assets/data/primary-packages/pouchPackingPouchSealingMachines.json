@@ -2,6 +2,7 @@
   "pouchPackingPouchSealingMachines": {
     "BNTPAPFF-1to100gm": {
       "BNTPAPFF-1to100gm": {
+        "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
         "category": "use for viscosity for powders to granules dray products",
         "model": "BNTPAPFF-1 to 100gm",
@@ -19,6 +20,7 @@
     },
     "BNTPAFPF-2to200gm": {
       "BNTPAFPF-2to200gm": {
+        "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
         "category": "use for viscosity for powders to granules dray products",
         "model": "BNTPAPFF-2 to 200gm",
@@ -36,6 +38,7 @@
     },
     "BNTPAPFF-10to1000gm": {
       "BNTPAPFF-10to1000gm": {
+        "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
         "category": "use for viscosity for powders to granules dray products",
         "model": "BNTPAPFF-10 to 1000gm",
@@ -53,6 +56,7 @@
     },
     "BNTPAPFF-10to3000gm": {
       "BNTPAPFF-10to3000gm": {
+        "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
         "category": "use for viscosity for powders to granules dray products",
         "model": "BNTPAPFF-10 to 3000gm",
