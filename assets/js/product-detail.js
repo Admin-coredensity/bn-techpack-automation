@@ -65,7 +65,8 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("No Head", variantData.noHead, "product-model-no-head")}
             ${generateRow("Box Size", variantData.boxSize, "product-model-box-size")}
             ${generateRow("Air Supply", variantData.airSupply, "product-model-air-supply")}
-               ${generateRow("Width BOPP/Strap", variantData.widthBOPPStrap, "product-model-width-BOPP-Strap")}
+            ${generateRow("Width BOPP/Strap", variantData.widthBOPPStrap, "product-model-width-BOPP-Strap")}
+            ${generateRow("Strap Width", variantData.strapWidth, "product-model-strap-width")}
             ${generateRow("Weight", variantData.weight, "product-model-weight")}
             ${generateRow("Machine Dimension LxWxH", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
           </tbody>
