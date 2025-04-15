@@ -1,71 +1,61 @@
-### Liquid Filling Machine
+### Cup/Glass Sealing Machine
+The cup/glass sealing machine is a highly efficient packaging solution for sealing cups, glasses, or containers filled with liquid or semi-liquid products.
+It is widely used in industries such as beverages, dairy, foodservice, and catering for sealing drinks like juice, water, lassi, milk, or even ready-to-eat items.
+The machine ensures spill-proof, tamper-evident, and hygienic sealing—ideal for on-the-go and takeaway packaging.
 
-The liquid filling machine efficiently fills containers with various liquid products, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-It is well-suited for filling bottles, jars, pouches, or other containers with precise volume, ensuring consistency and productivity in commercial packaging operations.
 
----
+### What is a Cup/Glass Sealing Machine?
+Cup/glass sealing machines are designed to seal plastic, PET, or paper cups using heat and pressure to apply a sealing film or foil.
+These machines are essential in ensuring leak-proof and hygienic packaging for beverages or semi-liquid products.
+They are commonly seen in juice shops, dairy outlets, and food courts where consistent and clean packaging is essential.
 
-### What is a Liquid Filling Machine?
+The sealing not only prevents spillage but also extends the product’s shelf life by keeping it contamination-free.
 
-Liquid filling machines are used to accurately fill containers with liquid products.  
-These machines are essential in industries where liquids need to be packaged and transported, such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-During packaging and shipping, it's important that containers are properly filled and sealed to prevent leakage or spillage.  
+How to Use a Cup/Glass Sealing Machine?
+Operating a cup/glass sealing machine is easy and quick, requiring minimal training:
 
-The liquid filling machine ensures consistent and precise filling, helping maintain product quality and reduce waste during handling and transport.
+- Place the filled cup or glass into the sealing mold.
 
----
+- Load the sealing film roll (if not already installed).
 
-### How to Use a Liquid Filling Machine?
+- Activate the machine (manually or automatically).
 
-The liquid filling machine is very easy to operate and delivers excellent output with minimal resources.  
+- The machine applies heat and pressure to seal the cup.
 
-To use the machine:
-- Place the empty container (such as a bottle or pouch) under the filling nozzle.
-- Start the machine either manually or automatically, depending on the model.
-- The machine accurately dispenses the required amount of liquid into the container.
-- Once filled, the container can be sealed manually or by a separate sealing machine.
+- Remove the sealed cup, now ready for sale, delivery, or takeaway.
 
-This cycle repeats for each container, ensuring speed and consistency.  
-The machine is simple, efficient, and can be operated by a single person, making it ideal for high-volume production in a short time.
+This process is fast and ensures every cup is tightly and neatly sealed for safe handling and transport.
 
----
+### What are the Benefits of Cup/Glass Sealing?
+#### Features & Advantages of Automatic Cup/Glass Sealing Machines
+We offer fully-automatic cup/glass sealing machines designed with intelligent sensors and PLC systems for maximum efficiency in high-demand environments.
 
-### What are the Benefits of Liquid Filling?
+Fully automatic sealing process with minimal human intervention
 
-#### Features & Advantages of Automatic Liquid Filling Machines
+High-speed output—ideal for busy outlets or large-scale production
 
-We offer fully-automatic liquid filling machines equipped with smart sensors and PLC controls.  
-They can be integrated into automated production lines or operated as standalone units.
+Consistent and secure sealing that prevents leaks or tampering
 
-- Saves significant time and increases efficiency compared to manual filling 
+Suitable for different cup sizes and sealing films
 
-- Fast filling cycle—capable of filling multiple containers in seconds, depending on liquid type and volume
+Energy-efficient design with low maintenance requirements
 
-- Auto-fill and nozzle shut-off system ensures precision and reduces spillage
+PLC-based system for precise control over sealing time and temperature
 
-- Low power consumption for energy-efficient operations
+Perfect for sealing juices, flavored milk, lassi, cold coffee, and more
 
-- Automatic start/stop function and maintenance-free design reduce downtime
+#### Features & Advantages of Semi-Automatic Cup/Glass Sealing Machines
+Our semi-automatic cup/glass sealing machines are compact, reliable, and budget-friendly for small to medium-scale businesses.
 
-- Ideal for packaging high-volume liquid products like juices, oils, syrups, and chemicals
+- Easy operation with manual cup placement and automatic sealing
 
-- PLC-based control enhances accuracy and consistency in every fill
+- Adjustable sealing temperature and time based on cup material
 
----
+- Compact design suitable for small spaces like kiosks or stalls
 
-#### Features & Advantages of Semi-Automatic Liquid Filling Machines
+- Seals various cup materials—PP, PET, paper, etc.
 
-Our semi-automatic liquid filling machines are built with advanced PCB control systems,  
-making them reliable and cost-effective solutions for small to medium-scale operations.
+- Cost-effective solution with excellent sealing consistency
 
-- User-friendly operation with easy adjustment settings
 
-- Power-saving design that reduces energy consumption
 
-- Filling accuracy and volume control with minimal wastage
-
-- Supports viscous and non-viscous liquids
-
-- Adjustable fill speed and nozzle sizes to match container types
-
-- Compatible with a wide range of container materials and sizes
