@@ -1,9 +1,10 @@
 // Read "type" from URL parameter
 const urlParams = new URLSearchParams(window.location.search);
 const type = urlParams.get('type') || 'liquid-filling-machine'; // fallback default
+const category = urlParams.get("category") || 'primary-packages';
 
 // Paths to content
-const basePath = `assets/data/primary-packages/${type}`;
+const basePath = `assets/data/${category}/${type}`;
 const mdPath = `${basePath}/description.md`;
 const jsonPath = `${basePath}/models.json`;
 
