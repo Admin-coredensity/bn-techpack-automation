@@ -1,45 +1,44 @@
 {
-    "sections": [
-      {
-        "title": "ROPP Capping machine",
-        "categories": [
-          {
-            "subtitle": "",
-            "models": [
-              {
-                "id": "BNTPA-2040D-1H",
-                "name": "BNTPA-2040D-1H",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=cappingMachines&id=BNTPA-2040D-1H"
-              },
-              {
-                "id": "BNTPA-2040D-4H",
-                "name": "BNTPA-2040D-4H",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=cappingMachines&id=BNTPA-2040D-4H"
-              },
-              {
-                "id": "BNTPA-2040-6H",
-                "name": "BNTPA-2040-6H",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=cappingMachines&id=BNTPA-2040-6H"
-              },
-              {
-                "id": "BNTPA-2050DM",
-                "name": "BNTPA-2050DM",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=cappingMachines&id=BNTPA-2050DM"
-              },
-              {
-                "id": "BNTPA-2050DSM",
-                "name": "BNTPA-2050DSM",
-                "image": "assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png",
-                "link": "liquid-filling-detail.html?type=cappingMachines&id=BNTPA-2050DSM"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "sections": [
+    {
+      "title": "ROPP Capping machine",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "BNTPA-2040D-1H",
+              "name": "BNTPA-2040D-1H",
+              "image": "assets/img/products/capping-machine.png",
+              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2040D-1H"
+            },
+            {
+              "id": "BNTPA-2040D-4H",
+              "name": "BNTPA-2040D-4H",
+              "image": "assets/img/products/capping-machine.png",
+              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2040D-4H"
+            },
+            {
+              "id": "BNTPA-2040-6H",
+              "name": "BNTPA-2040-6H",
+              "image": "assets/img/products/capping-machine.png",
+              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2040-6H"
+            },
+            {
+              "id": "BNTPA-2050DM",
+              "name": "BNTPA-2050DM",
+              "image": "assets/img/products/capping-machine.png",
+              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2050DM"
+            },
+            {
+              "id": "BNTPA-2050DSM",
+              "name": "BNTPA-2050DSM",
+              "image": "assets/img/products/capping-machine.png",
+              "link": "product-detail.html?type=cappingMachines&id=BNTPA-2050DSM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

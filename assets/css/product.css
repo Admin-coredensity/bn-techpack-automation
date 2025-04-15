@@ -147,15 +147,16 @@
 
 .product-models-container .product-model-card .product-model-image {
     width: 100%;
-    height: 150px;
+    height: 190px;
     object-fit: contain;
+    margin: 0 auto;
 }
 
 .product-models-container .product-model-card .product-model-content {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    height: 90px;
+    height: 50px;
     text-align: center;
 }
 
