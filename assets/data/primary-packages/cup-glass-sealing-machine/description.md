@@ -11,7 +11,7 @@ They are commonly seen in juice shops, dairy outlets, and food courts where cons
 
 The sealing not only prevents spillage but also extends the product’s shelf life by keeping it contamination-free.
 
-How to Use a Cup/Glass Sealing Machine?
+### How to Use a Cup/Glass Sealing Machine?
 Operating a cup/glass sealing machine is easy and quick, requiring minimal training:
 
 - Place the filled cup or glass into the sealing mold.

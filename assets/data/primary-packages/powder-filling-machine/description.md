@@ -1,71 +1,57 @@
-# Liquid Filling Machine
+### Powder Filling Machine
+The powder filling machine efficiently fills containers with dry powder-based products, making it an ideal solution for industries such as pharmaceuticals, food, agriculture, and chemicals.
+It is well-suited for filling bottles, jars, pouches, or other containers with accurate quantities, ensuring consistency and productivity in packaging operations.
 
-The liquid filling machine efficiently fills containers with various liquid products, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-It is well-suited for filling bottles, jars, pouches, or other containers with precise volume, ensuring consistency and productivity in commercial packaging operations.
+### What is a Powder Filling Machine?
+Powder filling machines are used to accurately fill containers with powder products such as spices, flour, protein powders, cosmetic powders, or chemical powders.
+These machines are essential in industries where dry substances must be packed and sealed precisely for sale or distribution.
+Proper filling ensures no spillage, reduced waste, and consistent weight in every pack.
 
----
+The powder filling machine guarantees precise dosing and minimizes dust, helping maintain hygiene and packaging efficiency.
 
-### What is a Liquid Filling Machine?
+### How to Use a Powder Filling Machine?
+- Powder filling machines are user-friendly and provide high output with minimal manpower.
 
-Liquid filling machines are used to accurately fill containers with liquid products.  
-These machines are essential in industries where liquids need to be packaged and transported, such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
-During packaging and shipping, it's important that containers are properly filled and sealed to prevent leakage or spillage.  
+- Load the hopper with the powder product.
 
-The liquid filling machine ensures consistent and precise filling, helping maintain product quality and reduce waste during handling and transport.
+- Place an empty container (bottle, jar, or pouch) under the filling nozzle.
 
----
+- Start the machine (manually or automatically based on model type).
 
-### How to Use a Liquid Filling Machine?
+- The machine dispenses the set amount of powder into the container.
 
-The liquid filling machine is very easy to operate and delivers excellent output with minimal resources.  
+- Once filled, the container can be sealed using a capping or sealing machine.
 
-To use the machine:
-- Place the empty container (such as a bottle or pouch) under the filling nozzle.
-- Start the machine either manually or automatically, depending on the model.
-- The machine accurately dispenses the required amount of liquid into the container.
-- Once filled, the container can be sealed manually or by a separate sealing machine.
+- This process repeats seamlessly, offering high-speed and consistent packaging ideal for bulk or commercial needs.
 
-This cycle repeats for each container, ensuring speed and consistency.  
-The machine is simple, efficient, and can be operated by a single person, making it ideal for high-volume production in a short time.
+### What are the Benefits of Powder Filling?
+### Features & Advantages of Automatic Powder Filling Machines
+Our fully-automatic powder filling machines are equipped with servo motors, auger dosing systems, and PLC control panels.
+These machines can work as standalone units or be integrated into complete production lines.
 
----
+- High-speed filling with excellent precision
 
-### What are the Benefits of Liquid Filling?
+- Dust-free operation with enclosed dosing mechanisms
 
-#### Features & Advantages of Automatic Liquid Filling Machines
+- Servo-controlled auger for consistent filling volume
 
-We offer fully-automatic liquid filling machines equipped with smart sensors and PLC controls.  
-They can be integrated into automated production lines or operated as standalone units.
+- Touch-screen interface for easy operation and quick settings
 
-- Saves significant time and increases efficiency compared to manual filling 
+- Low maintenance and energy-efficient build
 
-- Fast filling cycle—capable of filling multiple containers in seconds, depending on liquid type and volume
 
-- Auto-fill and nozzle shut-off system ensures precision and reduces spillage
+#### Features & Advantages of Semi-Automatic Powder Filling Machines
+- Our semi-automatic models are compact and cost-effective, designed for medium- to small-scale production.
 
-- Low power consumption for energy-efficient operations
+- Easy to operate with simple controls and manual container handling
 
-- Automatic start/stop function and maintenance-free design reduce downtime
+- Auger filling technology ensures consistent dosage
 
-- Ideal for packaging high-volume liquid products like juices, oils, syrups, and chemicals
+- Adjustable speed and volume for different packaging needs
 
-- PLC-based control enhances accuracy and consistency in every fill
+- Compact design that fits in small production areas
 
----
+- Ideal for startups or businesses looking for a scalable solution
 
-#### Features & Advantages of Semi-Automatic Liquid Filling Machines
+- Compatible with a variety of packaging materials including pouches, bottles, and jars
 
-Our semi-automatic liquid filling machines are built with advanced PCB control systems,  
-making them reliable and cost-effective solutions for small to medium-scale operations.
-
-- User-friendly operation with easy adjustment settings
-
-- Power-saving design that reduces energy consumption
-
-- Filling accuracy and volume control with minimal wastage
-
-- Supports viscous and non-viscous liquids
-
-- Adjustable fill speed and nozzle sizes to match container types
-
-- Compatible with a wide range of container materials and sizes
