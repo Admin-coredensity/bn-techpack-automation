@@ -10,25 +10,25 @@
               "id": "BNTPA-140",
               "name": "BNTPA-140",
               "image": "assets/img/products/cup-glass-sealing-machine.png",
-              "link": "product-detail.html?type=cupGlassSealingMachines&id=BNTPA-140"
+              "link": "product-detail.html?category=primary-packages&type=cupGlassSealingMachines&id=BNTPA-140"
             },
             {
               "id": "BNTPA-SC4-75D",
               "name": "BNTPA-SC4-75D",
               "image": "assets/img/products/cup-glass-sealing-machine.png",
-              "link": "product-detail.html?type=cupGlassSealingMachines&id=BNTPA-SC4-75D"
+              "link": "product-detail.html?category=primary-packages&type=cupGlassSealingMachines&id=BNTPA-SC4-75D"
             },
             {
               "id": "BNTPA-015SP",
               "name": "BNTPA-015SP",
               "image": "assets/img/products/cup-glass-sealing-machine.png",
-              "link": "product-detail.html?type=cupGlassSealingMachines&id=BNTPA-015SP"
+              "link": "product-detail.html?category=primary-packages&type=cupGlassSealingMachines&id=BNTPA-015SP"
             },
             {
               "id": "BNTPA-3040SP",
               "name": "BNTPA-3040SP",
               "image": "assets/img/products/cup-glass-sealing-machine.png",
-              "link": "product-detail.html??type=cupGlassSealingMachines&id=BNTPA-3040SP"
+              "link": "product-detail.html?category=primary-packages&type=cupGlassSealingMachines&id=BNTPA-3040SP"
             }
           ]
         }

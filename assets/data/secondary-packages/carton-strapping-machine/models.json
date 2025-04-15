@@ -1,34 +1,34 @@
 {
   "sections": [
     {
-      "title": "Carton Strapping machine",
+      "title": "Semi automatic Carton Strapping machine",
       "categories": [
         {
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPA-DY8",
-              "name": "BNTPA-DY8",
-              "image": "assets/img/products/coding-machine.png",
-              "link": "product-detail.html?type=codingMachines&id=BNTPA-DY8"
+              "id": "BNTPA-xt8020",
+              "name": "BNTPA-xt8020",
+              "image": "assets/img/products/carton-strapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-xt8020"
             },
             {
-              "id": "BNTPA-HP241-B",
-              "name": "BNTPA-HP241-B",
-              "image": "assets/img/products/coding-machine.png",
-              "link": "product-detail.html?type=codingMachines&id=BNTPA-HP241-B"
+              "id": "BNTPA-316h",
+              "name": "BNTPA-316h",
+              "image": "assets/img/products/carton-strapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-316h"
             },
             {
-              "id": "BNTPA-380FSS",
-              "name": "BNTPA-380FSS",
-              "image": "assets/img/products/coding-machine.png",
-              "link": "product-detail.html?type=codingMachines&id=BNTPA-380FSS"
+              "id": "BNTPA-PW8060C",
+              "name": "BNTPA-PW8060C",
+              "image": "assets/img/products/carton-strapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-PW8060C"
             },
             {
-              "id": "BNTPA-380FMS",
-              "name": "BNTPA-380FMS",
-              "image": "assets/img/products/coding-machine.png",
-              "link": "product-detail.html?type=codingMachines&id=BNTPA-380FMS"
+              "id": "BNTPA-8060R/B",
+              "name": "BNTPA-8060R/B",
+              "image": "assets/img/products/carton-strapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-8060R/B"
             }
           ]
         }

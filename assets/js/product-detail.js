@@ -1,6 +1,7 @@
 const urlParams = new URLSearchParams(window.location.search);
 const productType = urlParams.get("type");
 const productId = urlParams.get("id");
+const category = urlParams.get("category") || "primary-packages";
 
 const container = document.getElementById("variant-sections-container");
 
@@ -50,7 +51,6 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Label Roll Diameter", variantData.labelRollDiameter, "product-model-label-roll-diameter")}
             ${generateRow("Label Accuracy", variantData.labelAccuracy, "product-model-label-accuracy")}
             ${generateRow("Accuracy", variantData.accuracy, "product-model-accuracy")}
-            ${generateRow("Weight", variantData.weight, "product-model-weight")}
             ${generateRow("Core Inner Diameter", variantData.coreInnerDiameter, "product-model-core-inner-diameter")}
             ${generateRow("Gap Between Two Labels", variantData.gapBetweenTwoLabels, "product-model-gap-between-two-labels")}
             ${generateRow("Applicator For Types", variantData.applicatorForTypes, "product-model-applicator-for-types")}
@@ -61,6 +61,13 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Cap Sealing Diameter", variantData.capSealingDiameter, "product-model-cap-sealing-diameter")}
             ${generateRow("Weighing Range", variantData.weighingRange, "product-model-weighing-range")}
             ${generateRow("Hopper Capacity", variantData.hopperCapacity, "product-model-hopper-capacity")}
+            ${generateRow("Pouch Selling Types", variantData.pouchSellingTypes, "product-model-pouch-selling-types")}
+            ${generateRow("No Head", variantData.noHead, "product-model-no-head")}
+            ${generateRow("Box Size", variantData.boxSize, "product-model-box-size")}
+            ${generateRow("Air Supply", variantData.airSupply, "product-model-air-supply")}
+            ${generateRow("Width BOPP/Strap", variantData.widthBOPPStrap, "product-model-width-BOPP-Strap")}
+            ${generateRow("Strap Width", variantData.strapWidth, "product-model-strap-width")}
+            ${generateRow("Weight", variantData.weight, "product-model-weight")}
             ${generateRow("Machine Dimension LxWxH", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
           </tbody>
           </table>
@@ -70,23 +77,29 @@ function renderVariant(variantKey, variantData) {
   `;
 }
 
-fetch(`assets/data/primary-packages/${productType}.json`)
-  .then((res) => res.json())
-  .then((data) => {
-    if (productType && data[productType] && data[productType][productId]) {
-      const productData = data[productType][productId];
-      const rendered = Object.entries(productData)
-        .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
-        .join("");
-      container.innerHTML = rendered;
-    } else {
-      container.innerHTML = `<p>Product not found or has no variants.</p>`;
-    }
-  })
-  .catch((err) => {
-    console.error("Error loading product detail:", err);
-    container.innerHTML = `<p>Error loading product details.</p>`;
-  });
+// Fetch product data
+fetch(`assets/data/${category}/${productType}.json`)
+    .then((res) => {
+        if (!res.ok) throw new Error(`Failed to load ${category}/${productType}.json`);
+        return res.json();
+    })
+    .then((data) => {
+        const productData = data?.[productType]?.[productId];
+
+        if (productData) {
+            const rendered = Object.entries(productData)
+                .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
+                .join("");
+            container.innerHTML = rendered;
+        } else {
+            console.warn("Matching product type or ID not found in data.");
+            container.innerHTML = `<p>Product not found or has no variants.</p>`;
+        }
+    })
+    .catch((err) => {
+        console.error("Error loading product detail:", err);
+        container.innerHTML = `<p>Error loading product details.</p>`;
+    });
 
 // Go back function 
 function goBack() {

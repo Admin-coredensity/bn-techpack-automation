@@ -10,25 +10,25 @@
               "id": "BNTPASPF-1to100gm",
               "name": "BNTPASPF-1 to 100gm",
               "image": "assets/img/products/powder-filling-machine.png",
-              "link": "product-detail.html?type=powderFillingMachines&id=BNTPASPF-1to100gm"
+              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPASPF-1to100gm"
             },
             {
               "id": "BNTPASPF-2to200gm",
               "name": "BNTPASPF-2 to 200gm",
               "image": "assets/img/products/powder-filling-machine.png",
-              "link": "product-detail.html?type=powderFillingMachines&id=BNTPASPF-2to200gm"
+              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPASPF-2to200gm"
             },
             {
               "id": "BNTPASPF-10to1000gm",
               "name": "BNTPASPF-10 to 1000gm",
               "image": "assets/img/products/powder-filling-machine.png",
-              "link": "product-detail.html?type=powderFillingMachines&id=BNTPASPF-10to1000gm"
+              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPASPF-10to1000gm"
             },
             {
               "id": "BNTPASPF-10 to 3000gm",
               "name": "BNTPASPF-10 to 3000gm",
               "image": "assets/img/products/powder-filling-machine.png",
-              "link": "product-detail.html??type=powderFillingMachines&id=BNTPASPF-10to3000gm"
+              "link": "product-detail.html??category=primary-packages&type=powderFillingMachines&id=BNTPASPF-10to3000gm"
             }
           ]
         }

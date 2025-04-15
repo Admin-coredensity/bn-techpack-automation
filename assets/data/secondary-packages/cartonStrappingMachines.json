@@ -1,74 +1,53 @@
 {
-  "cappingMachines": {
-    "BNTPA-2040D-1H": {
-      "BNTPA-2040D-1H": {
-        "name": "ROPP Capping machine",
-        "category": "",
-        "model": "BNTPA-2040D-1H",
-        "image": "assets/img/products/capping-machine.png",
-        "power": "1.5KW 230 V AC 50Hz ",
-        "MOC": "MS/SS304",
-        "productionSpeedBPM": "30-40 bpm",
-        "cappingDimeter": "Up to 100 mm",
-        "machineDimensionLxWxH": "560x420x430",
-        "weight": "22KG"
-      }
+  "cartonStrappingMachines":{
+    "BNTPA-xt8020": {
+    "BNTPA-xt8020": {
+      "name": "Strapping Machine",
+      "model": "BNTPA-xt8020",
+      "image": "assets/img/products/carton-strapping-machine.png",
+      "speed": "UP-25 cpm",
+      "boxSize": "UP - NO LIMIT",
+      "power": "0.18 KW 230 V AC 50Hz",
+      "airSupply": "AC 50Hz",
+      "strapWidth": "6-19 mm",
+      "operating": "Semi auto"
+     }
+     },
+    "BNTPA-316h": {
+    "BNTPA-316h": {
+      "name": "Strapping Machine",
+      "model": "BNTPA-316h",
+      "speed": "UP-25 cpm",
+      "boxSize": "UP - NO LIMIT",
+      "power": "0.18 KW 230 V AC 50Hz",
+      "airSupply": "AC 50Hz",
+      "strapWidth": "6-19 mm",
+      "operating": "Semi auto"
+    }
     },
-    "BNTPA-2040D-4H": {
-      "BNTPA-2040D-4H": {
-        "name": "ROPP Capping machine",
-        "category": "",
-        "model": "BNTPA-2040D-4H",
-        "image": "assets/img/products/capping-machine.png",
-        "power supply ": "2.5W 230 V AC 50Hz",
-        "MOC": "MS/SS304",
-        "productionSpeedBPM": "50-60 bom",
-        "cappingDimeter": "Up to 100 mm",
-        "machineDimensionLxWxH": "",
-        "weight": ""
-      }
+    "BNTPA-PW8060C": {
+    "BNTPA-PW8060C": {
+      "name": "Strapping Machine",
+      "model": "BNTPA-PW8060C",
+      "speed": "UP-25 cpm",
+      "boxSize": "UP - NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
+      "power": "1.5 KW 230 V",
+      "airSupply": " AC 50Hz 4-6 BAR",
+      "strapWidth": "9-12 mm",
+      "operating": "Automatic"
+    }
     },
-    "BNTPA-2040-6H": {
-      "BNTPA-2040-6H": {
-        "name": "ROPP Capping machine",
-        "category": "",
-        "model": "BNTPA-2040-6H",
-        "image": "assets/img/products/capping-machine.png",
-        "power Supply ": "3 KW 230 V AC 50Hz",
-        "MOC": "MS/SS304",
-        "productionSpeedBPM": "70-80 bom",
-        "cappingDimeter": "Up to 100 mm",
-        "machineDimensionLxWxH": "-",
-        "weight": ""
-      }
-    },
-    "BNTPA-2050DM": {
-      "BNTPA-2050DM": {
-        "name": "ROPP Capping machine",
-        "category": "",
-        "model": "BNTPA-2050DM",
-        "image": "assets/img/products/capping-machine.png",
-        "power Supply ": "50W 230 V AC 50Hz",
-        "MOC": "TOLL",
-        "productionSpeedBPM": "10 TO 12 BPM",
-        "cappingDimeter": "20 TO 50 MM",
-        "machineDimensionLxWxH": "",
-        "weight": ""
-      }
-    },
-    "BNTPA-2050DSM": {
-      "BNTPA-2050DSM": {
-        "name": "ROPP Capping machine",
-        "category": "",
-        "model": "BNTPA-2050DSM",
-        "image": "assets/img/products/capping-machine.png",
-        "power Supply ": "180W 230 V AC 50Hz ",
-        "MOC": "Aluminum/MS/ss",
-        "productionSpeedBPM": "10 TO 12 BPM",
-        "cappingDimeter": "20 to 50 mm",
-        "machineDimensionLxWxH": "",
-        "weight": ""
-      }
+    "BNTPA-8060R/B": {
+    "BNTPA-8060R/B": {
+      "name": "Strapping Machine",
+      "model": "BNTPA-8060R/B",
+      "speed": "UP-25 cpm",
+      "boxSize": "UP - NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
+      "power": "1.5 KW 230 V ",
+      "airSupply": "AC 50Hz 4-6 BAR",
+      "strapWidth": "9-12 mm",
+      "operating": "Automatic"
+    }
     }
   }
 }

@@ -4,7 +4,7 @@
       "Shrink Tunnel Machines": {
         "BNTPA-4525R/B/BNTPA-4535R/B/BNTPA-6045R/B/BNTPA-4525MR/B/BNTPA-4525ER/B/BNTPA-SS612/P": {
           "BNTPA-4525R/B": {
-            "Name": "Shrink Tunnel Machine",
+            "Name": "Shrink (Tunnel) wrapping machine",
             "Model": "BNTPA-4525R/B",
             "Production Speed": "Up to 60",
             "Hit Zone Size": "1000X450X250",
@@ -17,7 +17,7 @@
             "Machine Dimensions": "2000X770X1260"
           },
           "BNTPA-4535R/B": {
-            "Name": "Shrink Tunnel Machine",
+            "Name": "Shrink (Tunnel) wrapping machine",
             "Model": "BNTPA-4535R/B",
             "Production Speed": "Up to 60",
             "Hit Zone Size": "1250X450X250",
@@ -30,7 +30,7 @@
             "Machine Dimensions": "2000X770X1360"
           },
           "BNTPA-6045R/B": {
-            "Name": "Shrink Tunnel Machine",
+            "Name": "Shrink (Tunnel) wrapping machine",
             "Model": "BNTPA-6045R/B",
             "Production Speed": "Up to 60",
             "Hit Zone Size": "1000X450X350",
@@ -42,7 +42,7 @@
             "Machine Dimensions": "3000X920X1460"
           },
           "BNTPA-4525MR/B": {
-            "Name": "Shrink Tunnel Machine",
+            "Name": "Shrink (Tunnel) wrapping machine",
             "Model": "BNTPA-4525MR/B",
             "Production Speed": "Up to 20",
             "Hit Zone Size": "1250X450X350",
@@ -54,7 +54,7 @@
             "Machine Dimensions": "1000X550X1260"
           },
           "BNTPA-4525ER/B": {
-            "Name": "Shrink Tunnel Machine",
+            "Name": "Shrink (Tunnel) wrapping machine",
             "Model": "BNTPA-4525ER/B",
             "Production Speed": "Up to 40",
             "Hit Zone Size": "1500X600X450",
@@ -66,9 +66,22 @@
             "Machine Dimensions": "1500X770X1260"
           },
           "BNTPA-SS612/P": {
-            "Name": "Shrink Tunnel Machine",
+            "Name": "Shrink (Tunnel) wrapping machine",
             "Model": "BNTPA-SS612/P",
             "Production Speed": "UP-40",
+            "Hit Zone Size": "500X450X250, 1000X450X250, 1500X150X300",
+            "Heater Load Capacity": "12-16 kw",
+            "Conveyor Drive Types": "SS Slat",
+            "Power Supply": "415 V AC",
+            "Model Type": "Heavy-duty",
+            "Applicable Film": "Printed PVC Slave",
+            "Machine Dimensions": "2500X650X1450"
+          }
+        },
+        "BNTPA-2015-P": {
+            "Name": "Chamber type shrink wrapping machine",
+            "Model": "BNTPA-2015-P",
+            "Production Speed": "5-8",
             "Hit Zone Size": "500X450X250, 1000X450X250, 1500X150X300",
             "Heater Load Capacity": "12-16 kw",
             "Conveyor Drive Types": "SS Slat",

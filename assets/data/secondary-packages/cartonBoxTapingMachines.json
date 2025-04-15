@@ -1,5 +1,5 @@
 {
-    "cartonBoxTapingMachines:": {
+    "cartonBoxTapingMachines": {
       "BNTPA-4030": {
         "BNTPA-4030": {
           "name": "Carton Box Taping Machine",
@@ -9,7 +9,7 @@
           "boxSize": "120-UP MM, 80-320 MM, 90-400 MM",
           "power": "0.18 KW 230 V AC 50Hz",
           "airSupply": "Ac 50Hz",
-          "widthBOPP/Strap": "25-75 mm",
+          "widthBOPPStrap": "25-75 mm",
           "operating": "Semi auto",
           "machineDimensionLxWxH": "1050x650x860"
         }
@@ -23,7 +23,7 @@
           "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
           "power": "0.18 KW 230 V",
           "airSupply": "Ac 50Hz",
-          "widthBOPP/Strap": "25-75 mm",
+          "widthBOPPStrap": "25-75 mm",
           "operating": "Semi auto",
           "machineDimensionLxWxH": "1050x650x860"
         }
@@ -37,7 +37,7 @@
           "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
           "power": "0.18 KW 230 V",
           "airSupply": "AC 50Hz 4-6 BAR",
-          "widthBOPP/Strap": "25-75 mm",
+          "widthBOPPStrap": "25-75 mm",
           "operating": "Automatic"
         }
       },
@@ -50,7 +50,7 @@
           "boxSize": "200-UP MM, 160 -500 MM, 150-500 MM",
           "power": "1.5 KW 230",
           "airSupply": "Ac 50Hz 4-6 BAR",
-          "widthBOPP/Strap": "25-75 mm",
+          "widthBOPPStrap": "25-75 mm",
           "operating": "Automatic"
         }
       },
@@ -63,7 +63,7 @@
           "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
           "power": "2.5 KW 415 V AC",
           "airSupply": "V AC",
-          "widthBOPP/Strap": "9 mm /12 mm",
+          "widthBOPPStrap": "9 mm /12 mm",
           "operating": "Automatic"
         }
       }
