@@ -15,8 +15,8 @@
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
     <link
-            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-            rel="stylesheet">
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -39,951 +39,1014 @@
 
 <body class="index-page">
 
-<header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+    <header id="header" class="header d-flex align-items-center fixed-top">
+        <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-        <a href="index.html" class="logo me-auto">
-            <img src="assets/img/brand-logo.png" alt="brand-logo">
-        </a>
+            <a href="index.html" class="logo me-auto">
+                <img src="assets/img/brand-logo.png" alt="brand-logo">
+            </a>
 
-        <nav id="navmenu" class="navmenu">
-            <ul>
-                <li><a href="index.html" class="active">Home</a></li>
-                <li class="dropdown dropbtn">
-                    <a href="#">Products
-                        <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <nav id="navmenu" class="navmenu">
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li class="dropdown dropbtn">
+                        <a href="#">Products
+                            <i class="bi bi-chevron-down toggle-dropdown"></i></a>
 
-                    <div class="dropdown">
-                        <div class="dropdown-content">
-                            <nav>
-                                <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                    <div class="button-container">
-                                        <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
-                                                data-bs-target="#nav-home"
-                                                type="button" role="tab" aria-controls="nav-home" aria-selected="true">
+                        <div class="dropdown">
+                            <div class="dropdown-content">
+                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <div class="button-container">
+                                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
+                                                data-bs-target="#nav-home" type="button" role="tab"
+                                                aria-controls="nav-home" aria-selected="true">
+                                                <i class="bi bi-square-fill"></i>
+                                                Primary Package
+                                            </button>
+                                        </div>
+                                        <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
+                                            data-bs-target="#nav-profile" type="button" role="tab"
+                                            aria-controls="nav-profile" aria-selected="false">
                                             <i class="bi bi-square-fill"></i>
-                                            Primary Package
+                                            Secondary Package
+                                        </button>
+                                        <button class="nav-link" id="nav-packing-consumables-tab" data-bs-toggle="tab"
+                                            data-bs-target="#nav-packing-consumables" type="button" role="tab"
+                                            aria-controls="nav-packing-consumables" aria-selected="false">
+                                            <i class="bi bi-square-fill"></i>
+                                            Packing Consumables
+                                        </button>
+                                        <button class="nav-link" id="nav-spm-and-industrial-automation-tab"
+                                            data-bs-toggle="tab" data-bs-target="#nav-packing-consumables" type="button"
+                                            role="tab" aria-controls="nav-packing-consumables" aria-selected="false">
+                                            <i class="bi bi-square-fill"></i>
+                                            SPM & Industrial Automation
                                         </button>
                                     </div>
-                                    <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab"
-                                            data-bs-target="#nav-profile"
-                                            type="button" role="tab" aria-controls="nav-profile" aria-selected="false">
-                                        <i class="bi bi-square-fill"></i>
-                                        Secondary Package
-                                    </button>
-                                    <button class="nav-link" id="nav-packing-consumables-tab" data-bs-toggle="tab"
-                                            data-bs-target="#nav-packing-consumables" type="button" role="tab"
-                                            aria-controls="nav-packing-consumables" aria-selected="false">
-                                        <i class="bi bi-square-fill"></i>
-                                        Packing Consumables
-                                    </button>
-                                    <button class="nav-link" id="nav-spm-and-industrial-automation-tab"
-                                            data-bs-toggle="tab"
-                                            data-bs-target="#nav-packing-consumables" type="button" role="tab"
-                                            aria-controls="nav-packing-consumables" aria-selected="false">
-                                        <i class="bi bi-square-fill"></i>
-                                        SPM & Industrial Automation
-                                    </button>
-                                </div>
-                            </nav>
-                            <div class="tab-content" id="nav-tabContent">
-                                <!-- primary package -->
-                                <div class="tab-pane fade show active" id="nav-home" role="tabpanel"
-                                     aria-labelledby="nav-home-tab"
-                                     tabindex="0">
-                                    <div class="dropdown-container">
-                                        <a href="product.html?category=primary-packages&type=liquid-filling-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/liquid-filling-machine.png">
-                                                <p class="dropdown-item-text">fully/Semi Automatic liquid filling
-                                                    machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=paste-filling-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/paste-filling-machine.png">
-                                                <p class="dropdown-item-text">fully/Semi Automatic Paste Filling
-                                                    Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=labeling-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/labeling-machine.png">
-                                                <p class="dropdown-item-text">fully/Semi Automatic Labeling Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=capping-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/capping-machine.PNG">
-                                                <p class="dropdown-item-text">fully/Semi Automatic Capping Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=coding-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/coding-machine.PNG">
-                                                <p class="dropdown-item-text">fully/Semi-Automatic coding Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=induction-sealing-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/induction-machine.PNG">
-                                                <p class="dropdown-item-text">Induction Sealing Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=cup-glass-sealing-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/cup-glass-sealing-machine.PNG">
-                                                <p class="dropdown-item-text">Cup/Glass Sealing Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=powder-filling-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/powder-filling-machine.png">
-                                                <p class="dropdown-item-text">Powder Filling Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/primary-packages/pouch-packing-machine.jpg">
-                                                <p class="dropdown-item-text">Pouch Sealing & Pouch Packing Machine</p>
-                                            </div>
-                                        </a>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <!-- primary package -->
+                                    <div class="tab-pane fade show active" id="nav-home" role="tabpanel"
+                                        aria-labelledby="nav-home-tab" tabindex="0">
+                                        <div class="dropdown-container">
+                                            <a
+                                                href="product.html?category=primary-packages&type=liquid-filling-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/liquid-filling-machine.png">
+                                                    <p class="dropdown-item-text">fully/Semi Automatic liquid filling
+                                                        machine</p>
+                                                </div>
+                                            </a>
+                                            <a href="product.html?category=primary-packages&type=paste-filling-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/paste-filling-machine.png">
+                                                    <p class="dropdown-item-text">fully/Semi Automatic Paste Filling
+                                                        Machine</p>
+                                                </div>
+                                            </a>
+                                            <a href="product.html?category=primary-packages&type=labeling-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/labeling-machine.png">
+                                                    <p class="dropdown-item-text">fully/Semi Automatic Labeling Machine
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a href="product.html?category=primary-packages&type=capping-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/capping-machine.PNG">
+                                                    <p class="dropdown-item-text">fully/Semi Automatic Capping Machine
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a href="product.html?category=primary-packages&type=coding-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/coding-machine.PNG">
+                                                    <p class="dropdown-item-text">fully/Semi-Automatic coding Machine
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a
+                                                href="product.html?category=primary-packages&type=induction-sealing-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/induction-machine.PNG">
+                                                    <p class="dropdown-item-text">Induction Sealing Machine</p>
+                                                </div>
+                                            </a>
+                                            <a
+                                                href="product.html?category=primary-packages&type=cup-glass-sealing-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/cup-glass-sealing-machine.PNG">
+                                                    <p class="dropdown-item-text">Cup/Glass Sealing Machine</p>
+                                                </div>
+                                            </a>
+                                            <a
+                                                href="product.html?category=primary-packages&type=powder-filling-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/powder-filling-machine.png">
+                                                    <p class="dropdown-item-text">Powder Filling Machine</p>
+                                                </div>
+                                            </a>
+                                            <a
+                                                href="product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/primary-packages/pouch-packing-machine.jpg">
+                                                    <p class="dropdown-item-text">Pouch Sealing & Pouch Packing Machine
+                                                    </p>
+                                                </div>
+                                            </a>
 
+                                        </div>
                                     </div>
-                                </div>
 
-                                <!-- secondary packages -->
-                                <div class="tab-pane fade" id="nav-profile" role="tabpanel"
-                                     aria-labelledby="nav-profile-tab"
-                                     tabindex="0">
-                                    <div class="dropdown-container">
-                                        <a href="product.html?category=secondary-packages&type=carton-box-taping-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/secondary-packages/carton-trapping-machine.PNG">
-                                                <p class="dropdown-item-text">Carton Box Taping Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=secondary-packages&type=carton-strapping-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/secondary-packages/strapping-machine.PNG">
-                                                <p class="dropdown-item-text">Carton Strapping Machine (Semi
-                                                    automatic)</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/secondary-packages/industrial-conveyor.jpg">
-                                                <p class="dropdown-item-text">Industrial Conveyor System</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/secondary-packages/metal-detector.PNG">
-                                                <p class="dropdown-item-text">Metal Detector System</p>
-                                            </div>
-                                        </a>
-                                        <a href="product.html?category=secondary-packages&type=shrink-wrapping-machine">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/secondary-packages/shrink-wrapping-machine.PNG">
-                                                <p class="dropdown-item-text">Shrink Wrapping Machine
-                                                    (Tunnel/Chamber)</p>
-                                            </div>
-                                        </a>
+                                    <!-- secondary packages -->
+                                    <div class="tab-pane fade" id="nav-profile" role="tabpanel"
+                                        aria-labelledby="nav-profile-tab" tabindex="0">
+                                        <div class="dropdown-container">
+                                            <a
+                                                href="product.html?category=secondary-packages&type=carton-box-taping-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/secondary-packages/carton-trapping-machine.PNG">
+                                                    <p class="dropdown-item-text">Carton Box Taping Machine</p>
+                                                </div>
+                                            </a>
+                                            <a
+                                                href="product.html?category=secondary-packages&type=carton-strapping-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/secondary-packages/strapping-machine.PNG">
+                                                    <p class="dropdown-item-text">Carton Strapping Machine (Semi
+                                                        automatic)</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/secondary-packages/industrial-conveyor.jpg">
+                                                    <p class="dropdown-item-text">Industrial Conveyor System</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/secondary-packages/metal-detector.PNG">
+                                                    <p class="dropdown-item-text">Metal Detector System</p>
+                                                </div>
+                                            </a>
+                                            <a
+                                                href="product.html?category=secondary-packages&type=shrink-wrapping-machine">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/secondary-packages/shrink-wrapping-machine.PNG">
+                                                    <p class="dropdown-item-text">Shrink Wrapping Machine
+                                                        (Tunnel/Chamber)</p>
+                                                </div>
+                                            </a>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <!-- Packing Consumables -->
-                                <div class="tab-pane fade" id="nav-packing-consumables" role="tabpanel"
-                                     aria-labelledby="nav-packing-consumables-tab" tabindex="0">
-                                    <div class="dropdown-container">
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/pof-shrink-film.PNG">
-                                                <p class="dropdown-item-text"><span class="text-uppercase">pof</span>
-                                                    shrink film</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/pvc-shrink-film.PNG">
-                                                <p class="dropdown-item-text"><span class="text-uppercase">pvc</span>
-                                                    shrink film</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/stretch-film.PNG">
-                                                <p class="dropdown-item-text">stretch film</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/pof-shrink-film-pouch.PNG">
-                                                <p class="dropdown-item-text"><span class="text-uppercase">pof</span>
-                                                    shrink film pouch</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/pvc-shrink-film-pouch.PNG">
-                                                <p class="dropdown-item-text"><span class="text-uppercase">pvc</span>
-                                                    shrink film pouch</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/bubble-rolls.PNG">
-                                                <p class="dropdown-item-text">Shrink Wrapping Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/pet-straproll.PNG">
-                                                <p class="dropdown-item-text">Shrink Wrapping Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/pp-straproll.PNG">
-                                                <p class="dropdown-item-text">Shrink Wrapping Machine</p>
-                                            </div>
-                                        </a>
-                                        <a href="#">
-                                            <div class="dropdown-item-container">
-                                                <img class="dropdown-image"
-                                                     src="assets/img/product-dropdown/packing-consumables/bopp-tape.PNG">
-                                                <p class="dropdown-item-text">Shrink Wrapping Machine</p>
-                                            </div>
-                                        </a>
+                                    <!-- Packing Consumables -->
+                                    <div class="tab-pane fade" id="nav-packing-consumables" role="tabpanel"
+                                        aria-labelledby="nav-packing-consumables-tab" tabindex="0">
+                                        <div class="dropdown-container">
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/pof-shrink-film.PNG">
+                                                    <p class="dropdown-item-text"><span
+                                                            class="text-uppercase">pof</span>
+                                                        shrink film</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/pvc-shrink-film.PNG">
+                                                    <p class="dropdown-item-text"><span
+                                                            class="text-uppercase">pvc</span>
+                                                        shrink film</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/stretch-film.PNG">
+                                                    <p class="dropdown-item-text">stretch film</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/pof-shrink-film-pouch.PNG">
+                                                    <p class="dropdown-item-text"><span
+                                                            class="text-uppercase">pof</span>
+                                                        shrink film pouch</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/pvc-shrink-film-pouch.PNG">
+                                                    <p class="dropdown-item-text"><span
+                                                            class="text-uppercase">pvc</span>
+                                                        shrink film pouch</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/bubble-rolls.PNG">
+                                                    <p class="dropdown-item-text">Shrink Wrapping Machine</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/pet-straproll.PNG">
+                                                    <p class="dropdown-item-text">Shrink Wrapping Machine</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/pp-straproll.PNG">
+                                                    <p class="dropdown-item-text">Shrink Wrapping Machine</p>
+                                                </div>
+                                            </a>
+                                            <a href="#">
+                                                <div class="dropdown-item-container">
+                                                    <img class="dropdown-image"
+                                                        src="assets/img/product-dropdown/packing-consumables/bopp-tape.PNG">
+                                                    <p class="dropdown-item-text">Shrink Wrapping Machine</p>
+                                                </div>
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </li>
-                <li><a href="index.html#about">About</a></li>
-                <li><a href="index.html#clients">Clients</a></li>
-                <li><a href="index.html#contact">Contact</a></li>
-                <li><a class="btn-getstarted" href="index.html#about">Get Started</a></li>
-            </ul>
-            <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-        </nav>
+                    </li>
+                    <li><a href="index.html#about">About</a></li>
+                    <li><a href="index.html#clients">Clients</a></li>
+                    <li><a href="index.html#contact">Contact</a></li>
+                    <li><a class="btn-getstarted" href="index.html#about">Get Started</a></li>
+                </ul>
+                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+            </nav>
 
 
-    </div>
-</header>
+        </div>
+    </header>
 
-<main class="main">
+    <main class="main">
 
-    <!-- carousel section -->
-    <section id="carousel-section" class="carousel-section">
-        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        <!-- carousel section -->
+        <section id="carousel-section" class="carousel-section">
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
 
-            <!-- Indicators -->
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+                <!-- Indicators -->
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
                         aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
                         aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
                         aria-label="Slide 3"></button>
-                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3"
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3"
                         aria-label="Slide 4"></button>
-            </div>
+                </div>
 
-            <!-- Slides -->
-            <div class="carousel-inner">
+                <!-- Slides -->
+                <div class="carousel-inner">
 
-                <!-- Slide 1 -->
-                <div class="carousel-item active">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 text-section">
-                                <h2 class="sub-text">Superior Quality</h2>
-                                <h1 class="main-text">Primary Packaging Solutions</h1>
-                                <h2 class="sub-text">for Optimal Results.</h2>
+                    <!-- Slide 1 -->
+                    <div class="carousel-item active">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 text-section">
+                                    <h2 class="sub-text">Superior Quality</h2>
+                                    <h1 class="main-text">Primary Packaging Solutions</h1>
+                                    <h2 class="sub-text">for Optimal Results.</h2>
+                                </div>
+                                <div class="col-md-6 image-section">
+                                    <img id="carousel1-img" src="assets/img/carousel/carousel1-img.png"
+                                        alt="carousel1-img">
+                                </div>
                             </div>
-                            <div class="col-md-6 image-section">
-                                <img id="carousel1-img" src="assets/img/carousel/carousel1-img.png" alt="carousel1-img">
+                        </div>
+                    </div>
+
+                    <!-- Slide 2 -->
+                    <div class="carousel-item">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 text-section">
+                                    <h2 class="sub-text">Reliable</h2>
+                                    <h1 class="main-text">Secondary Packaging Solutions</h1>
+                                    <h2 class="sub-text-3">for Consistent Excellence.</h2>
+                                </div>
+                                <div
+                                    class="col-md-6 image-section d-flex justify-content-center align-items-center flex-wrap">
+                                    <img id="carousel2-img" src="assets/img/carousel/carousel2-img.png"
+                                        alt="carousel2-img">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Slide 3 -->
+                    <div class="carousel-item">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 text-section">
+                                    <h2 class="sub-text">World Class</h2>
+                                    <h1 class="main-text">Industrial Automation Solutions</h1>
+                                    <h2 class="sub-text-2">for Future-Ready Operations.</h2>
+                                </div>
+                                <div
+                                    class="col-md-6 image-section d-flex justify-content-center align-items-center flex-wrap">
+                                    <img id="carousel3-img" src="assets/img/carousel/carousel3-img.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Slide 4 -->
+                    <div class="carousel-item">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 text-section">
+                                    <h2 class="sub-text">Advanced</h2>
+                                    <h1 class="main-text">Conveyor Packing Solutions</h1>
+                                    <h2 class="sub-text">for Seamless Integration</h2>
+                                </div>
+                                <div
+                                    class="col-md-6 image-section d-flex justify-content-center align-items-center flex-wrap">
+                                    <img id="conveyor-img" src="assets/img/carousel/Conveyor.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- carousel section ends -->
+
+        <!-- About Section -->
+        <section id="about" class="about section">
+
+            <div class="container">
+                <div class="row gy-4">
+                    <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+                        <p class="who-we-are">Who We Are</p>
+                        <h3>Maximizing Efficiency Through Advanced Engineering</h3>
+                        <p class="fst-italic"></p>
+                        <ul>
+                            <li><i class="bi bi-check-circle"></i>
+                                <span> Established in the year 2011, at Pune (Maharashtra, India),
+                                    We, “B.N. Enterprises” is the manufacturer, trader and exporter of a wide range
+                                    of Wrapping Machine, Shrink Tunnel, Control Panel Board,
+                                    L-Sealer Machine, Sealing Machine, Industrial Conveyor etc
+                                </span>
+                            <li><i class="bi bi-check-circle"></i>
+                                <span> Our skilled team designs and manufacturers these products using premium quality
+                                    raw material,
+                                    sourced from the well-established vendors of the industry. Offered products are
+                                    widely
+                                    demanded and appreciated by our precious clients, owing to the features like low
+                                    operating
+                                    cost, low maintenance, one finish, optimum quality, durability and reliability. We
+                                    manufacture
+                                    these products in compliance with the set international quality standards in our
+                                    high-tech
+                                    manufacturing unit. Our precious clients can avail these products in various
+                                    specifications as per
+                                    their specific requirements and at highly competitive prices.
+                                </span>
+                            <li><i class="bi bi-check-circle"></i>
+                                <span> Our mentor, Mr. Choure B., has guided us to be able to famous in this domain. Our
+                                    zeal has
+                                    enabled us to carve a niche in this industry..
+                                </span>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-6 col-md-12 about-images" data-aos="fade-up" data-aos-delay="200">
+                        <div class="row gy-4">
+                            <div class="col-lg-6">
+                                <img src="assets/img/companyinfo.PNG" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </section><!-- /About Section -->
 
-                <!-- Slide 2 -->
-                <div class="carousel-item">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 text-section">
-                                <h2 class="sub-text">Reliable</h2>
-                                <h1 class="main-text">Secondary Packaging Solutions</h1>
-                                <h2 class="sub-text-3">for Consistent Excellence.</h2>
+        <!-- Featured Services Section -->
+        <section id="featured-services" class="featured-services section light-background">
+            <div class="features-container">
+                <div class="feature-item">
+                    <img src="assets/img/featured-services/services-icon-1.png" alt="World-Class Product" />
+                    <p>World-Class Product</p>
+                </div>
+                <div class="feature-item">
+                    <img src="assets/img/featured-services/services-icon-2.png" alt="Ready Availability" />
+                    <p>Ready Availability</p>
+                </div>
+                <div class="feature-item">
+                    <img src="assets/img/featured-services/services-icon-3.png" alt="After Sales Services" />
+                    <p>After Sales Services</p>
+                </div>
+                <div class="feature-item">
+                    <img src="assets/img/featured-services/services-icon-4.png" alt="Value For Money" />
+                    <p>Value For Money</p>
+                </div>
+                <div class="feature-item">
+                    <img src="assets/img/featured-services/services-icon-5.png" alt="Supportive Staff" />
+                    <p>Supportive Staff</p>
+                </div>
+            </div>
+        </section>
+        <!-- /Featured Services Section -->
+
+        <!-- Featured product Section -->
+        <section id="features" class="features section">
+
+            <!-- Section Title -->
+            <div class="container section-title color-white" data-aos="fade-up">
+                <h2>Feature Products</h2>
+            </div><!-- End Section Title -->
+            <div class="feature-container container" data-aos="fade-up">
+                <!-- filling machine section -->
+                <h4>Filling Machine</h4>
+                <div class="card-container margin-bottom-30">
+                    <div class="card">
+                        <img
+                            src="https://5.imimg.com/data5/ANDROID/Default/2021/10/FC/IN/OY/7776070/product-jpeg-250x250.jpg">
+                        <div class="card-content">
+                            <div>
+                                <h5>Semi Automatic Tablet Counting And Filling Machine</h5>
+                                <p><b>₹ 1.35 Lakh</b>/Unit</p>
+                                <p><b>Machine Type:</b> GMP</p>
+                                <p><b>Automation Grade:</b> Semi-Automatic</p>
+                                <p><b>Voltage:</b> 220 V</p>
                             </div>
-                            <div class="col-md-6 image-section d-flex justify-content-center align-items-center flex-wrap">
-                                <img id="carousel2-img" src="assets/img/carousel/carousel2-img.png" alt="carousel2-img">
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img
+                            src="https://5.imimg.com/data5/ANDROID/Default/2021/10/FT/RE/GJ/7776070/product-jpeg-250x250.jpg">
+                        <div class="card-content">
+                            <div>
+                                <h5>Primary liquid filing line automation</h5>
+                                <p><b>₹ 1.35 Lakh</b>/Piece</p>
+                                <p><b>Automation Grade:</b> Automatic</p>
+                                <p><b>Filing Type:</b> Cup Filler</p>
+                                <p><b>Packaging Material:</b> Any liquid</p>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <!-- Slide 3 -->
-                <div class="carousel-item">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 text-section">
-                                <h2 class="sub-text">World Class</h2>
-                                <h1 class="main-text">Industrial Automation Solutions</h1>
-                                <h2 class="sub-text-2">for Future-Ready Operations.</h2>
-                            </div>
-                            <div class="col-md-6 image-section d-flex justify-content-center align-items-center flex-wrap">
-                                <img id="carousel3-img" src="assets/img/carousel/carousel3-img.png" alt="">
+                    <div class="card">
+                        <img
+                            src="https://5.imimg.com/data5/ANDROID/Default/2021/10/DO/BB/KT/7776070/product-jpeg-250x250.jpg">
+                        <div class="card-content">
+                            <div>
+                                <h5>Semi Automatic Powder Filling Machine</h5>
+                                <p><b>₹ 19,000</b></p>
+                                <p><b>Application:</b> Pouch Filling</p>
+                                <p><b>Filling Material:</b> Powder</p>
+                                <p><b>Driven Type:</b> Electric</p>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <!-- Slide 4 -->
-                <div class="carousel-item">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 text-section">
-                                <h2 class="sub-text">Advanced</h2>
-                                <h1 class="main-text">Conveyor Packing Solutions</h1>
-                                <h2 class="sub-text">for Seamless Integration</h2>
-                            </div>
-                            <div class="col-md-6 image-section d-flex justify-content-center align-items-center flex-wrap">
-                                <img id="conveyor-img" src="assets/img/carousel/Conveyor.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!-- carousel section ends -->
-
-    <!-- About Section -->
-    <section id="about" class="about section">
-
-        <div class="container">
-            <div class="row gy-4">
-                <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-                    <p class="who-we-are">Who We Are</p>
-                    <h3>Maximizing Efficiency Through Advanced Engineering</h3>
-                    <p class="fst-italic"></p>
-                    <ul>
-                        <li><i class="bi bi-check-circle"></i>
-                            <span> Established in the year 2011, at Pune (Maharashtra, India),
-                  We, “B.N. Enterprises” is the manufacturer, trader and exporter of a wide range
-                  of Wrapping Machine, Shrink Tunnel, Control Panel Board,
-                  L-Sealer Machine, Sealing Machine, Industrial Conveyor etc
-                </span>
-                        <li><i class="bi bi-check-circle"></i>
-                            <span> Our skilled team designs and manufacturers these products using premium quality raw material,
-                  sourced from the well-established vendors of the industry. Offered products are widely
-                  demanded and appreciated by our precious clients, owing to the features like low operating
-                  cost, low maintenance, one finish, optimum quality, durability and reliability. We manufacture
-                  these products in compliance with the set international quality standards in our high-tech
-                  manufacturing unit. Our precious clients can avail these products in various specifications as per
-                  their specific requirements and at highly competitive prices.
-                </span>
-                        <li><i class="bi bi-check-circle"></i>
-                            <span> Our mentor, Mr. Choure B., has guided us to be able to famous in this domain. Our zeal has
-                  enabled us to carve a niche in this industry..
-                </span>
-                    </ul>
-                </div>
-
-                <div class="col-lg-6 col-md-12 about-images" data-aos="fade-up" data-aos-delay="200">
-                    <div class="row gy-4">
-                        <div class="col-lg-6">
-                            <img src="assets/img/companyinfo.PNG" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section><!-- /About Section -->
-
-    <!-- Featured Services Section -->
-    <section id="featured-services" class="featured-services section light-background">
-        <div class="features-container">
-            <div class="feature-item">
-                <img src="assets/img/featured-services/services-icon-1.png" alt="World-Class Product"/>
-                <p>World-Class Product</p>
-            </div>
-            <div class="feature-item">
-                <img src="assets/img/featured-services/services-icon-2.png" alt="Ready Availability"/>
-                <p>Ready Availability</p>
-            </div>
-            <div class="feature-item">
-                <img src="assets/img/featured-services/services-icon-3.png" alt="After Sales Services"/>
-                <p>After Sales Services</p>
-            </div>
-            <div class="feature-item">
-                <img src="assets/img/featured-services/services-icon-4.png" alt="Value For Money"/>
-                <p>Value For Money</p>
-            </div>
-            <div class="feature-item">
-                <img src="assets/img/featured-services/services-icon-5.png" alt="Supportive Staff"/>
-                <p>Supportive Staff</p>
-            </div>
-        </div>
-    </section>
-    <!-- /Featured Services Section -->
-
-    <!-- Featured product Section -->
-    <section id="features" class="features section">
-
-        <!-- Section Title -->
-        <div class="container section-title color-white" data-aos="fade-up">
-            <h2>Feature Products</h2>
-        </div><!-- End Section Title -->
-        <div class="feature-container container" data-aos="fade-up">
-            <!-- filling machine section -->
-            <h4>Filling Machine</h4>
-            <div class="card-container margin-bottom-30">
-                <div class="card">
-                    <img src="https://5.imimg.com/data5/ANDROID/Default/2021/10/FC/IN/OY/7776070/product-jpeg-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Semi Automatic Tablet Counting And Filling Machine</h5>
-                            <p><b>₹ 1.35 Lakh</b>/Unit</p>
-                            <p><b>Machine Type:</b> GMP</p>
-                            <p><b>Automation Grade:</b> Semi-Automatic</p>
-                            <p><b>Voltage:</b> 220 V</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="https://5.imimg.com/data5/ANDROID/Default/2021/10/FT/RE/GJ/7776070/product-jpeg-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Primary liquid filing line automation</h5>
-                            <p><b>₹ 1.35 Lakh</b>/Piece</p>
-                            <p><b>Automation Grade:</b> Automatic</p>
-                            <p><b>Filing Type:</b> Cup Filler</p>
-                            <p><b>Packaging Material:</b> Any liquid</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="https://5.imimg.com/data5/ANDROID/Default/2021/10/DO/BB/KT/7776070/product-jpeg-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Semi Automatic Powder Filling Machine</h5>
-                            <p><b>₹ 19,000</b></p>
-                            <p><b>Application:</b> Pouch Filling</p>
-                            <p><b>Filling Material:</b> Powder</p>
-                            <p><b>Driven Type:</b> Electric</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img
+                    <div class="card">
+                        <img
                             src="https://5.imimg.com/data5/SELLER/Default/2023/5/307064030/TK/ZM/MU/7776070/fully-automatic-paste-filling-machine-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Fully Automatic Paste Filling Machine</h5>
-                            <p><b>₹ 2.95 Lakh</b>/Unit</p>
-                            <p><b>Filling Material:</b> Powder</p>
-                            <p><b>Driven Type:</b> Electric</p>
-                            <p><b>Voltage:</b> 220 V</p>
+                        <div class="card-content">
+                            <div>
+                                <h5>Fully Automatic Paste Filling Machine</h5>
+                                <p><b>₹ 2.95 Lakh</b>/Unit</p>
+                                <p><b>Filling Material:</b> Powder</p>
+                                <p><b>Driven Type:</b> Electric</p>
+                                <p><b>Voltage:</b> 220 V</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img
+                            src="https://5.imimg.com/data5/PS/JH/EO/SELLER-7776070/automatic-bag-filling-machine-250x250.jpg">
+                        <div class="card-content">
+                            <div>
+                                <h5>Automatic Bag Filling Machine</h5>
+                                <p><b>₹ 3.95 Lakh</b>/Unit</p>
+                                <p><b>Capacity:</b> 250 Bags/Hour</p>
+                                <p><b>Usage/Application:</b> Industrial</p>
+                                <p><b>Bag Type:</b> Stand Up Barrier</p>
+                            </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="card">
-                    <img src="https://5.imimg.com/data5/PS/JH/EO/SELLER-7776070/automatic-bag-filling-machine-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Automatic Bag Filling Machine</h5>
-                            <p><b>₹ 3.95 Lakh</b>/Unit</p>
-                            <p><b>Capacity:</b> 250 Bags/Hour</p>
-                            <p><b>Usage/Application:</b> Industrial</p>
-                            <p><b>Bag Type:</b> Stand Up Barrier</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Sealing Machine section -->
-            <h4 class="margin-top-30">Sealing Machine</h4>
-            <div class="card-container">
-                <div class="card">
-                    <img
+                <!-- Sealing Machine section -->
+                <h4 class="margin-top-30">Sealing Machine</h4>
+                <div class="card-container">
+                    <div class="card">
+                        <img
                             src="https://5.imimg.com/data5/SELLER/Default/2023/2/IJ/XT/AJ/7776070/induction-cap-sealing-machine-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Induction Cap Sealing Machine</h5>
-                            <p><b>₹ 95,000</b>/Unit</p>
-                            <p><b>Automation Grade:</b> Automatic</p>
-                            <p><b>Capacity:</b> 20 to 40 bottles Per Minute</p>
-                            <p><b>Driven Type:</b> Electric</p>
+                        <div class="card-content">
+                            <div>
+                                <h5>Induction Cap Sealing Machine</h5>
+                                <p><b>₹ 95,000</b>/Unit</p>
+                                <p><b>Automation Grade:</b> Automatic</p>
+                                <p><b>Capacity:</b> 20 to 40 bottles Per Minute</p>
+                                <p><b>Driven Type:</b> Electric</p>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="card">
-                    <img
+                    <div class="card">
+                        <img
                             src="https://5.imimg.com/data5/SELLER/Default/2025/3/492623919/DV/QG/NA/7776070/img-20180106-wa0034-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Semi-Automatic can seaming machine-BNE-CS-160</h5>
-                            <p><b>₹ 21,000</b>/Piece</p>
+                        <div class="card-content">
+                            <div>
+                                <h5>Semi-Automatic can seaming machine-BNE-CS-160</h5>
+                                <p><b>₹ 21,000</b>/Piece</p>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="card">
-                    <img
+                    <div class="card">
+                        <img
                             src="https://5.imimg.com/data5/SELLER/Default/2025/1/479326558/SH/MY/KT/7776070/manual-cup-sealing-machine-250x250.png">
-                    <div class="card-content">
-                        <div>
-                            <h5>Manual Cup Sealing Machine</h5>
-                            <p><b>₹ 8,000</b>/Piece</p>
-                            <p><b>Capacity:</b> 350 Trays/hr</p>
-                            <p><b>Packaging Type:</b> Manual</p>
+                        <div class="card-content">
+                            <div>
+                                <h5>Manual Cup Sealing Machine</h5>
+                                <p><b>₹ 8,000</b>/Piece</p>
+                                <p><b>Capacity:</b> 350 Trays/hr</p>
+                                <p><b>Packaging Type:</b> Manual</p>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="card">
-                    <img
+                    <div class="card">
+                        <img
                             src="https://5.imimg.com/data5/SELLER/Default/2025/1/479325947/HA/CZ/EO/7776070/sami-automatic-can-seaming-machine-250x250.png">
-                    <div class="card-content">
-                        <div>
-                            <h5>Semi automatic can seaming machine</h5>
-                            <p><b>₹ 50,000</b>/Piece</p>
-                            <p><b>Capacity:</b> 15 CPM</p>
-                            <p><b>Packaging Type:</b> CAN</p>
-                            <p><b>Power:</b> 230</p>
+                        <div class="card-content">
+                            <div>
+                                <h5>Semi automatic can seaming machine</h5>
+                                <p><b>₹ 50,000</b>/Piece</p>
+                                <p><b>Capacity:</b> 15 CPM</p>
+                                <p><b>Packaging Type:</b> CAN</p>
+                                <p><b>Power:</b> 230</p>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="card">
-                    <img
+                    <div class="card">
+                        <img
                             src="https://5.imimg.com/data5/SELLER/Default/2023/5/307075407/SR/SO/EA/7776070/carton-taping-machine-250x250.jpg">
-                    <div class="card-content">
-                        <div>
-                            <h5>Carton Taping Machine</h5>
-                            <p><b>₹ 90,000</b>/Piece</p>
-                            <p><b>Model Name/Number:</b> BNE-6050</p>
-                            <p><b>Functions:</b> seal the top and bottom flaps of cartons with adhesive tape.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- /end of Feature products Section -->
-
-    <section id="clients">
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Clients</h2>
-        </div><!-- End Section Title -->
-        <div class="container">
-            <div class="client-card-container">
-                <div class="client-card-main" data-aos="fade-up">
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client1.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client2.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client3.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client4.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client5.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client6.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client7.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client8.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client9.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client10.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client11.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client12.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client13.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/clients14.PNG">
-                    </div>
-                    <div class="client-card">
-                        <img src="/assets/img/clients/client15.PNG">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Testimonials Section -->
-    <section id="testimonials" class="testimonials section light-background">
-
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Testimonials</h2>
-        </div><!-- End Section Title -->
-        <div class="container" data-aos="fade-up">
-
-            <h3>Ratings & Reviews</h3>
-
-            <div class="review-container">
-                <div class="rating-box">
-                    <span class="user-rating"><b>4.3</b></span> <span>/ 5</span>
-                    <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</div>
-                    <p>63 Reviews</p>
-                </div>
-
-                <div class="horizontal-line"></div>
-
-                <div class="rating-details">
-                    <div class="rating-bar">
-                        <span>5 Star</span>
-                        <div class="bar">
-                            <div class="bar-fill" style="width: 59%;"></div>
-                        </div>
-                        <span>(59%)</span>
-                    </div>
-                    <div class="rating-bar">
-                        <span>4 Star</span>
-                        <div class="bar">
-                            <div class="bar-fill" style="width: 19%;"></div>
-                        </div>
-                        <span>(19%)</span>
-                    </div>
-                    <div class="rating-bar">
-                        <span>3 Star</span>
-                        <div class="bar">
-                            <div class="bar-fill" style="width: 5%;"></div>
-                        </div>
-                        <span>(5%)</span>
-                    </div>
-                    <div class="rating-bar">
-                        <span>2 Star</span>
-                        <div class="bar">
-                            <div class="bar-fill" style="width: 5%;"></div>
-                        </div>
-                        <span>(5%)</span>
-                    </div>
-                    <div class="rating-bar">
-                        <span>1 Star</span>
-                        <div class="bar">
-                            <div class="bar-fill" style="width: 12%;"></div>
-                        </div>
-                        <span>(12%)</span>
-                    </div>
-                </div>
-
-                <div class="horizontal-line"></div>
-
-                <div>
-                    <h4 class="user-satisfaction-text">User Satisfaction</h4>
-                    <div class="satisfaction-container">
-                        <div class="satisfaction-item">
-                            <div class="circle" style="--percent: 73;">
-                                <span>73%</span>
+                        <div class="card-content">
+                            <div>
+                                <h5>Carton Taping Machine</h5>
+                                <p><b>₹ 90,000</b>/Piece</p>
+                                <p><b>Model Name/Number:</b> BNE-6050</p>
+                                <p><b>Functions:</b> seal the top and bottom flaps of cartons with adhesive tape.</p>
                             </div>
-                            <span>Response</span>
-                        </div>
-                        <div class="satisfaction-item">
-                            <div class="circle" style="--percent: 62;">
-                                <span>62%</span>
-                            </div>
-                            <span>Quality</span>
-                        </div>
-                        <div class="satisfaction-item">
-                            <div class="circle" style="--percent: 66;">
-                                <span>66%</span>
-                            </div>
-                            <span>Delivery</span>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
+        <!-- /end of Feature products Section -->
 
-        <!-- customer review section -->
-        <div class="container">
-            <div class="customer-reviews-container">
-                <div class="customer-review-card">
-                    <div class="avatar">B</div>
-                    <div class="customer-card-content">
-                        <p><strong>Bhurubha Jadeja</strong></p>
-                        <p>Mundra, Gujarat</p>
-                        <span class="customer-stars">★★★★★ </span><span>(5)</span>
-                        <p class="product-name"><b>Product Name:</b> <span>Flow Wrap Machine</span></p>
-                        <!-- <p>Response 👍</p> -->
-                    </div>
-                </div>
-
-                <div class="customer-review-card">
-                    <div class="avatar">H</div>
-                    <div class="customer-card-content">
-                        <p><strong>Hitendra Barai</strong></p>
-                        <p>Chennai, Tamil Nadu</p>
-                        <span class="customer-stars">★★★★★ </span><span>(5)</span>
-                        <p class="product-name"><b>Product Name:</b> <span>Pallet Wrapping Machine</span></p>
-                    </div>
-                </div>
-
-                <div class="customer-review-card">
-                    <div class="avatar">R</div>
-                    <div class="customer-card-content">
-                        <p><strong>Ranjit Padamalkar</strong></p>
-                        <p>Satara, Maharashtra</p>
-                        <span class="customer-stars">★★★★★ </span><span>(5)</span>
-                        <p class="product-name"><b>Product Name:</b> <span>Heat Sealing Machines</span></p>
+        <section id="clients">
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Clients</h2>
+            </div><!-- End Section Title -->
+            <div class="container">
+                <div class="client-card-container">
+                    <div class="client-card-main" data-aos="fade-up">
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client1.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client2.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client3.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client4.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client5.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client6.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client7.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client8.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client9.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client10.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client11.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client12.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client13.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/clients14.PNG">
+                        </div>
+                        <div class="client-card">
+                            <img src="/assets/img/clients/client15.PNG">
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!-- /Testimonials Section -->
+        </section>
 
-    <!-- Contact Section -->
-    <section id="contact" class="contact section">
+        <!-- Testimonials Section -->
+        <section id="testimonials" class="testimonials section light-background">
 
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Contact</h2>
-            <p>In our manufacturing, company often focus on Precision, Reliability, Performances, Automation,
-                Innovation, Engineering.
-            </p>
-        </div>
-        <!-- End Section Title -->
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Testimonials</h2>
+            </div><!-- End Section Title -->
+            <div class="container" data-aos="fade-up">
 
-        <div data-aos="fade-up" data-aos-delay="100">
-            <div class="company-map-container" data-aos="fade-up" data-aos-delay="300">
-                <iframe class="company-map"
+                <h3>Ratings & Reviews</h3>
+
+                <div class="review-container">
+                    <div class="rating-box">
+                        <span class="user-rating"><b>4.3</b></span> <span>/ 5</span>
+                        <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</div>
+                        <p>63 Reviews</p>
+                    </div>
+
+                    <div class="horizontal-line"></div>
+
+                    <div class="rating-details">
+                        <div class="rating-bar">
+                            <span>5 Star</span>
+                            <div class="bar">
+                                <div class="bar-fill" style="width: 59%;"></div>
+                            </div>
+                            <span>(59%)</span>
+                        </div>
+                        <div class="rating-bar">
+                            <span>4 Star</span>
+                            <div class="bar">
+                                <div class="bar-fill" style="width: 19%;"></div>
+                            </div>
+                            <span>(19%)</span>
+                        </div>
+                        <div class="rating-bar">
+                            <span>3 Star</span>
+                            <div class="bar">
+                                <div class="bar-fill" style="width: 5%;"></div>
+                            </div>
+                            <span>(5%)</span>
+                        </div>
+                        <div class="rating-bar">
+                            <span>2 Star</span>
+                            <div class="bar">
+                                <div class="bar-fill" style="width: 5%;"></div>
+                            </div>
+                            <span>(5%)</span>
+                        </div>
+                        <div class="rating-bar">
+                            <span>1 Star</span>
+                            <div class="bar">
+                                <div class="bar-fill" style="width: 12%;"></div>
+                            </div>
+                            <span>(12%)</span>
+                        </div>
+                    </div>
+
+                    <div class="horizontal-line"></div>
+
+                    <div>
+                        <h4 class="user-satisfaction-text">User Satisfaction</h4>
+                        <div class="satisfaction-container">
+                            <div class="satisfaction-item">
+                                <div class="circle" style="--percent: 73;">
+                                    <span>73%</span>
+                                </div>
+                                <span>Response</span>
+                            </div>
+                            <div class="satisfaction-item">
+                                <div class="circle" style="--percent: 62;">
+                                    <span>62%</span>
+                                </div>
+                                <span>Quality</span>
+                            </div>
+                            <div class="satisfaction-item">
+                                <div class="circle" style="--percent: 66;">
+                                    <span>66%</span>
+                                </div>
+                                <span>Delivery</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- customer review section -->
+            <div class="container">
+                <div class="customer-reviews-container">
+                    <div class="customer-review-card">
+                        <div class="avatar">B</div>
+                        <div class="customer-card-content">
+                            <p><strong>Bhurubha Jadeja</strong></p>
+                            <p>Mundra, Gujarat</p>
+                            <span class="customer-stars">★★★★★ </span><span>(5)</span>
+                            <p class="product-name"><b>Product Name:</b> <span>Flow Wrap Machine</span></p>
+                            <!-- <p>Response 👍</p> -->
+                        </div>
+                    </div>
+
+                    <div class="customer-review-card">
+                        <div class="avatar">H</div>
+                        <div class="customer-card-content">
+                            <p><strong>Hitendra Barai</strong></p>
+                            <p>Chennai, Tamil Nadu</p>
+                            <span class="customer-stars">★★★★★ </span><span>(5)</span>
+                            <p class="product-name"><b>Product Name:</b> <span>Pallet Wrapping Machine</span></p>
+                        </div>
+                    </div>
+
+                    <div class="customer-review-card">
+                        <div class="avatar">R</div>
+                        <div class="customer-card-content">
+                            <p><strong>Ranjit Padamalkar</strong></p>
+                            <p>Satara, Maharashtra</p>
+                            <span class="customer-stars">★★★★★ </span><span>(5)</span>
+                            <p class="product-name"><b>Product Name:</b> <span>Heat Sealing Machines</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /Testimonials Section -->
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact section">
+
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Contact</h2>
+                <p>In our manufacturing, company often focus on Precision, Reliability, Performances, Automation,
+                    Innovation, Engineering.
+                </p>
+            </div>
+            <!-- End Section Title -->
+
+            <div data-aos="fade-up" data-aos-delay="100">
+                <div class="company-map-container" data-aos="fade-up" data-aos-delay="300">
+                    <iframe class="company-map"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d101900.56454674399!2d73.67844182860475!3d18.351737150866395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc29513e71139f9%3A0x80a09ed54bbbde81!2sB.%20N.%20ENTERPRISES!5e0!3m2!1sen!2sin!4v1736923731139!5m2!1sen!2sin"
                         style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-                </iframe>
+                    </iframe>
 
-                <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
-                      data-aos-delay="400">
-                    <div class="row gy-4">
+                    <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
+                        data-aos-delay="400">
+                        <div class="row gy-4">
 
-                        <div class="col-md-6">
-                            <input type="text" value="" name="name" id="name-field" class="form-control"
-                                   placeholder="Your Name">
-                        </div>
+                            <div class="col-md-6">
+                                <input type="text" value="" name="name" id="name-field" class="form-control"
+                                    placeholder="Your Name">
+                            </div>
 
-                        <div class="col-md-6 ">
-                            <input type="email" value="" name="email" id="email-field" class="form-control"
-                                   placeholder="Your Email"
-                                   required="">
-                        </div>
+                            <div class="col-md-6 ">
+                                <input type="email" value="" name="email" id="email-field" class="form-control"
+                                    placeholder="Your Email" required="">
+                            </div>
 
-                        <div class="col-md-12">
-                            <input type="text" value="" class="form-control" name="subject" id="subject-field"
-                                   placeholder="Subject" required="">
-                        </div>
+                            <div class="col-md-12">
+                                <input type="text" value="" class="form-control" name="subject" id="subject-field"
+                                    placeholder="Subject" required="">
+                            </div>
 
-                        <div class="col-md-12">
-                <textarea class="form-control" name="message" rows="5" id="message-field" placeholder="Your Message"
-                          value="" required="">
+                            <div class="col-md-12">
+                                <textarea class="form-control" name="message" rows="5" id="message-field"
+                                    placeholder="Your Message" value="" required="">
                 </textarea>
+                            </div>
+
+                            <div class="col-md-12 text-center">
+                                <div class="loading">Loading</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                                <button type="submit">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- contact details section -->
+                <div class="container">
+                    <div class="row gy-4 mt-3">
+
+                        <div class="col-lg-6">
+                            <div class="info-item d-flex flex-column justify-content-center align-items-center p-3"
+                                data-aos="fade-up" data-aos-delay="200">
+                                <i class="bi bi-geo-alt-fill"></i>
+                                <h3>Address</h3>
+                                <p class="text-center">B. N. Tecpack Automation Pvt Ltd haveli, Gate no 20 Arvi,
+                                    village,
+                                    near khed sivapur, industrial estate, Pune, Maharashtra 411041</p>
+                            </div>
                         </div>
 
-                        <div class="col-md-12 text-center">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                            <button type="submit">Send Message</button>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="info-item d-flex flex-column justify-content-center align-items-center"
+                                data-aos="fade-up" data-aos-delay="300">
+                                <i class="bi bi-telephone-fill"></i>
+                                <h3>Call Us</h3>
+                                <p>+91- 8046041588</p>
+                            </div>
                         </div>
+
+                        <div class="col-lg-3 col-md-6">
+                            <div class="info-item d-flex flex-column justify-content-center align-items-center"
+                                data-aos="fade-up" data-aos-delay="400">
+                                <i class="bi bi-envelope-fill"></i>
+                                <h3>Email Us</h3>
+                                <p>info@bntecpackautomation.com</p>
+                            </div>
+                        </div>
+
                     </div>
-                </form>
+                </div>
             </div>
 
-            <!-- contact details section -->
-            <div class="container">
-                <div class="row gy-4 mt-3">
+        </section>
+        <!-- /Contact Section -->
+    </main>
 
-                    <div class="col-lg-6">
-                        <div class="info-item d-flex flex-column justify-content-center align-items-center p-3"
-                             data-aos="fade-up"
-                             data-aos-delay="200">
-                            <i class="bi bi-geo-alt-fill"></i>
-                            <h3>Address</h3>
-                            <p class="text-center">B. N. Tecpack Automation Pvt Ltd haveli, Gate no 20 Arvi, village,
-                                near khed sivapur, industrial estate, Pune, Maharashtra 411041</p>
+    <footer id="footer" class="footer position-relative light-background">
+
+        <div class="container footer-top">
+            <div class="footer-content-container">
+                <div class="footer-about">
+                    <a href="index.html" class="logo">
+                        <span class="sitename">B.N. Tecpack Automation Pvt Ltd</span>
+                    </a>
+                    <div class="footer-contact pt-3">
+                        <p>Near Khed shivapur Industrial Estate,
+                            Kondhanpur Road, Arvi Village,
+                            Pune - 412205 (MH) INDIA
+                        </p>
+                        <p class="mt-3"><strong>Phone:</strong> <span>+91-8308772454/9607993688</span>
+                        <p><strong>Email:</strong> <span>info@bntecpackautomation.com</span>
+                    </div>
+                    <div class="social-links d-flex mt-4">
+                        <a href=""><i class="bi bi-twitter-x"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="Filling Machinebi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                </div>
+
+                <div class="footer-links-container">
+                    <div>
+                        <h4>Our Services</h4>
+                        <div class="footer-links-wrapper">
+                            <div class="footer-links">
+                                <ul>
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=liquid-filling-machine">
+                                            Liquid filling machine semi automatic
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=liquid-filling-machine">
+                                            Liquid Filling Machine Machine Automatic
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=paste-filling-machine">
+                                            Paste Filing Machine semi Automatic
+                                        </a>
+                                    </li>
+
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=powder-filling-machine">
+                                            Powder Filling Machine
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine">
+                                            Pouch Sealing & Pouch Packing Machine
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=labeling-machine">
+                                            Semi Auto Fully Auto Labeling Machine
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=capping-machine">
+                                            Semi Auto / Fully Auto Capping Machine
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=induction-sealing-machine">
+                                            Induction Sealing Machine
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="footer-links" id="footer-link-2">
+                                <ul>
+                                    <li>
+                                        <a href="product.html?category=primary-packages&type=cup-glass-sealing-machine">
+                                            Cup Glass sealing Machine
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="product.html?category=secondary-packages&type=shrink-wrapping-machine">
+                                            Shrink Wrapping Machine
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="product.html?category=secondary-packages&type=carton-box-taping-machine">
+                                            Carton Box Taping Machine
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="product.html?category=secondary-packages&type=carton-strapping-machine">
+                                            Carton Strapping Machine
+                                        </a>
+                                    </li>
+                                    <li><a href="#">Industrial Conveyor System</a></li>
+                                    <li><a href="#">Metal Detector System</a></li>
+                                    <li><a href="#">Other machine Systems</a></li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="info-item d-flex flex-column justify-content-center align-items-center"
-                             data-aos="fade-up"
-                             data-aos-delay="300">
-                            <i class="bi bi-telephone-fill"></i>
-                            <h3>Call Us</h3>
-                            <p>+91- 8046041588</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="info-item d-flex flex-column justify-content-center align-items-center"
-                             data-aos="fade-up"
-                             data-aos-delay="400">
-                            <i class="bi bi-envelope-fill"></i>
-                            <h3>Email Us</h3>
-                            <p>info@bntecpackautomation.com</p>
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </div>
+        </div>
 
-    </section>
-    <!-- /Contact Section -->
-</main>
-
-<footer id="footer" class="footer position-relative light-background">
-
-    <div class="container footer-top">
-        <div class="footer-content-container">
-            <div class="footer-about">
-                <a href="index.html" class="logo">
-                    <span class="sitename">B.N. Tecpack Automation Pvt Ltd</span>
-                </a>
-                <div class="footer-contact pt-3">
-                    <p>Near Khed shivapur Industrial Estate,
-                        Kondhanpur Road, Arvi Village,
-                        Pune - 412205 (MH) INDIA
-                    </p>
-                    <p class="mt-3"><strong>Phone:</strong> <span>+91-8308772454/9607993688</span>
-                    <p><strong>Email:</strong> <span>info@bntecpackautomation.com</span>
-                </div>
-                <div class="social-links d-flex mt-4">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="Filling Machinebi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-            </div>
-
-            <div class="footer-links-container">
-                <div>
-                    <h4>Our Services</h4>
-                    <div class="footer-links-wrapper">
-                        <div class="footer-links">
-                            <ul>
-                                <li><a href="#">Liquid filling machine semi automatic.</a></li>
-                                <li><a href="#">Paste Filing Machine semi Automatic</a></li>
-                                <li><a href="#">Liquid Filling Machine Machine Automatic </a></li>
-                                <li><a href="#">Powder Filling Machine</a></li>
-                                <li><a href="#">Pouch Sealing & Pouch Packing Machine</a></li>
-                                <li><a href="#">Semi Auto Fully Auto Labeling Machine</a></li>
-                                <li><a href="#">Semi Auto Fully Auto Capping Machine</a></li>
-                                <li><a href="#">Induction Selling Machine</a></li>
-                                <li><a href="#">Cup Glass selling Machine</a></li>
-                            </ul>
-
-                        </div>
-                        <div class="footer-links" id="footer-link-2">
-                            <ul>
-                                <li><a href="#">Shrink Wrapping Machine</a></li>
-                                <li><a href="#">Carton Trapping Machine</a></li>
-                                <li><a href="#">Carton Straping Machine</a></li>
-                                <li><a href="#">Carton Stretch Wrapping Machine</a></li>
-                                <li><a href="#">Industrial Conveyor System</a></li>
-                                <li><a href="#">Carton Trapping Machine</a></li>
-                                <li><a href="#">Metal Dector System</a></li>
-                                <li><a href="#">Other machine Systems</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+        <div class="container copyright text-center mt-4">
+            <p>© <span>Copyright</span> <strong class="px1 sitename">B.N. Tecpack Automation Pvt Ltd</span></p>
+            <div class="credits">
+                Designed by <a href="#">B.N.Enterprises</a>
             </div>
         </div>
 
-        <!-- <div class="col-lg-4 col-md-12 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
-            <form action="forms/newsletter.php" method="post" class="php-email-form">
-              <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
-              <div class="loading">Loading</div>
-              <div class="error-message"></div>
-              <div class="sent-message">Your subscription request has been sent. Thank you!</div>
-            </form>
-          </div> -->
+    </footer>
 
-    </div>
-    </div>
+    <!-- Scroll Top -->
+    <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
-    <div class="container copyright text-center mt-4">
-        <p>© <span>Copyright</span> <strong class="px1 sitename">B.N. Tecpack Automation Pvt Ltd</span></p>
-        <div class="credits">
-            Designed by <a href="#">B.N.Enterprises</a>
-        </div>
-    </div>
+    <!-- Preloader -->
+    <div id="preloader"></div>
 
-</footer>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
-<!-- Scroll Top -->
-<a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
-        class="bi bi-arrow-up-short"></i></a>
-
-<!-- Preloader -->
-<div id="preloader"></div>
-
-<!-- Vendor JS Files -->
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
-<script src="assets/vendor/aos/aos.js"></script>
-<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-
-<!-- Main JS File -->
-<script src="assets/js/main.js"></script>
+    <!-- Main JS File -->
+    <script src="assets/js/main.js"></script>
 
 </body>
 
