@@ -54,7 +54,7 @@
             thisForm.reset();
         }, 3000);
 
-        const gmailLink = `https://mail.google.com/mail/?view=cm&to=bntecpackautomation@gmail.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\n\nMessage:\n${message}`)}`;
+        const gmailLink = `https://mail.google.com/mail/?view=cm&to=info@bntecpackautomation.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\n\nMessage:\n${message}`)}`;
 
         // Open in a new tab
         window.open(gmailLink, '_blank');

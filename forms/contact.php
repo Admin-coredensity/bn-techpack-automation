@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-  $to = "gitesh15796@gmail.com";
+  $to = "info@bntecpackautomation.com";
 
   $name = strip_tags(trim($_POST["name"]));
   $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
