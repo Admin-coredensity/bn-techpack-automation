@@ -1,58 +1,69 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const form = document.querySelector(".php-email-form");
+(function () {
+    "use strict";
 
-  if (!form) return; // 🔒 Exit if the form is not found
+    let forms = document.querySelectorAll('.php-email-form');
 
-  form.addEventListener("submit", function (e) {
-    e.preventDefault();
+    forms.forEach(function (e) {
+        e.addEventListener('submit', function (event) {
+            event.preventDefault();
 
-    const name = document.getElementById("name-field").value.trim();
-    const email = document.getElementById("email-field").value.trim();
-    const subject = document.getElementById("subject-field").value.trim();
-    const message = document.getElementById("message-field").value.trim();
+            let thisForm = this;
 
-    const loading = form.querySelector(".loading");
-    const errorMessage = form.querySelector(".error-message");
-    const sentMessage = form.querySelector(".sent-message");
+            let action = thisForm.getAttribute('action');
+            let recaptcha = thisForm.getAttribute('data-recaptcha-site-key');
 
-    loading.style.display = "block";
-    errorMessage.style.display = "none";
-    sentMessage.style.display = "none";
+            if (!action) {
+                displayError(thisForm, 'The form action property is not set!');
+                return;
+            }
+            thisForm.querySelector('.loading').classList.add('d-block');
+            thisForm.querySelector('.error-message').classList.remove('d-block');
+            thisForm.querySelector('.sent-message').classList.remove('d-block');
 
-    if (!name || !email || !subject || !message) {
-      errorMessage.innerText = "Please fill in all fields.";
-      errorMessage.style.display = "block";
-      loading.style.display = "none";
-      return;
+            let formData = new FormData(thisForm);
+
+            if (recaptcha) {
+                if (typeof grecaptcha !== "undefined") {
+                    grecaptcha.ready(function () {
+                        try {
+                            grecaptcha.execute(recaptcha, {action: 'php_email_form_submit'})
+                                .then(token => {
+                                    formData.set('recaptcha-response', token);
+                                    php_email_form_submit(thisForm, action, formData);
+                                })
+                        } catch (error) {
+                            displayError(thisForm, error);
+                        }
+                    });
+                } else {
+                    displayError(thisForm, 'The reCaptcha javascript API url is not loaded!')
+                }
+            } else {
+                php_email_form_submit(thisForm, action, formData);
+            }
+        });
+    });
+
+    function php_email_form_submit(thisForm, action, formData) {
+        const name = document.getElementById('name-field').value;
+        const subject = document.getElementById('subject-field').value;
+        const message = document.getElementById('message-field').value;
+
+        setTimeout(() => {
+            thisForm.querySelector('.loading').classList.remove('d-block');
+            thisForm.reset();
+        }, 3000);
+
+        const gmailLink = `https://mail.google.com/mail/?view=cm&to=bntecpackautomation@gmail.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\n\nMessage:\n${message}`)}`;
+
+        // Open in a new tab
+        window.open(gmailLink, '_blank');
     }
 
-    fetch("../../../forms/contact.php", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/x-www-form-urlencoded"
-      },
-      body: new URLSearchParams({
-        name,
-        email,
-        subject,
-        message
-      })
-    })
-        .then(res => res.text())
-        .then(data => {
-          loading.style.display = "none";
-          if (data.trim() === "OK") {
-            sentMessage.style.display = "block";
-            form.reset();
-          } else {
-            errorMessage.innerText = data;
-            errorMessage.style.display = "block";
-          }
-        })
-        .catch(err => {
-          loading.style.display = "none";
-          errorMessage.innerText = "There was an error sending the message.";
-          errorMessage.style.display = "block";
-        });
-  });
-});
+    function displayError(thisForm, error) {
+        thisForm.querySelector('.loading').classList.remove('d-block');
+        thisForm.querySelector('.error-message').innerHTML = error;
+        thisForm.querySelector('.error-message').classList.add('d-block');
+    }
+
+})();
