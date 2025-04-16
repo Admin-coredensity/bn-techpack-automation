@@ -226,6 +226,10 @@
     }
 
     /* product description section */
+    .description-section .product-machine-description {
+        margin-top: 0;
+    }
+
     .description-section {
         width: 100%;
     }
@@ -265,5 +269,4 @@
         width: 70%;
         height: auto;
     }
-
 }
