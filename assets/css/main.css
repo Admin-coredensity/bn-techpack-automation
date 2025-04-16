@@ -1785,6 +1785,11 @@ section,
     margin-top: 10px;
     font-size: 14px;
     text-transform: capitalize;
+    color: var(--default-color);
+}
+
+.dropdown-item-text:hover {
+    color: var(--accent-color);
 }
 
 .dropbtn {
