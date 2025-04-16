@@ -923,6 +923,34 @@
 <!-- Main JS File -->
 <script src="assets/js/main.js"></script>
 
+<!-- JavaScript  code for dropDown menu -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const dropdownTrigger = document.querySelector('.dropbtn > a');
+        const dropdownContent = document.querySelector('.dropdown-content');
+
+        // Toggle dropdown on click
+        dropdownTrigger.addEventListener('click', function (e) {
+            e.preventDefault();
+            dropdownContent.classList.toggle('show');
+        });
+
+        // Close dropdown when any link is clicked inside dropdown-content
+        dropdownContent.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', function () {
+                dropdownContent.classList.remove('show');
+            });
+        });
+
+        // Optional: Close when clicking outside
+        document.addEventListener('click', function (e) {
+            if (!dropdownContent.contains(e.target) && !dropdownTrigger.contains(e.target)) {
+                dropdownContent.classList.remove('show');
+            }
+        });
+    });
+</script>
+
 </body>
 
 </html>

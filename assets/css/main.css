@@ -2029,6 +2029,25 @@ section,
 /*=========================================
           Media Queries
 ============================================*/
+@media (max-width: 1200px) {
+    .dropdown-content {
+        display: none;
+    }
+
+    .dropdown-content.show {
+        display: block;
+    }
+
+    .navmenu li {
+        width: 100%;
+        padding: 10px 20px 10px 0;
+        margin-bottom: 5px;
+    }
+
+    .header .navmenu .btn-getstarted, .header .navmenu .btn-getstarted:focus {
+        margin-left: 20px;
+    }
+}
 
 @media (min-width: 993px) and (max-width: 1200px) {
 
@@ -2160,7 +2179,6 @@ section,
 
     .header .navmenu .btn-getstarted {
         order: 2;
-        margin: 0 15px 0 0;
         padding: 6px 15px;
     }
 
@@ -2279,12 +2297,6 @@ section,
         max-height: 100%;
     }
 
-    .navmenu li {
-        width: 100%;
-        padding: 10px 20px 10px 0;
-        margin-bottom: 5px;
-    }
-
     .navmenu a,
     .navmenu a:focus {
         color: var(--nav-dropdown-color);
@@ -2375,10 +2387,6 @@ section,
 
     .mobile-nav-active .navmenu > ul {
         display: block;
-    }
-
-    .header .navmenu .btn-getstarted, .header .navmenu .btn-getstarted:focus {
-        margin-left: 20px;
     }
 
     /* dropdown section */
