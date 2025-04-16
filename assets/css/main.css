@@ -1940,6 +1940,7 @@ section,
     letter-spacing: 1px;
     color: var(--heading-color);
 }
+
 .footer .footer-content-container .footer-address .footer-contact .sitename {
     font-size: 20px;
     font-weight: 600;
@@ -2676,6 +2677,14 @@ section,
 
     .footer-content-container {
         flex-direction: column;
+    }
+
+    .footer .footer-content-container .footer-about {
+        width: 100%;
+    }
+
+    .footer .footer-content-container .footer-address {
+        width: 100%;
     }
 
     .footer-content-container .social-links {
