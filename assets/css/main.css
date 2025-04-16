@@ -695,18 +695,11 @@ section,
 .clients .client-logo img {
     padding: 20px 40px;
     max-width: 90%;
-    transition: 0.3s;
-    opacity: 0.5;
-    filter: grayscale(100);
-}
-
-.clients .client-logo img:hover {
-    filter: none;
-    opacity: 1;
 }
 
 .client-card {
     margin-bottom: 20px;
+    border-radius: 10px;
 }
 
 /*--------------------------------------------------------------
