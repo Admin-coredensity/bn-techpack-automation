@@ -2030,14 +2030,6 @@ section,
           Media Queries
 ============================================*/
 @media (max-width: 1200px) {
-    .dropdown-content {
-        display: none;
-    }
-
-    .dropdown-content.show {
-        display: block;
-    }
-
     .navmenu li {
         width: 100%;
         padding: 10px 20px 10px 0;
