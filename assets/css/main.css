@@ -2436,7 +2436,8 @@ section,
 
     /* navbar */
     .header .logo img {
-        width: 100%;
+        width: 65%;
+        height: 65%;
     }
 
     .header .logo h1 {
@@ -2467,34 +2468,71 @@ section,
     }
 
     /*carousel section*/
+    .carousel-section {
+        height: calc(100vh - 94px);
+    }
+
+    .carousel-section .carousel {
+        height: 100%;
+    }
+
+    .carousel-item {
+        padding: 35px 0 0 0;
+    }
+
     .carousel-item .row {
         flex-direction: column;
         text-align: center;
         gap: 40px;
     }
 
-    .carousel-section .carousel {
-        height: 70vh;
+    .carousel-section .carousel-indicators {
+        bottom: -50px;
+    }
+
+    .carousel-section {
+        padding-top: 0;
+        margin-top: 94px;
     }
 
     .text-section,
     .image-section {
-        margin-top: 20px;
+        margin-top: 0;
+    }
+
+    .text-section .sub-text-2 {
+        margin-left: 0;
+    }
+
+    .text-section .sub-text-3 {
+        margin-left: 0;
+    }
+
+    .text-section .main-text {
+        line-height: 1;
+        text-align: center;
+        font-size: 24px;
+    }
+
+    .text-section .sub-text {
+        font-size: 24px;
     }
 
     .image-section img {
-        width: 120px;
-        height: 120px;
+        width: 90px;
+        height: 90px;
     }
 
-    .image-section #carousel3-img1 {
-        width: 100%;
-        height: 100%;
+    .image-section #carousel2-img {
+        width: 55%;
+        height: 55%;
+        margin-top: -10px;
     }
 
-    .image-section #carousel3-img2 {
-        width: 100%;
-        height: 100%;
+
+    .image-section #carousel3-img {
+        width: 55%;
+        height: 55%;
         margin-top: -10px;
     }
 
@@ -2526,6 +2564,10 @@ section,
     }
 
     /*featured services section*/
+    .featured-services {
+        margin: 30px 0 0 0;
+    }
+
     .featured-services .features-container {
         padding: 0 15px;
     }
@@ -2619,6 +2661,11 @@ section,
     }
 
     /* clients section */
+    #clients {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
     .client-card-main {
         flex-direction: column;
     }
@@ -2677,6 +2724,7 @@ section,
 
     .footer-content-container {
         flex-direction: column;
+        gap: 20px;
     }
 
     .footer .footer-content-container .footer-about {
