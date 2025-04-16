@@ -7,8 +7,7 @@ efficiency in commercial settings.
 
 #### What is a Carton Box Taping Machine?
 
-Carton Taping Machines are used to apply tape automatically or semi-automatically to the top, bottom, or both sides of a
-carton.
+Carton Taping Machines are used to apply tape automatically or semi-automatically to the top, bottom, or both sides of a carton.
 These machines are vital in environments where large volumes of cartons are packed and shipped daily, helping to ensure
 each box is properly sealed for protection during handling and transit.
 
