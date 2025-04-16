@@ -132,6 +132,7 @@
     width: 230px;
     height: 240px;
     scroll-margin-top: 150px;
+    border-radius: 15px;
 }
 
 .product-models-container .product-model-card:hover {
@@ -167,6 +168,8 @@
     height: 190px;
     object-fit: contain;
     margin: 0 auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
 .product-models-container .product-model-card .product-model-content {
@@ -175,6 +178,9 @@
     align-items: flex-end;
     height: 50px;
     text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: hidden;
 }
 
 .product-models-container .product-model-card .product-model-content .product-model-name {
