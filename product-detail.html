@@ -32,18 +32,20 @@
 
 <body class="index-page">
 
-<header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+<header id="header" class="header fixed-top">
+    <div class="container-fluid container-xl">
 
-        <a href="index.html" class="logo me-auto">
-            <img src="assets/img/brand-logo.png" alt="brand-logo">
-        </a>
+        <div class="logo-container">
+            <a href="index.html" class="logo">
+                <img src="assets/img/brand-logo.png" alt="brand-logo">
+            </a>
+        </div>
 
         <nav id="navmenu" class="navmenu">
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <!-- product dropdown-->
-                <li class="dropdown dropbtn">
+                <li class="dropdown dropbtn active">
                     <a href="#">
                         Products <i class="bi bi-chevron-down toggle-dropdown"></i>
                     </a>
@@ -57,12 +59,15 @@
                     </div>
                 </li>
                 <li><a href="index.html#about">About</a></li>
+                <li><a href="index.html#features">Feature Products</a></li>
                 <li><a href="index.html#clients">Clients</a></li>
                 <li><a href="index.html#contact">Contact</a></li>
                 <li><a class="btn-getstarted" href="index.html#about">Get Started</a></li>
             </ul>
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
+
+
     </div>
 </header>
 
@@ -76,7 +81,6 @@
                         <i class="bi bi-arrow-left"></i>
                         Back
                     </button>
-                    <!-- <i class="bi bi-arrow-left-circle-fill" onclick="goBack()"></i> -->
                     <h3 id="section-header-title">Loading...</h3>
                 </div>
             </div>
