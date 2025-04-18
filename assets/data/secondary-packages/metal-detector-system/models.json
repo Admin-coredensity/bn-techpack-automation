@@ -9,31 +9,31 @@
             {
               "id": "BNTPAR-30100150-250-stepper/servo",
               "name": "BNTPAR-30100150-250-stepper/servo",
-              "image": "assets/img/products/metal-detector-machine.png",
+              "image": "assets/img/products/secondary-packages/metal-detector-machine.png",
               "link": "product-detail.html?category=secondary-packages&type=labelingMachines&id=BNTPAR-30100150-250-stepper/servo"
             },
             {
               "id": "BNTPAFB-30150-250-stepper/servo",
               "name": "BNTPAFB-30150-250-stepper/servo",
-              "image": "assets/img/products/metal-detector-machine.png",
+              "image": "assets/img/products/secondary-packages/metal-detector-machine.png",
               "link": "product-detail.html?category=secondary-packages&type=labelingMachines&id=BNTPAFB-30150-250-stepper/servo"
             },
             {
               "id": "BNTPAFBR-30150-250-stepper/servo",
               "name": "BNTPAFBR-30150-250-stepper/servo",
-              "image": "assets/img/products/metal-detector-machine.png",
+              "image": "assets/img/products/secondary-packages/metal-detector-machine.png",
               "link": "product-detail.html?category=secondary-packages&type=labelingMachines&id=BNTPAFBR-30150-250-stepper/servo"
             },
             {
               "id": "BNTPAFS-30150-250-stepper/servo",
               "name": "BNTPAFS-30150-250-stepper/servo",
-              "image": "assets/img/products/metal-detector-machine.png",
+              "image": "assets/img/products/secondary-packages/metal-detector-machine.png",
               "link": "product-detail.html?category=secondary-packages&type=labelingMachines&id=BNTPAFS-30150-250-stepper/servo"
             },
             {
               "id": "BNTPAT-30150-250-stepper/servo",
               "name": "BNTPAT-30150-250-stepper/servo",
-              "image": "assets/img/products/metal-detector-machine.png",
+              "image": "assets/img/products/secondary-packages/metal-detector-machine.png",
               "link": "product-detail.html?category=secondary-packages&type=labelingMachines&id=BNTPAT-30150-250-stepper/servo"
             }
           ]
