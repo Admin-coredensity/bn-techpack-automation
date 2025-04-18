@@ -4,12 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="text changes">
+    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="send enquiry modal added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/products/semi-carton-straping-machine.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/semi-carton-strapping-machine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/dropdownData.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/dropdownData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/capping-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/capping-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/coding-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/coding-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/cup-glass-sealing-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/cup-glass-sealing-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/induction-sealing-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/induction-sealing-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/labeling-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/labeling-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/liquid-filling-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/liquid-filling-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Fully Automatic Liquid.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Fully Automatic Paste.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/High Speed Coding Machine.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Semi Auto Liquid Filing.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Semi Auto Paste Filling.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Semi-Automatic Powder Filling Machine.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/codingmachine3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/p1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/bopp-tape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/bubble-rolls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pet-straproll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pof-shrink-film-pouch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pof-shrink-film.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pp-straproll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pvc-shrink-film-pouch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/pvc-shrink-film.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/packing-consumables/stretch-film.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/ROPP Capping machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/capping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/coding-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/cup-glass-sealing-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/induction-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/labeling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/liquid-filling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/paste-filling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/pouch-packing-machine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/primary-packages/powder-filling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/carton-trapping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/industrial-conveyor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/metal-detector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/shrink-wrapping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/product-dropdown/secondary-packages/strapping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/Label applicator machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/capping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/carton-box-taping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/carton-strapping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/chamber-type-shrink-wrapping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/coding-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/codingmachine3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/cup-glass-sealing-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/fully-auto-paste-filling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/fully-automatic-pneumatics-operated-liquid-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/fully-automatic-servo-base-operated-liquid-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/induction-sealing-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/industrial-conveyor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/labeling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/metal-detector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/pouch-packing-machine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/powder-filling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/semi-auto-liquid-filling-machine-water-to-edible-oil-level.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/semi-auto-liquid-filling-machine-water-to-honey-level.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/semi-auto-paste-filling-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/semi-carton-strapping-machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/shrink-tunnel-type-wrapping-machine.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +97,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Open source/bn-techpack-automation/assets/data&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;liveEdit&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Projects/Open source/bn-techpack-automation/forms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "liveEdit",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Open source\bn-techpack-automation\forms" />
       <recent name="D:\Projects\Open source\bn-techpack-automation\assets\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -94,6 +152,8 @@
       <workItem from="1744726400614" duration="1531000" />
       <workItem from="1744727957502" duration="5469000" />
       <workItem from="1744775196149" duration="3110000" />
+      <workItem from="1744950951146" duration="1235000" />
+      <workItem from="1744952221700" duration="15485000" />
     </task>
     <task id="LOCAL-00001" summary="placeholder image added for default case">
       <option name="closed" value="true" />
@@ -127,7 +187,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744739361600</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="navbar changes">
+      <option name="closed" value="true" />
+      <created>1744950980569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744950980569</updated>
+    </task>
+    <task id="LOCAL-00006" summary="phpmailer installation done">
+      <option name="closed" value="true" />
+      <created>1744951004257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744951004257</updated>
+    </task>
+    <task id="LOCAL-00007" summary="send enquiry modal added">
+      <option name="closed" value="true" />
+      <created>1744978867356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744978867356</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +222,9 @@
     <MESSAGE value="css changes" />
     <MESSAGE value="image extension changed PNG to png" />
     <MESSAGE value="text changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="text changes" />
+    <MESSAGE value="navbar changes" />
+    <MESSAGE value="phpmailer installation done" />
+    <MESSAGE value="send enquiry modal added" />
+    <option name="LAST_COMMIT_MESSAGE" value="send enquiry modal added" />
   </component>
 </project>

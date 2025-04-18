@@ -6,47 +6,47 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/product-dropdown/primary-packages/liquid-filling-machine.png",
+          "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.png",
           "text": "fully/Semi Automatic liquid filling machine",
           "link": "product.html?category=primary-packages&type=liquid-filling-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/paste-filling-machine.png",
+          "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.png",
           "text": "fully/Semi Automatic Paste Filling Machine",
           "link": "product.html?category=primary-packages&type=paste-filling-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/labeling-machine.png",
+          "image": "assets/img/products/primary-packages/labeling-machine.png",
           "text": "fully/Semi Automatic Labeling Machine",
           "link": "product.html?category=primary-packages&type=labeling-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/capping-machine.png",
+          "image": "assets/img/products/primary-packages/capping-machine.png",
           "text": "fully/Semi Automatic Capping Machine",
           "link": "product.html?category=primary-packages&type=capping-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/coding-machine.png",
+          "image": "assets/img/products/primary-packages/coding-machine.png",
           "text": "fully/Semi-Automatic coding Machine",
           "link": "product.html?category=primary-packages&type=coding-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/induction-machine.png",
+          "image": "assets/img/products/primary-packages/induction-sealing-machine.png",
           "text": "Induction Sealing Machine",
           "link": "product.html?category=primary-packages&type=induction-sealing-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/cup-glass-sealing-machine.png",
+          "image": "assets/img/products/primary-packages/cup-glass-sealing-machine.png",
           "text": "Cup/Glass Sealing Machine",
           "link": "product.html?category=primary-packages&type=cup-glass-sealing-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/powder-filling-machine.png",
+          "image": "assets/img/products/primary-packages/powder-filling-machine.png",
           "text": "Powder Filling Machine",
           "link": "product.html?category=primary-packages&type=powder-filling-machine"
         },
         {
-          "image": "assets/img/product-dropdown/primary-packages/pouch-packing-machine.jpg",
+          "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
           "text": "Pouch Sealing & Pouch Packing Machine",
           "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
         }
@@ -58,27 +58,27 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/product-dropdown/secondary-packages/carton-trapping-machine.png",
+          "image": "assets/img/products/secondary-packages/carton-box-taping-machine.png",
           "text": "Carton Box Taping Machine",
           "link": "product.html?category=secondary-packages&type=carton-box-taping-machine"
         },
         {
-          "image": "assets/img/product-dropdown/secondary-packages/strapping-machine.png",
+          "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
           "text": "Carton Strapping Machine (Semi automatic)",
           "link": "product.html?category=secondary-packages&type=carton-strapping-machine"
         },
         {
-          "image": "assets/img/product-dropdown/secondary-packages/industrial-conveyor.jpg",
+          "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
           "text": "Industrial Conveyor System",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/secondary-packages/metal-detector.png",
+          "image": "assets/img/products/secondary-packages/metal-detector.png",
           "text": "Metal Detector System",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/secondary-packages/shrink-wrapping-machine.png",
+          "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
           "text": "Shrink Wrapping Machine (Tunnel/Chamber)",
           "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
         }
@@ -90,47 +90,47 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/product-dropdown/packing-consumables/pof-shrink-film.png",
+          "image": "assets/img/products/packing-consumables/pof-shrink-film.png",
           "text": "POF shrink film",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/pvc-shrink-film.png",
+          "image": "assets/img/products/packing-consumables/pvc-shrink-film.png",
           "text": "PVC shrink film",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/stretch-film.png",
+          "image": "assets/img/products/packing-consumables/stretch-film.png",
           "text": "stretch film",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/pof-shrink-film-pouch.png",
+          "image": "assets/img/products/packing-consumables/pof-shrink-film-pouch.png",
           "text": "POF shrink film pouch",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/pvc-shrink-film-pouch.png",
+          "image": "assets/img/products/packing-consumables/pvc-shrink-film-pouch.png",
           "text": "PVC shrink film pouch",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/bubble-rolls.png",
+          "image": "assets/img/products/packing-consumables/bubble-rolls.png",
           "text": "Shrink Wrapping Machine",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/pet-straproll.png",
+          "image": "assets/img/products/packing-consumables/pet-straproll.png",
           "text": "Shrink Wrapping Machine",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/pp-straproll.png",
+          "image": "assets/img/products/packing-consumables/pp-straproll.png",
           "text": "Shrink Wrapping Machine",
           "link": "#"
         },
         {
-          "image": "assets/img/product-dropdown/packing-consumables/bopp-tape.png",
+          "image": "assets/img/products/packing-consumables/bopp-tape.png",
           "text": "Shrink Wrapping Machine",
           "link": "#"
         }
