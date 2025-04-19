@@ -2,7 +2,7 @@
   "tabs": [
     {
       "id": "nav-home",
-      "label": "Primary Package",
+      "label": "Primary Packages",
       "icon": "bi bi-square-fill",
       "items": [
         {
@@ -49,12 +49,37 @@
           "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
           "text": "Pouch Sealing & Pouch Packing Machine",
           "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+        },
+        {
+          "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
+          "text": "Continuous Band Sealing Machine",
+          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+        },
+        {
+          "image": "assets/img/products/primary-packages/inkjet-printer.png",
+          "text": "Inkjet Printer",
+          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+        },
+        {
+          "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
+          "text": "Manual Hand Sealing Machine",
+          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+        },
+        {
+          "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+          "text": "Pouch Sealing & Pouch Packing Machine",
+          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+        },
+        {
+          "image": "assets/img/products/primary-packages/vaccum-packing-machine.png",
+          "text": "Vaccum Packing Machine",
+          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
         }
       ]
     },
     {
       "id": "nav-profile",
-      "label": "Secondary Package",
+      "label": "Secondary Packages",
       "icon": "bi bi-square-fill",
       "items": [
         {
@@ -80,6 +105,21 @@
         {
           "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
           "text": "Shrink Wrapping Machine (Tunnel/Chamber)",
+          "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
+        },
+        {
+          "image": "assets/img/products/secondary-packages/flow-wrap-machine.png",
+          "text": "Flow Wrap Machine",
+          "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
+        },
+        {
+          "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
+          "text": "L-bar Sealer Machine (semi-auto/fully-auto)",
+          "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
+        },
+        {
+          "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
+          "text": "Web Seller Shrink Slave applicator machine",
           "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
         }
       ]
