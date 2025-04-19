@@ -1,0 +1,140 @@
+{
+  "lBarSealerMachines": {
+    "BNTPA-2015-P": {
+      "BNTPA-2015-P": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Semi auto L-Bar Sealer Machine",
+        "model": "BNTPA-2015-P",
+        "image": "assets/img/products/secondary-packages/semi-auto-l-bar-sealer.png",
+        "productionSpeed": "8-10",
+        "slingSizelxw": "Up to 500 / Up to 350",
+        "sellingPower": "900 va",
+        "productTravel": "Manual Push",
+        "power": "230 V Ac",
+        "airSupply": "",
+        "applicableFilm": "Pof/pvc/Ldp",
+        "modelType": "Heavy-duty"
+      }
+    },
+    "BNTPA-2015-PM": {
+      "BNTPA-2015-PM": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Semi auto L-Bar Sealer Machine",
+        "model": "BNTPA-2015-PM",
+        "image": "assets/img/products/secondary-packages/semi-auto-l-bar-sealer.png",
+        "productionSpeed": "10-12",
+        "slingSizelxw": "Up to 500 / Up to 350",
+        "sellingPower": "900 va",
+        "productTravel": "Manual Push",
+        "power": "230 V Ac",
+        "airSupply": "",
+        "applicableFilm": "Pof/pvc/Ldp",
+        "modelType": "Heavy-duty"
+      }
+    },
+    "BNTPA-2015-PTA": {
+      "BNTPA-2015-PTA": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Semi auto L-Bar Sealer Machine",
+        "model": "BNTPA-2015-PTA",
+        "image": "assets/img/products/secondary-packages/semi-auto-l-bar-sealer.png",
+        "productionSpeed": "10-12",
+        "slingSizelxw": "Up to 500 / Up to 350",
+        "sellingPower": "900 va",
+        "productTravel": "Auto",
+        "power": "230 V Ac",
+        "airSupply": "",
+        "applicableFilm": "Pof/pvc/Ldp",
+        "modelType": "Heavy-duty"
+      }
+    },
+    "BNTPA-2015-PTAM": {
+      "BNTPA-2015-PTAM": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Semi auto L-Bar Sealer Machine",
+        "model": "BNTPA-2015-PTAM",
+        "image": "assets/img/products/secondary-packages/semi-auto-l-bar-sealer.png",
+        "productionSpeed": "12-15",
+        "slingSizelxw": "Up to 500 / Up to 350",
+        "sellingPower": "900 va",
+        "productTravel": "Auto",
+        "power": "230 V Ac",
+        "airSupply": "",
+        "applicableFilm": "Pof/pvc/Ldp",
+        "modelType": "Heavy-duty"
+      }
+    },
+    "BNTPA-2015-PTAP": {
+      "BNTPA-2015-PTAP": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Semi auto L-Bar Sealer Machine",
+        "model": "BNTPA-2015-PTAP",
+        "image": "assets/img/products/secondary-packages/semi-auto-l-bar-sealer.png",
+        "productionSpeed": "13-18",
+        "slingSizelxw": "Up to 500 / Up to 350",
+        "sellingPower": "900 va",
+        "productTravel": "Auto",
+        "power": "230 V Ac",
+        "airSupply": "4-6 Bar",
+        "applicableFilm": "Pof/pvc/Ldp",
+        "modelType": "Heavy-duty"
+      }
+    },
+    "BNTPA-5545RL": {
+      "BNTPA-5545RL": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine",
+        "model": "BNTPA-5545RL",
+        "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
+        "productionSpeed": "20-25 cpm",
+        "productSellingSizelxwxh": "80-500 MM / 20-400 MM / UP-130 MM",
+        "power": "2.5 KW 230 V Ac 50Hz",
+        "airSupply": "",
+        "applicableFilm": "Pof Film",
+        "modelType": "Eco"
+      }
+    },
+    "BNTPA-5545PL": {
+      "BNTPA-5545PL": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine",
+        "model": "BNTPA-5545PL",
+        "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
+        "productionSpeed": "20-25 cpm",
+        "productSellingSizelxwxh": "80-500 MM / 20-400 MM / UP-130 MM",
+        "power": "2.5 KW 230 V Ac 50Hz",
+        "airSupply": "",
+        "applicableFilm": "Pof Film",
+        "modelType": "Heavy-duty"
+      }
+    },
+    "BNTPA-5545PLK": {
+      "BNTPA-5545PLK": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine",
+        "model": "BNTPA-5545PLK",
+        "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
+        "productionSpeed": "20-25 cpm",
+        "productSellingSizelxwxh": "30-500 MM / 20-400 MM / UP-130 MM",
+        "power": "2.5 KW 230 V Ac 50Hz",
+        "airSupply": "",
+        "applicableFilm": "Pof Film",
+        "modelType": "Heavy-duty"
+      }
+    },
+    "BNTPA-5545": {
+      "BNTPA-5545": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine",
+        "model": "BNTPA-5545",
+        "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
+        "productionSpeed": "20-25 cpm",
+        "productSellingSizelxwxh": "80-500 MM / 20-400 MM / UP-130 MM",
+        "power": "2.5 KW 230 V Ac 50Hz",
+        "airSupply": "",
+        "applicableFilm": "Pof Film",
+        "modelType": "Heavy-duty"
+      }
+    }
+  }
+}

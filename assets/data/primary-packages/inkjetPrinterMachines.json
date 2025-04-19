@@ -1,0 +1,102 @@
+{
+  "inkjetPrinterMachines": {
+    "BNTPA-12.5H/25H/50H/100H-manual": {
+      "BNTPA-12.5H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-12.5H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Handy Manual",
+        "printHeight": "12.5 mm"
+      },
+      "BNTPA-25H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-25H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Handy Manual",
+        "printHeight": "25 mm"
+      },
+      "BNTPA-50H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-50H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Handy Manual",
+        "printHeight": "50 mm"
+      },
+      "BNTPA-100H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-100H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Handy Manual",
+        "printHeight": "100 mm"
+      }
+    },
+    "BNTPA-12.5H/25H/50H/100H-auto": {
+      "BNTPA-12.5H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-12.5H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Auto Online",
+        "printHeight": "12.5 mm"
+      },
+      "BNTPA-25H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-25H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Auto Online",
+        "printHeight": "25 mm"
+      },
+      "BNTPA-50H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-50H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Auto Online",
+        "printHeight": "50 mm"
+      },
+      "BNTPA-100H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPA-100H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Auto Online",
+        "printHeight": "100 mm"
+      }
+    },
+    "BNTPATIG-4-12.5H": {
+      "BNTPATIG-4-12.5H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPATIG-4-12.5H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "230 V AC 50Hz",
+        "operating": "Auto Online",
+        "printHeight": "12.5 /25/50/100 mm"
+      }
+    },
+    "BNTPATIG-7-12.5H": {
+      "BNTPATIG-7-12.5H": {
+        "heading": "inkjet printer",
+        "name": "inkjet printer",
+        "model": "BNTPATIG-7-12.5H",
+        "image": "assets/img/products/primary-packages/inkjet-printer.png",
+        "power": "50W 230 V AC 50Hz",
+        "operating": "Auto Online",
+        "printHeight": "12.5 /25/50/100 mm"
+      }
+    }
+  }
+}

@@ -7,27 +7,27 @@
       "items": [
         {
           "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.png",
-          "text": "fully/Semi Automatic liquid filling machine",
+          "text": "liquid filling machine (semi/fully Automatic )",
           "link": "product.html?category=primary-packages&type=liquid-filling-machine"
         },
         {
           "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.png",
-          "text": "fully/Semi Automatic Paste Filling Machine",
+          "text": "Paste Filling Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=paste-filling-machine"
         },
         {
           "image": "assets/img/products/primary-packages/labeling-machine.png",
-          "text": "fully/Semi Automatic Labeling Machine",
+          "text": "Labeling Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=labeling-machine"
         },
         {
           "image": "assets/img/products/primary-packages/capping-machine.png",
-          "text": "fully/Semi Automatic Capping Machine",
+          "text": "Capping Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=capping-machine"
         },
         {
           "image": "assets/img/products/primary-packages/coding-machine.png",
-          "text": "fully/Semi-Automatic coding Machine",
+          "text": "coding Machine (semi/fully-Automatic)",
           "link": "product.html?category=primary-packages&type=coding-machine"
         },
         {
@@ -53,17 +53,17 @@
         {
           "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
           "text": "Continuous Band Sealing Machine",
-          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+          "link": "product.html?category=primary-packages&type=continuous-band-sealing-machine"
         },
         {
           "image": "assets/img/products/primary-packages/inkjet-printer.png",
           "text": "Inkjet Printer",
-          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+          "link": "product.html?category=primary-packages&type=inkjet-printer-machine"
         },
         {
           "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
           "text": "Manual Hand Sealing Machine",
-          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+          "link": "product.html?category=primary-packages&type=manual-hand-sealing-machine"
         },
         {
           "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
@@ -71,9 +71,9 @@
           "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/vaccum-packing-machine.png",
-          "text": "Vaccum Packing Machine",
-          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
+          "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+          "text": "Vacuum Packing Machine",
+          "link": "product.html?category=primary-packages&type=vacuum-packing-machine"
         }
       ]
     },
@@ -108,19 +108,19 @@
           "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
         },
         {
-          "image": "assets/img/products/secondary-packages/flow-wrap-machine.png",
-          "text": "Flow Wrap Machine",
-          "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
+          "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
+          "text": "Horizontalflow Wrap servo Machine",
+          "link": "product.html?category=secondary-packages&type=horizontal-flow-wrap-servo-machine"
         },
         {
           "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
-          "text": "L-bar Sealer Machine (semi-auto/fully-auto)",
-          "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
+          "text": "L-bar Sealer Machine (semi/fully automatic)",
+          "link": "product.html?category=secondary-packages&type=l-bar-sealer-machine"
         },
         {
           "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
-          "text": "Web Seller Shrink Slave applicator machine",
-          "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
+          "text": "Web Seller and Shrink Slave applicator machine",
+          "link": "product.html?category=secondary-packages&type=web-seller-and-shrink-slave-applicator-machine"
         }
       ]
     },

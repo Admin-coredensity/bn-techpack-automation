@@ -1,0 +1,32 @@
+{
+  "horizontalflowWrapServoMachines": {
+    "BNTPAHFW-350RW": {
+      "BNTPAHFW-350RW": {
+        "heading": "horizontalflow Wrap Servo Machine",
+        "name": "horizontalflow Wrap Servo Machine",
+        "model": "BNTPAHFW-350RW",
+        "power": "4 kW 230 V AC 50Hz",
+        "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
+        "pouchSize": "65 mm - 330 mm max",
+        "filmRollWidth": "Up to 340 mm",
+        "productHeight": "Up to 60 mm",
+        "speed": "40 to 100 Nos Per Minute Pouch",
+        "conveyorDriveTypes": "Belt/Push hook"
+      }
+    },
+    "BNTPAHFW-450rw": {
+      "BNTPAHFW-450rw": {
+        "heading": "horizontalflow Wrap Servo Machine",
+        "name": "horizontalflow Wrap Servo Machine",
+        "model": "BNTPAHFW-450rw",
+        "power": "4.5 kW 230 V AC 50Hz",
+        "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
+        "pouchSize": "65-330",
+        "filmRollWidth": "Up to 440 mm",
+        "productHeight": "Up to 80 mm",
+        "speed": "40 to 100 Nos Per Minute Pouch",
+        "conveyorDriveTypes": "Belt/Push hook"
+      }
+    }
+  }
+}

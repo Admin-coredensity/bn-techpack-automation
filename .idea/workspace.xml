@@ -4,12 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="image url changes done">
+    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="new product name and images added to dropdown">
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/continuous-band-sealing-machine/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/continuous-band-sealing-machine/models.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/continuousBandSealingMachines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/inkjet-printer-machine/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/inkjet-printer-machine/models.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/inkjetPrinterMachines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/manual-hand-sealing-machine/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/manual-hand-sealing-machine/models.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/manualHandSealingMachines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/vacuum-packing-machine/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/vacuum-packing-machine/models.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/primary-packages/vacuumPackingMachines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontal-flow-wrap-servo-machine/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontal-flow-wrap-servo-machine/models.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontalflowWrapServoMachines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/l-bar-sealer-machine/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/l-bar-sealer-machine/models.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/lBarSealerMachines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/web-seller-and-shrink-slave-applicator-machine/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/web-seller-and-shrink-slave-applicator-machine/models.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/secondary-packages/webSellerAndShrinkSlaveApplicatorMachines.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/paste-filling-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/paste-filling-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/pasteFillingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/pasteFillingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/dropdownData.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/dropdownData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/powder-filling-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/powder-filling-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/primary-packages/vaccum-packing-machine-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/primary-packages/vacuum-packing-machine-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/primary-packages/vaccum-packing-machine.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/primary-packages/vacuum-packing-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/secondary-packages/flow-wrap-machine.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/secondary-packages/horizontalflow-wrap-machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/product-detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/product-detail.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +70,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "dev",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/Open source/bn-techpack-automation/forms",
+    "last_opened_file_path": "D:/Projects/Open source/bn-techpack-automation/assets/data/secondary-packages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +82,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Open source\bn-techpack-automation\assets\data\secondary-packages" />
+      <recent name="D:\Projects\Open source\bn-techpack-automation\assets\data\primary-packages" />
       <recent name="D:\Projects\Open source\bn-techpack-automation\forms" />
       <recent name="D:\Projects\Open source\bn-techpack-automation\assets\data" />
     </key>
@@ -96,7 +121,9 @@
       <workItem from="1744727957502" duration="5469000" />
       <workItem from="1744775196149" duration="3110000" />
       <workItem from="1744950951146" duration="1235000" />
-      <workItem from="1744952221700" duration="18892000" />
+      <workItem from="1744952221700" duration="19522000" />
+      <workItem from="1745054080141" duration="668000" />
+      <workItem from="1745067561738" duration="9580000" />
     </task>
     <task id="LOCAL-00001" summary="placeholder image added for default case">
       <option name="closed" value="true" />
@@ -170,7 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744995787115</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="paste filling model details added">
+      <option name="closed" value="true" />
+      <created>1745004699878</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745004699878</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new images added">
+      <option name="closed" value="true" />
+      <created>1745054095523</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745054095523</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new product name and images added to dropdown">
+      <option name="closed" value="true" />
+      <created>1745054727441</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745054727441</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +237,9 @@
     <MESSAGE value="send enquiry modal added" />
     <MESSAGE value="image folders refactored and image url changes done" />
     <MESSAGE value="image url changes done" />
-    <option name="LAST_COMMIT_MESSAGE" value="image url changes done" />
+    <MESSAGE value="paste filling model details added" />
+    <MESSAGE value="new images added" />
+    <MESSAGE value="new product name and images added to dropdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="new product name and images added to dropdown" />
   </component>
 </project>

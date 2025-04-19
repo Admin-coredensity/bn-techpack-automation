@@ -1,0 +1,38 @@
+{
+  "sections": [
+    {
+      "title": "Inkjet Printer",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "BNTPA-12.5H/25H/50H/100H-manual",
+              "name": "BNTPA-12.5H/25H/50H/100H-manual",
+              "image": "assets/img/products/primary-packages/inkjet-printer.png",
+              "link": "product-detail.html?category=primary-packages&type=inkjetPrinterMachines&id=BNTPA-12.5H/25H/50H/100H-manual"
+            },
+            {
+              "id": "BNTPA-12.5H/25H/50H/100H-auto",
+              "name": "BNTPA-12.5H/25H/50H/100H-auto",
+              "image": "assets/img/products/primary-packages/inkjet-printer.png",
+              "link": "product-detail.html?category=primary-packages&type=inkjetPrinterMachines&id=BNTPA-12.5H/25H/50H/100H-auto"
+            },
+            {
+              "id": "BNTPATIG-4-12.5H",
+              "name": "BNTPATIG-4-12.5H",
+              "image": "assets/img/products/primary-packages/inkjet-printer.png",
+              "link": "product-detail.html?category=primary-packages&type=inkjetPrinterMachines&id=BNTPATIG-4-12.5H"
+            },
+            {
+              "id": "BNTPATIG-7-12.5H",
+              "name": "BNTPATIG-7-12.5H",
+              "image": "assets/img/products/primary-packages/inkjet-printer.png",
+              "link": "product-detail.html??category=primary-packages&type=inkjetPrinterMachines&id=BNTPATIG-7-12.5H"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

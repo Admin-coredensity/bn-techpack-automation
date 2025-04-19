@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "title": "Manual Hand Sealing machine",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "BNTPA-200L",
+              "name": "BNTPA-200L",
+              "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=manualHandSealingMachines&id=BNTPA-200L"
+            },
+            {
+              "id": "BNTPA-300L",
+              "name": "BNTPA-300L",
+              "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=manualHandSealingMachines&id=BNTPA-300L"
+            },
+            {
+              "id": "BNTPA-400L",
+              "name": "BNTPA-400L",
+              "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=manualHandSealingMachines&id=BNTPA-400L"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

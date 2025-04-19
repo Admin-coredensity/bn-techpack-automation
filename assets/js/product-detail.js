@@ -46,8 +46,9 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Filling Accuracy", variantData.fillingAccuracy, "product-model-filling-accuracy")}
             ${generateRow("MOC", variantData.MOC, "product-model-moc")}
             ${generateRow("Production Speed BPM", variantData.productionSpeedBPM, "product-model-production-speed-bpm")}
+            ${generateRow("Production Speed", variantData.productionSpeed, "product-model-production-speed")}
             ${generateRow("Speed", variantData.speed, "product-model-speed")}
-            ${generateRow("Capping Dimeter", variantData.cappingDimeter, "product-model-capping-dimeter")}
+            ${generateRow("Capping Diameter", variantData.cappingDimeter, "product-model-capping-dimeter")}
             ${generateRow("Operating", variantData.operating, "product-model-operating")}
             ${generateRow("Print no of line", variantData.printNoOfLine, "product-model-print-no-of-line")}
             ${generateRow("Label Roll Diameter", variantData.labelRollDiameter, "product-model-label-roll-diameter")}
@@ -64,6 +65,8 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Weighing Range", variantData.weighingRange, "product-model-weighing-range")}
             ${generateRow("Hopper Capacity", variantData.hopperCapacity, "product-model-hopper-capacity")}
             ${generateRow("Pouch Selling Types", variantData.pouchSellingTypes, "product-model-pouch-selling-types")}
+            ${generateRow("Pouch Size", variantData.pouchSize, "product-model-pouch-size")}
+            ${generateRow("film Roll Width", variantData.filmRollWidth, "product-model-film-roll-width")}
             ${generateRow("No Head", variantData.noHead, "product-model-no-head")}
             ${generateRow("Box Size", variantData.boxSize, "product-model-box-size")}
             ${generateRow("Model Type", variantData.modelType, "product-model-model-type")}
@@ -71,11 +74,24 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Air Supply", variantData.airSupply, "product-model-air-supply")}
             ${generateRow("Width BOPP/Strap", variantData.widthBOPPStrap, "product-model-width-BOPP-Strap")}
             ${generateRow("Strap Width", variantData.strapWidth, "product-model-strap-width")}
+            ${generateRow("Sealing length", variantData.sealingLength, "product-model-sealing-length")}
+            ${generateRow("sealing Width and Length", variantData.sealingWidthLength, "product-model-sealing-width-and-length")}
+            ${generateRow("Sealing Width", variantData.sealingWidth, "product-model-sealing-width")}
+            ${generateRow("temperature", variantData.temperature, "product-model-temperature")}
+            ${generateRow("belt Speed", variantData.beltSpeed, "product-model-belt-speed")}
+            ${generateRow("sling Size", variantData.slingSize, "product-model-sling-size")}
+            ${generateRow("suitable Product", variantData.suitableProduct, "product-model-suitable-product")}
+            ${generateRow("capacity", variantData.capacity, "product-model-capacity")}
+            ${generateRow("print Height", variantData.printHeight, "product-model-print-height")}
+            ${generateRow("product Height", variantData.productHeight, "product-model-product-height")}
+            ${generateRow("chamber Size", variantData.chamberSize, "product-model-chamber-size")}
             ${generateRow("Conveyor Drive Types", variantData.conveyorDriveTypes, "product-model-conveyor-drive-types")}
             ${generateRow("Heater Load Capacity", variantData.heaterLoadCapacity, "product-model-heater-load-capacity")}
-            ${generateRow("Weight", variantData.weight, "product-model-weight")}
+            ${generateRow("sling Size lxw", variantData.slingSizelxw, "product-model-sling-size-lxw")}
+            ${generateRow("selling Power", variantData.sellingPower, "product-model-selling-power")}
+            ${generateRow("product Travel", variantData.productTravel, "product-model-product-travel")}
+            ${generateRow("product Selling Size lxwxh", variantData.productSellingSizelxwxh, "product-model-product-selling-size-lxwxh")}
             ${generateRow("Hit Zone Size LXWXH", variantData.hitZoneSizeLXWXH, "product-model-hit-zone-size-LXWXH")}
-            ${generateRow("Machine Dimension LxWxH", variantData.machineDimensionLxWxH, "product-model-machine-dimensions")}
           </tbody>
           </table>
         </div>

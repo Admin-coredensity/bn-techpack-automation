@@ -1,0 +1,46 @@
+{
+  "webSellerAndShrinkSlaveApplicatorMachines": {
+    "BNTPA-W6045": {
+      "BNTPA-W6045": {
+        "heading": "web Seller And Shrink Slave Applicator Machine",
+        "name": "web Seller And Shrink Slave Applicator Machine",
+        "model": "BNTPA-W6045",
+        "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
+        "productionSpeed": "4-6",
+        "slingSize": "700MM",
+        "suitableProduct": "Bottle / teen / box .etc",
+        "power": "3.5 KW 230 V Ac",
+        "airSupply": "LDP",
+        "applicableFilm": "Heavy-duty"
+      }
+    },
+    "BNTPA-WF6045": {
+      "BNTPA-WF6045": {
+        "heading": "web Seller And Shrink Slave Applicator Machine",
+        "name": "web Seller And Shrink Slave Applicator Machine",
+        "model": "BNTPA-WF6045",
+        "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
+        "productionSpeed": "6-10",
+        "slingSize": "700 MM",
+        "suitableProduct": "Bottle / teen / box .etc",
+        "power": "3.5 KW 230 V Ac",
+        "airSupply": "LDP",
+        "applicableFilm": "Heavy-duty"
+      }
+    },
+    "BNTPA-30150D": {
+      "BNTPA-30150D": {
+        "heading": "web Seller And Shrink Slave Applicator Machine",
+        "name": "web Seller And Shrink Slave Applicator Machine",
+        "model": "BNTPA-30150D",
+        "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
+        "productionSpeed": "UP ~80 BOM",
+        "slingSize": "",
+        "suitableProduct": "Bottle / jar / teen",
+        "power": "2.2kw 415v 50 Hz",
+        "airSupply": "Printed pvc live roll",
+        "applicableFilm": "Heavy-duty"
+      }
+    }
+  }
+}

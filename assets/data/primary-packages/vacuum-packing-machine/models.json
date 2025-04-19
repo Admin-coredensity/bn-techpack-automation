@@ -1,0 +1,77 @@
+{
+  "sections": [
+    {
+      "title": "Vacuum Packing machine",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "BNTPA-260DZ",
+              "name": "BNTPA-260DZ",
+              "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-260DZ"
+            },
+            {
+              "id": "BNTPA-300DZ",
+              "name": "BNTPA-300DZ",
+              "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-300DZ"
+            },
+            {
+              "id": "BNTPA-400DZ",
+              "name": "BNTPA-400DZ",
+              "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-400DZ"
+            },
+            {
+              "id": "BNTPA-500DZ",
+              "name": "BNTPA-500DZ",
+              "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-500DZ"
+            },
+            {
+              "name": "BNTPA-600DZ",
+              "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-600DZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vacuum Packing machine external with nitrogen filling",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "BNTPA-500DZ-MS-nitrogen-filling",
+              "name": "BNTPA-500DZ-MS",
+              "image": "assets/img/placeholder-image.jpg",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-500DZ-MS-nitrogen-filling"
+            },
+            {
+              "id": "BNTPA-500DZ-SS-nitrogen-filling",
+              "name": "BNTPA-500DZ-SS",
+              "image": "assets/img/placeholder-image.jpg",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-500DZ-SS-nitrogen-filling"
+            },
+            {
+              "id": "BNTPA-600DZ-MS-nitrogen-filling",
+              "name": "BNTPA-600DZ-MS",
+              "image": "assets/img/placeholder-image.jpg",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-600DZ-MS-nitrogen-filling"
+            },
+            {
+              "id": "BNTPA-600DZ-SS-nitrogen-filling",
+              "name": "BNTPA-600DZ-SS",
+              "image": "assets/img/placeholder-image.jpg",
+              "link": "product-detail.html?category=primary-packages&type=vacuumPackingMachines&id=BNTPA-600DZ-SS-nitrogen-filling"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
