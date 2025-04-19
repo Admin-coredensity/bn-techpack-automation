@@ -11,9 +11,7 @@
         "weighingRange": "1-100Gm",
         "accuracy": "Within 1-+2GM",
         "speed": "10-15 times/min",
-        "hopperCapacity": "1 to 2 kg",
-        "machineDimensionLxWxH": "700x420x1260mm",
-        "weight": "8KG"
+        "hopperCapacity": "1 to 2 kg"
       }
     },
     "BNTPASPF-2to200gm": {
@@ -27,9 +25,7 @@
         "weighingRange": "2-200gm",
         "accuracy": "Within 1-+2GM",
         "speed": "10-15 times/min",
-        "hopperCapacity": "1 to 2 kg",
-        "machineDimensionLxWxH": "700x420x1260mm",
-        "weight": "8KG"
+        "hopperCapacity": "1 to 2 kg"
       }
     },
     "BNTPASPF-10to1000gm": {
@@ -43,9 +39,7 @@
         "weighingRange": "10-1000Gm",
         "accuracy": "Within 1-+2GM",
         "speed": "10-15 times/min",
-        "hopperCapacity": "1 to 5 kg ",
-        "machineDimensionLxWxH": "420x320x550mm",
-        "weight": "60KG"
+        "hopperCapacity": "1 to 5 kg "
       }
     },
     "BNTPASPF-10to3000gm": {
@@ -59,9 +53,7 @@
         "weighingRange": "50-5000Gm",
         "accuracy": "Within 1-+2GM",
         "speed": "10-15 times/min",
-        "hopperCapacity": "1 to 5 kg",
-        "machineDimensionLxWxH": "420x320x550mm",
-        "weight": "80KG"
+        "hopperCapacity": "1 to 5 kg"
       }
     }
   }

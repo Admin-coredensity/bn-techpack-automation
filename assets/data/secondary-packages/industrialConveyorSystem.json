@@ -1,58 +1,52 @@
 {
-    "industrialConveyorSystem": {
-        "BNTPA-200f": {
-            "BNTPA-200f": {
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-200f",
-                "image":"assets/img/products/induction-sealing-machine.png",
-                "power": "500W 230 V AC 50Hz",
-                "operating": "Semi  auto",
-                "capSealingDiameter": "20-100 mm",
-                "speed": "20-40 bpm",
-                "machineDimensionLxWxH": "340x290x150 mm",
-                "weight": "8KG"
-            }
-        },
-        "BNTPA-600c": {
-            "BNTPA-600c": {
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-600c",
-                "image":"assets/img/products/induction-sealing-machine.png",
-                "power": "600 W 230 V AC 50Hz",
-                "operating": "Semi  auto",
-                "capSealingDiameter": "60-130 mm",
-                "speed": "20-40 bpm",
-                "machineDimensionLxWxH": "340x290x150 mm",
-                "weight": "8KG"
-            }
-        },
-        "BNTPA-20100D": {
-            "BNTPA-20100D": {
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-20100D",
-                "image":"assets/img/products/induction-sealing-machine.png",
-                "power": " 1KW 230 V AC 50Hz  ",
-                "operating": "Automatic",
-                "capSealingDiameter": "20-100 mm",
-                "speed": "20-80 bpm",
-                "weight": "80KG"
-            }
-        },
-        "BNTPA-60130D":{
-            "BNTPA-60130D":{
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-60130D",
-                "image":"assets/img/products/induction-sealing-machine.png",
-                "power": " 1.5KW50W 230 V AC 50Hz  ",
-                "operating": "Automatic",
-                "capSealingDiameter": "20-130 mm",
-                "speed": "20-80 bpm",
-                "weight": "110KG"
-            }
-        }
+  "industrialConveyorSystem": {
+    "BNTPA-200f": {
+      "BNTPA-200f": {
+        "heading": "Industrial conveyor system",
+        "name": "Industrial conveyor system",
+        "model": "BNTPA-200f",
+        "image": "assets/img/products/induction-sealing-machine.png",
+        "power": "500W 230 V AC 50Hz",
+        "operating": "Semi  auto",
+        "capSealingDiameter": "20-100 mm",
+        "speed": "20-40 bpm"
+      }
+    },
+    "BNTPA-600c": {
+      "BNTPA-600c": {
+        "heading": "Industrial conveyor system",
+        "name": "Industrial conveyor system",
+        "model": "BNTPA-600c",
+        "image": "assets/img/products/induction-sealing-machine.png",
+        "power": "600 W 230 V AC 50Hz",
+        "operating": "Semi  auto",
+        "capSealingDiameter": "60-130 mm",
+        "speed": "20-40 bpm"
+      }
+    },
+    "BNTPA-20100D": {
+      "BNTPA-20100D": {
+        "heading": "Industrial conveyor system",
+        "name": "Industrial conveyor system",
+        "model": "BNTPA-20100D",
+        "image": "assets/img/products/induction-sealing-machine.png",
+        "power": " 1KW 230 V AC 50Hz  ",
+        "operating": "Automatic",
+        "capSealingDiameter": "20-100 mm",
+        "speed": "20-80 bpm"
+      }
+    },
+    "BNTPA-60130D": {
+      "BNTPA-60130D": {
+        "heading": "Industrial conveyor system",
+        "name": "Industrial conveyor system",
+        "model": "BNTPA-60130D",
+        "image": "assets/img/products/induction-sealing-machine.png",
+        "power": " 1.5KW50W 230 V AC 50Hz  ",
+        "operating": "Automatic",
+        "capSealingDiameter": "20-130 mm",
+        "speed": "20-80 bpm"
+      }
     }
+  }
 }

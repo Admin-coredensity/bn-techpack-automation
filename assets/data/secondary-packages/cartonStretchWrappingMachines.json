@@ -9,8 +9,7 @@
         "power": "230 V AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "operating": "Handy Manual",
-        "printNoOfLine": "3-4",
-        "weight": "22KG"
+        "printNoOfLine": "3-4"
       }
     },
     "BNTPA-HP241-B": {
@@ -22,8 +21,7 @@
         "power": "230 V AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "operating": "Semi auto",
-        "printNoOfLine": "3-4",
-        "weight": "22KG"
+        "printNoOfLine": "3-4"
       }
     },
     " BNTPA-380FSS": {
@@ -35,8 +33,7 @@
         "power": "230 V AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "operating": " Automatic",
-        "printNoOfLine": "3-4",
-        "weight": "22KG"
+        "printNoOfLine": "3-4"
       }
     },
     "BNTPA-380FMS": {
@@ -48,8 +45,7 @@
         "power": "50W 230 V AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "operating": " Automatic",
-        "printNoOfLine": "3-4",
-        "weight": "22KG"
+        "printNoOfLine": "3-4"
       }
     }
   }
