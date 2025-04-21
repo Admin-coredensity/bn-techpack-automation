@@ -1,0 +1,26 @@
+{
+  "sections": [
+    {
+      "title": "box/pallet stretch wrapping machine",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "bntpaslf-5580tbc/bntpa-8560-b/r-eco",
+              "name": "bntpaslf-5580tbc/bntpa-8560-b/r-eco",
+              "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
+              "link": "product-detail.html?category=secondary-packages&type=sideSealerWithShrinkTunnelMachines&id=bntpaslf-5580tbc/bntpa-8560-b/r-eco"
+            },
+            {
+              "id": "bntpaslf-5580tbc/bntpa-8560-b/r-heavy-duty",
+              "name": "bntpaslf-5580tbc/bntpa-8560-b/r-heavy-duty",
+              "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
+              "link": "product-detail.html?category=secondary-packages&type=sideSealerWithShrinkTunnelMachines&id=bntpaslf-5580tbc/bntpa-8560-b/r-heavy-duty"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

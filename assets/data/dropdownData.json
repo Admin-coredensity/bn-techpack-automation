@@ -123,6 +123,11 @@
           "link": "product.html?category=secondary-packages&type=l-bar-sealer-machine"
         },
         {
+          "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
+          "text": "side sealer with shrink tunnel",
+          "link": "product.html?category=secondary-packages&type=side-sealer-with-shrink-tunnel"
+        },
+        {
           "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
           "text": "Web Seller and Shrink Slave applicator machine",
           "link": "product.html?category=secondary-packages&type=web-seller-and-shrink-slave-applicator-machine"

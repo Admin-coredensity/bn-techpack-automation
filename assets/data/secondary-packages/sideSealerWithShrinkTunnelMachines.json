@@ -1,0 +1,30 @@
+{
+  "sideSealerWithShrinkTunnelMachines": {
+    "bntpaslf-5580tbc/bntpa-8560-b/r-eco": {
+      "bntpaslf-5580tbc/bntpa-8560-b/r-eco": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Semi auto L-Bar Sealer Machine",
+        "model": "bntpaslf-5580tbc + bntpa-8560-b/r eco",
+        "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
+        "productionSpeed": "20-25 cpm",
+        "productSellingSizelxwxh": "80-500 mm x 20-400 mm x up-130 mm",
+        "power": "2.5 kw 230 v ac 50hz",
+        "applicableFilm": "pof film",
+        "modelType": "eco"
+      }
+    },
+    "bntpaslf-5580tbc/bntpa-8560-b/r-heavy-duty": {
+      "bntpaslf-5580tbc/bntpa-8560-b/r-heavy-duty": {
+        "heading": "L-Bar Sealer Machine",
+        "name": "Semi auto L-Bar Sealer Machine",
+        "model": "bntpaslf-5580tbc + bntpa-8560-b/r heavy-duty",
+        "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
+        "productionSpeed": "20-25 cpm",
+        "productSellingSizelxwxh": "80-500 mm x 20-400 mm x up-130 mm",
+        "power": "2.5 kw 230 v ac 50hz",
+        "applicableFilm": "pof film",
+        "modelType": "heavy-duty"
+      }
+    }
+  }
+}
