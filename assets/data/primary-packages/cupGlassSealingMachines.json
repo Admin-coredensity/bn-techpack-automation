@@ -10,7 +10,7 @@
                 "operating": "Manual",
                 "noOfCupRowAndIndexer": "1x1",
                 "capSealingDiameter": " up-140 mm",
-                "speed": " 5 -8 cpm"
+                "productionSpeed": " 5 -8 cpm"
             }
         },
         "BNTPA-SC4-75D": {
@@ -23,7 +23,7 @@
                 "operating": "Semi auto ",
                 "noOfCupRowAndIndexer": "4x4 ",
                 "capSealingDiameter": " up-140 mm",
-                "speed": "8-10CPM"
+                "productionSpeed": "8-10CPM"
             }
         },
         "BNTPA-015SP": {
@@ -36,7 +36,7 @@
                 "operating": "Automatic indexing",
                 "noOfCupRowAndIndexer": "2-4x 5",
                 "capSealingDiameter": "up-140 mm",
-                "speed": "10-15  Cpm/30-40CPM"
+                "productionSpeed": "10-15  Cpm/30-40CPM"
             }
         },
         "BNTPA-3040SP": {
@@ -49,7 +49,7 @@
                 "operating": "Automatic for online ",
                 "noOfCupRowAndIndexer": "4 x 60",
                 "capSealingDiameter": "up-140 mm",
-                "speed": " 30-40CPM"
+                "productionSpeed": " 30-40CPM"
             }
         }
     }

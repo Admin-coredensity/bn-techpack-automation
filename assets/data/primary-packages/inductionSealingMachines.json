@@ -9,7 +9,7 @@
                 "power": "500W 230 V AC 50Hz",
                 "operating": "Semi  auto",
                 "capSealingDiameter": "20-100 mm",
-                "speed": "20-40 bpm",
+                "productionSpeed": "20-40 bpm",
                 "machineDimensionLxWxH": "340x290x150 mm",
                 "weight": "8KG"
             }
@@ -23,7 +23,7 @@
                 "power": "600 W 230 V AC 50Hz",
                 "operating": "Semi  auto",
                 "capSealingDiameter": "60-130 mm",
-                "speed": "20-40 bpm",
+                "productionSpeed": "20-40 bpm",
                 "machineDimensionLxWxH": "340x290x150 mm",
                 "weight": "8KG"
             }
@@ -37,7 +37,7 @@
                 "power": " 1KW 230 V AC 50Hz  ",
                 "operating": "Automatic",
                 "capSealingDiameter": "20-100 mm",
-                "speed": "20-80 bpm",
+                "productionSpeed": "20-80 bpm",
                 "weight": "80KG"
             }
         },
@@ -50,7 +50,7 @@
                 "power": " 1.5KW50W 230 V AC 50Hz  ",
                 "operating": "Automatic",
                 "capSealingDiameter": "20-130 mm",
-                "speed": "20-80 bpm",
+                "productionSpeed": "20-80 bpm",
                 "weight": "110KG"
             }
         }

@@ -2,56 +2,56 @@
   "cartonStrappingMachines": {
     "BNTPA-xt8020": {
       "BNTPA-xt8020": {
-        "heading": "Strapping Machine",
-        "name": "Strapping Machine",
+        "heading": "Carton Strapping Machine",
+        "name": "Carton Strapping Machine",
         "model": "BNTPA-xt8020",
         "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
-        "speed": "UP-25 cpm",
-        "boxSize": "UP - NO LIMIT",
+        "productionSpeed": "UP-25 cpm",
+        "boxSizelxwxh": "UP - NO LIMIT",
         "power": "0.18 KW 230 V AC 50Hz",
-        "airSupply": "AC 50Hz",
+        "airSupply": "",
         "strapWidth": "6-19 mm",
         "operating": "Semi auto"
       }
     },
     "BNTPA-316h": {
       "BNTPA-316h": {
-        "heading": "Strapping Machine",
-        "name": "Strapping Machine",
+        "heading": "Carton Strapping Machine",
+        "name": "Carton Strapping Machine",
         "model": "BNTPA-316h",
         "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
-        "speed": "UP-25 cpm",
-        "boxSize": "UP - NO LIMIT",
+        "productionSpeed": "UP-25 cpm",
+        "boxSizelxwxh": "UP - NO LIMIT",
         "power": "0.18 KW 230 V AC 50Hz",
-        "airSupply": "AC 50Hz",
+        "airSupply": "",
         "strapWidth": "6-19 mm",
         "operating": "Semi auto"
       }
     },
     "BNTPA-PW8060C": {
       "BNTPA-PW8060C": {
-        "heading": "Strapping Machine",
-        "name": "Strapping Machine",
+        "heading": "Carton Strapping Machine",
+        "name": "Carton Strapping Machine",
         "model": "BNTPA-PW8060C",
         "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
-        "speed": "UP-25 cpm",
-        "boxSize": "UP - NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
-        "power": "1.5 KW 230 V",
-        "airSupply": " AC 50Hz 4-6 BAR",
+        "productionSpeed": "UP-25 cpm",
+        "boxSizelxwxh": "UP - NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
+        "power": "0.18 KW 230 V AC 50Hz",
+        "airSupply": "4-6 BAR",
         "strapWidth": "9-12 mm",
         "operating": "Automatic"
       }
     },
     "BNTPA-8060R/B": {
       "BNTPA-8060R/B": {
-        "heading": "Strapping Machine",
-        "name": "Strapping Machine",
+        "heading": "Carton Strapping Machine",
+        "name": "Carton Strapping Machine",
         "model": "BNTPA-8060R/B",
         "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
-        "speed": "UP-25 cpm",
-        "boxSize": "UP - NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
-        "power": "1.5 KW 230 V ",
-        "airSupply": "AC 50Hz 4-6 BAR",
+        "productionSpeed": "UP-25 cpm",
+        "boxSizelxwxh": "UP - NO LIMIT, UP-800 MM, UP-600 MM, Customize Size Available",
+        "power": "1.5 KW 230 V AC 50Hz ",
+        "airSupply": "4-6 BAR",
         "strapWidth": "9-12 mm",
         "operating": "Automatic"
       }

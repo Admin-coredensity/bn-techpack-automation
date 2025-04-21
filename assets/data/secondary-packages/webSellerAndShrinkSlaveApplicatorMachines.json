@@ -10,8 +10,8 @@
         "slingSize": "700MM",
         "suitableProduct": "Bottle / teen / box .etc",
         "power": "3.5 KW 230 V Ac",
-        "airSupply": "LDP",
-        "applicableFilm": "Heavy-duty"
+        "applicableFilm": "LDP",
+        "modelType": "Heavy-duty"
       }
     },
     "BNTPA-WF6045": {
@@ -24,8 +24,8 @@
         "slingSize": "700 MM",
         "suitableProduct": "Bottle / teen / box .etc",
         "power": "3.5 KW 230 V Ac",
-        "airSupply": "LDP",
-        "applicableFilm": "Heavy-duty"
+        "applicableFilm": "LDP",
+        "modelType": "Heavy-duty"
       }
     },
     "BNTPA-30150D": {
@@ -34,12 +34,12 @@
         "name": "web Seller And Shrink Slave Applicator Machine",
         "model": "BNTPA-30150D",
         "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
-        "productionSpeed": "UP ~80 BOM",
+        "productionSpeed": "UP-80 BOM",
         "slingSize": "",
         "suitableProduct": "Bottle / jar / teen",
         "power": "2.2kw 415v 50 Hz",
-        "airSupply": "Printed pvc live roll",
-        "applicableFilm": "Heavy-duty"
+        "applicableFilm": "Printed pvc live roll",
+        "modelType": "Heavy-duty"
       }
     }
   }

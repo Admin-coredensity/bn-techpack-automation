@@ -10,8 +10,8 @@
         "pouchSize": "65 mm - 330 mm max",
         "filmRollWidth": "Up to 340 mm",
         "productHeight": "Up to 60 mm",
-        "speed": "40 to 100 Nos Per Minute Pouch",
-        "conveyorDriveTypes": "Belt/Push hook"
+        "speed": "40 to 100 Nos Per Minuet Pouch",
+        "driveTypes": "Belt/Push hook"
       }
     },
     "BNTPAHFW-450rw": {
@@ -24,8 +24,8 @@
         "pouchSize": "65-330",
         "filmRollWidth": "Up to 440 mm",
         "productHeight": "Up to 80 mm",
-        "speed": "40 to 100 Nos Per Minute Pouch",
-        "conveyorDriveTypes": "Belt/Push hook"
+        "speed": "40 to 100 Nos Per Minuet Pouch",
+        "driveTypes": "Belt/Push hook"
       }
     }
   }

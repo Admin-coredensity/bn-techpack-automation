@@ -68,8 +68,8 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Pouch Size", variantData.pouchSize, "product-model-pouch-size")}
             ${generateRow("film Roll Width", variantData.filmRollWidth, "product-model-film-roll-width")}
             ${generateRow("No Head", variantData.noHead, "product-model-no-head")}
-            ${generateRow("Box Size", variantData.boxSize, "product-model-box-size")}
             ${generateRow("Model Type", variantData.modelType, "product-model-model-type")}
+            ${generateRow("Box Size lxwxh", variantData.boxSizelxwxh, "product-model-box-size-lxwxh")}
             ${generateRow("Applicable Film", variantData.applicableFilm, "product-model-model-applicable-film")}
             ${generateRow("Air Supply", variantData.airSupply, "product-model-air-supply")}
             ${generateRow("Width BOPP/Strap", variantData.widthBOPPStrap, "product-model-width-BOPP-Strap")}
@@ -86,12 +86,14 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("product Height", variantData.productHeight, "product-model-product-height")}
             ${generateRow("chamber Size", variantData.chamberSize, "product-model-chamber-size")}
             ${generateRow("Conveyor Drive Types", variantData.conveyorDriveTypes, "product-model-conveyor-drive-types")}
+            ${generateRow("Drive Types", variantData.driveTypes, "product-model-drive-types")}
             ${generateRow("Heater Load Capacity", variantData.heaterLoadCapacity, "product-model-heater-load-capacity")}
             ${generateRow("sling Size lxw", variantData.slingSizelxw, "product-model-sling-size-lxw")}
             ${generateRow("selling Power", variantData.sellingPower, "product-model-selling-power")}
             ${generateRow("product Travel", variantData.productTravel, "product-model-product-travel")}
             ${generateRow("product Selling Size lxwxh", variantData.productSellingSizelxwxh, "product-model-product-selling-size-lxwxh")}
             ${generateRow("Hit Zone Size LXWXH", variantData.hitZoneSizeLXWXH, "product-model-hit-zone-size-LXWXH")}
+            ${generateRow("hopper Volume", variantData.hopperVolume, "product-model-hopper-volume")}
           </tbody>
           </table>
         </div>

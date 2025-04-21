@@ -6,10 +6,10 @@
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-4030",
           "image":"assets/img/products/secondary-packages/carton-box-taping-machine.png",
-          "speed": "UP-25 cpm",
+          "productionSpeed": "UP-25 cpm",
           "boxSize": "120-UP MM, 80-320 MM, 90-400 MM",
           "power": "0.18 KW 230 V AC 50Hz",
-          "airSupply": "Ac 50Hz",
+          "airSupply": "",
           "widthBOPPStrap": "25-75 mm",
           "operating": "Semi auto",
           "machineDimensionLxWxH": "1050x650x860"
@@ -21,10 +21,10 @@
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-6050",
           "image":"assets/img/products/secondary-packages/carton-box-taping-machine.png",
-          "speed": "UP-25 cpm",
+          "productionSpeed": "UP-25 cpm",
           "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
-          "power": "0.18 KW 230 V",
-          "airSupply": "Ac 50Hz",
+          "power": "0.18 KW 230 V ac 50 hz",
+          "airSupply": "",
           "widthBOPPStrap": "25-75 mm",
           "operating": "Semi auto",
           "machineDimensionLxWxH": "1050x650x860"
@@ -36,10 +36,10 @@
           "name": " Carton Box Taping Machine",
           "model": "BNTPA-6050R",
           "image":"assets/img/products/secondary-packages/carton-box-taping-machine.png",
-          "speed": "UP-25 cpm",
+          "productionSpeed": "UP-25 cpm",
           "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
-          "power": "0.18 KW 230 V",
-          "airSupply": "AC 50Hz 4-6 BAR",
+          "power": "0.18 KW 230 V 50hz",
+          "airSupply": "4-6 BAR",
           "widthBOPPStrap": "25-75 mm",
           "operating": "Automatic"
         }
@@ -50,10 +50,10 @@
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-5050AF",
           "image":"assets/img/products/secondary-packages/carton-box-taping-machine.png",
-          "speed": "UP-25 cpm",
+          "productionSpeed": "UP-25 cpm",
           "boxSize": "200-UP MM, 160 -500 MM, 150-500 MM",
-          "power": "1.5 KW 230",
-          "airSupply": "Ac 50Hz 4-6 BAR",
+          "power": "1.5 KW 230 v ac 50hz",
+          "airSupply": "4-6 BAR",
           "widthBOPPStrap": "25-75 mm",
           "operating": "Automatic"
         }
@@ -64,10 +64,10 @@
           "name": "Carton Box Taping Machine",
           "model": "BNTPA-6050+8060C",
           "image":"assets/img/products/secondary-packages/carton-box-taping-machine.png",
-          "speed": "UP-25 cpm",
+          "productionSpeed": "UP-25 cpm",
           "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
           "power": "2.5 KW 415 V AC",
-          "airSupply": "V AC",
+          "airSupply": "",
           "widthBOPPStrap": "9 mm /12 mm",
           "operating": "Automatic"
         }

@@ -12,7 +12,8 @@
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2%",
         "machineDimensionLxWxH": "950 X 320 X 340 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -25,7 +26,8 @@
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2%",
         "machineDimensionLxWxH": "1230 X 470 X 350 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       }
     },
     "BNTPAPF-50-500-GM-ML-1H/ML2H": {
@@ -40,7 +42,8 @@
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2%",
         "machineDimensionLxWxH": "920 X 285 X 275 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -53,7 +56,8 @@
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2%",
         "machineDimensionLxWxH": "920 X 485 X 275 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       }
     },
     "BNTPAPF-100-1000-GM-ML-1H/ML2H": {
@@ -68,7 +72,8 @@
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2%",
         "machineDimensionLxWxH": "1320 X 285 X 275 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -81,7 +86,8 @@
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2%",
         "machineDimensionLxWxH": "1320 X 485 X 275 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       }
     },
     "BNTPAPF-500-5000-GM-ML-1H/2H": {
@@ -96,7 +102,8 @@
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2% ML-GM",
         "machineDimensionLxWxH": "950 X 320 X 340 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -109,13 +116,14 @@
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2% ML-GM",
         "machineDimensionLxWxH": "1230 X 470 X 350 mm",
-        "weight": "15-20 L/KG"
+        "weight": "15-20 L/KG",
+        "hopperVolume": "15-20 l/kg"
       }
     },
     "BNTPA-50M-ML-GM-1HP": {
       "BNTPA-50M-ML-GM-1HP": {
         "heading": "Paste filling machine",
-        "name": "BNTPA: 50M ML-GM 1HP",
+        "name": "Semi auto paste filling machine pneumatic operated",
         "model": "BNTPA: 50M ML-GM 1HP",
         "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-2.png",
         "operating": "Manual operated",
@@ -129,7 +137,7 @@
     "BNTPA-100M-ML-GM-1HP": {
       "BNTPA-100M-ML-GM-1HP": {
         "heading": "Paste filling machine",
-        "name": "BNTPA: 100M ML-GM 1HP",
+        "name": "Semi auto paste filling machine pneumatic operated",
         "model": "BNTPA: 100M ML-GM 1HP",
         "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-2.png",
         "operating": "Manual operated",
@@ -143,7 +151,7 @@
     "BNTPA-50P-ML-GM-1HP": {
       "BNTPA-50P-ML-GM-1HP": {
         "heading": "Paste filling machine",
-        "name": "BNTPA: 50P ML-GM 1HP",
+        "name": "Semi auto paste filling machine pneumatic operated",
         "model": "BNTPA: 50P ML-GM 1HP",
         "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-2.png",
         "operating": "",
@@ -157,7 +165,7 @@
     "BNTPA-100P-ML-GM-1HP": {
       "BNTPA-100P-ML-GM-1HP": {
         "heading": "Paste filling machine",
-        "name": "BNTPA: 100P ML-GM 1HP",
+        "name": "Semi auto paste filling machine pneumatic operated",
         "model": "BNTPA: 100P ML-GM 1HP",
         "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-2.png",
         "operating": "",
