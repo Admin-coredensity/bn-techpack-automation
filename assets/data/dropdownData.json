@@ -1,7 +1,7 @@
 {
   "tabs": [
     {
-      "id": "nav-home",
+      "id": "nav-primary-packages",
       "label": "Primary Packages",
       "icon": "bi bi-square-fill",
       "items": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "id": "nav-profile",
+      "id": "nav-secondary-packages",
       "label": "Secondary Packages",
       "icon": "bi bi-square-fill",
       "items": [
@@ -185,7 +185,28 @@
       "id": "nav-spm-and-industrial-automation",
       "label": "SPM & Industrial Automation",
       "icon": "bi bi-square-fill",
-      "items": []
+      "items": [
+        {
+          "image": "assets/img/products/spm-industrial-automation/carton-erector-and-carting-machine.png",
+          "text": "carton erector & carting machine",
+          "link": "#"
+        },
+        {
+          "image": "assets/img/products/spm-industrial-automation/bagging-and-teaching-machine.png",
+          "text": "bagging & teaching machine (semi-automatic)",
+          "link": "#"
+        },
+        {
+          "image": "assets/img/products/spm-industrial-automation/primary-packaging-liquid-line-automation.png",
+          "text": "primary packaging liquid line automation (pneumatics & servo base operated)",
+          "link": "#"
+        },
+        {
+          "image": "assets/img/products/spm-industrial-automation/primary-packaging-paste-line-automation.png",
+          "text": "primary packaging paste line automation (pneumatics & servo base operated)",
+          "link": "#"
+        }
+      ]
     }
   ]
 }
