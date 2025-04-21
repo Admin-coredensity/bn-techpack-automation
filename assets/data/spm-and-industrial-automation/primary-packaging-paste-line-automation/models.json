@@ -8,37 +8,37 @@
           "models": [
             {
               "id": "bntpafa-t/f/c/l-100-1000ml/gm-15bpm-pf-pneumatics-operated",
-              "name": "bntpafa-t/f/c/l-100-1000ml/gm-15bpm-pf-pneumatics-operated",
+              "name": "bntpafa-t/f/c/l-100-1000ml/gm-15bpm-pf",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=bntpafa-t/f/c/l-100-1000ml/gm-15bpm-pf-pneumatics-operated"
             },
             {
               "id": "bntpafa-t/f/c/l-100-1000ml/gm-30bpm-pf-pneumatics-operated",
-              "name": "bntpafa-t/f/c/l-100-1000ml/gm-30bpm-pf-pneumatics-operated",
+              "name": "bntpafa-t/f/c/l-100-1000ml/gm-30bpm-pf",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=bntpafa-t/f/c/l-100-1000ml/gm-30bpm-pf-pneumatics-operated"
             },
             {
               "id": "bntpafa-t/f/c/l-100-1000ml/gm-40bpm-pf-pneumatics-operated",
-              "name": "bntpafa-t/f/c/l-100-1000ml/gm-40bpm-pf-pneumatics-operated",
+              "name": "bntpafa-t/f/c/l-100-1000ml/gm-40bpm-pf",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=bntpafa-t/f/c/l-100-1000ml/gm-40bpm-pf-pneumatics-operated"
             },
             {
               "id": "bntpafa-t/f/c/l-100-1000ml/gm-50bpm-pf-pneumatics-operated",
-              "name": "bntpafa-t/f/c/l-100-1000ml/gm-50bpm-pf-pneumatics-operated",
+              "name": "bntpafa-t/f/c/l-100-1000ml/gm-50bpm-pf",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=bntpafa-t/f/c/l-100-1000ml/gm-50bpm-pf-pneumatics-operated"
             },
             {
               "id": "bntpafat/f/c/l-100-1000ml/gm-60bpm-pf-pneumatics-operated",
-              "name": "bntpafat/f/c/l-100-1000ml/gm-60bpm-pf-pneumatics-operated",
+              "name": "bntpafat/f/c/l-100-1000ml/gm-60bpm-pf",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=bntpafat/f/c/l-100-1000ml/gm-60bpm-pf-pneumatics-operated"
             },
             {
               "id": "bntpafat/f/c/l-100-1000ml/gm-80bpm-pf-pneumatics-operated",
-              "name": "bntpafat/f/c/l-100-1000ml/gm-80bpm-pf-pneumatics-operated",
+              "name": "bntpafat/f/c/l-100-1000ml/gm-80bpm-pf",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=bntpafat/f/c/l-100-1000ml/gm-80bpm-pf-pneumatics-operated"
             }
