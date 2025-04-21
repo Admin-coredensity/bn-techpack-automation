@@ -137,12 +137,12 @@
         {
           "image": "assets/img/products/packing-consumables/pof-shrink-film.png",
           "text": "POF shrink film",
-          "link": "#"
+          "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
           "image": "assets/img/products/packing-consumables/pvc-shrink-film.png",
           "text": "PVC shrink film",
-          "link": "#"
+          "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
           "image": "assets/img/products/packing-consumables/stretch-film.png",
@@ -161,22 +161,22 @@
         },
         {
           "image": "assets/img/products/packing-consumables/bubble-rolls.png",
-          "text": "Shrink Wrapping Machine",
+          "text": "bubble rolls",
           "link": "#"
         },
         {
           "image": "assets/img/products/packing-consumables/pet-straproll.png",
-          "text": "Shrink Wrapping Machine",
-          "link": "#"
+          "text": "PET strap roll",
+          "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
           "image": "assets/img/products/packing-consumables/pp-straproll.png",
-          "text": "Shrink Wrapping Machine",
-          "link": "#"
+          "text": "pp strap roll",
+          "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
           "image": "assets/img/products/packing-consumables/bopp-tape.png",
-          "text": "Shrink Wrapping Machine",
+          "text": "bopp tape",
           "link": "#"
         }
       ]

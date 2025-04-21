@@ -1,0 +1,38 @@
+{
+  "sections": [
+    {
+      "title": "packaging consumable material",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "BNTPA-pof-shrink-film",
+              "name": "BNTPA-pof shrink film",
+              "image": "assets/img/products/packing-consumables/pof-shrink-film.png",
+              "link": "product-detail.html?category=packing-consumables&type=packingConsumablesMachines&id=BNTPA-pof-shrink-film"
+            },
+            {
+              "id": "BNTPA-strap-roll",
+              "name": "BNTPA-strap roll",
+              "image": "assets/img/products/packing-consumables/pp-straproll.png",
+              "link": "product-detail.html?category=packing-consumables&type=packingConsumablesMachines&id=BNTPA-strap-roll"
+            },
+            {
+              "id": "BNETPA-pet-strap",
+              "name": "BNETPA-pet strap",
+              "image": "assets/img/products/packing-consumables/pet-straproll.png",
+              "link": "product-detail.html?category=packing-consumables&type=packingConsumablesMachines&id=BNETPA-pet-strap"
+            },
+            {
+              "id": "BNTPA-ldpe-shrink-roll",
+              "name": "BNTPA-ldpe shrink roll",
+              "image": "assets/img/products/packing-consumables/pvc-shrink-film.png",
+              "link": "product-detail.html?category=packing-consumables&type=packingConsumablesMachines&id=BNTPA-ldpe-shrink-roll"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
