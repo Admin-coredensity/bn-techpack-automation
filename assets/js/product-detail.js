@@ -86,6 +86,9 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("product Height", variantData.productHeight, "product-model-product-height")}
             ${generateRow("chamber Size", variantData.chamberSize, "product-model-chamber-size")}
             ${generateRow("Conveyor Drive Types", variantData.conveyorDriveTypes, "product-model-conveyor-drive-types")}
+            ${generateRow("conveyor Speed", variantData.conveyorSpeed, "product-model-conveyor-speed")}
+            ${generateRow("conveyor Size lxwxh", variantData.conveyorSizelxwxh, "product-model-conveyor-size-lxwxh")}
+            ${generateRow("conveyor Using Application", variantData.conveyorUsingApplication, "product-model-conveyor-using-application")}
             ${generateRow("Drive Types", variantData.driveTypes, "product-model-drive-types")}
             ${generateRow("Heater Load Capacity", variantData.heaterLoadCapacity, "product-model-heater-load-capacity")}
             ${generateRow("sling Size lxw", variantData.slingSizelxw, "product-model-sling-size-lxw")}
@@ -94,7 +97,7 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("product Selling Size lxwxh", variantData.productSellingSizelxwxh, "product-model-product-selling-size-lxwxh")}
             ${generateRow("Hit Zone Size LXWXH", variantData.hitZoneSizeLXWXH, "product-model-hit-zone-size-LXWXH")}
             ${generateRow("hopper Volume", variantData.hopperVolume, "product-model-hopper-volume")}
-            ${generateRow("weight Caring Capacity", variantData.weightCaringCapacity, "product-model-weight-caring-capacity")}
+            ${generateRow("weight Carrying Capacity", variantData.weightCaringCapacity, "product-model-weight-caring-capacity")}
             ${generateRow("film Height & Micron", variantData.filmHeightAndMicron, "product-model-film-height&micron")}
           </tbody>
           </table>

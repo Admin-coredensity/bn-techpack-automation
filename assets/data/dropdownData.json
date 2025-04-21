@@ -100,7 +100,7 @@
         {
           "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
           "text": "Industrial Conveyor System",
-          "link": "#"
+          "link": "product.html?category=secondary-packages&type=industrial-conveyor-system"
         },
         {
           "image": "assets/img/products/secondary-packages/metal-detector.png",

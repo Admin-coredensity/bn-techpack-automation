@@ -1,58 +1,79 @@
 {
-    "industrialConveyorSystem": {
-        "BNTPA-200f": {
-            "BNTPA-200f": {
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-200f",
-                "image":"assets/img/products/secondary-packages/induction-sealing-machine.png",
-                "power": "500W 230 V AC 50Hz",
-                "operating": "Semi  auto",
-                "capSealingDiameter": "20-100 mm",
-                "speed": "20-40 bpm",
-                "machineDimensionLxWxH": "340x290x150 mm",
-                "weight": "8KG"
-            }
-        },
-        "BNTPA-600c": {
-            "BNTPA-600c": {
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-600c",
-                "image":"assets/img/products/secondary-packages/induction-sealing-machine.png",
-                "power": "600 W 230 V AC 50Hz",
-                "operating": "Semi  auto",
-                "capSealingDiameter": "60-130 mm",
-                "speed": "20-40 bpm",
-                "machineDimensionLxWxH": "340x290x150 mm",
-                "weight": "8KG"
-            }
-        },
-        "BNTPA-20100D": {
-            "BNTPA-20100D": {
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-20100D",
-                "image":"assets/img/products/secondary-packages/induction-sealing-machine.png",
-                "power": " 1KW 230 V AC 50Hz  ",
-                "operating": "Automatic",
-                "capSealingDiameter": "20-100 mm",
-                "speed": "20-80 bpm",
-                "weight": "80KG"
-            }
-        },
-        "BNTPA-60130D":{
-            "BNTPA-60130D":{
-                "heading": "Industrial conveyor system",
-                "name": "Industrial conveyor system",
-                "model": "BNTPA-60130D",
-                "image":"assets/img/products/secondary-packages/induction-sealing-machine.png",
-                "power": " 1.5KW50W 230 V AC 50Hz  ",
-                "operating": "Automatic",
-                "capSealingDiameter": "20-130 mm",
-                "speed": "20-80 bpm",
-                "weight": "110KG"
-            }
-        }
+  "industrialConveyorSystem": {
+    "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline": {
+      "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline": {
+        "heading": "Industrial conveyor system",
+        "name": "customize conveyor systems",
+        "model": "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline",
+        "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
+        "power": "230/415 v ac 50hz",
+        "operating": "fully auto / semi auto",
+        "MOC": "MS powder coated/ss/aluminum profile",
+        "conveyorSpeed": "as per requirement",
+        "conveyorSizelxwxh": "as per requirement",
+        "weightCaringCapacity": "as per requirement",
+        "conveyorUsingApplication": "loading unloading product moments assembly work any customize purpose"
+      }
+    },
+    "BNTPA-slat-ss/pp-slat-flat-incline": {
+      "BNTPA-slat-ss/pp-slat-flat-incline": {
+        "heading": "Industrial conveyor system",
+        "name": "customize conveyor systems",
+        "model": "BNTPA-slat-ss/pp-slat-flat-incline",
+        "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
+        "power": "230/415 v ac 50hz",
+        "operating": "fully auto/Semi  auto",
+        "MOC": "MS powder coated/ss/aluminum profile",
+        "conveyorSpeed": "as per requirement",
+        "conveyorSizelxwxh": "as per requirement",
+        "weightCaringCapacity": "as per requirement",
+        "conveyorUsingApplication": "loading unloading product moments assembly work any customize purpose"
+      }
+    },
+    "BNTPA-modular-flat-incline": {
+      "BNTPA-modular-flat-incline": {
+        "heading": "Industrial conveyor system",
+        "name": "customize conveyor systems",
+        "model": "BNTPA-modular-flat-incline",
+        "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
+        "power": "230/415 v ac 50hz",
+        "operating": "fully auto/Semi  auto",
+        "MOC": "MS powder coated/ss/aluminum profile",
+        "conveyorSpeed": "20-80 bpm",
+        "conveyorSizelxwxh": "as per requirement",
+        "weightCaringCapacity": "as per requirement",
+        "conveyorUsingApplication": "loading unloading product moments assembly work any customize purpose"
+      }
+    },
+    "BNTPA-ms-mesh-belt/ss-mesh-beltD": {
+      "BNTPA-ms-mesh-belt/ss-mesh-beltD": {
+        "heading": "Industrial conveyor system",
+        "name": "customize conveyor systems",
+        "model": "BNTPA-ms-mesh-belt/ss-mesh-beltD",
+        "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
+        "power": "230/415 v ac 50hz",
+        "operating": "fully auto/Semi  auto",
+        "MOC": "MS powder coated/ss/aluminum profile",
+        "conveyorSpeed": "as per requirement",
+        "conveyorSizelxwxh": "as per requirement",
+        "weightCaringCapacity": "as per requirement",
+        "conveyorUsingApplication": "loading unloading product moments assembly work any customize purpose"
+      }
+    },
+    "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m": {
+      "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m": {
+        "heading": "Industrial conveyor system",
+        "name": "customize conveyor systems",
+        "model": "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m",
+        "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
+        "power": "415 v ac 50hz",
+        "operating": "fully auto/Semi  auto",
+        "MOC": "MS powder coated",
+        "conveyorSpeed": "15-30 m min",
+        "conveyorSizelxwxh": "9600-16600 mm, 600-800 mm, 750- up mm",
+        "weightCaringCapacity": "max load 50 kg per Mtr",
+        "conveyorUsingApplication": "loading unloading product moments assembly work any customize purpose"
+      }
     }
+  }
 }
