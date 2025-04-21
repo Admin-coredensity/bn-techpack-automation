@@ -108,6 +108,8 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("bag Types", variantData.bagTypes, "product-model-bag-types")}
             ${generateRow("weighing Capacity", variantData.weighingCapacity, "product-model-weighing-capacity")}
             ${generateRow("weighing Accuracy", variantData.weighingAccuracy, "product-model-weighing-accuracy")}
+            ${generateRow("application For", variantData.applicationFor, "product-model-application-for")}
+            ${generateRow("liquid Tank Capacity", variantData.liquidTankCapacity, "product-model-liquid-tank-capacity")}
           </tbody>
           </table>
         </div>
