@@ -1,0 +1,64 @@
+{
+  "baggingAndTeachingMachines": {
+    "BNTPAFBM-1050k1-2H": {
+      "BNTPAFBM-1050k1-2H": {
+        "heading": "spm & industrial automation",
+        "name": "semi-automatic bagging & teaching machine",
+        "model": "BNTPAFBM-1050k1-2h",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "speed": "1-6 bag",
+        "operating": "fully auto",
+        "power": "230/415 v ac 50hz",
+        "bagSize": "450-1000 mm, 150-700 mm, 300-1000 mm",
+        "bagTypes": "as per your input",
+        "weighingCapacity": "10-50 kg",
+        "weighingAccuracy": "3 to 15 gm - +"
+      }
+    },
+    "BNTPASBM-1050k1-2H": {
+      "BNTPASBM-1050k1-2H": {
+        "heading": "spm & industrial automation",
+        "name": "semi-automatic bagging & teaching machine",
+        "model": "BNTPASBM-1050k1-2H",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "speed": "1-6 bag",
+        "operating": "semi auto",
+        "power": "230/415 v ac 50hz",
+        "bagSize": "450-1000 mm, 150-700 mm, 300-1000 mm",
+        "bagTypes": "as per your input",
+        "weighingCapacity": "10-50 kg",
+        "weighingAccuracy": "3 to 15 gm - +"
+      }
+    },
+    "BNTPAW-4-14H": {
+      "BNTPAW-4-14H": {
+        "heading": "spm & industrial automation",
+        "name": "semi-automatic bagging & teaching machine",
+        "model": "BNTPAW-4-14H",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "speed": "25-80 bag",
+        "operating": "semi auto",
+        "power": "230/415 v ac 50hz",
+        "bagSize": "",
+        "bagTypes": "as per your input",
+        "weighingCapacity": "10gm - 2 kg",
+        "weighingAccuracy": "+0.2 to 3 gm"
+      }
+    },
+    "BNTPABTC-30070WH": {
+      "BNTPABTC-30070WH": {
+        "heading": "spm & industrial automation",
+        "name": "semi-automatic bagging & teaching machine",
+        "model": "BNTPABTC-30070WH",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "speed": "5-10 bag",
+        "operating": "semi auto",
+        "power": "230/415 v ac 50hz",
+        "bagSize": "450-1000 mm, 150-700 mm, 300-1000 mm",
+        "bagTypes": "as per your input",
+        "weighingCapacity": "100-300 kg",
+        "weighingAccuracy": ""
+      }
+    }
+  }
+}

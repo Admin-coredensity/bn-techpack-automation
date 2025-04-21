@@ -187,24 +187,24 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/products/spm-industrial-automation/carton-erector-and-carting-machine.png",
+          "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-carting-machine.png",
           "text": "carton erector & carting machine",
-          "link": "#"
+          "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-carting-machine"
         },
         {
-          "image": "assets/img/products/spm-industrial-automation/bagging-and-teaching-machine.png",
+          "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
           "text": "bagging & teaching machine (semi-automatic)",
-          "link": "#"
+          "link": "product.html?category=spm-and-industrial-automation&type=bagging-and-teaching-machine"
         },
         {
-          "image": "assets/img/products/spm-industrial-automation/primary-packaging-liquid-line-automation.png",
+          "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
           "text": "primary packaging liquid line automation (pneumatics & servo base operated)",
-          "link": "#"
+          "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-carting-machine"
         },
         {
-          "image": "assets/img/products/spm-industrial-automation/primary-packaging-paste-line-automation.png",
+          "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
           "text": "primary packaging paste line automation (pneumatics & servo base operated)",
-          "link": "#"
+          "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-carting-machine"
         }
       ]
     }

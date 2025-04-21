@@ -1,0 +1,56 @@
+{
+  "cartonErectorAndCartingMachines": {
+    "BNTPAFCE-4540": {
+      "BNTPAFCE-4540": {
+        "heading": "spm & industrial automation",
+        "name": "carton erector & carting machine",
+        "model": "BNTPAFCE-4540",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-carting-machine.png",
+        "speed": "8-12 cpm",
+        "boxSizelxwxh": "250-450 mm, 150-400 mm, 150-400 mm",
+        "boxTypes": "corrugated box 3p,5p,7p",
+        "operating": "fully auto",
+        "power": "230/415 v ac 50hz"
+      }
+    },
+    "BNTOAFCDU-3030": {
+      "BNTOAFCDU-3030": {
+        "heading": "spm & industrial automation",
+        "name": "carton erector & carting machine",
+        "model": "BNTOAFCDU-3030",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-carting-machine.png",
+        "speed": "15-100 cpm",
+        "boxSizelxwxh": "25-300 mm, 25-300 mm, 10-50 mm",
+        "boxTypes": "duplex box",
+        "operating": "fully auto",
+        "power": "230/415 v ac 50hz"
+      }
+    },
+    "BNTPASCDU-3030": {
+      "BNTPASCDU-3030": {
+        "heading": "spm & industrial automation",
+        "name": "carton erector & carting machine",
+        "model": "BNTPASCDU-3030",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-carting-machine.png",
+        "speed": "10-20 cpm",
+        "boxSizelxwxh": "25-300 mm, 25-300 mm, 10-50 mm",
+        "boxTypes": "duplex box",
+        "operating": "semi auto",
+        "power": "230/415 v ac 50hz"
+      }
+    },
+    "BNTPAFCE-100100AZ": {
+      "BNTPAFCE-100100AZ": {
+        "heading": "spm & industrial automation",
+        "name": "carton erector & carting machine",
+        "model": "BNTPAFCE-100100AZ",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-carting-machine.png",
+        "speed": "6-10 cpm",
+        "boxSizelxwxh": "450-1000 mm, 400-1000 mm, 400-1000 mm",
+        "boxTypes": "corrugated box 3p,5p,7p",
+        "operating": "fully auto",
+        "power": "230/415 v ac 50hz"
+      }
+    }
+  }
+}

@@ -70,6 +70,7 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("No Head", variantData.noHead, "product-model-no-head")}
             ${generateRow("Model Type", variantData.modelType, "product-model-model-type")}
             ${generateRow("Box Size lxwxh", variantData.boxSizelxwxh, "product-model-box-size-lxwxh")}
+            ${generateRow("Box types", variantData.boxTypes, "product-model-box-types")}
             ${generateRow("Applicable Film", variantData.applicableFilm, "product-model-model-applicable-film")}
             ${generateRow("Air Supply", variantData.airSupply, "product-model-air-supply")}
             ${generateRow("Width BOPP/Strap", variantData.widthBOPPStrap, "product-model-width-BOPP-Strap")}
@@ -103,6 +104,10 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("micron", variantData.micron, "product-model-micron")}
             ${generateRow("tick", variantData.tick, "product-model-tick")}
             ${generateRow("length In Meter", variantData.lengthInMeter, "product-model-length-in-meter")}
+            ${generateRow("bag Size", variantData.bagSize, "product-model-bag-size")}
+            ${generateRow("bag Types", variantData.bagTypes, "product-model-bag-types")}
+            ${generateRow("weighing Capacity", variantData.weighingCapacity, "product-model-weighing-capacity")}
+            ${generateRow("weighing Accuracy", variantData.weighingAccuracy, "product-model-weighing-accuracy")}
           </tbody>
           </table>
         </div>
