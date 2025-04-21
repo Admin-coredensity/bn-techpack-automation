@@ -98,7 +98,7 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("product Selling Size lxwxh", variantData.productSellingSizelxwxh, "product-model-product-selling-size-lxwxh")}
             ${generateRow("Hit Zone Size LXWXH", variantData.hitZoneSizeLXWXH, "product-model-hit-zone-size-LXWXH")}
             ${generateRow("hopper Volume", variantData.hopperVolume, "product-model-hopper-volume")}
-            ${generateRow("weight Carrying Capacity", variantData.weightCaringCapacity, "product-model-weight-caring-capacity")}
+            ${generateRow("weight Carrying Capacity", variantData.weightCarryingCapacity, "product-model-weight-carrying-capacity")}
             ${generateRow("film Height & Micron", variantData.filmHeightAndMicron, "product-model-film-height&micron")}
             ${generateRow("roll Size In Inch", variantData.rollSizeInInch, "product-model-roll-size-in-inch")}
             ${generateRow("micron", variantData.micron, "product-model-micron")}

@@ -5,13 +5,12 @@
                 "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-200f",
-                "image":"assets/img/products/primary-packages/induction-sealing-machine.png",
+                "image": "assets/img/products/primary-packages/induction-sealing-machine.png",
                 "power": "500W 230 V AC 50Hz",
                 "operating": "Semi  auto",
                 "capSealingDiameter": "20-100 mm",
                 "productionSpeed": "20-40 bpm",
-                "machineDimensionLxWxH": "340x290x150 mm",
-                "weight": "8KG"
+                "machineDimensionLxWxH": "340x290x150 mm"
             }
         },
         "BNTPA-600c": {
@@ -19,13 +18,12 @@
                 "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-600c",
-                "image":"assets/img/products/primary-packages/induction-sealing-machine.png",
+                "image": "assets/img/products/primary-packages/induction-sealing-machine.png",
                 "power": "600 W 230 V AC 50Hz",
                 "operating": "Semi  auto",
                 "capSealingDiameter": "60-130 mm",
                 "productionSpeed": "20-40 bpm",
-                "machineDimensionLxWxH": "340x290x150 mm",
-                "weight": "8KG"
+                "machineDimensionLxWxH": "340x290x150 mm"
             }
         },
         "BNTPA-20100D": {
@@ -33,25 +31,23 @@
                 "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-20100D",
-                "image":"assets/img/products/primary-packages/induction-sealing-machine.png",
+                "image": "assets/img/products/primary-packages/induction-sealing-machine.png",
                 "power": " 1KW 230 V AC 50Hz  ",
                 "operating": "Automatic",
                 "capSealingDiameter": "20-100 mm",
-                "productionSpeed": "20-80 bpm",
-                "weight": "80KG"
+                "productionSpeed": "20-80 bpm"
             }
         },
-        "BNTPA-60130D":{
-            "BNTPA-60130D":{
+        "BNTPA-60130D": {
+            "BNTPA-60130D": {
                 "heading": "Induction sealing",
                 "name": "Induction sealing",
                 "model": "BNTPA-60130D",
-                "image":"assets/img/products/primary-packages/induction-sealing-machine.png",
+                "image": "assets/img/products/primary-packages/induction-sealing-machine.png",
                 "power": " 1.5KW50W 230 V AC 50Hz  ",
                 "operating": "Automatic",
                 "capSealingDiameter": "20-130 mm",
-                "productionSpeed": "20-80 bpm",
-                "weight": "110KG"
+                "productionSpeed": "20-80 bpm"
             }
         }
     }

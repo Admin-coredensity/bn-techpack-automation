@@ -13,9 +13,7 @@
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
         "noHead": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
-        "hopperCapacity": "1 to 2 kg",
-        "machineDimensionLxWxH": "700x420x1260mm",
-        "weight": "8KG"
+        "hopperCapacity": "1 to 2 kg"
       }
     },
     "BNTPAFPF-2to200gm": {
@@ -31,9 +29,7 @@
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
         "noHead": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
-        "hopperCapacity": "1 to 2 kg",
-        "machineDimensionLxWxH": "700x420x1260mm",
-        "weight": "8KG"
+        "hopperCapacity": "1 to 2 kg"
       }
     },
     "BNTPAPFF-10to1000gm": {
@@ -49,9 +45,7 @@
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
         "noHead": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
-        "hopperCapacity": "1 to 5 kg",
-        "machineDimensionLxWxH": "420x320x550mm",
-        "weight": "60KG"
+        "hopperCapacity": "1 to 5 kg"
       }
     },
     "BNTPAPFF-10to3000gm": {
@@ -67,9 +61,7 @@
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
         "noHead": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
-        "hopperCapacity": "1 to 6 kg",
-        "machineDimensionLxWxH": "420x320x550mm",
-        "weight": "80KG"
+        "hopperCapacity": "1 to 6 kg"
       }
     }
   }
