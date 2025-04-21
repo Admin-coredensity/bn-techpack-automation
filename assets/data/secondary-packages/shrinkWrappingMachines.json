@@ -12,8 +12,7 @@
         "conveyorDriveTypes": "Silicon Roller / belt Teflon",
         "power": "415 V AC 50Hz",
         "modelType": "Heavy-duty",
-        "applicableFilm": "POF/PVC/LDPE",
-        "machineDimensionLxWxH": "2000X770X1260"
+        "applicableFilm": "POF/PVC/LDP"
       }
     },
     "BNTPA-4535R/B": {
@@ -23,13 +22,12 @@
         "model": "BNTPA-4535R/B",
         "image": "assets/img/products/secondary-packages/chamber-type-shrink-tunnel-type-wrapping-machine.png",
         "productionSpeed": "Up to 60",
-        "hitZoneSizeLXWXH": "1250X450X250 / 1250X450X350",
+        "hitZoneSizeLXWXH": "1000X450X350 / 1250X450X350",
         "heaterLoadCapacity": "9-12 kw",
         "conveyorDriveTypes": "Silicon Roller / belt Teflon",
         "power": "415 V AC 50Hz",
         "modelType": "Heavy-duty",
-        "applicableFilm": "POF/PVC/LDPE",
-        "machineDimensionLxWxH": "2000X770X1360"
+        "applicableFilm": "POF/PVC/LDP"
       }
     },
     "BNTPA-6045R/B": {
@@ -39,13 +37,12 @@
         "model": "BNTPA-6045R/B",
         "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
         "productionSpeed": "Up to 60",
-        "hitZoneSizeLXWXH": "1000X450X350",
+        "hitZoneSizeLXWXH": "1500X600X450",
         "heaterLoadCapacity": "15-19 kw",
         "conveyorDriveTypes": "Silicon Roller / belt Teflon",
         "power": "415 V AC 50Hz",
         "modelType": "Heavy-duty",
-        "applicableFilm": "POF/PVC/LDPE",
-        "machineDimensionLxWxH": "3000X920X1460"
+        "applicableFilm": "POF/PVC/LDP"
       }
     },
     "BNTPA-4525MR/B": {
@@ -55,13 +52,12 @@
         "model": "BNTPA-4525MR/B",
         "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
         "productionSpeed": "Up to 20",
-        "hitZoneSizeLXWXH": "1250X450X350",
+        "hitZoneSizeLXWXH": "500X450X250",
         "heaterLoadCapacity": "5-7 kw",
         "conveyorDriveTypes": "Silicon Roller / belt Teflon",
         "power": "230 V AC 50Hz",
         "modelType": "Mini models",
-        "applicableFilm": "POF/PVC",
-        "machineDimensionLxWxH": "1000X550X1260"
+        "applicableFilm": "POF/PVC"
       }
     },
     "BNTPA-4525ER/B": {
@@ -71,13 +67,12 @@
         "model": "BNTPA-4525ER/B",
         "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
         "productionSpeed": "Up to 40",
-        "hitZoneSizeLXWXH": "1500X600X450",
+        "hitZoneSizeLXWXH": "1000X450X250",
         "heaterLoadCapacity": "6-8 kw",
         "conveyorDriveTypes": "Silicon Roller / belt Teflon",
         "power": "415 V AC 50Hz",
         "modelType": "Eco models",
-        "applicableFilm": "POF/PVC",
-        "machineDimensionLxWxH": "1500X770X1260"
+        "applicableFilm": "POF/PVC"
       }
     },
     "BNTPA-SS612/P": {
@@ -87,13 +82,12 @@
         "model": "BNTPA-SS612/P",
         "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
         "productionSpeed": "UP-40",
-        "hitZoneSizeLXWXH": "500X450X250, 1000X450X250, 1500X150X300",
+        "hitZoneSizeLXWXH": "1500X150X300",
         "heaterLoadCapacity": "12-16 kw",
         "conveyorDriveTypes": "SS Slat",
         "power": "415 V AC",
         "modelType": "Heavy-duty",
-        "applicableFilm": "Printed PVC Slave",
-        "machineDimensionLxWxH": "2500X650X1450"
+        "applicableFilm": "Printed PVC Slave"
       }
     },
     "BNTPA-2015-P": {
@@ -107,8 +101,7 @@
         "sellingPower": "900 va",
         "power": "3.5 KW 230 V Ac",
         "modelType": "Heavy-duty",
-        "applicableFilm": "Pof/pvc",
-        "machineDimensionLxWxH": "1500 X 800 X 1100 mm"
+        "applicableFilm": "Pof/pvc"
       }
     },
     "BNTPA-2015-M": {
@@ -122,8 +115,7 @@
         "sellingPower": "900 va",
         "power": "3.5 KW 230 V Ac",
         "modelType": "Heavy-duty",
-        "applicableFilm": "Pof/pvc",
-        "machineDimensionLxWxH": "1500 X 800 X 1100 mm"
+        "applicableFilm": "Pof/pvc"
       }
     }
   }

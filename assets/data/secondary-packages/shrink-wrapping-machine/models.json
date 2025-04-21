@@ -29,6 +29,18 @@
               "name": "BNTPA-4525MR/B",
               "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
               "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-4525MR/B"
+            },
+            {
+              "id": "BNTPA-4525ER/B",
+              "name": "BNTPA-4525ER/B",
+              "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-4525ER/B"
+            },
+            {
+              "id": "BNTPA-SS612/P",
+              "name": "BNTPA-SS612/P",
+              "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
+              "link": "product-detail.html?category=secondary-packages&type=shrinkWrappingMachines&id=BNTPA-SS612/P"
             }
           ]
         }
