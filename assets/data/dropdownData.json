@@ -93,6 +93,11 @@
           "link": "product.html?category=secondary-packages&type=carton-strapping-machine"
         },
         {
+          "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
+          "text": "box/pallet stretch wrapping machine",
+          "link": "product.html?category=secondary-packages&type=box-pallet-stretch-wrapping-machine"
+        },
+        {
           "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
           "text": "Industrial Conveyor System",
           "link": "#"

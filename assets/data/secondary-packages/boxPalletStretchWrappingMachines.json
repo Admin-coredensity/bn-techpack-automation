@@ -1,0 +1,51 @@
+{
+  "boxPalletStretchWrappingMachines": {
+    "BNTPAP-1500D2000H/1600D2500H": {
+      "BNTPAP-1500D2000H/1600D2500H": {
+        "heading": "box/pallet stretch wrapping machine",
+        "name": "box/pallet stretch wrapping machine",
+        "model": "BNTPAP-1500D2000H/1600D2500H",
+        "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
+        "productionSpeed": "up-6 cpm",
+        "boxSizelxwxh": "500-1600mm,500-mm,300-25000 mm",
+        "power": "3 kw 230 /415 v ac 50hz",
+        "weightCaringCapacity": "up to 1.5 ton",
+        "airSupply": "",
+        "filmHeightAndMicron": "300-600 mm, 23-55 micron",
+        "operating": "fully auto"
+      }
+    },
+    "BNTPAB-6060DH-PT": {
+      "BNTPAB-6060DH-PT": {
+        "heading": "box/pallet stretch wrapping machine",
+        "name": "box/pallet stretch wrapping machine",
+        "model": "BNTPAB-6060DH-PT",
+        "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
+        "productionSpeed": "UP-10 cpm",
+        "boxSizelxwxh": "200-600 mm, 160 -600 mm, 150-600 mm",
+        "power": "0.5 .1 , 1.5 kw 230 v ac 50hz",
+        "airSupply": "4-6 bar",
+        "weightCaringCapacity": "up to 60 kg",
+        "operating": "semi auto/ fully auto",
+        "filmHeightAndMicron": "300-600 mm, 23-55 micron"
+      }
+    },
+    "BNTPA-6060DH-ORB-AUTO/MANUAL": {
+      "BNTPA-6060DH-ORB-AUTO/MANUAL": {
+        "heading": "box/pallet stretch wrapping machine",
+        "name": " box/pallet stretch wrapping machine",
+        "model": "BNTPA-6060DH-ORB-AUTO/MANUAL",
+        "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
+        "productionSpeed": "UP-8 cpm",
+        "boxSizelxwxh": "300-up no limit, 160 -600 mm, 150-600mm",
+        "power": "0.75,2.5 kw 230 v ac 50hz",
+        "airSupply": "4-6 BAR",
+        "weightCaringCapacity": "up to 200 kg",
+        "filmHeightAndMicron": "100-200 mm, 23-55 micron",
+        "operating": "semi auto/ fully auto"
+      }
+    }
+  }
+}
+
+    
