@@ -132,7 +132,7 @@ h6 {
 }
 
 .header .navmenu {
-    width: 60%;
+    width: 70%;
 }
 
 .header .logo img {
@@ -166,6 +166,7 @@ h6 {
 .scrolled .header {
     box-shadow: 0px 0 18px rgba(0, 0, 0, 0.1);
 }
+
 .navmenu {
     padding: 0;
 }
@@ -174,7 +175,7 @@ h6 {
     margin: 0;
     padding: 0;
     display: flex;
-    gap: 8px;
+    justify-content: space-between;
     list-style: none;
     align-items: center;
 }
@@ -206,7 +207,7 @@ h6 {
     padding-right: 0;
 }
 
-.navmenu li:hover > a,
+.navmenu li:hover>a,
 .navmenu .active,
 .navmenu .active:focus {
     color: var(--nav-hover-color);
@@ -245,11 +246,11 @@ h6 {
 
 .navmenu .dropdown ul a:hover,
 .navmenu .dropdown ul .active:hover,
-.navmenu .dropdown ul li:hover > a {
+.navmenu .dropdown ul li:hover>a {
     color: var(--nav-dropdown-hover-color);
 }
 
-.navmenu .dropdown:hover > ul {
+.navmenu .dropdown:hover>ul {
     opacity: 1;
     top: 100%;
     visibility: visible;
@@ -261,7 +262,7 @@ h6 {
     visibility: hidden;
 }
 
-.navmenu .dropdown .dropdown:hover > ul {
+.navmenu .dropdown .dropdown:hover>ul {
     opacity: 1;
     top: 0;
     left: -100%;
@@ -294,7 +295,7 @@ h6 {
 }
 
 .navmenu .megamenu ul li a,
-.navmenu .megamenu ul li:hover > a {
+.navmenu .megamenu ul li:hover>a {
     padding: 10px 20px;
     font-size: 15px;
     color: var(--nav-dropdown-color);
@@ -306,7 +307,7 @@ h6 {
     color: var(--nav-dropdown-hover-color);
 }
 
-.navmenu .megamenu:hover > ul {
+.navmenu .megamenu:hover>ul {
     opacity: 1;
     top: 100%;
     visibility: visible;
@@ -428,11 +429,11 @@ h6 {
     font-size: 14px;
 }
 
-.page-title .breadcrumbs ol li + li {
+.page-title .breadcrumbs ol li+li {
     padding-left: 10px;
 }
 
-.page-title .breadcrumbs ol li + li::before {
+.page-title .breadcrumbs ol li+li::before {
     content: "/";
     display: inline-block;
     padding-right: 10px;
@@ -789,7 +790,7 @@ section,
 /*--------------------------------------------------------------
 # Features Details Section
 --------------------------------------------------------------*/
-.features-details .features-item + .features-item {
+.features-details .features-item+.features-item {
     margin-top: 60px;
 }
 
@@ -1441,7 +1442,7 @@ section,
     box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.1);
 }
 
-.service-details .service-box + .service-box {
+.service-details .service-box+.service-box {
     margin-top: 30px;
 }
 
@@ -2050,13 +2051,28 @@ section,
           Media Queries
 ============================================*/
 @media (max-width: 1200px) {
+    .header .logo img {
+        width: 100%;
+        height: 90px;
+        object-fit: contain;
+    }
+
+    .header .navmenu {
+        width: 100%;
+    }
+
     .navmenu li {
         width: 100%;
         padding: 10px 20px 10px 0;
         margin-bottom: 5px;
     }
 
-    .header .navmenu .btn-getstarted, .header .navmenu .btn-getstarted:focus {
+    .mobile-nav-toggle {
+        float: right;
+    }
+
+    .header .navmenu .btn-getstarted,
+    .header .navmenu .btn-getstarted:focus {
         margin-left: 20px;
     }
 }
@@ -2153,7 +2169,7 @@ section,
         background-color: rgba(33, 37, 41, 0.1);
     }
 
-    .navmenu .dropdown > .dropdown-active {
+    .navmenu .dropdown>.dropdown-active {
         display: block;
         background-color: rgba(33, 37, 41, 0.03);
     }
@@ -2180,7 +2196,7 @@ section,
         transition: 0.3s;
     }
 
-    .mobile-nav-active .navmenu > ul {
+    .mobile-nav-active .navmenu>ul {
         display: block;
     }
 
@@ -2370,7 +2386,7 @@ section,
         background-color: rgba(33, 37, 41, 0.1);
     }
 
-    .navmenu .dropdown > .dropdown-active {
+    .navmenu .dropdown>.dropdown-active {
         display: block;
         background-color: rgba(33, 37, 41, 0.03);
     }
@@ -2397,7 +2413,7 @@ section,
         transition: 0.3s;
     }
 
-    .mobile-nav-active .navmenu > ul {
+    .mobile-nav-active .navmenu>ul {
         display: block;
     }
 
@@ -2460,15 +2476,20 @@ section,
 }
 
 @media (max-width: 768px) {
+
     /*Disable aos animation delay on mobile devices*/
     [data-aos-delay] {
         transition-delay: 0 !important;
     }
 
     /* navbar */
+    .header .logo-container {
+        width: 50%;
+    }
+
     .header .logo img {
-        width: 65%;
-        height: 65%;
+        width: 85%;
+        height: 85%;
     }
 
     .header .logo h1 {
@@ -2781,6 +2802,7 @@ section,
 
 
 @media (max-width: 640px) {
+
     /* logo client section */
     .clients .client-logo img {
         padding: 20px;
