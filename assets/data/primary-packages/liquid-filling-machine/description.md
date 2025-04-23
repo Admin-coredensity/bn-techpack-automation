@@ -1,4 +1,4 @@
-### Liquid Filling Machine
+#### Liquid Filling Machine
 
 The liquid filling machine efficiently fills containers with various liquid products, making it an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals.  
 It is well-suited for filling bottles, jars, pouches, or other containers with precise volume, ensuring consistency and productivity in commercial packaging operations.
@@ -19,8 +19,11 @@ The liquid filling machine is very easy to operate and delivers excellent output
 
 To use the machine:
 - Place the empty container (such as a bottle or pouch) under the filling nozzle.
+
 - Start the machine either manually or automatically, depending on the model.
+
 - The machine accurately dispenses the required amount of liquid into the container.
+
 - Once filled, the container can be sealed manually or by a separate sealing machine.
 
 This cycle repeats for each container, ensuring speed and consistency.  

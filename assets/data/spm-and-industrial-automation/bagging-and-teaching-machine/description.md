@@ -1,9 +1,9 @@
-### Semi-Automatic Bagging & Weighing Machine
+#### Semi-Automatic Bagging & Weighing Machine
 The semi-automatic bagging and weighing machine is designed to efficiently fill and weigh bags with granules, powders, or small solid products. It is widely used across industries like food and beverage, agriculture, chemicals, and construction materials for packaging items such as rice, flour, fertilizers, pet food, and more.
 
 This machine ensures precise weight control and reliable sealing, making it ideal for commercial packaging operations.
 
-### What is a Semi-Automatic Bagging & Weighing Machine?
+#### What is a Semi-Automatic Bagging & Weighing Machine?
 A semi-automatic bagging and weighing machine is used to measure and dispense accurate quantities of product into bags, which are then sealed manually or using a sealing machine.
 
 - It supports various types of materials including:
@@ -16,7 +16,7 @@ A semi-automatic bagging and weighing machine is used to measure and dispense ac
 
 - These machines are crucial where accuracy, speed, and efficiency in packaging are required to maintain product quality and minimize waste.
 
-### How to Use a Semi-Automatic Bagging Machine?
+#### How to Use a Semi-Automatic Bagging Machine?
 - Operating the machine is straightforward and designed for single-person use:
 
 - Place the empty bag beneath the filling nozzle or on the support platform.
@@ -31,7 +31,7 @@ A semi-automatic bagging and weighing machine is used to measure and dispense ac
 
 - This semi-automated process ensures consistency while still offering operator control.
 
-### Benefits of Semi-Automatic Bagging & Weighing Machines
+#### Benefits of Semi-Automatic Bagging & Weighing Machines
 #### Key Features & Advantages
 - User-Friendly Operation: Manual or foot-pedal start options available
 

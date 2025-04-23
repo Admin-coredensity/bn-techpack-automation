@@ -1,4 +1,4 @@
-### Coding Machine
+#### Coding Machine
 
 The coding machine is an essential device used to print important information—such as batch numbers, manufacturing dates, expiry dates, barcodes, and logos—on product packaging.
 It is widely used in industries like food and beverage, pharmaceuticals, cosmetics, and chemicals to ensure traceability, compliance, and product identification.

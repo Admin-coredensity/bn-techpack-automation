@@ -1,4 +1,4 @@
-### Cup/Glass Sealing Machine
+#### Cup/Glass Sealing Machine
 The cup/glass sealing machine is a highly efficient packaging solution for sealing cups, glasses, or containers filled with liquid or semi-liquid products.
 It is widely used in industries such as beverages, dairy, foodservice, and catering for sealing drinks like juice, water, lassi, milk, or even ready-to-eat items.
 The machine ensures spill-proof, tamper-evident, and hygienic sealing—ideal for on-the-go and takeaway packaging.

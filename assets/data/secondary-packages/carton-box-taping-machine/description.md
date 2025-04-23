@@ -1,4 +1,4 @@
-### Carton Box Taping Machine
+#### Carton Box Taping Machine
 
 The Carton Taping Machine is engineered to seal cartons quickly and securely using adhesive tape, making it an essential
 tool for industries such as packaging, logistics, e-commerce, food processing, pharmaceuticals, and manufacturing.

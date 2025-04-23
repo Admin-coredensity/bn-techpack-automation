@@ -1,4 +1,4 @@
-### Pouch Packing and Pouch Sealing Machine
+#### Pouch Packing and Pouch Sealing Machine
 Pouch packing and sealing machines are designed to automate the process of filling and sealing various types of pouches with solid, liquid, or powder products.
 These machines are widely used across industries such as food and beverage, pharmaceuticals, cosmetics, and chemicals for their efficiency, precision, and versatility in packaging.
 

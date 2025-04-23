@@ -1,4 +1,4 @@
-## The Shrink Wrapping Machine
+#### The Shrink Wrapping Machine
 The Shrink Wrapping Machine is designed to wrap products in shrink film and apply heat to form a tight, secure seal. It is an ideal choice for industries such as food and beverage, pharmaceuticals, cosmetics, electronics, and general retail, where product protection, presentation, and tamper evidence are crucial.
 
 #### What is a Shrink Wrapping Machine?
@@ -21,7 +21,7 @@ The Shrink Wrapping Machine is user-friendly and delivers efficient wrapping wit
 
 
 #### What Are the Benefits of Shrink Wrapping?
-##### Key Features & Advantages:
+#### Key Features & Advantages:
 
 - Fast Wrapping Cycle – Efficient shrink time (as low as 1.3 seconds per unit, model dependent)
 

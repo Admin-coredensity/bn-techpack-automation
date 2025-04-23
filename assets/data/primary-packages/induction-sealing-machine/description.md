@@ -1,4 +1,4 @@
-### Induction Sealing Machine
+#### Induction Sealing Machine
 
 An Induction sealing machine is designed to seal containers, pouches, or packages efficiently, making it essential for
 industries like food and beverage, pharmaceuticals, cosmetics, and chemicals.

@@ -1,4 +1,4 @@
-### Paste Filling Machine
+#### Paste Filling Machine
 
 The Paste Filling Machine is designed to accurately fill viscous products into containers such as bottles, jars, or tubes. It's an ideal choice for industries like food processing, cosmetics, pharmaceuticals, chemicals, and other sectors where thick liquids like creams, sauces, gels, or pastes need to be packaged efficiently.
 

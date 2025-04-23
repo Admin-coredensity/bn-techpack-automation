@@ -1,4 +1,4 @@
-### Carton Erector & Cartoning Machine
+#### Carton Erector & Cartoning Machine
 The carton erector and cartoning machine is designed to automatically form, fill, and seal cartons with a wide range of products. It is widely used in industries such as food and beverage, pharmaceuticals, personal care, and consumer goods for packaging items like bottles, sachets, blister packs, tubes, and pouches.
 
 This equipment ensures fast, consistent, and precise carton forming and packing, making it ideal for efficient and scalable commercial packaging operations.
@@ -21,7 +21,7 @@ A cartoning machine then fills these cartons with products and closes them using
 
 These machines are essential where speed, uniformity, and hygiene are critical to maintaining packaging standards and product presentation.
 
-### How to Use a Carton Erector & Cartoning Machine?
+#### How to Use a Carton Erector & Cartoning Machine?
 - Operating the machine is simple and requires minimal training:
 
 - Load flat carton blanks into the erector hopper.
@@ -32,7 +32,7 @@ These machines are essential where speed, uniformity, and hygiene are critical t
 
 - Products are inserted into the cartons manually or through an automated feeding system.
 
-### Benefits of Carton Erector & Cartoning Machines
+#### Benefits of Carton Erector & Cartoning Machines
 #### Key Features & Advantages
 - Automatic Carton Forming: Reliable erection of flat cartons with precision
 

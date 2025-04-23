@@ -1,4 +1,4 @@
-## The Metal Detector System
+#### The Metal Detector System
 The Metal Detector System is designed to accurately detect and reject any unwanted metal contaminants from products moving through a production line. It is an ideal choice for industries like food and beverage, pharmaceuticals, cosmetics, chemicals, textiles, and packaging, where safety, compliance, and quality control are critical.
 
 #### What is a Metal Detector System?

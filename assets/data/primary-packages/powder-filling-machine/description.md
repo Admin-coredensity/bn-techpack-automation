@@ -1,4 +1,4 @@
-### Powder Filling Machine
+#### Powder Filling Machine
 The powder filling machine efficiently fills containers with dry powder-based products, making it an ideal solution for industries such as pharmaceuticals, food, agriculture, and chemicals.
 It is well-suited for filling bottles, jars, pouches, or other containers with accurate quantities, ensuring consistency and productivity in packaging operations.
 
