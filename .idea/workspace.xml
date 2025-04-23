@@ -6,19 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="image changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/cupGlassSealingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/cupGlassSealingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/induction-sealing-machine/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/induction-sealing-machine/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/inductionSealingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/inductionSealingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/inkjet-printer-machine/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/inkjet-printer-machine/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/pasteFillingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/pasteFillingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/vacuum-packing-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/vacuum-packing-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/vacuumPackingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/vacuumPackingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/cartonBoxTapingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/cartonBoxTapingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/cartonStrappingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/cartonStrappingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/horizontalflowWrapServoMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontalflowWrapServoMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/shrinkWrappingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/shrinkWrappingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/webSellerAndShrinkSlaveApplicatorMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/webSellerAndShrinkSlaveApplicatorMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/product-detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/product-detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +103,7 @@
       <workItem from="1745082272004" duration="1760000" />
       <workItem from="1745126824863" duration="1177000" />
       <workItem from="1745208021683" duration="4598000" />
+      <workItem from="1745397045051" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="placeholder image added for default case">
       <option name="closed" value="true" />
