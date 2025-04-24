@@ -38,7 +38,7 @@ fetch(jsonPath)
             <a href="${model.link}">
               <div class="product-model-image-container">
                 <img class="product-model-image" src="${model.image}" alt="${model.name}"
-                onerror="this.onerror=null; this.src='assets/data/img/placeholder-image.jpg';">
+                onerror="this.onerror=null; this.src='assets/img/placeholder-image.jpg';">
               </div>
               <div class="product-model-content">
                 <p class="product-model-name">${model.name}</p>
