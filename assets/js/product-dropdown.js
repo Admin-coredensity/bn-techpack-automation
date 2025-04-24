@@ -46,6 +46,12 @@ document.addEventListener("DOMContentLoaded", function () {
                         img.src = item.image;
                         img.alt = item.text;
 
+                        // Fallback to placeholder if image fails to load
+                        img.onerror = function () {
+                            this.onerror = null;
+                            this.src = "assets/img/placeholder-image.jpg";
+                        };
+
                         const p = document.createElement("p");
                         p.className = "dropdown-item-text";
                         p.textContent = item.text;

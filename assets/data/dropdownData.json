@@ -16,12 +16,12 @@
           "link": "product.html?category=primary-packages&type=paste-filling-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/labeling-machine.png",
+          "image": "assets/img/products/primary-packages/labeling-machine.jpg",
           "text": "Labeling Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=labeling-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/capping-machine.png",
+          "image": "assets/img/products/primary-packages/capping-machine.jpg",
           "text": "Capping Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=capping-machine"
         },
@@ -31,12 +31,12 @@
           "link": "product.html?category=primary-packages&type=coding-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/induction-sealing-machine.png",
+          "image": "assets/img/products/primary-packages/induction-sealing-machine.jpg",
           "text": "Induction Sealing Machine",
           "link": "product.html?category=primary-packages&type=induction-sealing-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/cup-glass-sealing-machine.png",
+          "image": "assets/img/products/primary-packages/cup-glass-sealing-machine.jpg",
           "text": "Cup/Glass Sealing Machine",
           "link": "product.html?category=primary-packages&type=cup-glass-sealing-machine"
         },
@@ -64,11 +64,6 @@
           "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
           "text": "Manual Hand Sealing Machine",
           "link": "product.html?category=primary-packages&type=manual-hand-sealing-machine"
-        },
-        {
-          "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
-          "text": "Pouch Sealing & Pouch Packing Machine",
-          "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
         },
         {
           "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
@@ -128,7 +123,7 @@
           "link": "product.html?category=secondary-packages&type=side-sealer-with-shrink-tunnel"
         },
         {
-          "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.png",
+          "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.jpg",
           "text": "Web Seller and Shrink Slave applicator machine",
           "link": "product.html?category=secondary-packages&type=web-seller-and-shrink-slave-applicator-machine"
         }
