@@ -6,12 +6,12 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.png",
+          "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
           "text": "liquid filling machine (semi/fully Automatic )",
           "link": "product.html?category=primary-packages&type=liquid-filling-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.png",
+          "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.jpg",
           "text": "Paste Filling Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=paste-filling-machine"
         },
