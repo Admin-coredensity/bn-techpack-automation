@@ -6,67 +6,67 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
+          "image": "assets/img/dropdown/fully-automatic-liquid-machine.jpg",
           "text": "liquid filling machine (semi/fully Automatic )",
           "link": "product.html?category=primary-packages&type=liquid-filling-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.jpg",
+          "image": "assets/img/dropdown/fully-auto-paste-filling-machine.jpg",
           "text": "Paste Filling Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=paste-filling-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/labeling-machine.jpg",
+          "image": "assets/img/dropdown/labeling-machine.jpg",
           "text": "Labeling Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=labeling-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/capping-machine.jpg",
+          "image": "assets/img/dropdown/capping-machine.jpg",
           "text": "Capping Machine (semi/fully Automatic)",
           "link": "product.html?category=primary-packages&type=capping-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/coding-machine.png",
+          "image": "assets/img/dropdown/coding-machine.png",
           "text": "coding Machine (semi/fully-Automatic)",
           "link": "product.html?category=primary-packages&type=coding-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/induction-sealing-machine.jpg",
+          "image": "assets/img/dropdown/induction-sealing-machine.jpg",
           "text": "Induction Sealing Machine",
           "link": "product.html?category=primary-packages&type=induction-sealing-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/cup-glass-sealing-machine.jpg",
+          "image": "assets/img/dropdown/cup-glass-sealing-machine.jpg",
           "text": "Cup/Glass Sealing Machine",
           "link": "product.html?category=primary-packages&type=cup-glass-sealing-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/powder-filling-machine.png",
+          "image": "assets/img/dropdown/powder-filling-machine.png",
           "text": "Powder Filling Machine",
           "link": "product.html?category=primary-packages&type=powder-filling-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+          "image": "assets/img/dropdown/pouch-packing-machine.jpg",
           "text": "Pouch Sealing & Pouch Packing Machine",
           "link": "product.html?category=primary-packages&type=pouch-packing-pouch-sealing-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
+          "image": "assets/img/dropdown/continuous-band-sealing-machine.png",
           "text": "Continuous Band Sealing Machine",
           "link": "product.html?category=primary-packages&type=continuous-band-sealing-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/inkjet-printer.png",
+          "image": "assets/img/dropdown/inkjet-printer.jpg",
           "text": "Inkjet Printer",
           "link": "product.html?category=primary-packages&type=inkjet-printer-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
+          "image": "assets/img/dropdown/manual-hand-sealing-machine.png",
           "text": "Manual Hand Sealing Machine",
           "link": "product.html?category=primary-packages&type=manual-hand-sealing-machine"
         },
         {
-          "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+          "image": "assets/img/dropdown/vacuum-packing-machine.png",
           "text": "Vacuum Packing Machine",
           "link": "product.html?category=primary-packages&type=vacuum-packing-machine"
         }
