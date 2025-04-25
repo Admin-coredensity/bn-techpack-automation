@@ -9,6 +9,7 @@ Capping machines are used to accurately seal containers with various types of ca
 These machines are essential in industries where products need secure packaging for distribution and long-term shelf life.
 
 **What are the Benefits of Capping?**
+
 **Features & Advantages of Automatic Capping Machines**
 
 - High-speed capping with consistent torque application.

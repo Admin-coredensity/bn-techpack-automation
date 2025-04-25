@@ -6,9 +6,10 @@ It is widely used in industries like food and beverage, pharmaceuticals, cosmeti
 **What is a Coding Machine?**
 
 Coding machines are designed to print or mark variable data onto packaging materials.
-They are vital in industries where information like lot codes, expiry dates, MRP, and barcodes must be printed for compliance, tracking, or branding purposes.
+They are vital in industries where information like lot codes, expiry dates, MRP, and bar codes must be printed for compliance, tracking, or branding purposes.
 
 **What Are the Benefits of Coding?**
+
 **Features & Advantages of Automatic Coding Machines**
 
 - Rapid, high-resolution printing for batch, expiry, and barcode data.

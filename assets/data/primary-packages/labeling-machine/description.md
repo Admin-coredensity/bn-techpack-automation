@@ -9,7 +9,9 @@ Labeling Machines are used to apply printed labels onto products or packaging su
 
 **How to Use a Labeling Machine?**
 
-Labeling Machines are simple to operate and deliver high output with minimal manual effort. Here’s how to use one:
+Labeling Machines are simple to operate and deliver high output with minimal manual effort. 
+
+Here’s how to use one:
 
 - Place the container (bottle, jar, box, etc.) on the conveyor or designated platform.
 - Feed the label roll into the machine and set parameters such as label size and position.
