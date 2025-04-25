@@ -546,18 +546,18 @@ section,
 
 .image-section #carousel1-img {
     width: 100%;
-    height: 100%;
+    height: 85%;
     object-fit: contain;
     padding: 5px;
     margin-top: -30px;
 }
 
 .image-section #carousel2-img {
-    width: 350px;
-    height: 350px;
+    width: 100%;
+    height: 80%;
     object-fit: contain;
-    padding: 1px;
-    margin-top: -30px;
+    padding: 5px;
+    margin-top: -50px;
 }
 
 .image-section #carousel3-img {
