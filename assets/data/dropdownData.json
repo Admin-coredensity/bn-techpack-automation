@@ -78,52 +78,52 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/products/secondary-packages/carton-box-taping-machine.png",
+          "image": "assets/img/dropdown/carton-box-taping-machine.png",
           "text": "Carton Box Taping Machine",
           "link": "product.html?category=secondary-packages&type=carton-box-taping-machine"
         },
         {
-          "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
+          "image": "assets/img/dropdown/carton-strapping-machine.png",
           "text": "Carton Strapping Machine (Semi automatic)",
           "link": "product.html?category=secondary-packages&type=carton-strapping-machine"
         },
         {
-          "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
+          "image": "assets/img/dropdown/box-pallet-stretch-wrapping-machine.png",
           "text": "box/pallet stretch wrapping machine",
           "link": "product.html?category=secondary-packages&type=box-pallet-stretch-wrapping-machine"
         },
         {
-          "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
+          "image": "assets/img/dropdown/industrial-conveyor.jpg",
           "text": "Industrial Conveyor System",
           "link": "product.html?category=secondary-packages&type=industrial-conveyor-system"
         },
         {
-          "image": "assets/img/products/secondary-packages/metal-detector.png",
+          "image": "assets/img/dropdown/metal-detector.png",
           "text": "Metal Detector System",
           "link": "#"
         },
         {
-          "image": "assets/img/products/secondary-packages/shrink-tunnel-type-wrapping-machine.png",
+          "image": "assets/img/dropdown/shrink-tunnel-type-wrapping-machine.jpg",
           "text": "Shrink Wrapping Machine (Tunnel/Chamber)",
           "link": "product.html?category=secondary-packages&type=shrink-wrapping-machine"
         },
         {
-          "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
+          "image": "assets/img/dropdown/horizontalflow-wrap-machine.png",
           "text": "Horizontalflow Wrap servo Machine",
           "link": "product.html?category=secondary-packages&type=horizontal-flow-wrap-servo-machine"
         },
         {
-          "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
+          "image": "assets/img/dropdown/fully-auto-l-bar-sealer.png",
           "text": "L-bar Sealer Machine (semi/fully automatic)",
           "link": "product.html?category=secondary-packages&type=l-bar-sealer-machine"
         },
         {
-          "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
+          "image": "assets/img/dropdown/side-sealer-with-shrink-tunnel.png",
           "text": "side sealer with shrink tunnel",
           "link": "product.html?category=secondary-packages&type=side-sealer-with-shrink-tunnel"
         },
         {
-          "image": "assets/img/products/secondary-packages/web-seller-shrink-slave-machine.jpg",
+          "image": "assets/img/dropdown/web-seller-shrink-slave-machine.png",
           "text": "Web Seller and Shrink Slave applicator machine",
           "link": "product.html?category=secondary-packages&type=web-seller-and-shrink-slave-applicator-machine"
         }
@@ -135,47 +135,47 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/products/packing-consumables/pof-shrink-film.png",
+          "image": "assets/img/dropdown/pof-shrink-film.png",
           "text": "POF shrink film",
           "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
-          "image": "assets/img/products/packing-consumables/pvc-shrink-film.png",
+          "image": "assets/img/dropdown/pvc-shrink-film.png",
           "text": "PVC shrink film",
           "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
-          "image": "assets/img/products/packing-consumables/stretch-film.png",
+          "image": "assets/img/dropdown/stretch-film.png",
           "text": "stretch film",
           "link": "#"
         },
         {
-          "image": "assets/img/products/packing-consumables/pof-shrink-film-pouch.png",
+          "image": "assets/img/dropdown/pof-shrink-film-pouch.png",
           "text": "POF shrink film pouch",
           "link": "#"
         },
         {
-          "image": "assets/img/products/packing-consumables/pvc-shrink-film-pouch.png",
+          "image": "assets/img/dropdown/pvc-shrink-film-pouch.png",
           "text": "PVC shrink film pouch",
           "link": "#"
         },
         {
-          "image": "assets/img/products/packing-consumables/bubble-rolls.png",
+          "image": "assets/img/dropdown/bubble-rolls.png",
           "text": "bubble rolls",
           "link": "#"
         },
         {
-          "image": "assets/img/products/packing-consumables/pet-straproll.png",
+          "image": "assets/img/dropdown/pet-straproll.png",
           "text": "PET strap roll",
           "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
-          "image": "assets/img/products/packing-consumables/pp-straproll.png",
+          "image": "assets/img/dropdown/pp-straproll.png",
           "text": "pp strap roll",
           "link": "product.html?category=packing-consumables&type=packing-consumables"
         },
         {
-          "image": "assets/img/products/packing-consumables/bopp-tape.png",
+          "image": "assets/img/dropdown/bopp-tape.png",
           "text": "bopp tape",
           "link": "#"
         }
@@ -187,22 +187,22 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-carting-machine.png",
+          "image": "assets/img/dropdown/carton-erector-and-carting-machine.png",
           "text": "carton erector & carting machine",
           "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-carting-machine"
         },
         {
-          "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+          "image": "assets/img/dropdown/bagging-and-teaching-machine.png",
           "text": "bagging & teaching machine (semi-automatic)",
           "link": "product.html?category=spm-and-industrial-automation&type=bagging-and-teaching-machine"
         },
         {
-          "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
+          "image": "assets/img/dropdown/primary-packaging-liquid-line-automation.png",
           "text": "primary packaging liquid line automation",
           "link": "product.html?category=spm-and-industrial-automation&type=primary-packaging-liquid-line-automation"
         },
         {
-          "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
+          "image": "assets/img/dropdown/primary-packaging-paste-line-automation.png",
           "text": "primary packaging paste line automation",
           "link": "product.html?category=spm-and-industrial-automation&type=primary-packaging-paste-line-automation"
         }
