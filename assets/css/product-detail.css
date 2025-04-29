@@ -188,6 +188,13 @@
     background-color: aliceblue;
 }
 
+.product-video-section .video-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
 .product-video-section .video {
     width: 640px;
     height: 360px;
@@ -196,6 +203,15 @@
 .video-wrapper {
     background-color: white;
     display: inline-block;
+}
+
+.product-video-section .pdf-section-container .bi-download{
+font-size: 36px;
+}
+
+.pdf-section-container h4{
+    display: flex;
+    align-items: center;
 }
 
 @media (max-width: 768px) {
