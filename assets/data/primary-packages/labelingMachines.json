@@ -15,7 +15,7 @@
         "machineOperated": "PLC & HMI stepper",
         "applicatorLabelSizeLengthAnySize": "H 30-150 MM",
         "power": "1 kw 230 V AC 50Hz",
-        "materialOfConstruction": "MS 304"
+        "materialOfConstruction": "MS/SS 304"
       },
       "BNTPAR-30100150-250-servo": {
         "heading": "Labeling machine",
@@ -31,7 +31,7 @@
         "machineOperated": "PLC & HMI servo",
         "applicatorLabelSizeLengthAnySize": "H 30-250 MM",
         "power": "1 kw 230 V AC 50Hz",
-        "materialOfConstruction": "SS 304"
+        "materialOfConstruction": "MS/SS 304"
       }
     },
     "BNTPAFB-30150-250-stepper/servo": {
@@ -49,7 +49,7 @@
         "machineOperated": "PLC & HMI stepper",
         "applicatorLabelSizeLengthAnySize": "H 30-150 MM",
         "power": "1.5 kw 230 V AC 50Hz",
-        "materialOfConstruction": "MS 304"
+        "materialOfConstruction": "MS/SS 304"
       },
       "BNTPAFB-30150-250-servo": {
         "heading": "Labeling machine",
@@ -65,7 +65,7 @@
         "machineOperated": "PLC & HMI servo",
         "applicatorLabelSizeLengthAnySize": "H 30-250 MM",
         "power": "1.5 kw 230 V AC 50Hz",
-        "materialOfConstruction": "SS 304"
+        "materialOfConstruction": "MS/SS 304"
       }
     },
     "BNTPAFBR-30150-250-stepper/servo": {
@@ -83,7 +83,7 @@
         "machineOperated": "PLC & HMI stepper",
         "applicatorLabelSizeLengthAnySize": "H 30-150 MM",
         "power": "1.7 kw 230 V AC 50Hz",
-        "materialOfConstruction": "MS 304"
+        "materialOfConstruction": "MS/SS 304"
       },
       "BNTPAFBR-30150-250-servo": {
         "heading": "Labeling machine",
@@ -99,7 +99,7 @@
         "machineOperated": "PLC & HMI servo",
         "applicatorLabelSizeLengthAnySize": "H 30-250 MM",
         "power": "1.7 kw 230 V AC 50Hz",
-        "materialOfConstruction": "SS 304"
+        "materialOfConstruction": "MS/SS 304"
       }
     },
     "BNTPAFS-30150-250-stepper/servo": {
@@ -117,7 +117,7 @@
         "machineOperated": "PLC & HMI stepper",
         "applicatorLabelSizeLengthAnySize": "H 30-150 MM",
         "power": "0.5 kw 230 V AC 50Hz",
-        "materialOfConstruction": "MS 304"
+        "materialOfConstruction": "MS/SS 304"
       },
       "BNTPAFS-30150-250-servo": {
         "heading": "Labeling machine",
@@ -133,7 +133,7 @@
         "machineOperated": "PLC & HMI servo",
         "applicatorLabelSizeLengthAnySize": "H 30-250 MM",
         "power": "0.5 kw 230 V AC 50Hz",
-        "materialOfConstruction": "SS 304"
+        "materialOfConstruction": "MS/SS 304"
       }
     },
     "BNTPAT-30150-250-stepper/servo": {
@@ -151,7 +151,7 @@
         "machineOperated": "PLC & HMI stepper",
         "applicatorLabelSizeLengthAnySize": "H 30-150 MM",
         "power": "1 kw 230 V AC 50Hz",
-        "materialOfConstruction": "MS 304"
+        "materialOfConstruction": "MS/SS 304"
       },
       "BNTPAT-30150-250-servo": {
         "heading": "Labeling machine",
@@ -167,7 +167,7 @@
         "machineOperated": "PLC & HMI servo",
         "applicatorLabelSizeLengthAnySize": "H 30-250 MM",
         "power": "1 kw 230 V AC 50Hz",
-        "materialOfConstruction": "SS 304"
+        "materialOfConstruction": "MS/SS 304"
       }
     }
   }
