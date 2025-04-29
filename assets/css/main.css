@@ -578,6 +578,7 @@ section,
     padding: 1px;
     margin-top: -20px;
     object-fit: contain;
+    background-color: #DFDFDF;
 }
 
 .carousel-section .carousel-indicators {
