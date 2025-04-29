@@ -190,7 +190,7 @@ h6 {
     padding: 18px 15px;
     font-size: 16px;
     font-family: var(--nav-font);
-    font-weight: 400;
+    font-weight: 550;
     white-space: nowrap;
     transition: 0.3s;
 }
@@ -458,7 +458,8 @@ section,
 .section-title {
     text-align: center;
     position: relative;
-    text-transform: capitalize;
+    /* text-transform: uppercase; */
+    letter-spacing: 2px;
 }
 
 .section-title h2 {
@@ -550,6 +551,7 @@ section,
     height: 100%;
     object-fit: contain;
     padding: 1px;
+    margin-top: -20px;
 }
 
 .image-section #carousel2-img {
@@ -557,6 +559,7 @@ section,
     height: 100%;
     object-fit: contain;
     padding: 1px;
+    margin-top: -20px;
 }
 
 .image-section #carousel3-img {
@@ -578,7 +581,7 @@ section,
 }
 
 .carousel-section .carousel-indicators {
-    bottom: -30px;
+    bottom: -43px;
 }
 
 .carousel-section .carousel-indicators button {

@@ -117,8 +117,9 @@
 .product-model-detail-section .section-header .back-btn:focus {
     color: var(--contrast-color);
     background: var(--default-color);
-    font-size: 12px;
-    padding: 5px 15px;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 2px 16px;
     margin-left: 30px;
     border-radius: 50px;
     border: none;
