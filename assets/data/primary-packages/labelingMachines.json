@@ -21,7 +21,7 @@
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "model": "BNTPAR-30100150-250 servo",
-        "productionSpeedBPM": "30-40/50-80",
+        "productionSpeedBPM": "50-80",
         "image": "assets/img/products/primary-packages/labeling-machine.jpg",
         "labelRollDiameter": "UP TO 300 mm",
         "labelAccuracy": " ±1-2 mm",
@@ -54,7 +54,7 @@
       "BNTPAFB-30150-250-servo": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
-        "productionSpeedBPM": "30-40/50-80",
+        "productionSpeedBPM": "50-80",
         "model": "BNTPAFB-30150-250 servo",
         "image": "assets/img/products/primary-packages/labeling-machine.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -72,7 +72,7 @@
       "BNTPAFBR-30150-250-stepper": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
-        "productionSpeedBPM": "30-40/50-80",
+        "productionSpeedBPM": "30-40",
         "model": "BNTPAFBR-30150-250 stepper",
         "image": "assets/img/products/primary-packages/labeling-machine.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -88,7 +88,7 @@
       "BNTPAFBR-30150-250-servo": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
-        "productionSpeedBPM": "30-40/50-80",
+        "productionSpeedBPM": "50-80",
         "model": "BNTPAFBR-30150-250 servo",
         "image": "assets/img/products/primary-packages/labeling-machine.jpg",
         "labelRollDiameter": "UP TO 300 mm",
