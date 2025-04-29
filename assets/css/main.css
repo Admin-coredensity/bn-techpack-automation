@@ -492,6 +492,7 @@ section,
 .carousel-section {
     margin-top: 120px;
     background-color: var(--light-accent-color);
+    padding: 30px 0;
 }
 
 .carousel-inner {
@@ -546,31 +547,29 @@ section,
 
 .image-section #carousel1-img {
     width: 100%;
-    height: 85%;
+    height: 100%;
     object-fit: contain;
-    padding: 5px;
-    margin-top: -30px;
+    padding: 1px;
 }
 
 .image-section #carousel2-img {
     width: 100%;
-    height: 80%;
+    height: 100%;
     object-fit: contain;
-    padding: 5px;
-    margin-top: -50px;
+    padding: 1px;
 }
 
 .image-section #carousel3-img {
-    width: 350px;
-    height: 350px;
+    width: 320px;
+    height: 320px;
     object-fit: contain;
     padding: 1px;
     margin-top: -30px;
 }
 
 #conveyor-img {
-    width: 320px;
-    height: 320px;
+    width: 280px;
+    height: 280px;
     border: 3px solid var(--contrast-color);
     border-radius: 50%;
     padding: 1px;
@@ -579,7 +578,7 @@ section,
 }
 
 .carousel-section .carousel-indicators {
-    bottom: -40px;
+    bottom: -30px;
 }
 
 .carousel-section .carousel-indicators button {
@@ -587,6 +586,7 @@ section,
     border-radius: 50%;
     width: 10px;
     height: 10px;
+    margin-right: 6px;
 }
 
 
