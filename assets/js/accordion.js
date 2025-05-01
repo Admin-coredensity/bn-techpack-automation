@@ -18,9 +18,8 @@
                 <button class="accordion-button ${isFirst ? "" : "collapsed"}" type="button" data-bs-toggle="collapse"
                     data-bs-target="#${collapseId}" aria-expanded="${expanded}" aria-controls="${collapseId}">
                     <span class="d-flex justify-content-between align-items-center w-100">
-                        <i class="icon-state bi me-2"></i>
-                        <span>${section.title}</span>
-                        <i class="bi bi-arrow-right-circle-fill ms-2"></i>
+                    <span>${section.title}</span>
+                    <i class="icon-state bi me-2"></i>
                     </span>
                 </button>
             </h2>
@@ -54,8 +53,8 @@
                 const icon = button.querySelector('.icon-state');
                 const isExpanded = button.getAttribute('aria-expanded') === 'true';
                 icon.className = isExpanded
-                    ? 'icon-state bi bi-dash-circle-fill'
-                    : 'icon-state bi bi-plus-circle-fill';
+                    ? 'icon-state bi bi-chevron-up'
+                    : 'icon-state bi bi-chevron-down';
                 icon.style.fontSize = '22px';
 
                 button.classList.toggle('bg-open', isExpanded);
