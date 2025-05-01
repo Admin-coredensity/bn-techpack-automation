@@ -1,6 +1,33 @@
 {
   "tabs": [
     {
+      "id": "nav-spm-and-industrial-automation",
+      "label": "SPM & Industrial Automation",
+      "icon": "bi bi-square-fill",
+      "items": [
+        {
+          "image": "assets/img/dropdown/carton-erector-and-carting-machine.png",
+          "text": "carton erector & carting machine",
+          "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-carting-machine"
+        },
+        {
+          "image": "assets/img/dropdown/bagging-and-teaching-machine.png",
+          "text": "bagging & teaching machine (semi-automatic)",
+          "link": "product.html?category=spm-and-industrial-automation&type=bagging-and-teaching-machine"
+        },
+        {
+          "image": "assets/img/dropdown/primary-packaging-liquid-line-automation.png",
+          "text": "primary packaging liquid line automation",
+          "link": "product.html?category=spm-and-industrial-automation&type=primary-packaging-liquid-line-automation"
+        },
+        {
+          "image": "assets/img/dropdown/primary-packaging-paste-line-automation.png",
+          "text": "primary packaging paste line automation",
+          "link": "product.html?category=spm-and-industrial-automation&type=primary-packaging-paste-line-automation"
+        }
+      ]
+    },
+    {
       "id": "nav-primary-packages",
       "label": "Primary Packages",
       "icon": "bi bi-square-fill",
@@ -178,33 +205,6 @@
           "image": "assets/img/dropdown/bopp-tape.png",
           "text": "bopp tape",
           "link": "#"
-        }
-      ]
-    },
-    {
-      "id": "nav-spm-and-industrial-automation",
-      "label": "SPM & Industrial Automation",
-      "icon": "bi bi-square-fill",
-      "items": [
-        {
-          "image": "assets/img/dropdown/carton-erector-and-carting-machine.png",
-          "text": "carton erector & carting machine",
-          "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-carting-machine"
-        },
-        {
-          "image": "assets/img/dropdown/bagging-and-teaching-machine.png",
-          "text": "bagging & teaching machine (semi-automatic)",
-          "link": "product.html?category=spm-and-industrial-automation&type=bagging-and-teaching-machine"
-        },
-        {
-          "image": "assets/img/dropdown/primary-packaging-liquid-line-automation.png",
-          "text": "primary packaging liquid line automation",
-          "link": "product.html?category=spm-and-industrial-automation&type=primary-packaging-liquid-line-automation"
-        },
-        {
-          "image": "assets/img/dropdown/primary-packaging-paste-line-automation.png",
-          "text": "primary packaging paste line automation",
-          "link": "product.html?category=spm-and-industrial-automation&type=primary-packaging-paste-line-automation"
         }
       ]
     }
