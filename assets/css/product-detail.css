@@ -107,6 +107,10 @@
     font-weight: 600;
 }
 
+.table-bordered{
+    border-color: var(--default-color) !important;
+}
+
 .product-model-section-2 {
     width: 55%;
 }

@@ -38,7 +38,7 @@ function renderVariant(variantKey, variantData) {
         </div>
         <div>
           <h4 class="technical-specification-text">Technical Specification</h4>
-          <table class="table table-striped">
+          <table class="table table-striped table-bordered">
         <tbody>
             ${generateRow("Power", variantData.power, "product-model-power")}
             ${generateRow("Air Pressure", variantData.airPressure, "product-model-air-pressure")}

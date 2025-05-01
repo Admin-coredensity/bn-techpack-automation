@@ -11,7 +11,7 @@
         "temperature": "0-300 C",
         "MOC": "MS/SS",
         "beltSpeed": "Up to 12 Mtr",
-        "capacity": "10gm~5kg"
+        "capacity": "10gm-5kg"
       }
     },
     "BNTPAFR-880V": {
@@ -25,7 +25,7 @@
         "temperature": "0-300 C",
         "MOC": "MS/SS",
         "beltSpeed": "Up to 12 Mtr",
-        "capacity": "10gm~5kg"
+        "capacity": "10gm-5kg"
       }
     },
     "BNTPAFR-880HN-1": {
@@ -39,7 +39,7 @@
         "temperature": "0-300 C",
         "MOC": "MS/SS",
         "beltSpeed": "Up to 12 Mtr",
-        "capacity": "10gm~5kg"
+        "capacity": "10gm-5kg"
       }
     },
     "BNTPAFR-880HN-2": {
@@ -53,7 +53,7 @@
         "temperature": "0-300 C",
         "MOC": "MS/SS",
         "beltSpeed": "Up to 12 Mtr",
-        "capacity": "10gm~5kg"
+        "capacity": "10gm-5kg"
       }
     }
   }
