@@ -1,69 +1,81 @@
-(function () {
-    "use strict";
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector(".php-email-form");
+    const loading = form.querySelector(".loading");
+    const errorMessage = form.querySelector(".error-message");
+    const sentMessage = form.querySelector(".sent-message");
 
-    let forms = document.querySelectorAll('.php-email-form');
+    form.addEventListener("submit", function (e) {
+        e.preventDefault(); // Prevent default form submission
 
-    forms.forEach(function (e) {
-        e.addEventListener('submit', function (event) {
-            event.preventDefault();
+        // Show loading
+        loading.style.display = "block";
+        errorMessage.style.display = "none";
+        sentMessage.style.display = "none";
 
-            let thisForm = this;
+        const formData = new FormData(form);
 
-            let action = thisForm.getAttribute('action');
-            let recaptcha = thisForm.getAttribute('data-recaptcha-site-key');
-
-            if (!action) {
-                displayError(thisForm, 'The form action property is not set!');
-                return;
-            }
-            thisForm.querySelector('.loading').classList.add('d-block');
-            thisForm.querySelector('.error-message').classList.remove('d-block');
-            thisForm.querySelector('.sent-message').classList.remove('d-block');
-
-            let formData = new FormData(thisForm);
-
-            if (recaptcha) {
-                if (typeof grecaptcha !== "undefined") {
-                    grecaptcha.ready(function () {
-                        try {
-                            grecaptcha.execute(recaptcha, {action: 'php_email_form_submit'})
-                                .then(token => {
-                                    formData.set('recaptcha-response', token);
-                                    php_email_form_submit(thisForm, action, formData);
-                                })
-                        } catch (error) {
-                            displayError(thisForm, error);
-                        }
-                    });
-                } else {
-                    displayError(thisForm, 'The reCaptcha javascript API url is not loaded!')
+        fetch(form.getAttribute("action"), {
+            method: "POST",
+            body: formData,
+        })
+            .then(response => {
+                loading.style.display = "none";
+                if (!response.ok) {
+                    throw new Error("Network response was not ok");
                 }
-            } else {
-                php_email_form_submit(thisForm, action, formData);
-            }
-        });
+                return response.text(); // or response.json() if PHP returns JSON
+            })
+            .then(data => {
+                if (data.toLowerCase().includes("successfully")) {
+                    sentMessage.style.display = "block";
+                    form.reset();
+                } else {
+                    // throw new Error(data);
+                }
+            })
+            .catch(error => {
+                //   errorMessage.style.display = "block";
+                //   errorMessage.innerText = error.message || "Form submission failed";
+            });
     });
+});
 
-    function php_email_form_submit(thisForm, action, formData) {
-        const name = document.getElementById('name-field').value;
-        const subject = document.getElementById('subject-field').value;
-        const message = document.getElementById('message-field').value;
+//   show error on toast
+document.querySelector('.php-email-form').addEventListener('submit', async function (e) {
+    e.preventDefault();
 
-        setTimeout(() => {
-            thisForm.querySelector('.loading').classList.remove('d-block');
-            thisForm.reset();
-        }, 3000);
+    const form = e.target;
+    const formData = new FormData(form);
 
-        const gmailLink = `https://mail.google.com/mail/?view=cm&to=info@bntecpackautomation.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\n\nMessage:\n${message}`)}`;
+    try {
+        const response = await fetch(form.action, {
+            method: 'POST',
+            body: formData
+        });
 
-        // Open in a new tab
-        window.open(gmailLink, '_blank');
+        const result = await response.text();
+
+        // Check response for success or error
+        if (!response.ok || result.toLowerCase().includes("could not") || result.toLowerCase().includes("required")) {
+            showToast(result || "Something went wrong!");
+        } else {
+            showToast("Email sent successfully!", "success");
+            form.reset();
+        }
+    } catch (error) {
+        showToast("Error: " + error.message);
     }
+});
 
-    function displayError(thisForm, error) {
-        thisForm.querySelector('.loading').classList.remove('d-block');
-        thisForm.querySelector('.error-message').innerHTML = error;
-        thisForm.querySelector('.error-message').classList.add('d-block');
-    }
+// Show Toast Function
+function showToast(message, type = "danger") {
+    const toastEl = document.getElementById('formToast');
+    const toastBody = document.getElementById('toast-message');
 
-})();
+    toastBody.textContent = message;
+    toastEl.classList.remove("bg-danger", "bg-success");
+    toastEl.classList.add(type === "success" ? "bg-success" : "bg-danger");
+
+    const toast = new bootstrap.Toast(toastEl);
+    toast.show();
+}
