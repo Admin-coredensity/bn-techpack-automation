@@ -107,12 +107,22 @@
     font-weight: 600;
 }
 
-.table-bordered{
+.table-bordered {
     border-color: var(--default-color) !important;
 }
 
 .product-model-section-2 {
     width: 55%;
+}
+
+.download-btn {
+    color: var(--default-color);
+    text-decoration: underline;
+}
+
+.download-btn:hover {
+    color: black;
+    text-decoration: underline;
 }
 
 /*-------------------- ----------
