@@ -8,8 +8,8 @@ const headerTitle = document.getElementById("section-header-title");
 
 // Helper to generate a table row only if the value exists
 function generateRow(label, value, id) {
-    if (!value || value.trim() === "") return "";
-    return `
+  if (!value || value.trim() === "") return "";
+  return `
     <tr>
       <th class="th-heading" scope="row">${label}</th>
       <td id="${id}">${value}</td>
@@ -18,12 +18,12 @@ function generateRow(label, value, id) {
 
 // Helper to generate a <p> line only if the value exists
 function generateParagraph(label, value, id) {
-    if (!value || value.trim() === "") return "";
-    return `<p id="${id}"><strong>${label}:</strong> ${value}</p>`;
+  if (!value || value.trim() === "") return "";
+  return `<p id="${id}"><strong>${label}:</strong> ${value}</p>`;
 }
 
 function renderVariant(variantKey, variantData) {
-    return `
+  return `
     <div class="product-model-detail-container">
       <div class="product-model-section-1">
         <img id="product-model-image" src="${variantData.image || "assets/img/placeholder-image.jpg"}" 
@@ -120,63 +120,117 @@ function renderVariant(variantKey, variantData) {
 
 // Fetch product data
 fetch(`assets/data/${category}/${productType}.json`)
-    .then((res) => {
-        if (!res.ok) throw new Error(`Failed to load ${category}/${productType}.json`);
-        return res.json();
-    })
-    .then((data) => {
-        const productData = data?.[productType]?.[productId];
+  .then((res) => {
+    if (!res.ok) throw new Error(`Failed to load ${category}/${productType}.json`);
+    return res.json();
+  })
+  .then((data) => {
+    const productData = data?.[productType]?.[productId];
 
-        if (productData) {
+    if (productData) {
 
-            // display heading e.g Liquid Filling Machine
-            const firstVariant = Object.values(productData)[0];
-            if (headerTitle && firstVariant?.heading) {
-                headerTitle.textContent = firstVariant.heading;
-            }
+      // display heading e.g Liquid Filling Machine
+      const firstVariant = Object.values(productData)[0];
+      if (headerTitle && firstVariant?.heading) {
+        headerTitle.textContent = firstVariant.heading;
+      }
 
-            const rendered = Object.entries(productData)
-                .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
-                .join("");
-            container.innerHTML = rendered;
+      const rendered = Object.entries(productData)
+        .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
+        .join("");
+      container.innerHTML = rendered;
 
-            // Listen for "Enquire Now" button clicks
-            document.addEventListener("click", function (e) {
-                if (e.target.classList.contains("btn-getEnquireNow")) {
-                    const parent = e.target.closest(".product-model-detail-container");
-                    const productName = parent.querySelector("#product-model-name")?.textContent.trim() || "";
-                    const modelNumber = parent.querySelector("#product-model-number")?.textContent.trim().replace("Model No.:", "").trim() || "";
+      // Listen for "Enquire Now" button clicks
+      // document.addEventListener("click", function (e) {
+      //     if (e.target.classList.contains("btn-getEnquireNow")) {
+      //         const parent = e.target.closest(".product-model-detail-container");
+      //         const productName = parent.querySelector("#product-model-name")?.textContent.trim() || "";
+      //         const modelNumber = parent.querySelector("#product-model-number")?.textContent.trim().replace("Model No.:", "").trim() || "";
 
-                    // Fill in the modal form
-                    document.getElementById("product_name_display").textContent = productName;
-                    document.getElementById("product_name").value = productName;
+      // Fill in the modal form
+      // document.getElementById("product_name_display").textContent = productName;
+      // document.getElementById("product_name").value = productName;
 
-                    document.getElementById("model_number_display").textContent = "Model Number: " + modelNumber;
-                    document.getElementById("model_number").value = modelNumber;
+      // document.getElementById("model_number_display").textContent = "Model Number: " + modelNumber;
+      // document.getElementById("model_number").value = modelNumber;
 
-                    // Show the modal (if not already handled)
-                    const enquiryModal = new bootstrap.Modal(document.getElementById("enquiryModal"));
-                    enquiryModal.show();
-                }
-            });
+      // Show the modal (if not already handled)
+      // const enquiryModal = new bootstrap.Modal(document.getElementById("enquiryModal"));
+      // enquiryModal.show();
+      //     }
+      // });
 
-        } else {
-            console.warn("Matching product type or ID not found in data.");
-            container.innerHTML = `<p>Product not found or has no variants.</p>`;
-        }
-    })
-    .catch((err) => {
-        console.error("Error loading product detail:", err);
-        container.innerHTML = `<p>Error loading product details.</p>`;
+    } else {
+      console.warn("Matching product type or ID not found in data.");
+      container.innerHTML = `<p>Product not found or has no variants.</p>`;
+    }
+  })
+  .catch((err) => {
+    console.error("Error loading product detail:", err);
+    container.innerHTML = `<p>Error loading product details.</p>`;
+  });
+
+// enquiry form submission
+document.addEventListener("click", function (e) {
+  if (e.target.classList.contains("btn-getEnquireNow")) {
+    const parent = e.target.closest(".product-model-detail-container");
+    const productName = parent.querySelector("#product-model-name")?.textContent.trim() || "";
+    const modelNumber = parent.querySelector("#product-model-number")?.textContent.trim().replace("Model No.:", "").trim() || "";
+
+    // Fill modal inputs
+    document.getElementById("product_name_display").textContent = "Product Name: " + productName;
+    document.getElementById("product_name").value = productName;
+
+    document.getElementById("model_number_display").textContent = "Model Number: " + modelNumber;
+    document.getElementById("model_number").value = modelNumber;
+
+    const enquiryModal = new bootstrap.Modal(document.getElementById("enquiryModal"));
+    enquiryModal.show();
+  }
+});
+
+// Handle form submission
+document.getElementById("enquiryForm").addEventListener("submit", async function (e) {
+  e.preventDefault();
+  const form = e.target;
+  const formData = new FormData(form);
+
+  try {
+    const response = await fetch(form.action, {
+      method: 'POST',
+      body: formData
     });
+
+    const result = await response.text();
+    if (!response.ok || result.toLowerCase().includes("error") || result.toLowerCase().includes("failed")) {
+      showToast(result, "danger");
+    } else {
+      showToast(result, "success");
+      form.reset();
+    }
+  } catch (err) {
+    showToast("Error sending enquiry: " + err.message, "danger");
+  }
+});
+
+function showToast(message, type = "danger") {
+  const toastBody = document.getElementById("toast-message");
+  const toastEl = document.getElementById("formToast");
+
+  toastBody.textContent = message;
+  toastEl.className = `toast align-items-center text-white bg-${type} border-0`;
+
+  const toast = new bootstrap.Toast(toastEl);
+  toast.show();
+}
 
 // Go back function 
 function goBack() {
-    if (window.history.length > 1) {
-        window.history.back();
-    } else {
-        window.location.href = '/index.html';
-    }
+  if (window.history.length > 1) {
+    window.history.back();
+  } else {
+    window.location.href = '/index.html';
+  }
 }
 
 
