@@ -1713,6 +1713,40 @@ section,
         width: 90%;
     }
 
+    /* Carousel section */
+    .text-section{
+        line-height: 0;
+        margin-top: 0;
+    }
+
+    #slider-1-text-section{
+        margin-top: 40px;
+    }
+
+    .image-section #carousel1-img {
+        width: 100%;
+        height: 100%;
+        margin-top: 10px;
+    }
+    .image-section #carousel2-img {
+        width: 100%;
+        height: 100%;
+        margin-top: -30px;
+    }
+
+
+    .image-section #carousel3-img {
+        width: 55%;
+        height: 55%;
+        margin-top: -10px;
+    }
+
+    #conveyor-img {
+        width: 75%;
+        height: 75%;
+        margin-top: -20px;
+    }
+
     /* ---------clients section ------- */
     .client-card {
         width: 48%;
@@ -1733,10 +1767,6 @@ section,
     /* -------- testimonials section */
     .testimonials .review-container {
         gap: 30px;
-    }
-
-    .testimonials .horizontal-line {
-        /* display: none; */
     }
 
     .testimonials .rating-box .stars {
@@ -1906,6 +1936,54 @@ section,
         width: 90%;
     }
 
+    /*carousel section*/
+    .carousel-section {
+        height: calc(100vh - 350px);
+    }
+
+    .carousel-section .carousel {
+        height: 100%;
+    }
+
+    .carousel-item {
+        padding: 35px 0 0 0;
+    }
+
+    .carousel-section .carousel-indicators {
+        bottom: -30px;
+    }
+
+    .text-section{
+        width: 50%;
+    }
+    .image-section{
+        width: 50%;
+    }
+
+    .image-section #carousel1-img {
+        width: 100%;
+        height: 100%;
+        margin-top: 0;
+    }
+    .image-section #carousel2-img {
+        width: 100%;
+        height: 100%;
+        margin-top: -10px;
+    }
+
+
+    .image-section #carousel3-img {
+        width: 55%;
+        height: 55%;
+        margin-top: -10px;
+    }
+
+    #conveyor-img {
+        width: 90%;
+        height: 90%;
+    }
+
+
     /* ---- about section ------*/
     .about .about-images img {
         width: 100%;
@@ -2005,7 +2083,7 @@ section,
 
     /*carousel section*/
     .carousel-section {
-        height: calc(100vh - 94px);
+        height: calc(100vh - 250px);
     }
 
     .carousel-section .carousel {
@@ -2023,7 +2101,7 @@ section,
     }
 
     .carousel-section .carousel-indicators {
-        bottom: -50px;
+        bottom: -30px;
     }
 
     .carousel-section {
@@ -2033,7 +2111,7 @@ section,
 
     .text-section,
     .image-section {
-        margin-top: 0;
+        margin-top: 10px;
     }
 
     .text-section .sub-text-2 {
@@ -2054,14 +2132,13 @@ section,
         font-size: 24px;
     }
 
-    .image-section img {
-        width: 90px;
-        height: 90px;
+    .image-section #carousel1-img {
+        width: 100%;
+        height: 100%;
     }
-
     .image-section #carousel2-img {
-        width: 55%;
-        height: 55%;
+        width: 100%;
+        height: 100%;
         margin-top: -10px;
     }
 
@@ -2073,8 +2150,9 @@ section,
     }
 
     #conveyor-img {
-        width: 50%;
-        height: 50%;
+        width: 60%;
+        height: 60%;
+        margin-top: -10px;
     }
 
     /* feature product section */
