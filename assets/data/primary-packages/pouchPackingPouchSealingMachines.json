@@ -11,7 +11,7 @@
         "weighingRange": "1-100Gm",
         "accuracy": "within 2g",
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "noHead": "1H/2H/4",
+        "numberOfHeads": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
         "hopperCapacity": "1 to 2 kg"
       }
@@ -27,7 +27,7 @@
         "weighingRange": "2-200",
         "accuracy": "within 2g",
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "noHead": "1H/2H/4",
+        "numberOfHeads": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
         "hopperCapacity": "1 to 2 kg"
       }
@@ -43,7 +43,7 @@
         "weighingRange": "10-1000Gm",
         "accuracy": "within 2g",
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "noHead": "1H/2H/4",
+        "numberOfHeads": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
         "hopperCapacity": "1 to 5 kg"
       }
@@ -59,7 +59,7 @@
         "weighingRange": "50-5000Gm",
         "accuracy": "within 2g",
         "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "noHead": "1H/2H/4",
+        "numberOfHeads": "1H/2H/4",
         "speed": "10-15/15-25/30-40 par minuet of pouch",
         "hopperCapacity": "1 to 6 kg"
       }

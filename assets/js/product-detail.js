@@ -67,7 +67,7 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Pouch Selling Types", variantData.pouchSellingTypes, "product-model-pouch-selling-types")}
             ${generateRow("Pouch Size", variantData.pouchSize, "product-model-pouch-size")}
             ${generateRow("film Roll Width", variantData.filmRollWidth, "product-model-film-roll-width")}
-            ${generateRow("No Head", variantData.noHead, "product-model-no-head")}
+            ${generateRow("Number of Heads", variantData.numberOfHeads, "product-model-no-head")}
             ${generateRow("Model Type", variantData.modelType, "product-model-model-type")}
             ${generateRow("Box Size lxwxh", variantData.boxSizelxwxh, "product-model-box-size-lxwxh")}
             ${generateRow("Box types", variantData.boxTypes, "product-model-box-types")}

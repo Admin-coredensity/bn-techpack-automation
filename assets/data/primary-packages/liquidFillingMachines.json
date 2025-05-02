@@ -10,7 +10,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
@@ -21,7 +22,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPALF-50-500-ML-GM-1HP/2HP": {
@@ -34,7 +36,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
@@ -45,7 +48,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPALF-100-1000-ML-GM-1HP/2HP": {
@@ -58,7 +62,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
@@ -69,7 +74,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPALF-500-5000-ML-GM-1HP/2HP": {
@@ -82,7 +88,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
@@ -93,7 +100,8 @@
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Double head"
       }
     },
     "BNE4000-MLT-1HE": {
@@ -106,7 +114,8 @@
         "power": "100W-230 V Ac Hz50",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML"
+        "fillingAccuracy": "≤±1-2% ML",
+        "numberOfHeads": "Single head"
       }
     },
     "BNE4000-MLT-2HE": {
@@ -119,7 +128,8 @@
         "power": "200w-230 V Ac Hz50",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML"
+        "fillingAccuracy": "≤±1-2% ML",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
