@@ -11,7 +11,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2%",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Single head"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -23,7 +24,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2%",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPAPF-50-500-GM-ML-1H/ML2H": {
@@ -37,7 +39,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2%",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Single head"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -49,7 +52,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2%",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPAPF-100-1000-GM-ML-1H/ML2H": {
@@ -63,7 +67,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2%",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Single head"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -75,7 +80,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2%",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPAPF-500-5000-GM-ML-1H/2H": {
@@ -89,7 +95,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Single head"
       },
       "2H": {
         "heading": "Paste filling machine",
@@ -101,7 +108,8 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "15-20 l/kg"
+        "hopperVolume": "15-20 l/kg",
+        "numberOfHeads": "Double head"
       }
     },
     "BNTPA-50M-ML-GM-1HP": {
@@ -113,7 +121,8 @@
         "operating": "Manual operated",
         "airPressure": "",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       }
     },
     "BNTPA-100M-ML-GM-1HP": {
@@ -125,7 +134,8 @@
         "operating": "Manual operated",
         "airPressure": "",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       }
     },
     "BNTPA-50P-ML-GM-1HP": {
@@ -137,7 +147,8 @@
         "operating": "",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       }
     },
     "BNTPA-100P-ML-GM-1HP": {
@@ -149,7 +160,8 @@
         "operating": "",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM"
+        "fillingAccuracy": "≤±1-2% ML-GM",
+        "numberOfHeads": "Single head"
       }
     },
     "BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
