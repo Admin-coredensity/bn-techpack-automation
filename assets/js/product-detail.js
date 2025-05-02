@@ -203,26 +203,51 @@ document.getElementById("enquiryForm").addEventListener("submit", async function
 
     const result = await response.text();
     if (!response.ok || result.toLowerCase().includes("error") || result.toLowerCase().includes("failed")) {
-      showToast(result, "danger");
+      showErrorMessage(result, "danger");
     } else {
-      showToast(result, "success");
+      showSuccessMessage(result, "success");
       form.reset();
     }
   } catch (err) {
-    showToast("Error sending enquiry: " + err.message, "danger");
+    showErrorMessage("Error sending enquiry: " + err.message, "danger");
   }
 });
 
-function showToast(message, type = "danger") {
-  const toastBody = document.getElementById("toast-message");
-  const toastEl = document.getElementById("formToast");
+// success handler after enquiry form submission 
+function showSuccessMessage() {
+  const productName = document.getElementById('product_name').value;
+  const modelNo = document.getElementById('model_number').value;
 
-  toastBody.textContent = message;
-  toastEl.className = `toast align-items-center text-white bg-${type} border-0`;
+  document.getElementById('success_product_name').textContent = productName;
+  document.getElementById('success_model_no').textContent = modelNo;
 
-  const toast = new bootstrap.Toast(toastEl);
-  toast.show();
+  // Change modal heading to error message
+  document.getElementById('enquiryModalLabel').textContent = 'Enquiry Failed';
+
+  document.getElementById('enquiry-form-section').style.display = 'none';
+  document.getElementById('enquiry-footer').style.display = 'none';
+  document.getElementById('enquiry-success-section').style.display = 'block';
 }
+
+//error handler after enquiry form submission 
+function showErrorMessage() {
+  const productName = document.getElementById('product_name').value;
+  const modelNo = document.getElementById('model_number').value;
+
+  document.getElementById('error_product_name').textContent = productName;
+  document.getElementById('error_model_no').textContent = modelNo;
+
+  // Change modal heading to error message
+  document.getElementById('enquiryModalLabel').textContent = 'Failed to send enquiry';
+  // Change modal header background to danger
+  document.querySelector('#modal-header').classList.add('bg-danger');
+  document.querySelector('#enquiryModalLabel').classList.add('text-light');
+
+  document.getElementById('enquiry-form-section').style.display = 'none';
+  document.getElementById('enquiry-footer').style.display = 'none';
+  document.getElementById('enquiry-error-section').style.display = 'block';
+}
+
 
 // Go back function 
 function goBack() {

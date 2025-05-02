@@ -115,6 +115,18 @@
     width: 55%;
 }
 
+.errorOkButton {
+    color: white;
+    background:#dc4535;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 2px 16px;
+    margin-left: 30px;
+    border-radius: 50px;
+    border: none;
+    transition: 0.3s;
+}
+
 .download-btn {
     color: var(--default-color);
     text-decoration: underline;

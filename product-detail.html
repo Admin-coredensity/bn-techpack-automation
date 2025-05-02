@@ -199,89 +199,100 @@
     <!-- Enquiry Modal -->
     <!-- Modal -->
     <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-scrollable modal-lg"> <!-- scrollable and wider -->
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg">
             <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="enquiryModalLabel">Will Get In Touch With You.</h5>
+                <div class="modal-header" id="modal-header">
+                    <h5 class="modal-title" id="enquiryModalLabel">
+                        <strong>Will Get In Touch With You.</strong>
+                    </h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
 
                 <div class="modal-body">
-                    <form action="forms/send-enquiry.php" method="POST" id="enquiryForm">
-                        <div class="form-control product-name-model-container mb-5">
-                            <!-- Product Name -->
-                            <div class="form-group mb-2">
-                                <p id="product_name_display" class="form-control-plaintext">Product Name: </p>
-                                <input type="hidden" name="product_name" id="product_name">
+                    <!-- Form Section -->
+                    <div id="enquiry-form-section">
+                        <form action="forms/send-enquiry.php" method="POST" id="enquiryForm">
+                            <div class="form-control product-name-model-container mb-5">
+                                <div class="form-group mb-2">
+                                    <p id="product_name_display" class="form-control-plaintext">Product Name:</p>
+                                    <input type="hidden" name="product_name" id="product_name">
+                                </div>
+                                <div class="form-group mb-2">
+                                    <p id="model_number_display" class="form-control-plaintext"></p>
+                                    <input type="hidden" name="model_number" id="model_number">
+                                </div>
                             </div>
 
-                            <!-- Model Number -->
-                            <div class="form-group mb-2">
-                                <p id="model_number_display" class="form-control-plaintext"></p>
-                                <input type="hidden" name="model_number" id="model_number">
+                            <div class="row mb-2">
+                                <div class="col">
+                                    <input type="text" name="first_name" class="form-control" placeholder="First Name"
+                                        required>
+                                </div>
+                                <div class="col">
+                                    <input type="text" name="last_name" class="form-control" placeholder="Last Name"
+                                        required>
+                                </div>
                             </div>
-                        </div>
-                        <!-- Name -->
-                        <div class="row mb-2">
-                            <div class="col">
-                                <input type="text" name="first_name" class="form-control" placeholder="First Name"
-                                    required>
-                            </div>
-                            <div class="col">
-                                <input type="text" name="last_name" class="form-control" placeholder="Last Name"
-                                    required>
-                            </div>
-                        </div>
-                        <div class="row mb-2">
-                            <!-- Email -->
-                            <div class="col">
-                                <input type="email" name="email" class="form-control" placeholder="Email" required>
+                            <div class="row mb-2">
+                                <div class="col">
+                                    <input type="email" name="email" class="form-control" placeholder="Email" required>
+                                </div>
+                                <div class="col">
+                                    <input type="tel" name="mobile" class="form-control" placeholder="Mobile" required>
+                                </div>
                             </div>
 
-                            <!-- Mobile -->
-                            <div class="col">
-                                <input type="tel" name="mobile" class="form-control" placeholder="Mobile" required>
+                            <div class="row mb-2">
+                                <div class="col">
+                                    <input type="text" name="city" class="form-control" placeholder="City" required>
+                                </div>
+                                <div class="col">
+                                    <input type="text" name="state" class="form-control" placeholder="State" required>
+                                </div>
                             </div>
 
-                        </div>
-
-                        <div class="row mb-2">
-                            <!-- City -->
-                            <div class="col">
-                                <input type="text" name="city" class="form-control" placeholder="City" required>
+                            <div class="form-group">
+                                <textarea name="comments" class="form-control" rows="4"
+                                    placeholder="Comments"></textarea>
                             </div>
+                        </form>
+                    </div>
 
-                            <!-- State -->
-                            <div class="col">
-                                <input type="text" name="state" class="form-control" placeholder="State" required>
-                            </div>
-                        </div>
+                    <!-- Thank You Section (initially hidden) -->
+                    <div id="enquiry-success-section" class="text-center" style="display: none;">
+                        <h5><strong>Thank you for your enquiry</strong></h5>
+                        <p>Your product enquiry for
+                            <br>
+                            Product: <strong id="success_product_name"></strong> and <br>
+                            model: <strong id="success_model_no"></strong>
+                            <br>
+                            has been sent successfully.
+                        </p>
+                        <p>We will get in touch with you soon!</p>
+                        <button type="button" class="btn-sendEnquiry" data-bs-dismiss="modal">OK</button>
+                    </div>
 
-                        <!-- Comments -->
-                        <div class="form-group">
-                            <textarea name="comments" class="form-control" rows="4" placeholder="Comments"></textarea>
-                        </div>
-                    </form>
+                    <!-- Error Message -->
+                    <div id="enquiry-error-section" class="text-center" style="display: none;">
+                        <p>
+                            Sorry, there was an issue sending your enquiry for
+                            <strong id="error_product_name"></strong>
+                            ,model: <strong id="error_model_no"></strong>.
+                            <br>
+                            Please try again later or contact us directly.
+                        </p>
+                        <button type="button" class="errorOkButton" data-bs-dismiss="modal"
+                            onclick="goBack()">OK</button>
+                    </div>
                 </div>
 
-                <div class="modal-footer">
+                <div class="modal-footer" id="enquiry-footer">
                     <button type="submit" form="enquiryForm" class="btn-sendEnquiry">Send Enquiry</button>
                     <button type="button" class="btn-close-bottom" data-bs-dismiss="modal">Cancel</button>
                 </div>
             </div>
         </div>
     </div>
-
-    <!--enquiry form success/error Toast -->
-    <div class="position-fixed top-0 end-0 p-3" style="z-index: 9999">
-        <div id="formToast" class="toast align-items-center text-white bg-danger border-0" role="alert">
-            <div class="d-flex">
-                <div class="toast-body" id="toast-message">Message here</div>
-                <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
-            </div>
-        </div>
-    </div>
-
 
     <!-- Vendor JS Files -->
     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
