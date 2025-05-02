@@ -7,7 +7,6 @@
         "model": "BNTPA-DY8",
         "image": "assets/img/products/primary-packages/coding-machine.png",
         "power": "230 V AC 50Hz",
-        "airPressure": "4 to 6 Bar",
         "operating": "Handy Manual",
         "printNoOfLine": "3-4"
       }
@@ -19,7 +18,6 @@
         "model": "BNTPA-HP241-B",
         "image": "assets/img/products/primary-packages/coding-machine.png",
         "power": "230 V AC 50Hz",
-        "airPressure": "4 to 6 Bar",
         "operating": "Semi auto",
         "printNoOfLine": "3-4"
       }
@@ -31,7 +29,6 @@
         "model": "BNTPA-380FSS",
         "image": "assets/img/products/primary-packages/coding-machine.png",
         "power": "230 V AC 50Hz",
-        "airPressure": "4 to 6 Bar",
         "operating": " Automatic",
         "printNoOfLine": "3-4"
       }
@@ -43,7 +40,6 @@
         "model": "BNTPA-380FMS",
         "image": "assets/img/products/primary-packages/coding-machine.png",
         "power": "50W 230 V AC 50Hz",
-        "airPressure": "4 to 6 Bar",
         "operating": " Automatic",
         "printNoOfLine": "3-4"
       }
