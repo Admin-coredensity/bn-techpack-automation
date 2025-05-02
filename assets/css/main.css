@@ -565,18 +565,19 @@ section,
 }
 
 .image-section #carousel3-img {
-    width: 320px;
-    height: 320px;
+    width: 100%;
+    height: 100%;
     object-fit: contain;
     padding: 1px;
-    margin-top: -30px;
+    margin-top: -40px;
 }
 
 #conveyor-img {
-    width: 280px;
-    height: 280px;
+    width: 100%;
+    height: 100%;
     padding: 1px;
     object-fit: contain;
+    margin-top: -40px;
 }
 
 .carousel-section .carousel-indicators {
@@ -1714,12 +1715,12 @@ section,
     }
 
     /* Carousel section */
-    .text-section{
+    .text-section {
         line-height: 0;
         margin-top: 0;
     }
 
-    #slider-1-text-section{
+    #slider-1-text-section {
         margin-top: 40px;
     }
 
@@ -1728,6 +1729,7 @@ section,
         height: 100%;
         margin-top: 10px;
     }
+
     .image-section #carousel2-img {
         width: 100%;
         height: 100%;
@@ -1736,8 +1738,8 @@ section,
 
 
     .image-section #carousel3-img {
-        width: 55%;
-        height: 55%;
+        width: 100%;
+        height: 100%;
         margin-top: -10px;
     }
 
@@ -1942,6 +1944,7 @@ section,
     }
 
     .carousel-section .carousel {
+        width: 100%;
         height: 100%;
     }
 
@@ -1953,18 +1956,21 @@ section,
         bottom: -30px;
     }
 
-    .text-section{
+    .text-section {
         width: 50%;
+        height: 100%;
     }
-    .image-section{
+
+    .image-section {
         width: 50%;
     }
 
     .image-section #carousel1-img {
         width: 100%;
         height: 100%;
-        margin-top: 0;
+        margin-top: -10px;
     }
+
     .image-section #carousel2-img {
         width: 100%;
         height: 100%;
@@ -1973,14 +1979,15 @@ section,
 
 
     .image-section #carousel3-img {
-        width: 55%;
-        height: 55%;
+        width: 100%;
+        height: 100%;
         margin-top: -10px;
     }
 
     #conveyor-img {
-        width: 90%;
-        height: 90%;
+        width: 100%;
+        height: 100%;
+        margin-top: -10px;
     }
 
 
@@ -2083,10 +2090,11 @@ section,
 
     /*carousel section*/
     .carousel-section {
-        height: calc(100vh - 250px);
+        height: calc(100vh - 300px);
     }
 
     .carousel-section .carousel {
+        width: 100%;
         height: 100%;
     }
 
@@ -2095,8 +2103,8 @@ section,
     }
 
     .carousel-item .row {
-        flex-direction: column;
         text-align: center;
+        justify-content: center;
         gap: 40px;
     }
 
@@ -2112,6 +2120,7 @@ section,
     .text-section,
     .image-section {
         margin-top: 10px;
+        width: 100%;
     }
 
     .text-section .sub-text-2 {
@@ -2136,6 +2145,7 @@ section,
         width: 100%;
         height: 100%;
     }
+
     .image-section #carousel2-img {
         width: 100%;
         height: 100%;
@@ -2144,14 +2154,14 @@ section,
 
 
     .image-section #carousel3-img {
-        width: 55%;
-        height: 55%;
+        width: 100%;
+        height: 100%;
         margin-top: -10px;
     }
 
     #conveyor-img {
-        width: 60%;
-        height: 60%;
+        width: 100%;
+        height: 100%;
         margin-top: -10px;
     }
 
