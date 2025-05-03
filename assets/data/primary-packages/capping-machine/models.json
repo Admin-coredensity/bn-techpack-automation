@@ -9,7 +9,7 @@
             {
               "id": "BNTPA-2040D-1H",
               "name": "BNTPA-2040D-1H",
-              "image": "assets/img/products/primary-packages/capping-machine.jpg",
+              "image": "assets/img/products/primary-packages/capping-machine-2040d-1h.jpg",
               "link": "product-detail.html?category=primary-packages&type=cappingMachines&id=BNTPA-2040D-1H"
             },
             {
@@ -27,13 +27,13 @@
             {
               "id": "BNTPA-2050DM",
               "name": "BNTPA-2050DM",
-              "image": "assets/img/products/primary-packages/capping-machine.jpg",
+              "image": "assets/img/products/primary-packages/capping-machine-2050dm.jpg",
               "link": "product-detail.html?category=primary-packages&type=cappingMachines&id=BNTPA-2050DM"
             },
             {
               "id": "BNTPA-2050DSM",
               "name": "BNTPA-2050DSM",
-              "image": "assets/img/products/primary-packages/capping-machine.jpg",
+              "image": "assets/img/products/primary-packages/electric-capping-machine.jpg",
               "link": "product-detail.html?category=primary-packages&type=cappingMachines&id=BNTPA-2050DSM"
             }
           ]
