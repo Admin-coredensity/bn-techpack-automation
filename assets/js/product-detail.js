@@ -28,7 +28,8 @@ function renderVariant(variantKey, variantData) {
       <div class="product-model-section-1">
         <img id="product-model-image" src="${variantData.image || "assets/img/placeholder-image.jpg"}" 
         alt="Product Image" onerror="this.onerror=null; this.src='assets/img/placeholder-image.jpg';" />
-        <a class="btn-getEnquireNow">Enquire Now</a>
+        <img id="product-model-demo-image" src="${variantData.demoImage || "assets/img/placeholder-image.jpg"}" 
+        alt="Product Image" onerror="this.onerror=null; this.src='assets/img/placeholder-image.jpg';" />
       </div>
       <div class="product-model-section-2">
         <h4 id="product-model-name">${variantData.name || "-"}</h4>
@@ -112,8 +113,9 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("liquid Tank Capacity", variantData.liquidTankCapacity, "product-model-liquid-tank-capacity")}
           </tbody>
           </table>
-        </div>
-      </div>
+          </div>
+          <a class="btn-getEnquireNow">Enquire Now</a>
+          </div>
     </div>
   `;
 }
