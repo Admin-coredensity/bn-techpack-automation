@@ -7,6 +7,7 @@
         "model": "BNTPA-260DZ",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-machine.png",
         "sealingWidthLength": "8-10/260 mm",
         "productionSpeed": "2-4 times/min",
         "chamberSize": "320*270*57mm"
@@ -19,6 +20,7 @@
         "model": "BNTPA-300DZ",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-machine.png",
         "sealingWidthLength": "8-10/300 mm",
         "productionSpeed": "2-4 times/min",
         "chamberSize": ""
@@ -31,6 +33,7 @@
         "model": "BNTPA-400DZ",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-machine.png",
         "sealingWidthLength": "8-10/400 x2",
         "productionSpeed": "2-4 times/min",
         "chamberSize": ""
@@ -43,6 +46,7 @@
         "model": "BNTPA-500DZ",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-machine.png",
         "sealingWidthLength": "8-10/500 mm x2",
         "productionSpeed": "2-4 times/min",
         "chamberSize": ""
@@ -55,6 +59,7 @@
         "model": "BNTPA-600DZ",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-machine.png",
         "sealingWidthLength": "8-10/600 mm x2",
         "productionSpeed": "4-10 times/min",
         "chamberSize": ""
@@ -66,6 +71,7 @@
         "name": "Vacuum Packing machine external with nitrogen filling",
         "model": "BNTPA-500DZ",
         "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
         "power": "850W 230 V AC 50Hz",
         "sealingWidthLength": "8-10 / mm",
         "productionSpeed": "2-4 times/min",
@@ -79,6 +85,7 @@
         "name": "Vacuum Packing machine external with nitrogen filling",
         "model": "BNTPA-500DZ",
         "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
         "power": "850W 230 V AC 50Hz",
         "sealingWidthLength": "8-10/300 mm",
         "productionSpeed": "2-4 times/min",
@@ -92,6 +99,7 @@
         "name": "Vacuum Packing machine external with nitrogen filling",
         "model": "BNTPA-600DZ",
         "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
         "power": "850W 230 V AC 50Hz",
         "sealingWidthLength": "8-10/400 x2",
         "productionSpeed": "2-4 times/min",
@@ -105,6 +113,7 @@
         "name": "Vacuum Packing machine external with nitrogen filling",
         "model": "BNTPA-600DZ",
         "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "demoImage": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
         "power": "850W 230 V AC 50Hz",
         "sealingWidthLength": "8-10/500 mm x2",
         "productionSpeed": "2-4 times/min",
