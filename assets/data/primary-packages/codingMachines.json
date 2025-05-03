@@ -6,7 +6,7 @@
         "name": "Coding Machine",
         "model": "BNTPA-DY8",
         "image": "assets/img/products/primary-packages/coding-machine-dy8.png",
-        "demoImage": "assets/img/products/primary-packages/coding.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/coding.jpg",
         "power": "230 V AC 50Hz",
         "operating": "Handy Manual",
         "printNoOfLine": "3-4"
@@ -18,7 +18,7 @@
         "name": "Coding Machine",
         "model": "BNTPA-HP241-B",
         "image": "assets/img/products/primary-packages/coding-machine-241b.png",
-        "demoImage": "assets/img/products/primary-packages/coding.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/coding.jpg",
         "power": "230 V AC 50Hz",
         "operating": "Semi auto",
         "printNoOfLine": "3-4"
@@ -30,7 +30,7 @@
         "name": "Coding Machine",
         "model": "BNTPA-380FSS",
         "image": "assets/img/products/primary-packages/coding-machine.png",
-        "demoImage": "assets/img/products/primary-packages/coding.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/coding.jpg",
         "power": "230 V AC 50Hz",
         "operating": " Automatic",
         "printNoOfLine": "3-4"
@@ -42,7 +42,7 @@
         "name": "Coding Machine",
         "model": "BNTPA-380FMS",
         "image": "assets/img/products/primary-packages/coding-machine.png",
-        "demoImage": "assets/img/products/primary-packages/coding.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/coding.jpg",
         "power": "50W 230 V AC 50Hz",
         "operating": " Automatic",
         "printNoOfLine": "3-4"

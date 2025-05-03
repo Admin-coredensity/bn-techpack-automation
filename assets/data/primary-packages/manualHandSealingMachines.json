@@ -6,7 +6,7 @@
         "name": "manual hand sealing machine",
         "model": "BNTPA-200L",
         "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
-        "demoImage": "assets/img/products/primary-packages/manual-hand-sealing.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/manual-hand-sealing.jpg",
         "power": "250W 230 V AC 50Hz",
         "sealingWidth": "2 MM",
         "sealingLength": "200 mm (8\")"
@@ -18,7 +18,7 @@
         "name": "manual hand sealing machine",
         "model": "BNTPA-300L",
         "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
-        "demoImage": "assets/img/products/primary-packages/manual-hand-sealing.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/manual-hand-sealing.jpg",
         "power": "350W 230 V AC 50Hz",
         "sealingWidth": "2 MM",
         "sealingLength": "300 mm (12\")"
@@ -30,7 +30,7 @@
         "name": "manual hand sealing machine",
         "model": "BNTPA-400L",
         "image": "assets/img/products/primary-packages/manual-hand-sealing-machine.png",
-        "demoImage": "assets/img/products/primary-packages/manual-hand-sealing.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/manual-hand-sealing.jpg",
         "power": "450W 230 V AC 50Hz",
         "sealingWidth": "2 MM",
         "sealingLength": "400 mm (16\")"
