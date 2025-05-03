@@ -223,8 +223,11 @@ function showSuccessMessage() {
   document.getElementById('success_product_name').textContent = productName;
   document.getElementById('success_model_no').textContent = modelNo;
 
-  // Change modal heading to error message
-  document.getElementById('enquiryModalLabel').textContent = 'Enquiry Failed';
+  // Change modal heading to success message
+  document.getElementById('enquiryModalLabel').textContent = 'Thank you for your enquiry';
+  // Change modal header background to danger
+  document.querySelector('#modal-header').classList.add('bg-success');
+  document.querySelector('#enquiryModalLabel').classList.add('text-light');
 
   document.getElementById('enquiry-form-section').style.display = 'none';
   document.getElementById('enquiry-footer').style.display = 'none';
