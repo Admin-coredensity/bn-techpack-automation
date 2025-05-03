@@ -6,6 +6,7 @@
         "name": "Carton Box Taping Machine",
         "model": "BNTPA-4030",
         "image": "assets/img/products/secondary-packages/carton-box-taping-machine.png",
+        "demoImage": "assets/img/products/primary-packages/carton-taping.jpg",
         "productionSpeed": "UP-25 cpm",
         "boxSize": "120-UP MM, 80-320 MM, 90-400 MM",
         "power": "0.18 KW 230 V AC 50Hz",
@@ -20,6 +21,7 @@
         "name": "Carton Box Taping Machine",
         "model": "BNTPA-6050",
         "image": "assets/img/products/secondary-packages/carton-box-taping-machine.png",
+        "demoImage": "assets/img/products/primary-packages/carton-taping.jpg",
         "productionSpeed": "UP-25 cpm",
         "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
         "power": "0.18 KW 230 V ac 50 hz",
@@ -34,6 +36,7 @@
         "name": " Carton Box Taping Machine",
         "model": "BNTPA-6050R",
         "image": "assets/img/products/secondary-packages/carton-box-taping-machine.png",
+        "demoImage": "assets/img/products/primary-packages/carton-taping.jpg",
         "productionSpeed": "UP-25 cpm",
         "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
         "power": "0.18 KW 230 V 50hz",
@@ -48,6 +51,7 @@
         "name": "Carton Box Taping Machine",
         "model": "BNTPA-5050AF",
         "image": "assets/img/products/secondary-packages/carton-box-taping-machine.png",
+        "demoImage": "assets/img/products/primary-packages/carton-taping.jpg",
         "productionSpeed": "UP-25 cpm",
         "boxSize": "200-UP MM, 160 -500 MM, 150-500 MM",
         "power": "1.5 KW 230 v ac 50hz",
@@ -62,6 +66,7 @@
         "name": "Carton Box Taping Machine",
         "model": "BNTPA-6050+8060C",
         "image": "assets/img/products/secondary-packages/carton-box-taping-machine.png",
+        "demoImage": "assets/img/products/primary-packages/carton-taping.jpg",
         "productionSpeed": "UP-25 cpm",
         "boxSize": "200-UP MM, 160 -500 MM, 150-600 MM",
         "power": "2.5 KW 415 V AC",
@@ -72,4 +77,3 @@
     }
   }
 }
-    
