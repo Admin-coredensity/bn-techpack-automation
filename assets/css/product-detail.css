@@ -117,7 +117,7 @@
 
 .errorOkButton {
     color: white;
-    background:#dc4535;
+    background: #dc4535;
     font-size: 14px;
     font-weight: 700;
     padding: 2px 16px;
@@ -238,6 +238,18 @@
     font-weight: 550;
 }
 
+@media (max-width: 992px) {
+    .product-video-section .video {
+        width: 100%;
+    }
+    .video-wrapper{
+        width: 70%;
+    }
+    .pdf-section-container{
+        width: 30%;
+    }
+}
+
 @media (max-width: 768px) {
 
     /*header section*/
@@ -269,7 +281,7 @@
     .product-model-detail-section .product-model-detail-container {
         width: 100%;
         flex-direction: column;
-        margin-bottom: 0;
+        margin-bottom: 70px;
     }
 
     .product-model-section-1 {
@@ -295,6 +307,11 @@
     .product-video-section .container {
         padding: 0;
         width: 100%;
+    }
+
+    .video-container {
+        flex-direction: column;
+        padding: 10px;
     }
 
     .video-wrapper {
