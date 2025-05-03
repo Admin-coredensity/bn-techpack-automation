@@ -636,8 +636,9 @@ section,
 .about .content .who-we-are {
     text-transform: uppercase;
     margin-bottom: 15px;
-    color: color-mix(in srgb, var(--default-color));
-    font-size: 18px;
+    color: var(--default-color);
+    font-size: 24px;
+    font-weight: 600;
 }
 
 .about .content h3 {
@@ -1744,9 +1745,9 @@ section,
     }
 
     #conveyor-img {
-        width: 75%;
-        height: 75%;
-        margin-top: -20px;
+        width: 100%;
+        height: 100%;
+        margin-top: -10px;
     }
 
     /* ---------clients section ------- */
@@ -2090,7 +2091,7 @@ section,
 
     /*carousel section*/
     .carousel-section {
-        height: calc(100vh - 300px);
+        height: calc(100vh - 250px);
     }
 
     .carousel-section .carousel {
@@ -2117,8 +2118,14 @@ section,
         margin-top: 94px;
     }
 
-    .text-section,
     .image-section {
+        margin-top: 10px;
+        width: 100%;
+        height: 280px;
+        margin: 0 auto;
+    }
+
+    .text-section {
         margin-top: 10px;
         width: 100%;
     }
@@ -2144,25 +2151,26 @@ section,
     .image-section #carousel1-img {
         width: 100%;
         height: 100%;
+        margin-top: 0;
     }
 
     .image-section #carousel2-img {
         width: 100%;
         height: 100%;
-        margin-top: -10px;
+        margin-top: 0;
     }
 
 
     .image-section #carousel3-img {
         width: 100%;
         height: 100%;
-        margin-top: -10px;
+        margin-top: 0;
     }
 
     #conveyor-img {
         width: 100%;
         height: 100%;
-        margin-top: -10px;
+        margin-top: 0;
     }
 
     /* feature product section */
