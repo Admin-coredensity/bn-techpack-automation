@@ -3,7 +3,7 @@
     "BNTPA-pof-shrink-film": {
       "BNTPA-pof-shrink-film": {
         "heading": "packaging consumables",
-        "name": "packaging consumable material",
+        "name": "POF shrink film",
         "model": "BNTPA-pof-shrink-film",
         "image": "assets/img/products/packing-consumables/pof-shrink-film.png",
         "rollSizeInInch": "8”-40”",
@@ -15,7 +15,7 @@
     "BNTPA-strap-roll": {
       "BNTPA-strap-roll": {
         "heading": "packaging consumables",
-        "name": "packaging consumable material",
+        "name": "strap roll",
         "model": "BNTPA-strap-roll",
         "image": "assets/img/products/packing-consumables/pp-straproll.png",
         "rollSizeInInch": "9-12 w mm",
@@ -27,7 +27,7 @@
     "BNETPA-pet-strap": {
       "BNETPA-pet-strap": {
         "heading": "packaging consumables",
-        "name": "packaging consumable material",
+        "name": "PET strap",
         "model": "BNETPA-pet-strap",
         "image": "assets/img/products/packing-consumables/pet-straproll.png",
         "rollSizeInInch": "9- 27 w mm",
@@ -39,7 +39,7 @@
     "BNTPA-ldpe-shrink-roll": {
       "BNTPA-ldpe-shrink-roll": {
         "heading": "packaging consumables",
-        "name": "packaging consumable material",
+        "name": "LDPE shrink roll",
         "model": "BNTPA-ldpe-shrink-roll",
         "image": "assets/img/products/packing-consumables/pvc-shrink-film.png",
         "rollSizeInInch": "as per size",
