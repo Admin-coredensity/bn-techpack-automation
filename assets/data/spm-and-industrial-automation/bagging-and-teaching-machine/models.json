@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "title": "semi automatic bagging & teaching machine",
+      "title": "semi automatic bagging & weighing machine",
       "categories": [
         {
           "subtitle": "",
@@ -9,26 +9,26 @@
             {
               "id": "BNTPAFBM-1050k1-2H",
               "name": "BNTPAFBM-1050k1-2H",
-              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
-              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndTeachingMachines&id=BNTPAFBM-1050k1-2H"
+              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPAFBM-1050k1-2H"
             },
             {
               "id": "BNTPASBM-1050k1-2H",
               "name": "BNTPASBM-1050k1-2H",
-              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
-              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndTeachingMachines&id=BNTPASBM-1050k1-2H"
+              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPASBM-1050k1-2H"
             },
             {
               "id": "BNTPAW-4-14H",
               "name": "BNTPAW-4-14H",
-              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
-              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndTeachingMachines&id=BNTPAW-4-14H"
+              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPAW-4-14H"
             },
             {
               "id": "BNTPABTC-30070WH",
               "name": "BNTPABTC-30070WH",
-              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
-              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndTeachingMachines&id=BNTPABTC-30070WH"
+              "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPABTC-30070WH"
             }
           ]
         }

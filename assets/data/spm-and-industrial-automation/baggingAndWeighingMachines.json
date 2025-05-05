@@ -1,11 +1,11 @@
 {
-  "baggingAndTeachingMachines": {
+  "baggingAndWeighingMachines": {
     "BNTPAFBM-1050k1-2H": {
       "BNTPAFBM-1050k1-2H": {
         "heading": "spm & industrial automation",
-        "name": "semi-automatic bagging & teaching machine",
+        "name": "semi-automatic bagging & weighing machine",
         "model": "BNTPAFBM-1050k1-2h",
-        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
         "speed": "1-6 bag",
         "operating": "fully auto",
         "power": "230/415 v ac 50hz",
@@ -18,9 +18,9 @@
     "BNTPASBM-1050k1-2H": {
       "BNTPASBM-1050k1-2H": {
         "heading": "spm & industrial automation",
-        "name": "semi-automatic bagging & teaching machine",
+        "name": "semi-automatic bagging & weighing machine",
         "model": "BNTPASBM-1050k1-2H",
-        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
         "speed": "1-6 bag",
         "operating": "semi auto",
         "power": "230/415 v ac 50hz",
@@ -33,9 +33,9 @@
     "BNTPAW-4-14H": {
       "BNTPAW-4-14H": {
         "heading": "spm & industrial automation",
-        "name": "semi-automatic bagging & teaching machine",
+        "name": "semi-automatic bagging & weighing machine",
         "model": "BNTPAW-4-14H",
-        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
         "speed": "25-80 bag",
         "operating": "semi auto",
         "power": "230/415 v ac 50hz",
@@ -48,9 +48,9 @@
     "BNTPABTC-30070WH": {
       "BNTPABTC-30070WH": {
         "heading": "spm & industrial automation",
-        "name": "semi-automatic bagging & teaching machine",
+        "name": "semi-automatic bagging & weighing machine",
         "model": "BNTPABTC-30070WH",
-        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-teaching-machine.png",
+        "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
         "speed": "5-10 bag",
         "operating": "semi auto",
         "power": "230/415 v ac 50hz",
