@@ -1,14 +1,14 @@
 {
   "industrialConveyorSystem": {
-    "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline": {
-      "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline": {
+    "BNTPA-pu/pvc/Teflon/rubber/silicon-flat-incline": {
+      "BNTPA-pu/pvc/Teflon/rubber/silicon-flat-incline": {
         "heading": "Industrial conveyor system",
-        "name": "customize conveyor systems",
-        "model": "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline",
+        "name": "PU/PVC/Teflon/Rubber/Silicon flat incline conveyor",
+        "model": "BNTPA-PU/PVC/Teflon/Rubber/Silicon flat incline",
         "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
         "power": "230/415 v ac 50hz",
         "operating": "fully auto / semi auto",
-        "MOC": "MS powder coated/ss/aluminum profile",
+        "MOC": "MS powder coated/SS/Aluminum profile",
         "conveyorSpeed": "as per requirement",
         "conveyorSizelxwxh": "as per requirement",
         "weightCarryingCapacity": "as per requirement",
@@ -18,8 +18,8 @@
     "BNTPA-slat-ss/pp-slat-flat-incline": {
       "BNTPA-slat-ss/pp-slat-flat-incline": {
         "heading": "Industrial conveyor system",
-        "name": "customize conveyor systems",
-        "model": "BNTPA-slat-ss/pp-slat-flat-incline",
+        "name": "Slat SS / PP Slat-flat incline conveyor",
+        "model": "BNTPA-Slat SS/PP Slat-flat incline",
         "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
         "power": "230/415 v ac 50hz",
         "operating": "fully auto/Semi  auto",
@@ -33,8 +33,8 @@
     "BNTPA-modular-flat-incline": {
       "BNTPA-modular-flat-incline": {
         "heading": "Industrial conveyor system",
-        "name": "customize conveyor systems",
-        "model": "BNTPA-modular-flat-incline",
+        "name": "Modular flat incline conveyor",
+        "model": "BNTPA-modular flat incline",
         "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
         "power": "230/415 v ac 50hz",
         "operating": "fully auto/Semi  auto",
@@ -45,11 +45,11 @@
         "conveyorUsingApplication": "loading unloading product moments assembly work any customize purpose"
       }
     },
-    "BNTPA-ms-mesh-belt/ss-mesh-beltD": {
-      "BNTPA-ms-mesh-belt/ss-mesh-beltD": {
+    "BNTPA-ms-mesh-belt/ss-mesh-belt": {
+      "BNTPA-ms-mesh-belt/ss-mesh-belt": {
         "heading": "Industrial conveyor system",
-        "name": "customize conveyor systems",
-        "model": "BNTPA-ms-mesh-belt/ss-mesh-beltD",
+        "name": "MS mesh belt/SS mesh belt",
+        "model": "BNTPA-MS Mesh belt/SS mesh belt ",
         "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
         "power": "230/415 v ac 50hz",
         "operating": "fully auto/Semi  auto",
@@ -63,8 +63,8 @@
     "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m": {
       "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m": {
         "heading": "Industrial conveyor system",
-        "name": "customize conveyor systems",
-        "model": "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m",
+        "name": "Telescopic conveyor",
+        "model": "BNTPA-telescopic conveyor/3s-4/5.4m-7/9.6m",
         "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
         "power": "415 v ac 50hz",
         "operating": "fully auto/Semi  auto",

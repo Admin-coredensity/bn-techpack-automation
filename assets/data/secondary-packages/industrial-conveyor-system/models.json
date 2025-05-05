@@ -7,32 +7,32 @@
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline",
-              "name": "BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline",
+              "id": "BNTPA-pu/pvc/Teflon/rubber/silicon-flat-incline",
+              "name": "BNTPA-PU/PVC/Teflon/Rubber/Silicon flat incline",
               "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
-              "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-pu/pvc/Teflon/rubber/silicon–flat-incline"
+              "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-pu/pvc/Teflon/rubber/silicon-flat-incline"
             },
             {
               "id": "BNTPA-slat-ss/pp-slat-flat-incline",
-              "name": "BNTPA-slat-ss/pp-slat-flat-incline",
+              "name": "BNTPA-Slat SS/PP Slat flat incline",
               "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
               "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-slat-ss/pp-slat-flat-incline"
             },
             {
               "id": "BNTPA-modular-flat-incline",
-              "name": "BNTPA-modular-flat-incline",
+              "name": "BNTPA-modular flat incline",
               "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
               "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-modular-flat-incline"
             },
             {
               "id": "BNTPA-ms-mesh-belt/ss-mesh-belt",
-              "name": "BNTPA-ms-mesh-belt/ss-mesh-belt",
+              "name": "BNTPA-MS Mesh belt/SS mesh belt",
               "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
               "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-ms-mesh-belt/ss-mesh-belt"
             },
             {
               "id": "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m",
-              "name": "BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m",
+              "name": "BNTPA-Telescopic conveyor/3s-4/5.4m-7/9.6m",
               "image": "assets/img/products/secondary-packages/industrial-conveyor.jpg",
               "link": "product-detail.html?category=secondary-packages&type=industrialConveyorSystem&id=BNTPA-telescopic-conveyor/3s-4/5.4m-7/9.6m"
             }
