@@ -94,7 +94,7 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Drive Types", variantData.driveTypes, "product-model-drive-types")}
             ${generateRow("Heater Load Capacity", variantData.heaterLoadCapacity, "product-model-heater-load-capacity")}
             ${generateRow("sling Size lxw", variantData.slingSizelxw, "product-model-sling-size-lxw")}
-            ${generateRow("selling Power", variantData.sellingPower, "product-model-selling-power")}
+            ${generateRow("Sealing Power", variantData.sealingPower, "product-model-selling-power")}
             ${generateRow("product Travel", variantData.productTravel, "product-model-product-travel")}
             ${generateRow("product Selling Size lxwxh", variantData.productSellingSizelxwxh, "product-model-product-selling-size-lxwxh")}
             ${generateRow("Hit Zone Size LXWXH", variantData.hitZoneSizeLXWXH, "product-model-hit-zone-size-LXWXH")}
