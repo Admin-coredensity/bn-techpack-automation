@@ -28,8 +28,10 @@ function renderVariant(variantKey, variantData) {
       <div class="product-model-section-1">
         <img id="product-model-image" src="${variantData.image || "assets/img/placeholder-image.jpg"}" 
         alt="Product Image" onerror="this.onerror=null; this.src='assets/img/placeholder-image.jpg';" />
-        <img id="product-model-demo-image" src="${variantData.demoImage || "assets/img/placeholder-image.jpg"}" 
-        alt="Product Image" onerror="this.onerror=null; this.src='assets/img/placeholder-image.jpg';" />
+        <div id="image-container">
+        <img id="product-model-demo-image" src="${variantData.demoImage}" 
+        alt="Product Image" onerror="this.parentElement.style.display='none'" />
+        </div>
       </div>
       <div class="product-model-section-2">
         <h4 id="product-model-name">${variantData.name || "-"}</h4>
@@ -141,27 +143,6 @@ fetch(`assets/data/${category}/${productType}.json`)
         .map(([variantKey, variantValue]) => renderVariant(variantKey, variantValue))
         .join("");
       container.innerHTML = rendered;
-
-      // Listen for "Enquire Now" button clicks
-      // document.addEventListener("click", function (e) {
-      //     if (e.target.classList.contains("btn-getEnquireNow")) {
-      //         const parent = e.target.closest(".product-model-detail-container");
-      //         const productName = parent.querySelector("#product-model-name")?.textContent.trim() || "";
-      //         const modelNumber = parent.querySelector("#product-model-number")?.textContent.trim().replace("Model No.:", "").trim() || "";
-
-      // Fill in the modal form
-      // document.getElementById("product_name_display").textContent = productName;
-      // document.getElementById("product_name").value = productName;
-
-      // document.getElementById("model_number_display").textContent = "Model Number: " + modelNumber;
-      // document.getElementById("model_number").value = modelNumber;
-
-      // Show the modal (if not already handled)
-      // const enquiryModal = new bootstrap.Modal(document.getElementById("enquiryModal"));
-      // enquiryModal.show();
-      //     }
-      // });
-
     } else {
       console.warn("Matching product type or ID not found in data.");
       container.innerHTML = `<p>Product not found or has no variants.</p>`;
