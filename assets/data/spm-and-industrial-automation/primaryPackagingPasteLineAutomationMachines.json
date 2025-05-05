@@ -1,10 +1,10 @@
 {
   "primaryPackagingPasteLineAutomationMachines": {
-    "bntpafa-t/f/c/l-100-1000ml/gm-15bpm-pf-pneumatics-operated": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-15bpm-pf-pneumatics-operated": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-15bpm-pf-pneumatics-operated": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-15bpm-pf-pneumatics-operated": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic pneumatics operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm 15bpm-pf pneumatics operated",
+        "name": "Fully automatic pneumatics operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 15bpm PF pneumatics-operated",
         "category": "use for viscosity for water to paste level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "5.5 kw 230-415 ac 50hz",
@@ -12,15 +12,15 @@
         "speed": "10-15 bpm",
         "fillingAccuracy": "≤±1-4% ml-gm",
         "applicationFor": "turn table 2h filing 1h capping round stepper labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafa-t/f/c/l-100-1000ml/gm-30bpm-pf-pneumatics-operated": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-30bpm-pf-pneumatics-operated": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-30bpm-pf-pneumatics-operated": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-30bpm-pf-pneumatics-operated": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic pneumatics operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm 30bpm-pf pneumatics-operated",
+        "name": "Fully automatic pneumatics operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 30bpm PF pneumatics-operated",
         "category": "use for viscosity for water to paste level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "5.5 kw 230-415 ac 50hz",
@@ -28,15 +28,15 @@
         "speed": "25-30 bpm",
         "fillingAccuracy": "≤±1-4% ml-gm",
         "applicationFor": "turn table 4h filing 1h capping round stepper labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafa-t/f/c/l-100-1000ml/gm-40bpm-pf-pneumatics-operated": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-40bpm-pf-pneumatics-operated": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-40bpm-pf-pneumatics-operated": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-40bpm-pf-pneumatics-operated": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic pneumatics operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm 40bpm-pf pneumatics-operated",
+        "name": "Fully automatic pneumatics operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 40bpm PF pneumatics-operated",
         "category": "use for viscosity for water to paste level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "5.5 kw 230-415 ac 50hz",
@@ -44,15 +44,15 @@
         "speed": "35-40 bpm",
         "fillingAccuracy": "≤±1-4% ml-gm",
         "applicationFor": "turn table 6h filing 1h capping round stepper labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafa-t/f/c/l-100-1000ml/gm-50bpm-pf-pneumatics-operated": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-50bpm-pf-pneumatics-operated": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-50bpm-pf-pneumatics-operated": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-50bpm-pf-pneumatics-operated": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic pneumatics operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm-50bpm-pf-pneumatics-operated",
+        "name": "Fully automatic pneumatics operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 50bpm PF pneumatics-operated",
         "category": "use for viscosity for water to paste level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "6.5 kw 230-415 ac 50hz",
@@ -60,15 +60,15 @@
         "speed": "45-50 bpm",
         "fillingAccuracy": "≤±1-4% ml-gm",
         "applicationFor": "turn table 8h filing 4h capping round servo labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafat/f/c/l-100-1000ml/gm-60bpm-pf-pneumatics-operated": {
-      "bntpafat/f/c/l-100-1000ml/gm-60bpm-pf-pneumatics-operated": {
+    "BNTPAFAT/F/C/L-100-1000ml/gm-60bpm-pf-pneumatics-operated": {
+      "BNTPAFAT/F/C/L-100-1000ml/gm-60bpm-pf-pneumatics-operated": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic pneumatics operated primary packaging paste line automation",
-        "model": "bntpafat+f+c+l-100-1000ml/gm-60bpm-pf-pneumatics-operated",
+        "name": "Fully automatic pneumatics operated primary packaging paste line automation",
+        "model": "BNTPAFAT+F+C+L 100-1000ml/gm 60bpm PF pneumatics-operated",
         "category": "use for viscosity for water to paste level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "6.5 kw 230-415 ac 50hz",
@@ -76,15 +76,15 @@
         "speed": "55-60bpm",
         "fillingAccuracy": "≤±1-4% ml-gm",
         "applicationFor": "turn table 10h filing 4h capping round servo labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafat/f/c/l-100-1000ml/gm-80bpm-pf-pneumatics-operated": {
-      "bntpafat/f/c/l-100-1000ml/gm-80bpm-pf-pneumatics-operated": {
+    "BNTPAFAT/F/C/L-100-1000ml/gm-80bpm-pf-pneumatics-operated": {
+      "BNTPAFAT/F/C/L-100-1000ml/gm-80bpm-pf-pneumatics-operated": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic pneumatics operated primary packaging paste line automation",
-        "model": "bntpafat+f+c+l-100-1000ml/gm-80bpm-pf-pneumatics-operated",
+        "name": "Fully automatic pneumatics operated primary packaging paste line automation",
+        "model": "BNTPAFAT+F+C+L 100-1000ml/gm 80bpm PF pneumatics-operated",
         "category": "use for viscosity for water to paste level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "6.5 kw 230 -415 ac 50hz",
@@ -92,15 +92,15 @@
         "speed": "70-80 bpm",
         "fillingAccuracy": "≤±1-4% ml-gm",
         "applicationFor": "turn table 12h filing 6h capping round servo labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafa-t/f/c/l-100-1000ml/gm-25bpm-pf-servo-base": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-25bpm-pf-servo-base": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-25bpm-pf-servo-base": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-25bpm-pf-servo-base": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic servo base operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm-25bpm-pf-servo-base",
+        "name": "Fully automatic servo base operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 25bpm PF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "8 kw 230-415 ac 50hz",
@@ -108,15 +108,15 @@
         "speed": "20-25 bpm",
         "fillingAccuracy": "≤±1-2% ml-gm",
         "applicationFor": "turn table 2h filing 1h capping round stepper labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafa-t/f/c/l-100-1000ml/gm-40-bpm-pf-servo-base": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-40-bpm-pf-servo-base": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-40-bpm-pf-servo-base": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-40-bpm-pf-servo-base": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic servo base operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm 40 bpm-pf-servo-base",
+        "name": "Fully automatic servo base operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 40bpm PF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "8.5 kw 230-415 ac 50hz",
@@ -124,15 +124,15 @@
         "speed": "35-40 bpm",
         "fillingAccuracy": "≤±1-2% ml-gm",
         "applicationFor": "turn table 4h filing 1h capping round stepper labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafa-t/f/c/l-100-1000ml/gm-50-bpm-pf-servo-base": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-50-bpm-pf-servo-base": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-50-bpm-pf-servo-base": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-50-bpm-pf-servo-base": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic servo base operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm 50 bpm-pf-servo-base",
+        "name": "Fully automatic servo base operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 50bpm PF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "9 kw 230-415 ac 50hz",
@@ -140,15 +140,15 @@
         "speed": "45-50 bpm",
         "fillingAccuracy": "≤±1-2% ml-gm",
         "applicationFor": "turn table 6h filing 4h capping round servo labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafa-t/f/c/l-100-1000ml/gm-60-bpm-pf-servo-base": {
-      "bntpafa-t/f/c/l-100-1000ml/gm-60-bpm-pf-servo-base": {
+    "BNTPAFA-T/F/C/L-100-1000ml/gm-60-bpm-pf-servo-base": {
+      "BNTPAFA-T/F/C/L-100-1000ml/gm-60-bpm-pf-servo-base": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic servo base operated primary packaging paste line automation",
-        "model": "bntpafa-t+f+c+l-100-1000ml/gm 60 bpm-pf-servo-base",
+        "name": "Fully automatic servo base operated primary packaging paste line automation",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 60bpm PF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "9.5 kw 230-415 ac 50hz",
@@ -156,15 +156,15 @@
         "speed": "55-60 bpm",
         "fillingAccuracy": "≤±1-2% ml-gm",
         "applicationFor": "turn table 8h filing 4h capping round servo labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafat/f/c/l-100-1000ml/gm-80-bpm-pf-servo-base": {
-      "bntpafat/f/c/l-100-1000ml/gm-80-bpm-pf-servo-base": {
+    "BNTPAFAT/F/C/L-100-1000ml/gm-80-bpm-pf-servo-base": {
+      "BNTPAFAT/F/C/L-100-1000ml/gm-80-bpm-pf-servo-base": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic servo base operated primary packaging paste line automation",
-        "model": "bntpafat+f+c+l-100-1000ml/gm 80-bpm-pf-servo-base",
+        "name": "Fully automatic servo base operated primary packaging paste line automation",
+        "model": "BNTPAFAT+F+C+L 100-1000ml/gm 80bpm PF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "10 kw 230-415 ac 50hz",
@@ -172,15 +172,15 @@
         "speed": "70-80 bpm",
         "fillingAccuracy": "≤±1-2% ml-gm",
         "applicationFor": "turn table 10h filing 6h capping round servo labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     },
-    "bntpafat/f/c/l-100-1000ml/gm-90bpm-pf-servo-base": {
-      "bntpafat/f/c/l-100-1000ml/gm-90bpm-pf-servo-base": {
+    "BNTPAFAT/F/C/L-100-1000ml/gm-90bpm-pf-servo-base": {
+      "BNTPAFAT/F/C/L-100-1000ml/gm-90bpm-pf-servo-base": {
         "heading": "spm & industrial automation",
-        "name": "fully automatic servo base operated primary packaging paste line automation",
-        "model": "bntpafat+f+c+l-100-1000ml/gm 90 bpm-pf-servo-base",
+        "name": "Fully automatic servo base operated primary packaging paste line automation",
+        "model": "BNTPAFAT+F+C+L 100-1000ml/gm 90bpm PF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
         "power": "10.5 kw 230-415 ac 50hz",
@@ -188,7 +188,7 @@
         "speed": "80-90 bpm",
         "fillingAccuracy": "≤±1-2% ml-gm",
         "applicationFor": "turn table 12h filing 6h capping round servo labeling",
-        "operating": "fully automatic",
+        "operating": "Fully automatic",
         "liquidTankCapacity": "100-150 ltr/kg"
       }
     }

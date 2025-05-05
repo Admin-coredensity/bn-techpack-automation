@@ -4,7 +4,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-15bpm-lf-pneumatics-operated": {
         "heading": "spm & industrial automation",
         "name": "fully automatic pneumatics operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm-15bpm-lf-pneumatics-operated",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 15bpm LF pneumatics-operated",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "5.5 kw 230-415 ac 50hz",
@@ -20,7 +20,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-30bpm-lf-pneumatics-operated": {
         "heading": "spm & industrial automation",
         "name": "fully automatic pneumatics operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm-30bpm-lf-pneumatics-operated",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 30bpm LF pneumatics-operated",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "5.5 kw 230-415 ac 50hz",
@@ -36,7 +36,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-40bpm-lf-pneumatics-operated": {
         "heading": "spm & industrial automation",
         "name": "fully automatic pneumatics operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm-40bpm-lf-pneumatics-operated",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 40bpm LF pneumatics-operated",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "5.5 kw 230-415 ac 50hz",
@@ -52,7 +52,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-50bpm-lf-pneumatics-operated": {
         "heading": "spm & industrial automation",
         "name": "fully automatic pneumatics operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm-50bpm-lf-pneumatics-operated",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 50bpm LF pneumatics-operated",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "6.5 kw 230-415 ac 50hz",
@@ -68,7 +68,7 @@
       "BNTPAFAT/F/C/L-100-1000ml/gm-60bpm-lf-pneumatics-operated": {
         "heading": "spm & industrial automation",
         "name": "fully automatic pneumatics operated primary packaging liquid line automation",
-        "model": "BNTPAFAT+F+C+L-100-1000ml/gm-60bpm-lf-pneumatics-operated",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 60bpm LF pneumatics-operated",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "6.5 kw 230-415 ac 50hz",
@@ -84,7 +84,7 @@
       "BNTPAFAT/F/C/L-100-1000ml/gm-80bpm-lf-pneumatics-operated": {
         "heading": "spm & industrial automation",
         "name": "fully automatic pneumatics operated primary packaging liquid line automation",
-        "model": "BNTPAFAT+F+C+L-100-1000ml/gm-80bpm-lf-pneumatics-operated",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 80bpm LF pneumatics-operated",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "6.5 kw 230-415 ac 50hz",
@@ -100,7 +100,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-25bpm-lf-servo-base": {
         "heading": "spm & industrial automation",
         "name": "fully automatic servo base operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm-25bpm-lf-servo-base",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 25bpm LF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "8 kw 230-415 ac 50hz",
@@ -116,7 +116,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-40-bpm-lf-servo-base": {
         "heading": "spm & industrial automation",
         "name": "fully automatic servo base operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm 40 bpm-lf-servo-base",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 40bpm LF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "8.5 kw 230-415 ac 50hz",
@@ -132,7 +132,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-50-bpm-lf-servo-base": {
         "heading": "spm & industrial automation",
         "name": "fully automatic servo base operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm 50 bpm-lf-servo-base",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 50bpm LF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "9 kw 230-415 ac 50hz",
@@ -148,7 +148,7 @@
       "BNTPAFA-T/F/C/L-100-1000ml/gm-60-bpm-lf-servo-base": {
         "heading": "spm & industrial automation",
         "name": "fully automatic servo base operated primary packaging liquid line automation",
-        "model": "BNTPAFA-T+F+C+L-100-1000ml/gm 60 bpm-lf-servo-base",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 60bpm LF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "9.5 kw 230-415 ac 50hz",
@@ -164,7 +164,7 @@
       "BNTPAFAT/F/C/L-100-1000ml/gm-80-bpm-lf-servo-base": {
         "heading": "spm & industrial automation",
         "name": "fully automatic servo base operated primary packaging liquid line automation",
-        "model": "BNTPAFAT+F+C+L-100-1000ml/gm 80-bpm-lf-servo-base",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 80bpm LF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "10 kw 230-415 ac 50hz",
@@ -180,7 +180,7 @@
       "BNTPAFAT/F/C/L-100-1000ml/gm-90bpm-lf-servo-base": {
         "heading": "spm & industrial automation",
         "name": "fully automatic servo base operated primary packaging liquid line automation",
-        "model": "BNTPAFAT+F+C+L-100-1000ml/gm 90 bpm-lf-servo-base",
+        "model": "BNTPAFA-T+F+C+L 100-1000ml/gm 90bpm LF servo-base",
         "category": "use for viscosity for water to honey level",
         "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-liquid-line-automation.png",
         "power": "10.5 kw 230-415 ac 50hz",
