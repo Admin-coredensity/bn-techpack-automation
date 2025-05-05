@@ -14,6 +14,10 @@
     display: flex;
 }
 
+.accordion-section-title{
+    text-transform: capitalize;
+}
+
 .category-section .accordion .accordion-body .ul {
     list-style: none;
     font-size: 14px;

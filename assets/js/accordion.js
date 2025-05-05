@@ -18,7 +18,7 @@
                 <button class="accordion-button ${isFirst ? "" : "collapsed"}" type="button" data-bs-toggle="collapse"
                     data-bs-target="#${collapseId}" aria-expanded="${expanded}" aria-controls="${collapseId}">
                     <span class="d-flex justify-content-between align-items-center w-100">
-                    <span>${section.title}</span>
+                    <span class="accordion-section-title">${section.title}</span>
                     <i class="icon-state bi me-2"></i>
                     </span>
                 </button>
