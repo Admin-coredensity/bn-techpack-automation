@@ -8,25 +8,25 @@
           "models": [
             {
               "id": "BNTPA-10-100ML-GM-1HP/2HP",
-              "name": "BNTPA: 10-100 ML -GM 1HP/2HP",
+              "name": "BNTPA: 10-100 ML-GM 1HP/2HP",
               "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-10-100ML-GM-1HP/2HP"
             },
             {
               "id": "BNTPA-50-500-ML-GM-1HP/2HP",
-              "name": "BNTPA: 50-500 ML -GM 1HP/2HP",
+              "name": "BNTPA: 50-500 ML-GM 1HP/2HP",
               "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-50-500-ML-GM-1HP/2HP"
             },
             {
               "id": "BNTPA-100-1000-ML-GM-1HP/2HP",
-              "name": "BNTPA: 100-1000 ML -GM 1HP/2HP",
+              "name": "BNTPA: 100-1000 ML-GM 1HP/2HP",
               "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-100-1000-ML-GM-1HP/2HP"
             },
             {
               "id": "BNTPA-500-5000-ML-GM-1HP/2HP",
-              "name": "BNTPA: 500-5000 ML -GM 1HP/2HP",
+              "name": "BNTPA: 500-5000 ML-GM 1HP/2HP",
               "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-500-5000-ML-GM-1HP/2HP"
             }
@@ -65,13 +65,13 @@
             },
             {
               "id": "BNTPA-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPA: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
+              "name": "BNTPA: 50-500 ML-GM 2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
             },
             {
               "id": "BNTPA-100-1000-ML-GM-H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPA: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
+              "name": "BNTPA: 100-1000 ML-GM 2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-100-1000-ML-GM-H-4H-6H-8H-10H-12H-pneumatics-operated"
             },
@@ -99,19 +99,19 @@
             },
             {
               "id": "BNTPA-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-              "name": "BNTPA: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
+              "name": "BNTPA: 50-500 ML-GM 2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
             },
             {
               "id": "BNTPA-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-              "name": "BNTPA: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
+              "name": "BNTPA: 100-1000 ML-GM 2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
             },
             {
               "id": "BNTPA-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based",
-              "name": "BNTPA: 500-5000 ML -GM 2H-4H-6H-8H-10H-12H",
+              "name": "BNTPA: 500-5000 ML-GM 2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
               "link": "product-detail.html?category=primary-packages&type=liquidFillingMachines&id=BNTPA-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based"
             }
