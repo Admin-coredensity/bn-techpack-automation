@@ -88,7 +88,7 @@
     "BNTPAFL-5545RL/BNTPA-4525-B/R": {
       "BNTPAFL-5545RL/BNTPA-4525-B/R": {
         "heading": "L-Bar Sealer Machine",
-        "name": "Fully auto L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine with shrink tunnel",
         "model": "BNTPAFL-5545RL+BNTPA-4525-B/R",
         "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
         "productionSpeed": "20-25 cpm",
@@ -102,7 +102,7 @@
     "BNTPAFL-5545PL/BNTPA-4525-B/R": {
       "BNTPAFL-5545PL/BNTPA-4525-B/R": {
         "heading": "L-Bar Sealer Machine",
-        "name": "Fully auto L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine with shrink tunnel",
         "model": "BNTPAFL-5545PL+BNTPA-4525-B/R",
         "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
         "productionSpeed": "20-25 cpm",
@@ -116,7 +116,7 @@
     "BNTPAFL-5545PLK/BNTPA-4525-B/R": {
       "BNTPAFL-5545PLK/BNTPA-4525-B/R": {
         "heading": "L-Bar Sealer Machine",
-        "name": "Fully auto L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine with shrink tunnel",
         "model": "BNTPAFL-5545PLK+BNTPA-4525-B/R",
         "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
         "productionSpeed": "20-25 cpm",
@@ -130,7 +130,7 @@
     "BNTPAFL-5545/BNTPA-4525-B/R": {
       "BNTPAFL-5545/BNTPA-4525-B/R": {
         "heading": "L-Bar Sealer Machine",
-        "name": "Fully auto L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine with shrink tunnel",
         "model": "BNTPAFL-5545+BNTPA-4525-B/R",
         "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
         "productionSpeed": "20-25 cpm",
@@ -144,7 +144,7 @@
     "BNTPAFL-6560TBD/BNTPA-5535-R/B": {
       "BNTPAFL-6560TBD/BNTPA-5535-R/B": {
         "heading": "L-Bar Sealer Machine",
-        "name": "Fully auto L-Bar Sealer Machine",
+        "name": "Fully auto L-Bar Sealer Machine with shrink tunnel",
         "model": "BNTPAFL-6560TBD+BNTPA-5535-R/B",
         "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
         "productionSpeed": "15-25 cpm",
