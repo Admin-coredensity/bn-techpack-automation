@@ -1,0 +1,38 @@
+{
+  "sections": [
+    {
+      "title": "carton erector & cartoning machine",
+      "categories": [
+        {
+          "subtitle": "",
+          "models": [
+            {
+              "id": "BNTPA-FCE-4540",
+              "name": "BNTPA-FCE-4540",
+              "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=cartonErectorAndCartoningMachines&id=BNTPA-FCE-4540"
+            },
+            {
+              "id": "BNTPA-FCDU-3030",
+              "name": "BNTPA-FCDU-3030",
+              "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=cartonErectorAndCartoningMachines&id=BNTPA-FCDU-3030"
+            },
+            {
+              "id": "BNTPA-SCDU-3030",
+              "name": "BNTPA-SCDU-3030",
+              "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=cartonErectorAndCartoningMachines&id=BNTPA-SCDU-3030"
+            },
+            {
+              "id": "BNTPA-FCE-100100AZ",
+              "name": "BNTPA-FCE-100100AZ",
+              "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=cartonErectorAndCartoningMachines&id=BNTPA-FCE-100100AZ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

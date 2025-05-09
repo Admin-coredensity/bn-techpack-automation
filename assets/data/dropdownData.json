@@ -6,9 +6,9 @@
       "icon": "bi bi-square-fill",
       "items": [
         {
-          "image": "assets/img/dropdown/carton-erector-and-carting-machine.png",
-          "text": "carton erector & carting machine",
-          "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-carting-machine"
+          "image": "assets/img/dropdown/carton-erector-and-cartoning-machine.png",
+          "text": "carton erector & cartoning machine",
+          "link": "product.html?category=spm-and-industrial-automation&type=carton-erector-and-cartoning-machine"
         },
         {
           "image": "assets/img/dropdown/bagging-and-weighing-machine.png",

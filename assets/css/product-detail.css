@@ -22,6 +22,7 @@
     font-weight: 500;
     color: var(--default-color);
     margin: 0;
+    text-transform: capitalize;
 }
 
 .product-model-detail-section .product-model-detail-container {

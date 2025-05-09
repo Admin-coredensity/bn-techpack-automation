@@ -1,0 +1,56 @@
+{
+  "cartonErectorAndCartoningMachines": {
+    "BNTPA-FCE-4540": {
+      "BNTPA-FCE-4540": {
+        "heading": "SPM & industrial automation",
+        "name": "carton erector & cartoning machine",
+        "model": "BNTPA-FCE-4540",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+        "speed": "8-12 cpm",
+        "boxSizelxwxh": "250-450 mm, 150-400 mm, 150-400 mm",
+        "boxTypes": "corrugated box 3p,5p,7p",
+        "operating": "fully auto",
+        "power": "230/415 v ac 50hz"
+      }
+    },
+    "BNTPA-FCDU-3030": {
+      "BNTPA-FCDU-3030": {
+        "heading": "SPM & industrial automation",
+        "name": "carton erector & cartoning machine",
+        "model": "BNTPA-FCDU-3030",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+        "speed": "15-100 cpm",
+        "boxSizelxwxh": "25-300 mm, 25-300 mm, 10-50 mm",
+        "boxTypes": "duplex box",
+        "operating": "fully auto",
+        "power": "230/415 v ac 50hz"
+      }
+    },
+    "BNTPA-SCDU-3030": {
+      "BNTPA-SCDU-3030": {
+        "heading": "SPM & industrial automation",
+        "name": "carton erector & cartoning machine",
+        "model": "BNTPA-SCDU-3030",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+        "speed": "10-20 cpm",
+        "boxSizelxwxh": "25-300 mm, 25-300 mm, 10-50 mm",
+        "boxTypes": "duplex box",
+        "operating": "semi auto",
+        "power": "230/415 v ac 50hz"
+      }
+    },
+    "BNTPA-FCE-100100AZ": {
+      "BNTPA-FCE-100100AZ": {
+        "heading": "SPM & industrial automation",
+        "name": "carton erector & cartoning machine",
+        "model": "BNTPA-FCE-100100AZ",
+        "image": "assets/img/products/spm-and-industrial-automation/carton-erector-and-cartoning-machine.png",
+        "speed": "6-10 cpm",
+        "boxSizelxwxh": "450-1000 mm, 400-1000 mm, 400-1000 mm",
+        "boxTypes": "corrugated box 3p,5p,7p",
+        "operating": "fully auto",
+        "power": "230/415 v ac 50hz"
+      }
+    }
+  }
+}
