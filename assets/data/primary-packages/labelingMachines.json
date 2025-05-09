@@ -1,10 +1,10 @@
 {
   "labelingMachines": {
-    "BNTPAR-30100150-250-stepper/servo": {
-      "BNTPAR-30100150-250-stepper": {
+    "BNTPA-R-30100150-250-stepper/servo": {
+      "BNTPA-R-30100150-250-stepper": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
-        "model": "BNTPAR-30100150-250 stepper",
+        "model": "BNTPA-R-30100150-250 stepper",
         "productionSpeedBPM": "30-40",
         "image": "assets/img/products/primary-packages/labeling-machine-round.png",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
@@ -18,10 +18,10 @@
         "power": "1 kw 230 V AC 50Hz",
         "materialOfConstruction": "MS/SS 304"
       },
-      "BNTPAR-30100150-250-servo": {
+      "BNTPA-R-30100150-250-servo": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
-        "model": "BNTPAR-30100150-250 servo",
+        "model": "BNTPA-R-30100150-250 servo",
         "productionSpeedBPM": "50-80",
         "image": "assets/img/products/primary-packages/labeling-machine-round.png",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
@@ -36,12 +36,12 @@
         "materialOfConstruction": "MS/SS 304"
       }
     },
-    "BNTPAFB-30150-250-stepper/servo": {
-      "BNTPAFB-30150-250-stepper": {
+    "BNTPA-FB-30150-250-stepper/servo": {
+      "BNTPA-FB-30150-250-stepper": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "30-40",
-        "model": "BNTPAFB-30150-250 stepper",
+        "model": "BNTPA-FB-30150-250 stepper",
         "image": "assets/img/products/primary-packages/labeling-machine-front-back-and-round.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -54,11 +54,11 @@
         "power": "1.5 kw 230 V AC 50Hz",
         "materialOfConstruction": "MS/SS 304"
       },
-      "BNTPAFB-30150-250-servo": {
+      "BNTPA-FB-30150-250-servo": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "50-80",
-        "model": "BNTPAFB-30150-250 servo",
+        "model": "BNTPA-FB-30150-250 servo",
         "image": "assets/img/products/primary-packages/labeling-machine-front-back-and-round.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -72,12 +72,12 @@
         "materialOfConstruction": "MS/SS 304"
       }
     },
-    "BNTPAFBR-30150-250-stepper/servo": {
-      "BNTPAFBR-30150-250-stepper": {
+    "BNTPA-FBR-30150-250-stepper/servo": {
+      "BNTPA-FBR-30150-250-stepper": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "30-40",
-        "model": "BNTPAFBR-30150-250 stepper",
+        "model": "BNTPA-FBR-30150-250 stepper",
         "image": "assets/img/products/primary-packages/labeling-machine-front-back-and-round.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -90,11 +90,11 @@
         "power": "1.7 kw 230 V AC 50Hz",
         "materialOfConstruction": "MS/SS 304"
       },
-      "BNTPAFBR-30150-250-servo": {
+      "BNTPA-FBR-30150-250-servo": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "50-80",
-        "model": "BNTPAFBR-30150-250 servo",
+        "model": "BNTPA-FBR-30150-250 servo",
         "image": "assets/img/products/primary-packages/labeling-machine-front-back-and-round.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -108,12 +108,12 @@
         "materialOfConstruction": "MS/SS 304"
       }
     },
-    "BNTPAFS-30150-250-stepper/servo": {
-      "BNTPAFS-30150-250-stepper": {
+    "BNTPA-FS-30150-250-stepper/servo": {
+      "BNTPA-FS-30150-250-stepper": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "30-40",
-        "model": " BNTPAFS-30150-250 stepper ",
+        "model": " BNTPA-FS-30150-250 stepper ",
         "image": "assets/img/products/primary-packages/labeling-machine-top-and-side.png",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -126,11 +126,11 @@
         "power": "0.5 kw 230 V AC 50Hz",
         "materialOfConstruction": "MS/SS 304"
       },
-      "BNTPAFS-30150-250-servo": {
+      "BNTPA-FS-30150-250-servo": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "50-80",
-        "model": " BNTPAFS-30150-250 servo ",
+        "model": " BNTPA-FS-30150-250 servo ",
         "image": "assets/img/products/primary-packages/labeling-machine-top-and-side.png",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -144,12 +144,12 @@
         "materialOfConstruction": "MS/SS 304"
       }
     },
-    "BNTPAT-30150-250-stepper/servo": {
-      "BNTPAT-30150-250-stepper": {
+    "BNTPA-T-30150-250-stepper/servo": {
+      "BNTPA-T-30150-250-stepper": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "30-40",
-        "model": "BNTPAT-30150-250 stepper",
+        "model": "BNTPA-T-30150-250 stepper",
         "image": "assets/img/products/primary-packages/labeling-machine-top-and-side.png",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
@@ -162,11 +162,11 @@
         "power": "1 kw 230 V AC 50Hz",
         "materialOfConstruction": "MS/SS 304"
       },
-      "BNTPAT-30150-250-servo": {
+      "BNTPA-T-30150-250-servo": {
         "heading": "Labeling machine",
         "name": "Label applicator machine",
         "productionSpeedBPM": "50-80",
-        "model": "BNTPAT-30150-250 servo",
+        "model": "BNTPA-T-30150-250 servo",
         "image": "assets/img/products/primary-packages/labeling-machine-top-and-side.png",
         "demoImage": "assets/img/products/primary-packages/demo/labeling.jpg",
         "labelRollDiameter": "UP TO 300 mm",
