@@ -42,7 +42,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "±1-2%",
-        "hopperVolume": "15-20 LTR-KG",
+        "hopperVolume": "",
         "numberOfHeads": "Single head"
       },
       "2H": {
@@ -56,7 +56,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "±1-2%",
-        "hopperVolume": "15-20 LTR-KG",
+        "hopperVolume": "",
         "numberOfHeads": "Double head"
       }
     },
@@ -72,7 +72,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "±1-2%",
-        "hopperVolume": "15-20 LTR-KG",
+        "hopperVolume": "",
         "numberOfHeads": "Single head"
       },
       "2H": {
@@ -86,7 +86,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "±1-2%",
-        "hopperVolume": "15-20 LTR-KG",
+        "hopperVolume": "",
         "numberOfHeads": "Double head"
       }
     },
@@ -102,7 +102,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "15-20 LTR-KG",
+        "hopperVolume": "",
         "numberOfHeads": "Single head"
       },
       "2H": {
@@ -116,7 +116,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "15-20 LTR-KG",
+        "hopperVolume": "",
         "numberOfHeads": "Double head"
       }
     },
@@ -264,7 +264,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-15 bottles/min",
         "fillingAccuracy": "±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Paste filling machine",
@@ -277,7 +277,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "25-30 bottles/min",
         "fillingAccuracy": "±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Paste filling machine",
@@ -290,7 +290,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "35-40 bottles/min",
         "fillingAccuracy": "±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Paste filling machine",
@@ -303,7 +303,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "45-50 bottles/min",
         "fillingAccuracy": "±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Paste filling machine",
@@ -316,7 +316,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "55-60 bottles/min",
         "fillingAccuracy": "±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Paste filling machine",
@@ -329,7 +329,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "70-80 bottles/min",
         "fillingAccuracy": "±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       }
     },
     "BNTPA-FPF-100-1000ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
@@ -344,7 +344,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-15 bottles/min",
         "fillingAccuracy": "±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Paste filling machine",
@@ -357,7 +357,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "25-30 bottles/min",
         "fillingAccuracy": "±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Paste filling machine",
@@ -370,7 +370,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "35-40 bottles/min",
         "fillingAccuracy": "±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Paste filling machine",
@@ -383,7 +383,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "45-50 bottles/min",
         "fillingAccuracy": "±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Paste filling machine",
@@ -396,7 +396,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "55-60 bottles/min",
         "fillingAccuracy": "±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Paste filling machine",
@@ -409,7 +409,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "70-80 bottles/min",
         "fillingAccuracy": "±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       }
     },
     "BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
@@ -424,7 +424,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-15 bottles/min",
         "fillingAccuracy": "±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Paste filling machine",
@@ -437,7 +437,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "25-30 bottles/min",
         "fillingAccuracy": "±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Paste filling machine",
@@ -450,7 +450,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "35-40 bottles/min",
         "fillingAccuracy": "±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Paste filling machine",
@@ -463,7 +463,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "45-50 bottles/min",
         "fillingAccuracy": "±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Paste filling machine",
@@ -476,7 +476,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "55-60 bottles/min",
         "fillingAccuracy": "±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Paste filling machine",
@@ -489,7 +489,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "70-80 bottles/min",
         "fillingAccuracy": "±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       }
     },
     "BNTPA-FPF-10-100ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated": {
@@ -584,7 +584,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "20-25 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Paste filling machine",
@@ -597,7 +597,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "35-40 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Paste filling machine",
@@ -610,7 +610,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "45-50 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Paste filling machine",
@@ -623,7 +623,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "55-60 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Paste filling machine",
@@ -636,7 +636,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "75-80 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Paste filling machine",
@@ -649,7 +649,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "85-90 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       }
     },
     "BNTPA-FPF-100-1000ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated": {
@@ -664,7 +664,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "20-25 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Paste filling machine",
@@ -677,7 +677,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "35-40 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Paste filling machine",
@@ -690,7 +690,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "45-50 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Paste filling machine",
@@ -703,7 +703,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "55-60 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Paste filling machine",
@@ -716,7 +716,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "75-80 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Paste filling machine",
@@ -729,7 +729,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "85-90 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       }
     },
     "BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated": {
@@ -744,7 +744,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "20-25 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Paste filling machine",
@@ -757,7 +757,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "35-40 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Paste filling machine",
@@ -770,7 +770,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "45-50 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Paste filling machine",
@@ -783,7 +783,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "55-60 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Paste filling machine",
@@ -796,7 +796,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "75-80 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Paste filling machine",
@@ -809,7 +809,7 @@
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "85-90 bottles/min",
         "fillingAccuracy": "±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr-kg"
+        "hopperVolume": ""
       }
     }
   }
