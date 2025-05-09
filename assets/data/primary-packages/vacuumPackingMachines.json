@@ -34,7 +34,7 @@
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/vacuum-packing-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/vacuum-packing.jpg",
-        "sealingWidthLength": "8-10/400 x2",
+        "sealingWidthLength": "8-10/400 mm x2",
         "productionSpeed": "2-4 times/min",
         "chamberSize": ""
       }
@@ -65,12 +65,12 @@
         "chamberSize": ""
       }
     },
-    "BNTPA-500DZ-MS-nitrogen-filling": {
-      "BNTPA-500DZ-MS-nitrogen-filling": {
-        "heading": "Vacuum Packing machine external with nitrogen filling",
-        "name": "Vacuum Packing machine external with nitrogen filling",
+    "BNTPA-500DZ-MS-nitrogen-flushing": {
+      "BNTPA-500DZ-MS-nitrogen-flushing": {
+        "heading": "Vacuum Packing machine external with nitrogen flushing",
+        "name": "Vacuum Packing machine external with nitrogen flushing",
         "model": "BNTPA-500DZ",
-        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-flushing.png ",
         "demoImage": "assets/img/products/primary-packages/demo/vacuum-packing-with-nitrogen.jpg",
         "power": "850W 230 V AC 50Hz",
         "sealingWidthLength": "8-10 / mm",
@@ -79,12 +79,12 @@
         "MOC": "MS"
       }
     },
-    "BNTPA-500DZ-SS-nitrogen-filling": {
-      "BNTPA-500DZ-SS-nitrogen-filling": {
-        "heading": "Vacuum Packing machine external with nitrogen filling",
-        "name": "Vacuum Packing machine external with nitrogen filling",
+    "BNTPA-500DZ-SS-nitrogen-flushing": {
+      "BNTPA-500DZ-SS-nitrogen-flushing": {
+        "heading": "Vacuum Packing machine external with nitrogen flushing",
+        "name": "Vacuum Packing machine external with nitrogen flushing",
         "model": "BNTPA-500DZ",
-        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-flushing.png ",
         "demoImage": "assets/img/products/primary-packages/demo/vacuum-packing-with-nitrogen.jpg",
         "power": "850W 230 V AC 50Hz",
         "sealingWidthLength": "8-10/300 mm",
@@ -93,26 +93,26 @@
         "MOC": "SS"
       }
     },
-    "BNTPA-600DZ-MS-nitrogen-filling": {
-      "BNTPA-600DZ-MS-nitrogen-filling": {
-        "heading": "Vacuum Packing machine external with nitrogen filling",
-        "name": "Vacuum Packing machine external with nitrogen filling",
+    "BNTPA-600DZ-MS-nitrogen-flushing": {
+      "BNTPA-600DZ-MS-nitrogen-flushing": {
+        "heading": "Vacuum Packing machine external with nitrogen flushing",
+        "name": "Vacuum Packing machine external with nitrogen flushing",
         "model": "BNTPA-600DZ",
-        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-flushing.png ",
         "demoImage": "assets/img/products/primary-packages/demo/vacuum-packing-with-nitrogen.jpg",
         "power": "850W 230 V AC 50Hz",
-        "sealingWidthLength": "8-10/400 x2",
+        "sealingWidthLength": "8-10/400 mm x2",
         "productionSpeed": "2-4 times/min",
         "chamberSize": "",
         "MOC": "MS"
       }
     },
-    "BNTPA-600DZ-SS-nitrogen-filling": {
-      "BNTPA-600DZ-SS-nitrogen-filling": {
-        "heading": "Vacuum Packing machine external with nitrogen filling",
-        "name": "Vacuum Packing machine external with nitrogen filling",
+    "BNTPA-600DZ-SS-nitrogen-flushing": {
+      "BNTPA-600DZ-SS-nitrogen-flushing": {
+        "heading": "Vacuum Packing machine external with nitrogen flushing",
+        "name": "Vacuum Packing machine external with nitrogen flushing",
         "model": "BNTPA-600DZ",
-        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-filling.png",
+        "image": "assets/img/products/primary-packages/vacuum-packing-with-nitrogen-flushing.png ",
         "demoImage": "assets/img/products/primary-packages/demo/vacuum-packing-with-nitrogen.jpg",
         "power": "850W 230 V AC 50Hz",
         "sealingWidthLength": "8-10/500 mm x2",
