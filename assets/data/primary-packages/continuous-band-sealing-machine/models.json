@@ -7,28 +7,28 @@
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPAFR-880H",
-              "name": "BNTPAFR-880H",
+              "id": "BNTPA-FR-880H",
+              "name": "BNTPA-FR-880H",
               "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=continuousBandSealingMachines&id=BNTPAFR-880H"
+              "link": "product-detail.html?category=primary-packages&type=continuousBandSealingMachines&id=BNTPA-FR-880H"
             },
             {
-              "id": "BNTPAFR-880V",
-              "name": "BNTPAFR-880V",
+              "id": "BNTPA-FR-880V",
+              "name": "BNTPA-FR-880V",
               "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=continuousBandSealingMachines&id=BNTPAFR-880V"
+              "link": "product-detail.html?category=primary-packages&type=continuousBandSealingMachines&id=BNTPA-FR-880V"
             },
             {
-              "id": "BNTPAFR-880HN-1",
-              "name": "BNTPAFR-880HN-1",
+              "id": "BNTPA-FR-880HN-1",
+              "name": "BNTPA-FR-880HN-1",
               "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=continuousBandSealingMachines&id=BNTPAFR-880HN-1"
+              "link": "product-detail.html?category=primary-packages&type=continuousBandSealingMachines&id=BNTPA-FR-880HN-1"
             },
             {
-              "id": "BNTPAFR-880HN-2",
-              "name": "BNTPAFR-880HN-2",
+              "id": "BNTPA-FR-880HN-2",
+              "name": "BNTPA-FR-880HN-2",
               "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
-              "link": "product-detail.html??category=primary-packages&type=continuousBandSealingMachines&id=BNTPAFR-880HN-2"
+              "link": "product-detail.html??category=primary-packages&type=continuousBandSealingMachines&id=BNTPA-FR-880HN-2"
             }
           ]
         }

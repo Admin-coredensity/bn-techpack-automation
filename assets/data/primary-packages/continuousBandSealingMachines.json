@@ -1,10 +1,10 @@
 {
   "continuousBandSealingMachines": {
-    "BNTPAFR-880H": {
-      "BNTPAFR-880H": {
+    "BNTPA-FR-880H": {
+      "BNTPA-FR-880H": {
         "heading": "Continuous Band Sealing Machine",
         "name": "Continuous Band Sealing Machine",
-        "model": "BNTPAFR-880H",
+        "model": "BNTPA-FR-880H",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/continuous-band-sealing.jpg",
@@ -15,11 +15,11 @@
         "capacity": "10gm-5kg"
       }
     },
-    "BNTPAFR-880V": {
-      "BNTPAFR-880V": {
+    "BNTPA-FR-880V": {
+      "BNTPA-FR-880V": {
         "heading": "continuous Band Sealing Machine",
         "name": "continuous Band Sealing Machine",
-        "model": "BNTPAFR-880V",
+        "model": "BNTPA-FR-880V",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/continuous-band-sealing.jpg",
@@ -30,11 +30,11 @@
         "capacity": "10gm-5kg"
       }
     },
-    "BNTPAFR-880HN-1": {
-      "BNTPAFR-880HN-1": {
+    "BNTPA-FR-880HN-1": {
+      "BNTPA-FR-880HN-1": {
         "heading": "continuous Band Sealing Machine",
         "name": "continuous Band Sealing Machine",
-        "model": "BNTPAFR-880HN-1",
+        "model": "BNTPA-FR-880HN-1",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/continuous-band-sealing.jpg",
@@ -45,11 +45,11 @@
         "capacity": "10gm-5kg"
       }
     },
-    "BNTPAFR-880HN-2": {
-      "BNTPAFR-880HN-2": {
+    "BNTPA-FR-880HN-2": {
+      "BNTPA-FR-880HN-2": {
         "heading": "continuous Band Sealing Machine",
         "name": "continuous Band Sealing Machine",
-        "model": "BNTPAFR-880HN-2",
+        "model": "BNTPA-FR-880HN-2",
         "power": "850W 230 V AC 50Hz",
         "image": "assets/img/products/primary-packages/continuous-band-sealing-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/continuous-band-sealing.jpg",
