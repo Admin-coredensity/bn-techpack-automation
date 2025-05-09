@@ -53,7 +53,7 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Speed", variantData.speed, "product-model-speed")}
             ${generateRow("Capping Diameter", variantData.cappingDimeter, "product-model-capping-dimeter")}
             ${generateRow("Operating", variantData.operating, "product-model-operating")}
-            ${generateRow("Print no of line", variantData.printNoOfLine, "product-model-print-no-of-line")}
+            ${generateRow("Number of Print line", variantData.printNoOfLine, "product-model-print-no-of-line")}
             ${generateRow("Label Roll Diameter", variantData.labelRollDiameter, "product-model-label-roll-diameter")}
             ${generateRow("Label Accuracy", variantData.labelAccuracy, "product-model-label-accuracy")}
             ${generateRow("Accuracy", variantData.accuracy, "product-model-accuracy")}
