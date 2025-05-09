@@ -1,783 +1,783 @@
 {
   "liquidFillingMachines": {
-    "BNTPA-10-100ML-GM-1HP/2HP": {
+    "BNTPA-LF-10-100ML-GM-1HP/2HP": {
       "1HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 1HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-10-100ML-GM-1HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-single-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 2HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-10-100ML-GM-2HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 to 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Double head"
       }
     },
-    "BNTPA-50-500-ML-GM-1HP/2HP": {
+    "BNTPA-LF-50-500ML-GM-1HP/2HP": {
       "1HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 1HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-50-500ML-GM-1HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-single-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 2HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-50-500ML-GM-2HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Double head"
       }
     },
-    "BNTPA-100-1000-ML-GM-1HP/2HP": {
+    "BNTPA-LF-100-1000ML-GM-1HP/2HP": {
       "1HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 1HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-100-1000ML-GM-1HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-single-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 2HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-100-1000ML-GM-2HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Double head"
       }
     },
-    "BNTPA-500-5000-ML-GM-1HP/2HP": {
+    "BNTPA-LF-500-5000ML-GM-1HP/2HP": {
       "1HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 1HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-500-5000ML-GM-1HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-single-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Single head"
       },
       "2HP": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 2HP",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-LF-500-5000ML-GM-2HP",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-honey-double-head.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-machine-pneumatics-semi-auto.jpg",
         "power": "20W-50W 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-20 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML-GM",
+        "fillingAccuracy": "±1-2% ML-GM",
         "numberOfHeads": "Double head"
       }
     },
-    "BE4000-MLT-1HE": {
-      "BE4000-MLT-1HE": {
+    "BNTPA-4000-MLT-1HE": {
+      "BNTPA-4000-MLT-1HE": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to edible oil level",
-        "model": "BE4000-MLT-1HE",
+        "category": "use for viscosity from water to edible oil level",
+        "model": "BNTPA-4000-MLT-1HE",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-edible-oil-single-head.png",
         "power": "100W-230 V Ac Hz50",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML",
+        "fillingAccuracy": "±1-2% ML",
         "numberOfHeads": "Single head"
       }
     },
-    "BE4000-MLT-2HE": {
-      "BE4000-MLT-2HE": {
+    "BNTPA-4000-MLT-2HE": {
+      "BNTPA-4000-MLT-2HE": {
         "heading": "Liquid filling machine",
         "name": "Semi auto liquid filling machine pneumatic operated",
-        "category": "use for viscosity for water to edible oil level",
-        "model": "BE4000-MLT-2HE",
+        "category": "use for viscosity from water to edible oil level",
+        "model": "BNTPA-4000-MLT-2HE",
         "image": "assets/img/products/primary-packages/semi-auto-liquid-filling-machine-water-to-edible-oil-double-head.png",
         "power": "200w-230 V Ac Hz50",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "5-10 bottles/min",
-        "fillingAccuracy": "≤±1-2% ML",
+        "fillingAccuracy": "±1-2% ML",
         "numberOfHeads": "Double head"
       }
     },
-    "BNTPA-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
+    "BNTPA-FLF-10-100ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-2HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-15 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-4HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "25-30 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-6HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-8HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-10HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-12HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "70-80 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       }
     },
-    "BNTPA-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
+    "BNTPA-FLF-50-500ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-2HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-15 BPM",
-        "fillingAccuracy": "≤±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-3% ML-GM",
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-4HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "25-30 BPM",
-        "fillingAccuracy": "≤±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-3% ML-GM",
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-6HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-3% ML-GM",
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-8HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-3% ML-GM",
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-10HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-3% ML-GM",
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-12HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "70-80 BPM",
-        "fillingAccuracy": "≤±1-3% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-3% ML-GM",
+        "hopperVolume": ""
       }
     },
-    "BNTPA-100-1000-ML-GM-H-4H-6H-8H-10H-12H-pneumatics-operated": {
+    "BNTPA-FLF-100-1000ML-GM-H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-2HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-15 BPM",
-        "fillingAccuracy": "≤±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-4% ML-GM",
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-4HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "25-30 BPM",
-        "fillingAccuracy": "≤±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-4% ML-GM",
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-6HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-4% ML-GM",
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-8HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-4% ML-GM",
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-10HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-4% ML-GM",
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000-ML-GM-12HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "70-80 BPM",
-        "fillingAccuracy": "≤±1-4% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-4% ML-GM",
+        "hopperVolume": ""
       }
     },
-    "BNTPA-500-5000-ML-GM 2H-4H-6H-8H-10H-12H-pneumatics-operated": {
+    "BNTPA-FLF-500-5000ML-GM 2H-4H-6H-8H-10H-12H-pneumatics-operated": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-2HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "10-15 BPM",
-        "fillingAccuracy": "≤±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-6% ML-GM",
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-4HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "25-30 BPM",
-        "fillingAccuracy": "≤±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-6% ML-GM",
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-6HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-6% ML-GM",
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-8HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-6% ML-GM",
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-10HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-6% ML-GM",
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic pneumatics operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-12HP",
         "image": "assets/img/products/primary-packages/fully-automatic-liquid-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-pneumatics-fully-auto.jpg",
         "power": "1.2 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "70-80 BPM",
-        "fillingAccuracy": "≤±1-6% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-6% ML-GM",
+        "hopperVolume": ""
       }
     },
-    "BNTPA-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
+    "BNTPA-FLF-10-100ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100 ML-GM-2H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "2.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "20-25 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-4H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-6H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100 ML-GM-8H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-10H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "75-80 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 10-100 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-10-100ML-GM-12H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "85-90 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": "100-150 LTR-KG"
       }
     },
-    "BNTPA-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
+    "BNTPA-FLF-50-500ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-2H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "2.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "20-25 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-4H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-6H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-8H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-10H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "75-80 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 50-500 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-50-500ML-GM-12H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "85-90 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       }
     },
-    "BNTPA-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
+    "BNTPA-FLF-100-1000ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-2H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "2.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "20-25 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-4H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-6H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-8H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-10H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "75-80 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 100-1000 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-100-1000ML-GM-12H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "85-90 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       }
     },
-    "BNTPA-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
+    "BNTPA-FLF-500-5000ML-GM-2H-4H-6H-8H-10H-12H-servo-based": {
       "2H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 2H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-2H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "2.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "20-25 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "4H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 4H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-4H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "35-40 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "6H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling Machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 6H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-6H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "3.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "45-50 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "8H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling Machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 8H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-8H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "55-60 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "10H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling Machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 10H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-10H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "4.5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "75-80 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       },
       "12H": {
         "heading": "Liquid filling machine",
         "name": "Fully automatic servo base operated liquid filling Machine",
-        "category": "use for viscosity for water to honey level",
-        "model": "BNTPA: 500-5000 ML-GM 12H",
+        "category": "use for viscosity from water to honey level",
+        "model": "BNTPA-FLF-500-5000ML-GM-12H-SERVO",
         "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-liquid-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/liquid-filling-servo-base-fully-auto.jpg",
         "power": "5 KW 230 AC 50Hz",
         "airPressure": "4 TO 6 Bar",
         "fillingSpeed": "85-90 BPM",
-        "fillingAccuracy": "≤±1-2% ML-GM",
-        "hopperVolume": "100-150 ltr/kg"
+        "fillingAccuracy": "±1-2% ML-GM",
+        "hopperVolume": ""
       }
     }
   }
