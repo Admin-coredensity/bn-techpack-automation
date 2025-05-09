@@ -4,31 +4,31 @@
       "title": "Fully auto pouch packaging machine",
       "categories": [
         {
-          "subtitle": "use for viscosity for powders to granules dry products",
+          "subtitle": "use for viscosity from powders to granules dry products",
           "models": [
             {
-              "id": "BNTPAPFF-1to100gm",
-              "name": "BNTPAFPF-1 to 100gm",
+              "id": "BNTPA-PFF-1to100gm",
+              "name": "BNTPA-FPF-1 to 100gm",
               "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPAPFF-1to100gm"
+              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPA-PFF-1to100gm"
             },
             {
-              "id": "BNTPAFPF-2to200gm",
-              "name": "BNTPAFPF-2 to 200gm",
+              "id": "BNTPA-FPF-2to200gm",
+              "name": "BNTPA-FPF-2 to 200gm",
               "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPAFPF-2to200gm"
+              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPA-FPF-2to200gm"
             },
             {
-              "id": "BNTPAPFF-10to1000gm",
-              "name": "BNTPAFPF-10 to 1000gm",
+              "id": "BNTPA-PFF-10to1000gm",
+              "name": "BNTPA-FPF-10 to 1000gm",
               "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPAPFF-10to1000gm"
+              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPA-PFF-10to1000gm"
             },
             {
-              "id": "BNTPAPFF-10to3000gm",
-              "name": "BNTPAFPF-10 to 3000gm",
+              "id": "BNTPA-PFF-10to3000gm",
+              "name": "BNTPA-FPF-10 to 3000gm",
               "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPAPFF-10to3000gm"
+              "link": "product-detail.html?category=primary-packages&type=pouchPackingPouchSealingMachines&id=BNTPA-PFF-10to3000gm"
             }
           ]
         }

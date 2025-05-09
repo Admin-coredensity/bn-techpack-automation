@@ -67,7 +67,7 @@ function renderVariant(variantKey, variantData) {
             ${generateRow("Cap Sealing Diameter", variantData.capSealingDiameter, "product-model-cap-sealing-diameter")}
             ${generateRow("Weighing Range", variantData.weighingRange, "product-model-weighing-range")}
             ${generateRow("Hopper Capacity", variantData.hopperCapacity, "product-model-hopper-capacity")}
-            ${generateRow("Pouch Selling Types", variantData.pouchSellingTypes, "product-model-pouch-selling-types")}
+            ${generateRow("Pouch Sealing Types", variantData.pouchSealingTypes, "product-model-pouch-sealing-types")}
             ${generateRow("Pouch Size", variantData.pouchSize, "product-model-pouch-size")}
             ${generateRow("film Roll Width", variantData.filmRollWidth, "product-model-film-roll-width")}
             ${generateRow("Number of Heads", variantData.numberOfHeads, "product-model-no-head")}

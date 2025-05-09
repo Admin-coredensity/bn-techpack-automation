@@ -1,70 +1,190 @@
 {
   "pouchPackingPouchSealingMachines": {
-    "BNTPAPFF-1to100gm": {
-      "BNTPAPFF-1to100gm": {
+    "BNTPA-PFF-1to100gm": {
+      "BNTPA-PFF-1to100gm-1H": {
         "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
-        "category": "use for viscosity for powders to granules dry products",
-        "model": "BNTPAPFF-1 to 100gm",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-1to100gm-1H",
         "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
         "power": "1kW 230 V AC 50Hz",
         "weighingRange": "1-100Gm",
         "accuracy": "within 2g",
-        "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "numberOfHeads": "1H/2H/4",
-        "speed": "10-15/15-25/30-40 par minuet of pouch",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "1H",
+        "speed": "10-15 pouch per minute",
+        "hopperCapacity": "1 to 2 kg"
+      },
+      "BNTPA-PFF-1to100gm-2H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-1to100gm-2H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "1kW 230 V AC 50Hz",
+        "weighingRange": "1-100Gm",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "2H",
+        "speed": "15-25 pouch per minute",
+        "hopperCapacity": "1 to 2 kg"
+      },
+      "BNTPA-PFF-1to100gm-4H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-1to100gm-4H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "1kW 230 V AC 50Hz",
+        "weighingRange": "1-100Gm",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "4H",
+        "speed": "30-40 pouch per minute",
         "hopperCapacity": "1 to 2 kg"
       }
     },
-    "BNTPAFPF-2to200gm": {
-      "BNTPAFPF-2to200gm": {
+    "BNTPA-FPF-2to200gm": {
+      "BNTPA-FPF-2to200gm-1H": {
         "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
-        "category": "use for viscosity for powders to granules dry products",
-        "model": "BNTPAPFF-2 to 200gm",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-2to200gm-1H",
         "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
         "power": "1.2W 230 V AC 50Hz",
         "weighingRange": "2-200",
         "accuracy": "within 2g",
-        "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "numberOfHeads": "1H/2H/4",
-        "speed": "10-15/15-25/30-40 par minuet of pouch",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "1H",
+        "speed": "10-15 pouch per minute",
+        "hopperCapacity": "1 to 2 kg"
+      },
+      "BNTPA-FPF-2to200gm-2H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-2to200gm-2H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "1.2W 230 V AC 50Hz",
+        "weighingRange": "2-200",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "2H",
+        "speed": "15-25 pouch per minute",
+        "hopperCapacity": "1 to 2 kg"
+      },
+      "BNTPA-FPF-2to200gm-4H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-2to200gm-4H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "1.2W 230 V AC 50Hz",
+        "weighingRange": "2-200",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "4H",
+        "speed": "30-40 pouch per minute",
         "hopperCapacity": "1 to 2 kg"
       }
     },
-    "BNTPAPFF-10to1000gm": {
-      "BNTPAPFF-10to1000gm": {
+    "BNTPA-PFF-10to1000gm": {
+      "BNTPA-PFF-10to1000gm-1H": {
         "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
-        "category": "use for viscosity for powders to granules dry products",
-        "model": "BNTPAPFF-10 to 1000gm",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-10to1000gm-1H",
         "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
         "power": "1.5W 230 V AC 50Hz",
         "weighingRange": "10-1000Gm",
         "accuracy": "within 2g",
-        "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "numberOfHeads": "1H/2H/4",
-        "speed": "10-15/15-25/30-40 par minuet of pouch",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "1H",
+        "speed": "10-15 pouch per minute",
+        "hopperCapacity": "1 to 5 kg"
+      },
+      "BNTPA-PFF-10to1000gm-2H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-10to1000gm-2H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "1.5W 230 V AC 50Hz",
+        "weighingRange": "10-1000Gm",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "2H",
+        "speed": "15-25 pouch per minute",
+        "hopperCapacity": "1 to 5 kg"
+      },
+      "BNTPA-PFF-10to1000gm-4H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-10to1000gm-4H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "1.5W 230 V AC 50Hz",
+        "weighingRange": "10-1000Gm",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "4H",
+        "speed": "30-40 pouch per minute",
         "hopperCapacity": "1 to 5 kg"
       }
     },
-    "BNTPAPFF-10to3000gm": {
-      "BNTPAPFF-10to3000gm": {
+    "BNTPA-PFF-10to3000gm": {
+      "BNTPA-PFF-10to3000gm-1H": {
         "heading": "Pouch packaging machine",
         "name": "Fully auto pouch packaging machine",
-        "category": "use for viscosity for powders to granules dry products",
-        "model": "BNTPAPFF-10 to 3000gm",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-10to3000gm-1H",
         "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
         "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
         "power": "2kW 230 V AC 50Hz",
         "weighingRange": "50-5000Gm",
         "accuracy": "within 2g",
-        "pouchSellingTypes": "Center sell /side sell/4 side sell",
-        "numberOfHeads": "1H/2H/4",
-        "speed": "10-15/15-25/30-40 par minuet of pouch",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "1H",
+        "speed": "10-15 pouch per minute",
+        "hopperCapacity": "1 to 6 kg"
+      },
+      "BNTPA-PFF-10to3000gm-2H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-10to3000gm-2H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "2kW 230 V AC 50Hz",
+        "weighingRange": "50-5000Gm",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "2H",
+        "speed": "15-25 pouch per minute",
+        "hopperCapacity": "1 to 6 kg"
+      },
+      "BNTPA-PFF-10to3000gm-4H": {
+        "heading": "Pouch packaging machine",
+        "name": "Fully auto pouch packaging machine",
+        "category": "use for viscosity from powders to granules dry products",
+        "model": "BNTPA-PFF-10to3000gm-4H",
+        "image": "assets/img/products/primary-packages/pouch-packing-machine.jpg",
+        "demoImage": "assets/img/products/primary-packages/demo/pouch-packing.jpg",
+        "power": "2kW 230 V AC 50Hz",
+        "weighingRange": "50-5000Gm",
+        "accuracy": "within 2g",
+        "pouchSealingTypes": "Center seal /side seal/4 side seal",
+        "numberOfHeads": "4H",
+        "speed": "30-40 pouch per minute",
         "hopperCapacity": "1 to 6 kg"
       }
     }
