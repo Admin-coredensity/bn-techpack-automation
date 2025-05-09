@@ -4,55 +4,55 @@
       "title": "Semi auto paste filling machine pneumatic operated",
       "categories": [
         {
-          "subtitle": "use for viscosity for water to paste level",
+          "subtitle": "use for viscosity from water to paste level",
           "models": [
             {
-              "id": "BNTPAPF-10-100-GM-ML-1H/ML2H",
-              "name": "BNTPAPF: 10-100 GM-ML 1H/ML2H",
+              "id": "BNTPA-PF-10-100GM-ML-1H/2H",
+              "name": "BNTPA-PF-10-100GM-ML-1H/2H",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-double-head.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAPF-10-100-GM-ML-1H/ML2H"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-10-100GM-ML-1H/2H"
             },
             {
-              "id": "BNTPAPF-50-500-GM-ML-1H/ML2H",
-              "name": "BNTPAPF: 50-500 GM-ML 1H/ML2H",
+              "id": "BNTPA-PF-50-500GM-ML-1H/2H",
+              "name": "BNTPA-PF-50-500GM-ML-1H/2H",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-double-head.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAPF-50-500-GM-ML-1H/ML2H"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-50-500GM-ML-1H/2H"
             },
             {
-              "id": "BNTPAPF-100-1000-GM-ML-1H/ML2H",
-              "name": "BNTPAPF: 100-1000 GM-ML 1H/ML2H",
+              "id": "BNTPA-PF-100-1000GM-ML-1H/2H",
+              "name": "BNTPA-PF-100-1000GM-ML-1H/2H",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-double-head.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAPF-100-1000-GM-ML-1H/ML2H"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-100-1000GM-ML-1H/2H"
             },
             {
-              "id": "BNTPAPF-500-5000-GM-ML-1H/2H",
-              "name": "BNTPAPF: 500-5000 GM-ML 1H/2H",
+              "id": "BNTPA-PF-500-5000GM-ML-1H/2H",
+              "name": "BNTPA-PF-500-5000GM-ML-1H/2H",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-double-head.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAPF-500-5000-GM-ML-1H/2H"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-500-5000GM-ML-1H/2H"
             },
             {
-              "id": "BNTPA-50M-ML-GM-1HP",
-              "name": "BNTPA: 50M ML-GM 1HP",
+              "id": "BNTPA-PF-50M-ML-GM-1HP",
+              "name": "BNTPA-PF-50M-ML-GM-1HP",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-manual.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-50M-ML-GM-1HP"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-50M-ML-GM-1HP"
             },
             {
-              "id": "BNTPA-100M-ML-GM-1HP",
-              "name": "BNTPA: 100M ML-GM 1HP",
+              "id": "BNTPA-PF-100M-ML-GM-1HP",
+              "name": "BNTPA-PF-100M-ML-GM-1HP",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-manual.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-100M-ML-GM-1HP"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-100M-ML-GM-1HP"
             },
             {
-              "id": "BNTPA-50P-ML-GM-1HP",
-              "name": "BNTPA: 50P ML-GM 1HP",
+              "id": "BNTPA-PF-50P-ML-GM-1HP",
+              "name": "BNTPA-PF-50P-ML-GM-1HP",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-pneumatic.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-50P-ML-GM-1HP"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-50P-ML-GM-1HP"
             },
             {
-              "id": "BNTPA-100P-ML-GM-1HP",
-              "name": "BNTPA: 100P ML-GM 1HP",
+              "id": "BNTPA-PF-100P-ML-GM-1HP",
+              "name": "BNTPA-PF-100P-ML-GM-1HP",
               "image": "assets/img/products/primary-packages/semi-auto-paste-filling-machine-pneumatic.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-100P-ML-GM-1HP"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-PF-100P-ML-GM-1HP"
             }
           ]
         }
@@ -62,31 +62,31 @@
       "title": "Fully automatic pneumatics operated paste filling Machine",
       "categories": [
         {
-          "subtitle": "use for viscosity for water to paste level",
+          "subtitle": "use for viscosity from water to paste level",
           "models": [
             {
-              "id": "BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-10-100ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPA-FPF-10-100ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAFPF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-10-100ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
             },
             {
-              "id": "BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 50-500 ML-GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-50-500ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPA-FPF-50-500ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAFPF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-50-500ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
             },
             {
-              "id": "BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 100-1000 ML-GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-100-1000ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPA-FPF-100-1000 ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAFPF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-100-1000ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
             },
             {
-              "id": "BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
-              "name": "BNTPAFPF: 500-5000-ML-GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated",
+              "name": "BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-auto-paste-filling-machine.jpg",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPAFPF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H-pneumatics-operated"
             }
           ]
         }
@@ -96,31 +96,31 @@
       "title": "Fully automatic servo base operated paste filling Machine",
       "categories": [
         {
-          "subtitle": "use for viscosity for water to paste level",
+          "subtitle": "use for viscosity from water to paste level",
           "models": [
             {
-              "id": "BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 10-100 ML-GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-10-100ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPA-FPF-10-100ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-paste-filing-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPALF-10-100-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-10-100ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
             },
             {
-              "id": "BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 50-500 ML -GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-50-500ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPA-FPF-50-500ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-paste-filing-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPALF-50-500-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-50-500ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
             },
             {
-              "id": "BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 100-1000 ML -GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-100-1000ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPA-FPF-100-1000ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-paste-filing-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPALF-100-1000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-100-1000ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
             },
             {
-              "id": "BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
-              "name": "BNTPALF: 500-5000 ML -GM 2H-4H-6H-8H-10H-12H",
+              "id": "BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated",
+              "name": "BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H",
               "image": "assets/img/products/primary-packages/fully-automatic-servo-base-operated-paste-filing-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPALF-500-5000-ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
+              "link": "product-detail.html?category=primary-packages&type=pasteFillingMachines&id=BNTPA-FPF-500-5000ML-GM-2H-4H-6H-8H-10H-12H-servo-base-operated"
             }
           ]
         }
