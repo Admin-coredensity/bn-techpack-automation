@@ -4,31 +4,31 @@
       "title": "Semi auto powder filling",
       "categories": [
         {
-          "subtitle": "use for viscosity for powders to granules dry products",
+          "subtitle": "use for viscosity from powders to granules dry products",
           "models": [
             {
-              "id": "BNTPASPF-1to100gm",
-              "name": "BNTPASPF-1 to 100gm",
+              "id": "BNTPA-SPF-1to100gm",
+              "name": "BNTPA-SPF-1 to 100gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPASPF-1to100gm"
+              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-1to100gm"
             },
             {
-              "id": "BNTPASPF-2to200gm",
-              "name": "BNTPASPF-2 to 200gm",
+              "id": "BNTPA-SPF-2to200gm",
+              "name": "BNTPA-SPF-2 to 200gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPASPF-2to200gm"
+              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-2to200gm"
             },
             {
-              "id": "BNTPASPF-10to1000gm",
-              "name": "BNTPASPF-10 to 1000gm",
+              "id": "BNTPA-SPF-10to1000gm",
+              "name": "BNTPA-SPF-10 to 1000gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
-              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPASPF-10to1000gm"
+              "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-10to1000gm"
             },
             {
-              "id": "BNTPASPF-10to3000gm",
-              "name": "BNTPASPF-10 to 3000gm",
+              "id": "BNTPA-SPF-10to3000gm",
+              "name": "BNTPA-SPF-10 to 3000gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
-              "link": "product-detail.html??category=primary-packages&type=powderFillingMachines&id=BNTPASPF-10to3000gm"
+              "link": "product-detail.html??category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-10to3000gm"
             }
           ]
         }

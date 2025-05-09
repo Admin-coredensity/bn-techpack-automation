@@ -1,61 +1,61 @@
 {
   "powderFillingMachines": {
-    "BNTPASPF-1to100gm": {
-      "BNTPASPF-1 to 100gm": {
+    "BNTPA-SPF-1to100gm": {
+      "BNTPA-SPF-1 to 100gm": {
         "heading": "Powder filling machine",
         "name": "Semi auto powder filling machine",
-        "model": "BNTPASPF-1 to 100gm",
+        "model": "BNTPA-SPF-1 to 100gm",
         "image": "assets/img/products/primary-packages/powder-filling-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/powder-filling-semi-auto.jpg",
-        "category": "Use for Viscosity for Powders to granules Dry products",
+        "category": "Use for Viscosity from Powders to granules Dry products",
         "power": "200W 230 V AC 50Hz ",
-        "weighingRange": "1-100Gm",
-        "accuracy": "Within 1-+2GM",
+        "weighingRange": "1-100 GM",
+        "accuracy": "Within 1-2 GM",
         "speed": "10-15 times/min",
         "hopperCapacity": "1 to 2 kg"
       }
     },
-    "BNTPASPF-2to200gm": {
-      "BNTPASPF-2 to 200gm": {
+    "BNTPA-SPF-2to200gm": {
+      "BNTPA-SPF-2 to 200gm": {
         "heading": "Powder filling machine",
         "name": "Semi auto powder filling machine",
-        "model": "BNTPASPF-2 to 200gm",
+        "model": "BNTPA-SPF-2 to 200gm",
         "image": "assets/img/products/primary-packages/powder-filling-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/powder-filling-semi-auto.jpg",
-        "category": "Use for Viscosity for Powders  to granules Dry products",
+        "category": "Use for Viscosity from Powders  to granules Dry products",
         "power": " 200W 230 V AC 50Hz  ",
-        "weighingRange": "2-200gm",
-        "accuracy": "Within 1-+2GM",
+        "weighingRange": "2-200 GM",
+        "accuracy": "Within 1-2 GM",
         "speed": "10-15 times/min",
         "hopperCapacity": "1 to 2 kg"
       }
     },
-    "BNTPASPF-10to1000gm": {
-      "BNTPASPF-10 to 1000gm": {
+    "BNTPA-SPF-10to1000gm": {
+      "BNTPA-SPF-10 to 1000gm": {
         "heading": "Powder filling machine",
         "name": "Semi auto powder filling machine",
-        "model": "BNTPASPF-10 to 1000gm",
+        "model": "BNTPA-SPF-10 to 1000gm",
         "image": "assets/img/products/primary-packages/powder-filling-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/powder-filling-semi-auto.jpg",
-        "category": "Use for Viscosity for Powders to granules Dry products",
+        "category": "Use for Viscosity from Powders to granules Dry products",
         "power": "80W 230 V AC 50Hz",
-        "weighingRange": "10-1000Gm",
-        "accuracy": "Within 1-+2GM",
+        "weighingRange": "10-1000 GM",
+        "accuracy": "Within 1-2 GM",
         "speed": "10-15 times/min",
         "hopperCapacity": "1 to 5 kg "
       }
     },
-    "BNTPASPF-10to3000gm": {
-      "BNTPASPF-10 to 3000gm": {
+    "BNTPA-SPF-10to3000gm": {
+      "BNTPA-SPF-10 to 3000gm": {
         "heading": "Powder filling machine",
         "name": "Semi auto powder filling machine",
-        "model": "BNTPASPF-10 to 3000gm",
+        "model": "BNTPA-SPF-10 to 3000gm",
         "image": "assets/img/products/primary-packages/powder-filling-machine.png",
         "demoImage": "assets/img/products/primary-packages/demo/powder-filling-semi-auto.jpg",
-        "category": "Use for Viscosity for Powders to granules Dry products",
+        "category": "Use for Viscosity from Powders to granules Dry products",
         "power": "80W 230 V AC 50Hz",
-        "weighingRange": "50-5000Gm",
-        "accuracy": "Within 1-+2GM",
+        "weighingRange": "50-5000 GM",
+        "accuracy": "Within 1-2 GM",
         "speed": "10-15 times/min",
         "hopperCapacity": "1 to 5 kg"
       }
