@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="image changed">
+    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="paste filling and weighing and bagging machine changes done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/product-detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/product-detail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/dropdownData.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/dropdownData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/powder-filling-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/powder-filling-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/powderFillingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/powderFillingMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/box-pallet-stretch-wrapping-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/box-pallet-stretch-wrapping-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/boxPalletStretchWrappingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/boxPalletStretchWrappingMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/carton-strapping-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/carton-strapping-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/cartonStrappingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/cartonStrappingMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/horizontal-flow-wrap-servo-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontal-flow-wrap-servo-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/horizontalflowWrapServoMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontalflowWrapServoMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/industrial-conveyor-system/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/industrial-conveyor-system/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/industrialConveyorSystem.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/industrialConveyorSystem.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/l-bar-sealer-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/l-bar-sealer-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/lBarSealerMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/lBarSealerMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/side-sealer-with-shrink-tunnel/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/side-sealer-with-shrink-tunnel/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/sideSealerWithShrinkTunnelMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/sideSealerWithShrinkTunnelMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/bagging-and-teaching-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/bagging-and-teaching-machine/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/baggingAndWeighingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/baggingAndWeighingMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-liquid-line-automation/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-liquid-line-automation/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-paste-line-automation/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-paste-line-automation/models.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingLiquidLineAutomationMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingLiquidLineAutomationMachines.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingPasteLineAutomationMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingPasteLineAutomationMachines.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +46,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nidhisoni927/bn-techpack-automation.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Admin-coredensity/bn-techpack-automation.git&quot;,
     &quot;accountId&quot;: &quot;d1ef98d8-f060-4398-97b2-b299ff95121c&quot;
   }
 }</component>
@@ -80,7 +100,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
       </set>
     </attachedChunks>
   </component>
@@ -104,6 +124,8 @@
       <workItem from="1745126824863" duration="1177000" />
       <workItem from="1745208021683" duration="4598000" />
       <workItem from="1745397045051" duration="189000" />
+      <workItem from="1746784514887" duration="12819000" />
+      <workItem from="1746854366076" duration="4217000" />
     </task>
     <task id="LOCAL-00001" summary="placeholder image added for default case">
       <option name="closed" value="true" />
@@ -217,17 +239,133 @@
       <option name="project" value="LOCAL" />
       <updated>1745077440434</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="instagram link added">
+      <option name="closed" value="true" />
+      <created>1746784540997</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746784540997</updated>
+    </task>
+    <task id="LOCAL-00016" summary="carton erector &amp; cartoning machine changes done">
+      <option name="closed" value="true" />
+      <created>1746785100737</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746785100737</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Carton Box Taping Machine changes done">
+      <option name="closed" value="true" />
+      <created>1746785577296</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1746785577296</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Continuous Band Sealing machine changes done">
+      <option name="closed" value="true" />
+      <created>1746785796936</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1746785796936</updated>
+    </task>
+    <task id="LOCAL-00019" summary="vacuum packing machine changes done">
+      <option name="closed" value="true" />
+      <created>1746786436706</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746786436706</updated>
+    </task>
+    <task id="LOCAL-00020" summary="labeling Machine changes done">
+      <option name="closed" value="true" />
+      <created>1746786757411</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1746786757411</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Capping Machine changes done">
+      <option name="closed" value="true" />
+      <created>1746786833193</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1746786833193</updated>
+    </task>
+    <task id="LOCAL-00022" summary="coding Machine changes done">
+      <option name="closed" value="true" />
+      <created>1746786939613</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1746786939613</updated>
+    </task>
+    <task id="LOCAL-00023" summary="induction Sealing Machine changes done">
+      <option name="closed" value="true" />
+      <created>1746787012841</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1746787012841</updated>
+    </task>
+    <task id="LOCAL-00024" summary="cup Glass Sealing Machine changes done">
+      <option name="closed" value="true" />
+      <created>1746787181631</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1746787181631</updated>
+    </task>
+    <task id="LOCAL-00025" summary=" powder filling machine changes done">
+      <option name="closed" value="true" />
+      <created>1746787464980</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1746787464980</updated>
+    </task>
+    <task id="LOCAL-00026" summary="pouch packaging changes done">
+      <option name="closed" value="true" />
+      <created>1746788209480</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1746788209480</updated>
+    </task>
+    <task id="LOCAL-00027" summary="liquid filling machine changes done">
+      <option name="closed" value="true" />
+      <created>1746790861349</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1746790861349</updated>
+    </task>
+    <task id="LOCAL-00028" summary="PASTE filling machine changes done">
+      <option name="closed" value="true" />
+      <created>1746800500239</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1746800500239</updated>
+    </task>
+    <task id="LOCAL-00029" summary="paste filling and weighing and bagging machine changes done">
+      <option name="closed" value="true" />
+      <created>1746803488755</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1746803488755</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="placeholder image added for default case" />
-    <MESSAGE value="css changes" />
-    <MESSAGE value="image extension changed PNG to png" />
-    <MESSAGE value="text changes" />
     <MESSAGE value="navbar changes" />
     <MESSAGE value="phpmailer installation done" />
     <MESSAGE value="send enquiry modal added" />
@@ -238,6 +376,21 @@
     <MESSAGE value="new product name and images added to dropdown" />
     <MESSAGE value="new product details added" />
     <MESSAGE value="image changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="image changed" />
+    <MESSAGE value="instagram link added" />
+    <MESSAGE value="carton erector &amp; cartoning machine changes done" />
+    <MESSAGE value="Carton Box Taping Machine changes done" />
+    <MESSAGE value="Continuous Band Sealing machine changes done" />
+    <MESSAGE value="vacuum packing machine changes done" />
+    <MESSAGE value="labeling Machine changes done" />
+    <MESSAGE value="Capping Machine changes done" />
+    <MESSAGE value="coding Machine changes done" />
+    <MESSAGE value="induction Sealing Machine changes done" />
+    <MESSAGE value="cup Glass Sealing Machine changes done" />
+    <MESSAGE value=" powder filling machine changes done" />
+    <MESSAGE value="pouch packaging changes done" />
+    <MESSAGE value="liquid filling machine changes done" />
+    <MESSAGE value="PASTE filling machine changes done" />
+    <MESSAGE value="paste filling and weighing and bagging machine changes done" />
+    <option name="LAST_COMMIT_MESSAGE" value="paste filling and weighing and bagging machine changes done" />
   </component>
 </project>

@@ -47,34 +47,34 @@
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPAFL-5545RL/BNTPA-4525-B/R",
-              "name": "BNTPAFL-5545RL+BNTPA-4525-B/R",
+              "id": "BNTPA-FL-5545RL/BNTPA-4525-B/R",
+              "name": "BNTPA-FL-5545RL+BNTPA-4525-B/R",
               "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
-              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPAFL-5545RL/BNTPA-4525-B/R"
+              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPA-FL-5545RL/BNTPA-4525-B/R"
             },
             {
-              "id": "BNTPAFL-5545PL/BNTPA-4525-B/R",
-              "name": "BNTPAFL-5545PL+BNTPA-4525-B/R",
+              "id": "BNTPA-FL-5545PL/BNTPA-4525-B/R",
+              "name": "BNTPA-FL-5545PL+BNTPA-4525-B/R",
               "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
-              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPAFL-5545PL+/NTPA-4525-B/R"
+              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPA-FL-5545PL/BNTPA-4525-B/R"
             },
             {
-              "id": "BNTPAFL-5545PLK/BNTPA-4525-B/R",
-              "name": "BNTPAFL-5545PLK+BNTPA-4525-B/R",
+              "id": "BNTPA-FL-5545PLK/BNTPA-4525-B/R",
+              "name": "BNTPA-FL-5545PLK+BNTPA-4525-B/R",
               "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
-              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPAFL-5545PLK/BNTPA-4525-B/R"
+              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPA-FL-5545PLK/BNTPA-4525-B/R"
             },
             {
-              "id": "BNTPAFL-5545/BNTPA-4525-B/R",
-              "name": "BNTPAFL-5545+BNTPA-4525-B/R",
+              "id": "BNTPA-FL-5545/BNTPA-4525-B/R",
+              "name": "BNTPA-FL-5545+BNTPA-4525-B/R",
               "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
-              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPAFL-5545/BNTPA-4525-B/R"
+              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPA-FL-5545/BNTPA-4525-B/R"
             },
-             {
-              "id": "BNTPAFL-6560TBD/BNTPA-5535-R/B",
-              "name": "BNTPAFL-6560TBD+BNTPA-5535-R/B",
+            {
+              "id": "BNTPA-FL-6560TBD/BNTPA-5535-R/B",
+              "name": "BNTPA-FL-6560TBD+BNTPA-5535-R/B",
               "image": "assets/img/products/secondary-packages/fully-auto-l-bar-sealer.png",
-              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPAFL-6560TBD/BNTPA-5535-R/B"
+              "link": "product-detail.html?category=secondary-packages&type=lBarSealerMachines&id=BNTPA-FL-6560TBD/BNTPA-5535-R/B"
             }
           ]
         }

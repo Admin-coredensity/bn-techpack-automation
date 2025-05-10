@@ -7,16 +7,16 @@
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPAP-1500D2000H/1600D2500H",
-              "name": "BNTPAP-1500D2000H/1600D2500H",
+              "id": "BNTPA-P-1500D2000H/1600D2500H",
+              "name": "BNTPA-P-1500D2000H/1600D2500H",
               "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=boxPalletStretchWrappingMachines&id=BNTPAP-1500D2000H/1600D2500H"
+              "link": "product-detail.html?category=secondary-packages&type=boxPalletStretchWrappingMachines&id=BNTPA-P-1500D2000H/1600D2500H"
             },
             {
-              "id": "BNTPAB-6060DH-PT",
-              "name": "BNTPAB-6060DH-PT",
+              "id": "BNTPA-B-6060DH-PT",
+              "name": "BNTPA-B-6060DH-PT",
               "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=boxPalletStretchWrappingMachines&id=BNTPAB-6060DH-PT"
+              "link": "product-detail.html?category=secondary-packages&type=boxPalletStretchWrappingMachines&id=BNTPA-B-6060DH-PT"
             },
             {
               "id": "BNTPA-6060DH-ORB-AUTO/MANUAL",

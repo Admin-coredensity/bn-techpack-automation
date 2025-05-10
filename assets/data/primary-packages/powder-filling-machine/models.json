@@ -8,25 +8,25 @@
           "models": [
             {
               "id": "BNTPA-SPF-1to100gm",
-              "name": "BNTPA-SPF-1 to 100gm",
+              "name": "BNTPA-SPF-1to100gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
               "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-1to100gm"
             },
             {
               "id": "BNTPA-SPF-2to200gm",
-              "name": "BNTPA-SPF-2 to 200gm",
+              "name": "BNTPA-SPF-2to200gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
               "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-2to200gm"
             },
             {
               "id": "BNTPA-SPF-10to1000gm",
-              "name": "BNTPA-SPF-10 to 1000gm",
+              "name": "BNTPA-SPF-10to1000gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
               "link": "product-detail.html?category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-10to1000gm"
             },
             {
               "id": "BNTPA-SPF-10to3000gm",
-              "name": "BNTPA-SPF-10 to 3000gm",
+              "name": "BNTPA-SPF-10to3000gm",
               "image": "assets/img/products/primary-packages/powder-filling-machine.png",
               "link": "product-detail.html??category=primary-packages&type=powderFillingMachines&id=BNTPA-SPF-10to3000gm"
             }

@@ -7,16 +7,16 @@
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPASLF-5580TBC/BNTPA-8560-B/R-eco",
-              "name": "BNTPASLF-5580TBC + BNTPA-8560-B/R Eco",
+              "id": "BNTPA-SLF-5580TBC/BNTPA-8560-B/R-eco",
+              "name": "BNTPA-SLF-5580TBC+BNTPA-8560-B/R-Eco",
               "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
-              "link": "product-detail.html?category=secondary-packages&type=sideSealerWithShrinkTunnelMachines&id=BNTPASLF-5580TBC/BNTPA-8560-B/R-eco"
+              "link": "product-detail.html?category=secondary-packages&type=sideSealerWithShrinkTunnelMachines&id=BNTPA-SLF-5580TBC/BNTPA-8560-B/R-eco"
             },
             {
-              "id": "BNTPASLF-5580TBC/BNTPA-8560-B/R-heavy-duty",
-              "name": "BNTPASLF-5580TBC + BNTPA-8560-B/R Heavy-duty",
+              "id": "BNTPA-SLF-5580TBC/BNTPA-8560-B/R-heavy-duty",
+              "name": "BNTPA-SLF-5580TBC+BNTPA-8560-B/R-Heavy-duty",
               "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
-              "link": "product-detail.html?category=secondary-packages&type=sideSealerWithShrinkTunnelMachines&id=BNTPASLF-5580TBC/BNTPA-8560-B/R-heavy-duty"
+              "link": "product-detail.html?category=secondary-packages&type=sideSealerWithShrinkTunnelMachines&id=BNTPA-SLF-5580TBC/BNTPA-8560-B/R-heavy-duty"
             }
           ]
         }

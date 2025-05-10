@@ -1,10 +1,10 @@
 {
   "cartonStrappingMachines": {
-    "BNTPA-xt8020": {
-      "BNTPA-xt8020": {
+    "BNTPA-XT8020": {
+      "BNTPA-XT8020": {
         "heading": "Carton Strapping Machine",
         "name": "Carton Strapping Machine",
-        "model": "BNTPA-xt8020",
+        "model": "BNTPA-XT8020",
         "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
         "productionSpeed": "UP-25 cpm",
         "boxSizelxwxh": "UP - NO LIMIT",
@@ -14,11 +14,11 @@
         "operating": "Semi auto"
       }
     },
-    "BNTPA-316h": {
-      "BNTPA-316h": {
+    "BNTPA-316H": {
+      "BNTPA-316H": {
         "heading": "Carton Strapping Machine",
         "name": "Carton Strapping Machine",
-        "model": "BNTPA-316h",
+        "model": "BNTPA-316H",
         "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
         "productionSpeed": "UP-25 cpm",
         "boxSizelxwxh": "UP - NO LIMIT",

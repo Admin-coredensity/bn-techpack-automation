@@ -7,16 +7,16 @@
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPA-FBM-1050k1-2H",
-              "name": "BNTPA-FBM-1050k1-2H",
+              "id": "BNTPA-FBM-1050K1-2H",
+              "name": "BNTPA-FBM-1050K1-2H",
               "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
-              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPA-FBM-1050k1-2H"
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPA-FBM-1050K1-2H"
             },
             {
-              "id": "BNTPA-SBM-1050k1-2H",
-              "name": "BNTPA-SBM-1050k1-2H",
+              "id": "BNTPA-SBM-1050K1-2H",
+              "name": "BNTPA-SBM-1050K1-2H",
               "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
-              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPA-SBM-1050k1-2H"
+              "link": "product-detail.html?category=spm-and-industrial-automation&type=baggingAndWeighingMachines&id=BNTPA-SBM-1050K1-2H"
             },
             {
               "id": "BNTPA-W-4-14H",

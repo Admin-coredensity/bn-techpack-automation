@@ -3,9 +3,11 @@
 }
 
 .product-model-detail-section .section-header {
+    position: sticky;
     background-color: var(--accent-color);
     padding: 30px;
     margin-bottom: 40px;
+    top: 110px;
 }
 
 .product-model-detail-section .section-header .header-icon-text-container {

@@ -1,22 +1,22 @@
 {
   "sections": [
     {
-      "title": "Horizontalflow Wrap Servo machine",
+      "title": "Horizontal flow Wrap Servo machine",
       "categories": [
         {
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPAHFW-350RW",
-              "name": "BNTPAHFW-350RW",
+              "id": "BNTPA-HFW-350RW",
+              "name": "BNTPA-HFW-350RW",
               "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=horizontalflowWrapServoMachines&id=BNTPAHFW-350RW"
+              "link": "product-detail.html?category=secondary-packages&type=horizontalflowWrapServoMachines&id=BNTPA-HFW-350RW"
             },
             {
-              "id": "BNTPAHFW-450rw",
-              "name": "BNTPAHFW-450rw",
+              "id": "BNTPA-HFW-450RW",
+              "name": "BNTPA-HFW-450RW",
               "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=horizontalflowWrapServoMachines&id=BNTPAHFW-450rw"
+              "link": "product-detail.html?category=secondary-packages&type=horizontalflowWrapServoMachines&id=BNTPA-HFW-450RW"
             }
           ]
         }

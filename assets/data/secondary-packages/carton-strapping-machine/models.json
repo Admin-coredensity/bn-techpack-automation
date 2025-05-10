@@ -7,16 +7,16 @@
           "subtitle": "",
           "models": [
             {
-              "id": "BNTPA-xt8020",
-              "name": "BNTPA-xt8020",
+              "id": "BNTPA-XT8020",
+              "name": "BNTPA-XT8020",
               "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-xt8020"
+              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-XT8020"
             },
             {
-              "id": "BNTPA-316h",
-              "name": "BNTPA-316h",
+              "id": "BNTPA-316H",
+              "name": "BNTPA-316H",
               "image": "assets/img/products/secondary-packages/carton-strapping-machine.png",
-              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-316h"
+              "link": "product-detail.html?category=secondary-packages&type=cartonStrappingMachines&id=BNTPA-316H"
             },
             {
               "id": "BNTPA-PW8060C",

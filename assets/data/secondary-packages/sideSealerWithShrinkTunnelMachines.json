@@ -1,10 +1,10 @@
 {
   "sideSealerWithShrinkTunnelMachines": {
-    "BNTPASLF-5580TBC/BNTPA-8560-B/R-eco": {
-      "BNTPASLF-5580TBC/BNTPA-8560-B/R-eco": {
+    "BNTPA-SLF-5580TBC/BNTPA-8560-B/R-eco": {
+      "BNTPA-SLF-5580TBC/BNTPA-8560-B/R-eco": {
         "heading": "side sealer with shrink tunnel",
         "name": "side sealer with shrink tunnel",
-        "model": "BNTPASLF-5580TBC + BNTPA-8560-B/R Eco",
+        "model": "BNTPA-SLF-5580TBC+BNTPA-8560-B/R-Eco",
         "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
         "productionSpeed": "20-25 cpm",
         "productSellingSizelxwxh": "80-500 mm x 20-400 mm x up-130 mm",
@@ -13,11 +13,11 @@
         "modelType": "eco"
       }
     },
-    "BNTPASLF-5580TBC/BNTPA-8560-B/R-heavy-duty": {
-      "BNTPASLF-5580TBC/BNTPA-8560-B/R-heavy-duty": {
+    "BNTPA-SLF-5580TBC/BNTPA-8560-B/R-heavy-duty": {
+      "BNTPA-SLF-5580TBC/BNTPA-8560-B/R-heavy-duty": {
         "heading": "side sealer with shrink tunnel",
         "name": "side sealer with shrink tunnel",
-        "model": "BNTPASLF-5580TBC + BNTPA-8560-B/R Heavy-duty",
+        "model": "BNTPA-SLF-5580TBC+BNTPA-8560-B/R-Heavy-duty",
         "image": "assets/img/products/secondary-packages/side-sealer-with-shrink-tunnel.png",
         "productionSpeed": "20-25 cpm",
         "productSellingSizelxwxh": "80-500 mm x 20-400 mm x up-130 mm",

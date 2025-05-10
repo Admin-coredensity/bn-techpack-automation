@@ -1,10 +1,10 @@
 {
   "baggingAndWeighingMachines": {
-    "BNTPA-FBM-1050k1-2H": {
-      "BNTPA-FBM-1050k1-2H": {
+    "BNTPA-FBM-1050K1-2H": {
+      "BNTPA-FBM-1050K1-2H": {
         "heading": "spm & industrial automation",
         "name": "semi-automatic bagging & weighing machine",
-        "model": "BNTPA-FBM-1050k1-2h",
+        "model": "BNTPA-FBM-1050K1-2H",
         "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
         "speed": "1-6 bag",
         "operating": "fully auto",
@@ -15,11 +15,11 @@
         "weighingAccuracy": "3 to 15 gm - +"
       }
     },
-    "BNTPA-SBM-1050k1-2H": {
-      "BNTPA-SBM-1050k1-2H": {
+    "BNTPA-SBM-1050K1-2H": {
+      "BNTPA-SBM-1050K1-2H": {
         "heading": "spm & industrial automation",
         "name": "semi-automatic bagging & weighing machine",
-        "model": "BNTPA-SBM-1050k1-2H",
+        "model": "BNTPA-SBM-1050K1-2H",
         "image": "assets/img/products/spm-and-industrial-automation/bagging-and-weighing-machine.png",
         "speed": "1-6 bag",
         "operating": "semi auto",

@@ -1,10 +1,10 @@
 {
   "boxPalletStretchWrappingMachines": {
-    "BNTPAP-1500D2000H/1600D2500H": {
-      "BNTPAP-1500D2000H/1600D2500H": {
+    "BNTPA-P-1500D2000H/1600D2500H": {
+      "BNTPA-P-1500D2000H/1600D2500H": {
         "heading": "box/pallet stretch wrapping machine",
         "name": "box/pallet stretch wrapping machine",
-        "model": "BNTPAP-1500D2000H/1600D2500H",
+        "model": "BNTPA-P-1500D2000H/1600D2500H",
         "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
         "productionSpeed": "up-6 cpm",
         "boxSizelxwxh": "500-1600mm,500-mm,300-25000 mm",
@@ -15,11 +15,11 @@
         "operating": "fully auto"
       }
     },
-    "BNTPAB-6060DH-PT": {
-      "BNTPAB-6060DH-PT": {
+    "BNTPA-B-6060DH-PT": {
+      "BNTPA-B-6060DH-PT": {
         "heading": "box/pallet stretch wrapping machine",
         "name": "box/pallet stretch wrapping machine",
-        "model": "BNTPAB-6060DH-PT",
+        "model": "BNTPA-B-6060DH-PT",
         "image": "assets/img/products/secondary-packages/box-pallet-stretch-wrapping-machine.png",
         "productionSpeed": "UP-10 cpm",
         "boxSizelxwxh": "200-600 mm, 160 -600 mm, 150-600 mm",

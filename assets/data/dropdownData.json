@@ -1,6 +1,18 @@
 {
   "tabs": [
     {
+      "id": "nav-conveyor-systems",
+      "label": "Conveyor Systems",
+      "icon": "bi bi-square-fill",
+      "items": [
+        {
+          "image": "",
+          "text": "Coming Soon",
+          "link": ""
+        }
+      ]
+    },
+    {
       "id": "nav-spm-and-industrial-automation",
       "label": "SPM & Industrial Automation",
       "icon": "bi bi-square-fill",

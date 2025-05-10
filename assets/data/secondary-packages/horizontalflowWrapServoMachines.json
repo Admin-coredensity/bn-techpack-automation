@@ -1,10 +1,10 @@
 {
   "horizontalflowWrapServoMachines": {
-    "BNTPAHFW-350RW": {
-      "BNTPAHFW-350RW": {
-        "heading": "horizontalflow Wrap Servo Machine",
-        "name": "horizontalflow Wrap Servo Machine",
-        "model": "BNTPAHFW-350RW",
+    "BNTPA-HFW-350RW": {
+      "BNTPA-HFW-350RW": {
+        "heading": "horizontal flow Wrap Servo Machine",
+        "name": "horizontal flow Wrap Servo Machine",
+        "model": "BNTPA-HFW-350RW",
         "power": "4 kW 230 V AC 50Hz",
         "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
         "demoImage": "assets/img/products/secondary-packages/demo/horizontal-flow-wrap.jpg",
@@ -15,11 +15,11 @@
         "driveTypes": "Belt/Push hook"
       }
     },
-    "BNTPAHFW-450rw": {
-      "BNTPAHFW-450rw": {
-        "heading": "horizontalflow Wrap Servo Machine",
-        "name": "horizontalflow Wrap Servo Machine",
-        "model": "BNTPAHFW-450rw",
+    "BNTPA-HFW-450RW": {
+      "BNTPA-HFW-450RW": {
+        "heading": "horizontal flow Wrap Servo Machine",
+        "name": "horizontal flow Wrap Servo Machine",
+        "model": "BNTPA-HFW-450RW",
         "power": "4.5 kW 230 V AC 50Hz",
         "image": "assets/img/products/secondary-packages/horizontalflow-wrap-machine.png",
         "demoImage": "assets/img/products/secondary-packages/demo/horizontal-flow-wrap.jpg",
