@@ -36,11 +36,11 @@ function renderVariant(variantKey, variantData) {
       <div class="product-model-section-2">
         <h4 id="product-model-name">${variantData.name || "-"}</h4>
         <div id="product-model-category-container">
-          ${generateParagraph("Model No.", variantData.model, "product-model-number")}
+          ${generateParagraph("Model Number", variantData.model, "product-model-number")}
           ${generateParagraph("Category", variantData.category, "product-model-category")}
         </div>
         <div>
-          <h4 class="technical-specification-text">Technical Specification</h4>
+          <h4 class="technical-specification-text">Technical Specifications</h4>
           <table class="table table-striped table-bordered">
         <tbody>
             ${generateRow("Power", variantData.power, "product-model-power")}
@@ -158,7 +158,7 @@ document.addEventListener("click", function (e) {
   if (e.target.classList.contains("btn-getEnquireNow")) {
     const parent = e.target.closest(".product-model-detail-container");
     const productName = parent.querySelector("#product-model-name")?.textContent.trim() || "";
-    const modelNumber = parent.querySelector("#product-model-number")?.textContent.trim().replace("Model No.:", "").trim() || "";
+    const modelNumber = parent.querySelector("#product-model-number")?.textContent.trim().replace("Model Number:", "").trim() || "";
 
     // Fill modal inputs
     document.getElementById("product_name_display").textContent = "Product Name: " + productName;

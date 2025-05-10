@@ -54,37 +54,37 @@
           "models": [
             {
               "id": "BNTPA-FA-T/F/C/L-100-1000ML/GM-25BPM-PF-SERVO-BASE",
-              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-25BPM-PF-SERVO-BASE",
+              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-25BPM-PF",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=BNTPA-FA-T/F/C/L-100-1000ML/GM-25BPM-PF-SERVO-BASE"
             },
             {
               "id": "BNTPA-FA-T/F/C/L-100-1000ML/GM-40-BPM-PF-SERVO-BASE",
-              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-40BPM-PF-SERVO-BASE",
+              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-40BPM-PF",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=BNTPA-FA-T/F/C/L-100-1000ML/GM-40-BPM-PF-SERVO-BASE"
             },
             {
               "id": "BNTPA-FA-T/F/C/L-100-1000ML/GM-50-BPM-PF-SERVO-BASE",
-              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-50BPM-PF-SERVO-BASE",
+              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-50BPM-PF",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=BNTPA-FA-T/F/C/L-100-1000ML/GM-50-BPM-PF-SERVO-BASE"
             },
             {
               "id": "BNTPA-FA-T/F/C/L-100-1000ML/GM-60-BPM-PF-SERVO-BASE",
-              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-60BPM-PF-SERVO-BASE",
+              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-60BPM-PF",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=BNTPA-FA-T/F/C/L-100-1000ML/GM-60-BPM-PF-SERVO-BASE"
             },
             {
               "id": "BNTPA-FA-T/F/C/L-100-1000ML/GM-80-BPM-PF-SERVO-BASE",
-              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-80BPM-PF-SERVO-BASE",
+              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-80BPM-PF",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=BNTPA-FA-T/F/C/L-100-1000ML/GM-80-BPM-PF-SERVO-BASE"
             },
             {
               "id": "BNTPA-FA-T/F/C/L-100-1000ML/GM-90BPM-PF-SERVO-BASE",
-              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-90BPM-PF-SERVO-BASE",
+              "name": "BNTPA-FA-T+F+C+L-100-1000ML/GM-90BPM-PF",
               "image": "assets/img/products/spm-and-industrial-automation/primary-packaging-paste-line-automation.png",
               "link": "product-detail.html?category=spm-and-industrial-automation&type=primaryPackagingPasteLineAutomationMachines&id=BNTPA-FA-T/F/C/L-100-1000ML/GM-90BPM-PF-SERVO-BASE"
             }
