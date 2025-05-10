@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="paste filling and weighing and bagging machine changes done">
+    <list default="true" id="8690449c-65f0-4b95-aa0e-30deead75cdf" name="Changes" comment="css changes done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/product-detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/product-detail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/dropdownData.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/dropdownData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/powder-filling-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/powder-filling-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/primary-packages/powderFillingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/primary-packages/powderFillingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/box-pallet-stretch-wrapping-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/box-pallet-stretch-wrapping-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/boxPalletStretchWrappingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/boxPalletStretchWrappingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/carton-strapping-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/carton-strapping-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/cartonStrappingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/cartonStrappingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/horizontal-flow-wrap-servo-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontal-flow-wrap-servo-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/horizontalflowWrapServoMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/horizontalflowWrapServoMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/industrial-conveyor-system/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/industrial-conveyor-system/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/industrialConveyorSystem.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/industrialConveyorSystem.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/l-bar-sealer-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/l-bar-sealer-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/lBarSealerMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/lBarSealerMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/side-sealer-with-shrink-tunnel/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/side-sealer-with-shrink-tunnel/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/secondary-packages/sideSealerWithShrinkTunnelMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/secondary-packages/sideSealerWithShrinkTunnelMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/bagging-and-teaching-machine/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/bagging-and-teaching-machine/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/baggingAndWeighingMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/baggingAndWeighingMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-liquid-line-automation/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-liquid-line-automation/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-paste-line-automation/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primary-packaging-paste-line-automation/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingLiquidLineAutomationMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingLiquidLineAutomationMachines.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingPasteLineAutomationMachines.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/spm-and-industrial-automation/primaryPackagingPasteLineAutomationMachines.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +103,7 @@
       <workItem from="1745208021683" duration="4598000" />
       <workItem from="1745397045051" duration="189000" />
       <workItem from="1746784514887" duration="12819000" />
-      <workItem from="1746854366076" duration="4217000" />
+      <workItem from="1746854366076" duration="6256000" />
     </task>
     <task id="LOCAL-00001" summary="placeholder image added for default case">
       <option name="closed" value="true" />
@@ -359,15 +337,29 @@
       <option name="project" value="LOCAL" />
       <updated>1746803488755</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="model number changes done">
+      <option name="closed" value="true" />
+      <created>1746859916301</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1746859916301</updated>
+    </task>
+    <task id="LOCAL-00031" summary="css changes done">
+      <option name="closed" value="true" />
+      <created>1746861543385</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1746861543385</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="navbar changes" />
-    <MESSAGE value="phpmailer installation done" />
     <MESSAGE value="send enquiry modal added" />
     <MESSAGE value="image folders refactored and image url changes done" />
     <MESSAGE value="image url changes done" />
@@ -391,6 +383,8 @@
     <MESSAGE value="liquid filling machine changes done" />
     <MESSAGE value="PASTE filling machine changes done" />
     <MESSAGE value="paste filling and weighing and bagging machine changes done" />
-    <option name="LAST_COMMIT_MESSAGE" value="paste filling and weighing and bagging machine changes done" />
+    <MESSAGE value="model number changes done" />
+    <MESSAGE value="css changes done" />
+    <option name="LAST_COMMIT_MESSAGE" value="css changes done" />
   </component>
 </project>

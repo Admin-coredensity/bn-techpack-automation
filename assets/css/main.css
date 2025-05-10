@@ -494,7 +494,8 @@ section,
 .carousel-section {
     margin-top: 120px;
     background-color: #ffdbb0;
-    background-image: repeating-linear-gradient(-45deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 1px, transparent 3px, transparent 6px);
+    background-image: repeating-linear-gradient(-45deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 1px, transparent 1px, transparent 3px);
+    /*background-image: repeating-linear-gradient(-45deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 1px, transparent 3px, transparent 6px);*/
     background-size: 4px 4px;
     padding: 30px 0;
 }
